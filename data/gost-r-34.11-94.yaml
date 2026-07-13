@@ -1,0 +1,46 @@
+---
+id: GOST-R-34.11-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: eng
+  content: Information technology — Cryptographic data security — Hashing function
+    (legacy)
+  type: main
+docidentifier:
+- content: GOST R 34.11-94
+  type: GOST
+  primary: true
+docnumber: '34.11'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- eng
+script:
+- Latn
+status:
+  stage:
+    content: in-force
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:34.11:94
+  webpage: https://www.gost.ru/portal/gost/home/standarts/catalognational

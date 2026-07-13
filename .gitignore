@@ -1,0 +1,11 @@
+Gemfile.lock
+.vscode/
+.claude/
+.bundle/
+.omo/
+tmp/
+sources/
+pdfs/
+TODO.impl/
+spec/examples.txt
+*.gem

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+# encoding: UTF-8
+$LOAD_PATH.unshift File.expand_path("../lib", __dir__)
+require "gost_fetcher"
+GostFetcher::Scrape.start(ARGV)

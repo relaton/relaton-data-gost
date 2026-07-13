@@ -1,0 +1,9 @@
+= relaton-data-gost
+
+Bibliographic dataset of GOST (Russian federal standards) in Relaton
+YAML format.
+
+Scope: GOST interstate standards (`Гостстандарт`) and GOST R Russian
+national standards.
+
+See CLAUDE.md for architecture.

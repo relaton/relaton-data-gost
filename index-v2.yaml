@@ -1,0 +1,36 @@
+---
+- :id:
+    _type: pubid:gost:standard
+    number: '14946'
+    year: '82'
+  :file: data/gost-14946-82.yaml
+- :id:
+    _type: pubid:gost:standard
+    scope: russian
+    number: '34.10'
+    year: '2001'
+  :file: data/gost-r-34.10-2001.yaml
+- :id:
+    _type: pubid:gost:standard
+    scope: russian
+    number: '34.10'
+    year: '2012'
+  :file: data/gost-r-34.10-2012.yaml
+- :id:
+    _type: pubid:gost:standard
+    scope: russian
+    number: '34.11'
+    year: '2012'
+  :file: data/gost-r-34.11-2012.yaml
+- :id:
+    _type: pubid:gost:standard
+    scope: russian
+    number: '34.11'
+    year: '94'
+  :file: data/gost-r-34.11-94.yaml
+- :id:
+    _type: pubid:gost:standard
+    scope: russian
+    number: '34.12'
+    year: '2015'
+  :file: data/gost-r-34.12-2015.yaml
