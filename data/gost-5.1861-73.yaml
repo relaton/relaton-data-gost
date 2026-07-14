@@ -1,0 +1,49 @@
+---
+id: GOST-5.1861-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пневмораспределители трехлинейные В76-21, БВ76-21, ИВ76-21, КВ76-21, МВ76-21,
+    ОВ76-21, ГВ76-21, ДВ76-21. Требования к качеству аттестованной продукции
+  type: main
+docidentifier:
+- content: GOST 5.1861-73
+  type: GOST
+  primary: true
+docnumber: '5.1861'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5.1861:73
+  webpage: https://new-shop.ksm.kz/catalog/document/19780/
+  ics_code: '23.100'
+  pages: '17'
+  designation_original: ГОСТ 5.1861-73

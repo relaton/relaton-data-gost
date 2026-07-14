@@ -1,0 +1,48 @@
+---
+id: GOST-R-17076-1-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа. Определение сопротивляемости истиранию. Часть 1. Метод Табера
+  type: main
+docidentifier:
+- content: GOST R 17076-1-2014
+  type: GOST
+  primary: true
+docnumber: 17076-1
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:17076-1:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61174/
+  ics_code: 59.140.30
+  pages: '9'
+  designation_original: ГОСТ Р ИСО 17076-1-2014

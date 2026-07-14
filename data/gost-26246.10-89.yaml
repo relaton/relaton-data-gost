@@ -1,0 +1,50 @@
+---
+id: GOST-26246.10-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материал электроизоляционный фольгированный тонкий общего назначения для
+    многослойных печатных плат на основе стеклоткани, пропитанной эпоксидным связующим.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 26246.10-89
+  type: GOST
+  primary: true
+docnumber: '26246.10'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26246.10:89
+  webpage: https://new-shop.ksm.kz/catalog/document/23610/
+  ics_code: 29.035.30
+  pages: '6'
+  designation_original: ГОСТ 26246.10-89

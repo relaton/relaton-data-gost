@@ -1,0 +1,49 @@
+---
+id: GOST-12228-1-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жиры и масла животные и растительные. Определение состава и общего содержания
+    стеролов. Метод газовой хроматографии Часть 1
+  type: main
+docidentifier:
+- content: GOST 12228-1-2025
+  type: GOST
+  primary: true
+docnumber: 12228-1
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12228-1:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76682/
+  ics_code: 67.200.10
+  pages: '27'
+  designation_original: ГОСТ ISO 12228-1-2025

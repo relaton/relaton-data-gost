@@ -1,0 +1,50 @@
+---
+id: GOST-R-50.05.08-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система оценки соответствия в области использования атомной энергии. Оценка
+    соответствия в форме контроля. Унифицированные методики. Визуальный и измерительный
+    контроль
+  type: main
+docidentifier:
+- content: GOST R 50.05.08-2018
+  type: GOST
+  primary: true
+docnumber: 50.05.08
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50.05.08:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/72069/
+  ics_code: '27.120'
+  pages: '45'
+  designation_original: ГОСТ Р 50.05.08-2018

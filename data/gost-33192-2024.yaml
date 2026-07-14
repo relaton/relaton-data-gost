@@ -1,0 +1,49 @@
+---
+id: GOST-33192-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтепродукты и другие жидкости. Метод определения температуры вспышки
+    на приборе Тага с закрытым тиглем
+  type: main
+docidentifier:
+- content: GOST 33192-2024
+  type: GOST
+  primary: true
+docnumber: '33192'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33192:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76024/
+  ics_code: 75.160.20
+  pages: '22'
+  designation_original: ГОСТ 33192-2024

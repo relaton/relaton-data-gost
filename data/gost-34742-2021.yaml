@@ -1,0 +1,50 @@
+---
+id: GOST-34742-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция пищевая рыбная. Метод определения полифторированных загрязнителей
+    с помощью высокоэффективной жидкостной хроматографии с масс-спектрометрическим
+    детектированием
+  type: main
+docidentifier:
+- content: GOST 34742-2021
+  type: GOST
+  primary: true
+docnumber: '34742'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34742:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75607/
+  ics_code: 67.120.30
+  pages: '17'
+  designation_original: ГОСТ 34742-2021

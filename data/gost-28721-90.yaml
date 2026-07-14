@@ -1,0 +1,49 @@
+---
+id: GOST-28721-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Печи индукционные тигельные средней частоты со статическим преобразователем
+    для плавки ферритовой стали. Показатели энергопотребления
+  type: main
+docidentifier:
+- content: GOST 28721-90
+  type: GOST
+  primary: true
+docnumber: '28721'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28721:90
+  webpage: https://new-shop.ksm.kz/catalog/document/22746/
+  ics_code: 25.180.10
+  pages: '4'
+  designation_original: ГОСТ 28721-90

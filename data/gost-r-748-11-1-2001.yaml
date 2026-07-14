@@ -1,0 +1,50 @@
+---
+id: GOST-R-748-11-1-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Приборы полупроводниковые. Интегральные схемы. Часть 11. Раздел 1. Внутренний
+    визуальный контроль полупроводниковых интегральных схем, за исключением гибридных
+    схем
+  type: main
+docidentifier:
+- content: GOST R 748-11-1-2001
+  type: GOST
+  primary: true
+docnumber: 748-11-1
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:748-11-1:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/24708/
+  ics_code: '31.200'
+  pages: '29'
+  designation_original: ГОСТ Р МЭК 748-11-1-2001

@@ -1,0 +1,48 @@
+---
+id: GOST-33124-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Брус многослойный клееный из шпона. Технические условия
+  type: main
+docidentifier:
+- content: GOST 33124-2021
+  type: GOST
+  primary: true
+docnumber: '33124'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33124:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75426/
+  ics_code: '79.060'
+  pages: '20'
+  designation_original: ГОСТ 33124-2021

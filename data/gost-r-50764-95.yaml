@@ -1,0 +1,48 @@
+---
+id: GOST-R-50764-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Услуги общественного питания. Общие требования
+  type: main
+docidentifier:
+- content: GOST R 50764-95
+  type: GOST
+  primary: true
+docnumber: '50764'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50764:95
+  webpage: https://new-shop.ksm.kz/catalog/document/16077/
+  ics_code: 03.080.30
+  pages: '11'
+  designation_original: ГОСТ Р 50764-95

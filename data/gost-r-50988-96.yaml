@@ -1,0 +1,49 @@
+---
+id: GOST-R-50988-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура факсимильная со средствами сокращения избыточности для передачи
+    и приема полутоновых растровых изображений. Основные параметры
+  type: main
+docidentifier:
+- content: GOST R 50988-96
+  type: GOST
+  primary: true
+docnumber: '50988'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50988:96
+  webpage: https://new-shop.ksm.kz/catalog/document/24956/
+  ics_code: 33.050.10
+  pages: '15'
+  designation_original: ГОСТ Р 50988-96

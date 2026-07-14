@@ -1,0 +1,49 @@
+---
+id: GOST-R-511-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Средства индивидуальной защиты рук.
+    Перчатки защитные от холода. Общие технические требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 511-2010
+  type: GOST
+  primary: true
+docnumber: '511'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:511:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/47332/
+  ics_code: 13.340.40
+  pages: '16'
+  designation_original: ГОСТ Р ЕН 511-2010

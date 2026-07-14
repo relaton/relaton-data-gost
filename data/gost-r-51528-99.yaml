@@ -1,0 +1,49 @@
+---
+id: GOST-R-51528-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы ингаляционного наркоза. Часть 2. Анестезиологические циркуляционные
+    дыхательные контуры
+  type: main
+docidentifier:
+- content: GOST R 51528-99
+  type: GOST
+  primary: true
+docnumber: '51528'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51528:99
+  webpage: https://new-shop.ksm.kz/catalog/document/16677/
+  ics_code: 11.040.10
+  pages: '20'
+  designation_original: ГОСТ Р 51528-99

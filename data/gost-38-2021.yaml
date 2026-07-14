@@ -1,0 +1,49 @@
+---
+id: GOST-38-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кольца резиновые уплотнительные для соединительных головок тормозных рукавов
+    и концевых кранов автотормозов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 38-2021
+  type: GOST
+  primary: true
+docnumber: '38'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:38:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/76512/
+  ics_code: 83.040.10
+  pages: '17'
+  designation_original: ГОСТ 38-2021

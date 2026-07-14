@@ -1,0 +1,50 @@
+---
+id: GOST-21758-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система технического обслуживания и ремонта автомобильной техники. Методы
+    определения показателей эксплуатационной технологичности и ремонтопригодности
+    при испытаниях
+  type: main
+docidentifier:
+- content: GOST 21758-81
+  type: GOST
+  primary: true
+docnumber: '21758'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21758:81
+  webpage: https://new-shop.ksm.kz/catalog/document/16015/
+  ics_code: 03.080.10
+  pages: '18'
+  designation_original: ГОСТ 21758-81

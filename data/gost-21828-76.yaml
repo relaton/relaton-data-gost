@@ -1,0 +1,49 @@
+---
+id: GOST-21828-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Втулки разрезные для инструмента с цилиндрическим хвостовиком и квадратом,
+    диаметром от 3,15 до 35,5 мм. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 21828-76
+  type: GOST
+  primary: true
+docnumber: '21828'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21828:76
+  webpage: https://new-shop.ksm.kz/catalog/document/21682/
+  ics_code: 25.060.20
+  pages: '9'
+  designation_original: ГОСТ 21828-76

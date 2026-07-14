@@ -1,0 +1,49 @@
+---
+id: GOST-24206-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Приборы и устройства пневматические для математических операций ГСП. Общие
+    технические условия
+  type: main
+docidentifier:
+- content: GOST 24206-80
+  type: GOST
+  primary: true
+docnumber: '24206'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24206:80
+  webpage: https://new-shop.ksm.kz/catalog/document/21776/
+  ics_code: 25.040.40
+  pages: '15'
+  designation_original: ГОСТ 24206-80

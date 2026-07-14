@@ -1,0 +1,49 @@
+---
+id: GOST-19797-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изоляторы керамические опорные на напряжение свыше 1000 В для работы в
+    помещении. Типы, основные параметры и размеры
+  type: main
+docidentifier:
+- content: GOST 19797-85
+  type: GOST
+  primary: true
+docnumber: '19797'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19797:85
+  webpage: https://new-shop.ksm.kz/catalog/document/23468/
+  ics_code: 29.080.10
+  pages: '10'
+  designation_original: ГОСТ 19797-85

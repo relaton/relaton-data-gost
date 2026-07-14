@@ -1,0 +1,49 @@
+---
+id: GOST-6743-1-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы смазочные, индустриальные масла и родственные продукты (класс
+    L). Классификация. Часть 1. Группа А (системы общих потерь).
+  type: main
+docidentifier:
+- content: GOST 6743-1-2013
+  type: GOST
+  primary: true
+docnumber: 6743-1
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6743-1:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/62465/
+  ics_code: '75.100'
+  pages: '9'
+  designation_original: ГОСТ ISO 6743-1-2013

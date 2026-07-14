@@ -1,0 +1,50 @@
+---
+id: GOST-R-18435-2-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы промышленной автоматизации и интеграция. Интеграция приложений
+    для диагностики, оценки возможностей и технического обслуживания. Часть 2. Описания
+    и определения элементов матрицы домена приложения
+  type: main
+docidentifier:
+- content: GOST R 18435-2-2012
+  type: GOST
+  primary: true
+docnumber: 18435-2
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:18435-2:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/57582/
+  ics_code: 25.040.01
+  pages: '36'
+  designation_original: ГОСТ Р ИСО 18435-2-2012

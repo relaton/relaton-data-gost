@@ -1,0 +1,49 @@
+---
+id: GOST-R-53055-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины сельскохозяйственные и лесохозяйственные с электроприводом. Общие
+    требования безопасности
+  type: main
+docidentifier:
+- content: GOST R 53055-2008
+  type: GOST
+  primary: true
+docnumber: '53055'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53055:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41288/
+  ics_code: '13.100'
+  pages: '15'
+  designation_original: ГОСТ Р 53055-2008

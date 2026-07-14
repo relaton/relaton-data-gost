@@ -1,0 +1,50 @@
+---
+id: GOST-R-10303-1295-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы автоматизации производства и их интеграция. Представление данных
+    об изделии и обмен этими данными. Часть 1295. Прикладной модуль. Представление
+    свойств по прикладному протоколу ПП239
+  type: main
+docidentifier:
+- content: GOST R 10303-1295-2012
+  type: GOST
+  primary: true
+docnumber: 10303-1295
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10303-1295:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/53884/
+  ics_code: 25.040.40
+  pages: '51'
+  designation_original: ГОСТ Р ИСО/ТС 10303-1295-2012

@@ -1,0 +1,50 @@
+---
+id: GOST-1570-2-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Требования безопасности к платформам подъемным. Часть 2. Подъемные платформы,
+    обслуживающие более двух фиксированных мест выгрузки здания, для подъема грузов
+    с вертикальной скоростью не больше 0,15 м/с на основе EN 1570-2:2016
+  type: main
+docidentifier:
+- content: GOST 1570-2-2023
+  type: GOST
+  primary: true
+docnumber: 1570-2
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1570-2:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/75384/
+  ics_code: 53.020.99
+  pages: '47'
+  designation_original: ГОСТ EN 1570-2-2023

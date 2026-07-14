@@ -1,0 +1,49 @@
+---
+id: GOST-30539-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пневмоприводы. Соединения быстроразъемные на номинальные давления 1,0;
+    1,6 и 2,5 МПа. Присоединительные размеры, технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 30539-97
+  type: GOST
+  primary: true
+docnumber: '30539'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30539:97
+  webpage: https://new-shop.ksm.kz/catalog/document/20333/
+  ics_code: '23.100'
+  pages: '15'
+  designation_original: ГОСТ 30539-97

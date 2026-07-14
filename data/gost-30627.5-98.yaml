@@ -1,0 +1,49 @@
+---
+id: GOST-30627.5-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты молочные для детского питания. Метод измерения массовой доли витамина
+    В1 (тиамина)
+  type: main
+docidentifier:
+- content: GOST 30627.5-98
+  type: GOST
+  primary: true
+docnumber: '30627.5'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30627.5:98
+  webpage: https://new-shop.ksm.kz/catalog/document/29209/
+  ics_code: 67.100.10
+  pages: '8'
+  designation_original: ГОСТ 30627.5-98

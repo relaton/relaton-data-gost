@@ -1,0 +1,49 @@
+---
+id: GOST-14151-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Муфты гидродинамические регулируемые одноопорные. Основные параметры и
+    размеры
+  type: main
+docidentifier:
+- content: GOST 14151-69
+  type: GOST
+  primary: true
+docnumber: '14151'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14151:69
+  webpage: https://new-shop.ksm.kz/catalog/document/19435/
+  ics_code: 21.120.20
+  pages: '7'
+  designation_original: ГОСТ 14151-69

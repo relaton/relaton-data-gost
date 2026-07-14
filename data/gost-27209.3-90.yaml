@@ -1,0 +1,49 @@
+---
+id: GOST-27209.3-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование электротермическое. Электропечи дуговые рудно-термические.
+    Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 27209.3-90
+  type: GOST
+  primary: true
+docnumber: '27209.3'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27209.3:90
+  webpage: https://new-shop.ksm.kz/catalog/document/22683/
+  ics_code: 25.180.10
+  pages: '8'
+  designation_original: ГОСТ 27209.3-90

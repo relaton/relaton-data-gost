@@ -1,0 +1,49 @@
+---
+id: GOST-30304-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ткани с резиновым или пластмассовым покрытием. Определение сопротивления
+    раздиру
+  type: main
+docidentifier:
+- content: GOST 30304-95
+  type: GOST
+  primary: true
+docnumber: '30304'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30304:95
+  webpage: https://new-shop.ksm.kz/catalog/document/27376/
+  ics_code: 59.080.40
+  pages: '11'
+  designation_original: ГОСТ 30304-95

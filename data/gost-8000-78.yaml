@@ -1,0 +1,48 @@
+---
+id: GOST-8000-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станки зуборезные для конических колес с круговыми зубьями. Основные размеры
+  type: main
+docidentifier:
+- content: GOST 8000-78
+  type: GOST
+  primary: true
+docnumber: '8000'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8000:78
+  webpage: https://new-shop.ksm.kz/catalog/document/22101/
+  ics_code: 25.080.99
+  pages: '4'
+  designation_original: ГОСТ 8000-78

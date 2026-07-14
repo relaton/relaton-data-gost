@@ -1,0 +1,48 @@
+---
+id: GOST-2642.8-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Огнеупоры и огнеупорное сырье. Методы определения оксида магния
+  type: main
+docidentifier:
+- content: GOST 2642.8-2017
+  type: GOST
+  primary: true
+docnumber: '2642.8'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2642.8:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/71987/
+  ics_code: '81.080'
+  pages: '16'
+  designation_original: ГОСТ 2642.8-2017

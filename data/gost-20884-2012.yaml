@@ -1,0 +1,49 @@
+---
+id: GOST-20884-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топлива автомобильные. Метод определения содержания серы рентгенофлуоресцентной
+    спектрометрией с дисперсией по длине волны
+  type: main
+docidentifier:
+- content: GOST 20884-2012
+  type: GOST
+  primary: true
+docnumber: '20884'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20884:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/55196/
+  ics_code: 75.160.30
+  pages: '12'
+  designation_original: ГОСТ ISO 20884-2012

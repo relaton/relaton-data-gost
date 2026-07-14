@@ -1,0 +1,49 @@
+---
+id: GOST-20103-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты модельные стальные для опок размерами в свету 1000х600 мм на формовочные
+    литейные машины без поворота полуформы с допрессовкой. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 20103-74
+  type: GOST
+  primary: true
+docnumber: '20103'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20103:74
+  webpage: https://new-shop.ksm.kz/catalog/document/22462/
+  ics_code: 25.120.30
+  pages: '5'
+  designation_original: ГОСТ 20103-74

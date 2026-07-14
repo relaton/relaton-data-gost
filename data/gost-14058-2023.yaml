@@ -1,0 +1,49 @@
+---
+id: GOST-14058-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Одежда специальная для защиты от
+    прохладной окружающей среды. Технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 14058-2023
+  type: GOST
+  primary: true
+docnumber: '14058'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14058:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/74583/
+  ics_code: 13.340.10
+  pages: '22'
+  designation_original: ГОСТ EN 14058-2023

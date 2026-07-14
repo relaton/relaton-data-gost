@@ -1,0 +1,49 @@
+---
+id: GOST-19438.12-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лампы электронные маломощные. Методы измерения тока анода и токов сеток,
+    имеющих положительный потенциал относительно катода
+  type: main
+docidentifier:
+- content: GOST 19438.12-75
+  type: GOST
+  primary: true
+docnumber: '19438.12'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19438.12:75
+  webpage: https://new-shop.ksm.kz/catalog/document/24277/
+  ics_code: '31.100'
+  pages: '10'
+  designation_original: ГОСТ 19438.12-75

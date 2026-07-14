@@ -1,0 +1,48 @@
+---
+id: GOST-1953-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливо твердое. Определение гранулометрического состава
+  type: main
+docidentifier:
+- content: GOST 1953-2014
+  type: GOST
+  primary: true
+docnumber: '1953'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1953:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60407/
+  ics_code: '73.040'
+  pages: '23'
+  designation_original: ГОСТ ISO 1953-2014

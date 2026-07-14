@@ -1,0 +1,51 @@
+---
+id: GOST-R-9542-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Передача данных и обмен информацией между системами.
+    Протокол обмена маршрутной информацией между оконечной системой и промежуточной
+    системой при его использовании в сочетании с протоколом, обеспечивающим услуг(см.
+    описание...)
+  type: main
+docidentifier:
+- content: GOST R 9542-93
+  type: GOST
+  primary: true
+docnumber: '9542'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9542:93
+  webpage: https://new-shop.ksm.kz/catalog/document/25243/
+  ics_code: 35.100.30
+  pages: '59'
+  designation_original: ГОСТ Р ИСО 9542-93

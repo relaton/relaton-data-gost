@@ -1,0 +1,49 @@
+---
+id: GOST-26147-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ободья колес для большегрузных автомобилей, строительно-дорожных и подъемно-транспортных
+    машин. Технические условия
+  type: main
+docidentifier:
+- content: GOST 26147-84
+  type: GOST
+  primary: true
+docnumber: '26147'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26147:84
+  webpage: https://new-shop.ksm.kz/catalog/document/25832/
+  ics_code: 43.040.50
+  pages: '12'
+  designation_original: ГОСТ 26147-84

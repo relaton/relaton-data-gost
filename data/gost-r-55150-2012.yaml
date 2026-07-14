@@ -1,0 +1,49 @@
+---
+id: GOST-R-55150-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Извещатели охранные комбинированные ультразвуковые с пассивными инфракрасными
+    для закрытых помещений. Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 55150-2012
+  type: GOST
+  primary: true
+docnumber: '55150'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55150:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/55515/
+  ics_code: '13.320'
+  pages: '20'
+  designation_original: ГОСТ Р 55150-2012

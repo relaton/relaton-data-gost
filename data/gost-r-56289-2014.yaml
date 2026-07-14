@@ -1,0 +1,49 @@
+---
+id: GOST-R-56289-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конструкции светопрозрачные легкосбрасываемые для зданий. Методы испытаний
+    на воздействие внутреннего аварийного взрыва
+  type: main
+docidentifier:
+- content: GOST R 56289-2014
+  type: GOST
+  primary: true
+docnumber: '56289'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56289:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60939/
+  ics_code: '19.020'
+  pages: '13'
+  designation_original: ГОСТ Р 56289-2014

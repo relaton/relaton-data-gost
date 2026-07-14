@@ -1,0 +1,49 @@
+---
+id: GOST-13928-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко и сливки заготовляемые. Правила приемки, методы отбора проб и подготовка
+    их к анализу
+  type: main
+docidentifier:
+- content: GOST 13928-84
+  type: GOST
+  primary: true
+docnumber: '13928'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13928:84
+  webpage: https://new-shop.ksm.kz/catalog/document/28764/
+  ics_code: 67.100.10
+  pages: '6'
+  designation_original: ГОСТ 13928-84

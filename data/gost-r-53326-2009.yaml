@@ -1,0 +1,49 @@
+---
+id: GOST-R-53326-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Техника пожарная. Установки пожаротушения роботизированные. Общие технические
+    требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 53326-2009
+  type: GOST
+  primary: true
+docnumber: '53326'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53326:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/41695/
+  ics_code: 13.220.01
+  pages: '22'
+  designation_original: ГОСТ Р 53326-2009

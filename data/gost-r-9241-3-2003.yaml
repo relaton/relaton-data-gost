@@ -1,0 +1,50 @@
+---
+id: GOST-R-9241-3-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Эргономические требования при выполнении офисных работ с использованием
+    видеодисплейных терминалов  (ВДТ). Часть 3. Требования к визуальному отображению
+    информации
+  type: main
+docidentifier:
+- content: GOST R 9241-3-2003
+  type: GOST
+  primary: true
+docnumber: 9241-3
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9241-3:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/17797/
+  ics_code: '13.180'
+  pages: '39'
+  designation_original: ГОСТ Р ИСО 9241-3-2003

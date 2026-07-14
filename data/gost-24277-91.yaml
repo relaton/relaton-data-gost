@@ -1,0 +1,49 @@
+---
+id: GOST-24277-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Установки паротурбинные стационарные для атомных электростанций. Общие
+    технические условия
+  type: main
+docidentifier:
+- content: GOST 24277-91
+  type: GOST
+  primary: true
+docnumber: '24277'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24277:91
+  webpage: https://new-shop.ksm.kz/catalog/document/22929/
+  ics_code: '27.040'
+  pages: '22'
+  designation_original: ГОСТ 24277-91

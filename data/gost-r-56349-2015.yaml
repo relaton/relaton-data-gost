@@ -1,0 +1,50 @@
+---
+id: GOST-R-56349-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы бурильные и другие элементы бурильных колонн в нефтяной и газовой
+    промышленности. Часть 2. Основные параметры и контроль резьбовых упорных соединений.
+    Общие технические требования
+  type: main
+docidentifier:
+- content: GOST R 56349-2015
+  type: GOST
+  primary: true
+docnumber: '56349'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56349:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/60991/
+  ics_code: 23.040.10
+  pages: '68'
+  designation_original: ГОСТ Р 56349-2015 (ИСО 10424-2:2007)

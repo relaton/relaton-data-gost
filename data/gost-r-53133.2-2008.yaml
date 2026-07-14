@@ -1,0 +1,51 @@
+---
+id: GOST-R-53133.2-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Технологии лабораторные клинические. Контроль качества клинических лабораторных
+    исследований. Часть 2. Правила проведения внутрилабораторного контроля качества
+    количественных методов клинических лабораторных исследований с использованием
+    контрольных материалов
+  type: main
+docidentifier:
+- content: GOST R 53133.2-2008
+  type: GOST
+  primary: true
+docnumber: '53133.2'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53133.2:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41334/
+  ics_code: '11.020'
+  pages: '23'
+  designation_original: ГОСТ Р 53133.2-2008

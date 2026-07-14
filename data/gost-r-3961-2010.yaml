@@ -1,0 +1,48 @@
+---
+id: GOST-R-3961-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жиры и масла животные и растительные. Определение йодного числа
+  type: main
+docidentifier:
+- content: GOST R 3961-2010
+  type: GOST
+  primary: true
+docnumber: '3961'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:3961:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/51984/
+  ics_code: 67.200.10
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 3961-2010

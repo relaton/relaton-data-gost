@@ -1,0 +1,49 @@
+---
+id: GOST-35061-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия из резинолатексных композиций. Определение агидола 40 в водных
+    вытяжках газохроматографическим методом
+  type: main
+docidentifier:
+- content: GOST 35061-2024
+  type: GOST
+  primary: true
+docnumber: '35061'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35061:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75591/
+  ics_code: 71.040.50
+  pages: '16'
+  designation_original: ГОСТ 35061-2024

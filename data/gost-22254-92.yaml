@@ -1,0 +1,49 @@
+---
+id: GOST-22254-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливо дизельное. Метод определения предельной температуры фильтруемости
+    на холодном фильтре
+  type: main
+docidentifier:
+- content: GOST 22254-92
+  type: GOST
+  primary: true
+docnumber: '22254'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22254:92
+  webpage: https://new-shop.ksm.kz/catalog/document/31631/
+  ics_code: 75.160.20
+  pages: '16'
+  designation_original: ГОСТ 22254-92

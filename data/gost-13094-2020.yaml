@@ -1,0 +1,49 @@
+---
+id: GOST-13094-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Цистерны для перевозки опасных грузов. Цистерны металлические с рабочим
+    давлением не более 0,5 бар. Требования к конструкции и изготовлению
+  type: main
+docidentifier:
+- content: GOST 13094-2020
+  type: GOST
+  primary: true
+docnumber: '13094'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13094:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/76560/
+  ics_code: '13.300'
+  pages: '73'
+  designation_original: ГОСТ EN 13094-2020

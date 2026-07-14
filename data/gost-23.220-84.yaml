@@ -1,0 +1,49 @@
+---
+id: GOST-23.220-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Обеспечение износостойкости изделий. Метод оценки истирающей способности
+    поверхностей восстановленных валов
+  type: main
+docidentifier:
+- content: GOST 23.220-84
+  type: GOST
+  primary: true
+docnumber: '23.220'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23.220:84
+  webpage: https://new-shop.ksm.kz/catalog/document/18949/
+  ics_code: '19.060'
+  pages: '6'
+  designation_original: ГОСТ 23.220-84

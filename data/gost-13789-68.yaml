@@ -1,0 +1,49 @@
+---
+id: GOST-13789-68
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Втулки переходные для концевых фрез с коническим хвостовиком. Конструкция
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 13789-68
+  type: GOST
+  primary: true
+docnumber: '13789'
+date:
+- type: published
+  from: '1968-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1968'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13789:68
+  webpage: https://new-shop.ksm.kz/catalog/document/20918/
+  ics_code: 25.060.20
+  pages: '4'
+  designation_original: ГОСТ 13789-68

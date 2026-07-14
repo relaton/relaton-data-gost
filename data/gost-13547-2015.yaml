@@ -1,0 +1,48 @@
+---
+id: GOST-13547-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Арматура трубопроводная. Затворы дисковые. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 13547-2015
+  type: GOST
+  primary: true
+docnumber: '13547'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13547:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64473/
+  ics_code: 23.060.99
+  pages: '24'
+  designation_original: ГОСТ 13547-2015

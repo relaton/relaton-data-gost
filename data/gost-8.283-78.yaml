@@ -1,0 +1,49 @@
+---
+id: GOST-8.283-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Дефектоскопы электромагнитные.
+    Методы и средства поверки
+  type: main
+docidentifier:
+- content: GOST 8.283-78
+  type: GOST
+  primary: true
+docnumber: '8.283'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.283:78
+  webpage: https://new-shop.ksm.kz/catalog/document/17976/
+  ics_code: '19.100'
+  pages: '10'
+  designation_original: ГОСТ 8.283-78

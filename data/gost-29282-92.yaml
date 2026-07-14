@@ -1,0 +1,48 @@
+---
+id: GOST-29282-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Узлы пишущие к ручкам автоматическим шариковым. Технические условия
+  type: main
+docidentifier:
+- content: GOST 29282-92
+  type: GOST
+  primary: true
+docnumber: '29282'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29282:92
+  webpage: https://new-shop.ksm.kz/catalog/document/35743/
+  ics_code: '97.180'
+  pages: '8'
+  designation_original: ГОСТ 29282-92

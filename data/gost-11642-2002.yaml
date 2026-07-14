@@ -1,0 +1,48 @@
+---
+id: GOST-11642-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа. Метод испытания на устойчивость окраски к воде
+  type: main
+docidentifier:
+- content: GOST 11642-2002
+  type: GOST
+  primary: true
+docnumber: '11642'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11642:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38756/
+  ics_code: 59.140.30
+  pages: '8'
+  designation_original: ГОСТ ИСО 11642-2002

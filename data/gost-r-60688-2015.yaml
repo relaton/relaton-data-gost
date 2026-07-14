@@ -1,0 +1,49 @@
+---
+id: GOST-R-60688-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Преобразователи электрические измерительные для преобразования электрических
+    параметров переменного и постоянного тока в аналоговые и цифровые сигналы
+  type: main
+docidentifier:
+- content: GOST R 60688-2015
+  type: GOST
+  primary: true
+docnumber: '60688'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60688:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/61410/
+  ics_code: 17.220.20
+  pages: '34'
+  designation_original: ГОСТ Р МЭК 60688-2015

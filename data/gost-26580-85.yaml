@@ -1,0 +1,48 @@
+---
+id: GOST-26580-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы синтетические для низа обуви. Правила приемки
+  type: main
+docidentifier:
+- content: GOST 26580-85
+  type: GOST
+  primary: true
+docnumber: '26580'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26580:85
+  webpage: https://new-shop.ksm.kz/catalog/document/27638/
+  ics_code: '83.080'
+  pages: '13'
+  designation_original: ГОСТ 26580-85

@@ -1,0 +1,49 @@
+---
+id: GOST-19734-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства вводно-распределительные для жилых и общественных зданий. Общие
+    технические условия
+  type: main
+docidentifier:
+- content: GOST 19734-80
+  type: GOST
+  primary: true
+docnumber: '19734'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19734:80
+  webpage: https://new-shop.ksm.kz/catalog/document/40705/
+  ics_code: 29.120.10
+  pages: '17'
+  designation_original: ГОСТ 19734-80

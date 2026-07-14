@@ -1,0 +1,49 @@
+---
+id: GOST-12.2.041-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Оборудование буровое. Требования
+    безопасности
+  type: main
+docidentifier:
+- content: GOST 12.2.041-79
+  type: GOST
+  primary: true
+docnumber: 12.2.041
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.2.041:79
+  webpage: https://new-shop.ksm.kz/catalog/document/48353/
+  ics_code: '13.100'
+  pages: '13'
+  designation_original: ГОСТ 12.2.041-79

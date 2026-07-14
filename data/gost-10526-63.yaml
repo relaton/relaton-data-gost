@@ -1,0 +1,49 @@
+---
+id: GOST-10526-63
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кондитерские изделия. Метод определения сухого обезжиреного остатка молока
+    в шоколадных изделиях с молоком
+  type: main
+docidentifier:
+- content: GOST 10526-63
+  type: GOST
+  primary: true
+docnumber: '10526'
+date:
+- type: published
+  from: '1963-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1963'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10526:63
+  webpage: https://new-shop.ksm.kz/catalog/document/28637/
+  ics_code: '67.190'
+  pages: '4'
+  designation_original: ГОСТ 10526-63

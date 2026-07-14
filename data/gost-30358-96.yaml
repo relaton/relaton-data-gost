@@ -1,0 +1,48 @@
+---
+id: GOST-30358-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ткани синтетические высокообъемные. Метод определения сопротивления сжатию
+  type: main
+docidentifier:
+- content: GOST 30358-96
+  type: GOST
+  primary: true
+docnumber: '30358'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30358:96
+  webpage: https://new-shop.ksm.kz/catalog/document/27378/
+  ics_code: 59.080.70
+  pages: '9'
+  designation_original: ГОСТ 30358-96

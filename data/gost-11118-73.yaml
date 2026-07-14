@@ -1,0 +1,49 @@
+---
+id: GOST-11118-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Панели из автоклавных ячеистых бетонов для наружных стен зданий. Технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 11118-73
+  type: GOST
+  primary: true
+docnumber: '11118'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11118:73
+  webpage: https://new-shop.ksm.kz/catalog/document/35146/
+  ics_code: 91.080.40
+  pages: '10'
+  designation_original: ГОСТ 11118-73

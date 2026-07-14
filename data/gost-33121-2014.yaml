@@ -1,0 +1,49 @@
+---
+id: GOST-33121-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конструкции деревянные клееные. Методы определения стойкости клеевых соединений
+    к температурно-влажностным воздействиям
+  type: main
+docidentifier:
+- content: GOST 33121-2014
+  type: GOST
+  primary: true
+docnumber: '33121'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33121:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/59678/
+  ics_code: '19.020'
+  pages: '26'
+  designation_original: ГОСТ 33121-2014

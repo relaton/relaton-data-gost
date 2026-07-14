@@ -1,0 +1,49 @@
+---
+id: GOST-R-9727-4-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пробки корковые цилиндрические. Методы определения физических свойств.
+    Часть 4. Определение восстановления размеров после сжатия
+  type: main
+docidentifier:
+- content: GOST R 9727-4-2010
+  type: GOST
+  primary: true
+docnumber: 9727-4
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9727-4:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45290/
+  ics_code: '55.040'
+  pages: '8'
+  designation_original: ГОСТ Р ИСО 9727-4-2010

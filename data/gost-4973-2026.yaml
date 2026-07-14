@@ -1,0 +1,50 @@
+---
+id: GOST-4973-2026
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция парфюмерно-косметическая. Микробиология. Контроль качества питательных
+    сред и разбавителей, применяемых в стандартах по определению микробиологических
+    показателей
+  type: main
+docidentifier:
+- content: GOST 4973-2026
+  type: GOST
+  primary: true
+docnumber: '4973'
+date:
+- type: published
+  from: '2026-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2026'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4973:2026
+  webpage: https://new-shop.ksm.kz/catalog/document/77157/
+  ics_code: '07.100'
+  pages: '25'
+  designation_original: ГОСТ ISO 4973-2026

@@ -1,0 +1,50 @@
+---
+id: GOST-R-50827.4-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Коробки и корпусы для электрических аппаратов, устанавливаемые в стационарные
+    электрические установки бытового и аналогичного назначения. Часть 23. Специальные
+    требования к напольным коробкам и корпусам
+  type: main
+docidentifier:
+- content: GOST R 50827.4-2009
+  type: GOST
+  primary: true
+docnumber: '50827.4'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50827.4:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/45152/
+  ics_code: 29.120.10
+  pages: '12'
+  designation_original: ГОСТ Р 50827.4-2009 (МЭК 60670-23:2002)

@@ -1,0 +1,50 @@
+---
+id: GOST-R-60601-2-63-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 2-63. Частные требования безопасности
+    с учетом основных функциональных характеристик для рентгеновских дентальных экстраоральных
+    аппаратов
+  type: main
+docidentifier:
+- content: GOST R 60601-2-63-2015
+  type: GOST
+  primary: true
+docnumber: 60601-2-63
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60601-2-63:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63107/
+  ics_code: '11.040'
+  pages: '32'
+  designation_original: ГОСТ Р МЭК 60601-2-63-2015

@@ -1,0 +1,50 @@
+---
+id: GOST-61676-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Медицинское электрическое оборудование. Дозиметрические приборы, используемые
+    для неинвазивного измерения напряжения на рентгеновской трубке в диагностической
+    радиологии
+  type: main
+docidentifier:
+- content: GOST 61676-2011
+  type: GOST
+  primary: true
+docnumber: '61676'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61676:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/54304/
+  ics_code: 11.040.50
+  pages: '60'
+  designation_original: ГОСТ IEC 61676-2011

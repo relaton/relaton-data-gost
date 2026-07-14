@@ -1,0 +1,48 @@
+---
+id: GOST-17812-72
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ящики дощатые многооборотные для овощей и фруктов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 17812-72
+  type: GOST
+  primary: true
+docnumber: '17812'
+date:
+- type: published
+  from: '1972-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17812:72
+  webpage: https://new-shop.ksm.kz/catalog/document/26407/
+  ics_code: '55.160'
+  pages: '8'
+  designation_original: ГОСТ 17812-72

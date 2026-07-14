@@ -1,0 +1,48 @@
+---
+id: GOST-R-59107-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масла базовые. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 59107-2020
+  type: GOST
+  primary: true
+docnumber: '59107'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:59107:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/72400/
+  ics_code: '75.100'
+  pages: '16'
+  designation_original: ГОСТ Р 59107-2020

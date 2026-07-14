@@ -1,0 +1,49 @@
+---
+id: GOST-8442-5-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы и изделия, контактирующие с пищевыми продуктами. Посуда и приборы
+    столовые. Часть 5. Приборы столовые. Испытания на прочность и остроту лезвий
+  type: main
+docidentifier:
+- content: GOST 8442-5-2013
+  type: GOST
+  primary: true
+docnumber: 8442-5
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8442-5:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56693/
+  ics_code: '67.250'
+  pages: '12'
+  designation_original: ГОСТ ISO 8442-5-2013

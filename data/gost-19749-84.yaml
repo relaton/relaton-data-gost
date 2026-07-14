@@ -1,0 +1,49 @@
+---
+id: GOST-19749-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединения неподвижные разъемные пневмогидросистем. Затворы закрытые. Типы
+    и технические требования
+  type: main
+docidentifier:
+- content: GOST 19749-84
+  type: GOST
+  primary: true
+docnumber: '19749'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19749:84
+  webpage: https://new-shop.ksm.kz/catalog/document/20048/
+  ics_code: 23.100.99
+  pages: '22'
+  designation_original: ГОСТ 19749-84

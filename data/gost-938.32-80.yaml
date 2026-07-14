@@ -1,0 +1,49 @@
+---
+id: GOST-938.32-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа. Метод определения соответствия цвета пленки покрывной краски цвету
+    основной окраски хромовых кож
+  type: main
+docidentifier:
+- content: GOST 938.32-80
+  type: GOST
+  primary: true
+docnumber: '938.32'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:938.32:80
+  webpage: https://new-shop.ksm.kz/catalog/document/26607/
+  ics_code: 59.140.30
+  pages: '1'
+  designation_original: ГОСТ 938.32-80

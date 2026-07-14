@@ -1,0 +1,48 @@
+---
+id: GOST-22974.9-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Флюсы сварочные плавленые. Методы определения оксида титана (IV)
+  type: main
+docidentifier:
+- content: GOST 22974.9-96
+  type: GOST
+  primary: true
+docnumber: '22974.9'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22974.9:96
+  webpage: https://new-shop.ksm.kz/catalog/document/33021/
+  ics_code: '77.040'
+  pages: '8'
+  designation_original: ГОСТ 22974.9-96

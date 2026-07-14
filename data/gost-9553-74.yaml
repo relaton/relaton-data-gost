@@ -1,0 +1,49 @@
+---
+id: GOST-9553-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стекло силикатное и стеклокристаллические материалы. Метод определения
+    плотности
+  type: main
+docidentifier:
+- content: GOST 9553-74
+  type: GOST
+  primary: true
+docnumber: '9553'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9553:74
+  webpage: https://new-shop.ksm.kz/catalog/document/33787/
+  ics_code: 81.040.01
+  pages: '4'
+  designation_original: ГОСТ 9553-74

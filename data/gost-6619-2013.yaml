@@ -1,0 +1,49 @@
+---
+id: GOST-6619-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтопродукты и смазки. Число нейтрализации. Метод потенциометрического
+    титрования
+  type: main
+docidentifier:
+- content: GOST 6619-2013
+  type: GOST
+  primary: true
+docnumber: '6619'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6619:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57201/
+  ics_code: '75.080'
+  pages: '16'
+  designation_original: ГОСТ ISO 6619-2013

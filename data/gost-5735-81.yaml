@@ -1,0 +1,49 @@
+---
+id: GOST-5735-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Развертки машинные, оснащенные пластинами твердого сплава. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 5735-81
+  type: GOST
+  primary: true
+docnumber: '5735'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5735:81
+  webpage: https://new-shop.ksm.kz/catalog/document/20541/
+  ics_code: 25.100.30
+  pages: '22'
+  designation_original: ГОСТ 5735-81

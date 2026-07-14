@@ -1,0 +1,49 @@
+---
+id: GOST-R-55544-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Программное обеспечение медицинских изделий. Часть 1. Руководство по применению
+    ИСО 14971 к программному обеспечению изделий
+  type: main
+docidentifier:
+- content: GOST R 55544-2013
+  type: GOST
+  primary: true
+docnumber: '55544'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55544:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/55893/
+  ics_code: 11.040.01
+  pages: '66'
+  designation_original: ГОСТ Р 55544-2013/IEC/TR 80002-1:2009

@@ -1,0 +1,49 @@
+---
+id: GOST-2893-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подшипники качения. Канавки под упорные пружинные кольца. Кольца упорные
+    пружинные. Размеры
+  type: main
+docidentifier:
+- content: GOST 2893-82
+  type: GOST
+  primary: true
+docnumber: '2893'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2893:82
+  webpage: https://new-shop.ksm.kz/catalog/document/19161/
+  ics_code: 21.100.20
+  pages: '8'
+  designation_original: ГОСТ 2893-82

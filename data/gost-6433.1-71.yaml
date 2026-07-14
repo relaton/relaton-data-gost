@@ -1,0 +1,49 @@
+---
+id: GOST-6433.1-71
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы электроизоляционные твердые. Условия окружающей среды при подготовке
+    образцов и испытании
+  type: main
+docidentifier:
+- content: GOST 6433.1-71
+  type: GOST
+  primary: true
+docnumber: '6433.1'
+date:
+- type: published
+  from: '1971-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1971'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6433.1:71
+  webpage: https://new-shop.ksm.kz/catalog/document/23133/
+  ics_code: 29.035.01
+  pages: '9'
+  designation_original: ГОСТ 6433.1-71

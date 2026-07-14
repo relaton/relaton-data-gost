@@ -1,0 +1,48 @@
+---
+id: GOST-1927-1-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Огнеупоры неформованные  (готовые к применению).  Часть 1  Термины и классификация
+  type: main
+docidentifier:
+- content: GOST 1927-1-2019
+  type: GOST
+  primary: true
+docnumber: 1927-1
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1927-1:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71178/
+  ics_code: '81.080'
+  pages: '12'
+  designation_original: ГОСТ ISO 1927-1-2019

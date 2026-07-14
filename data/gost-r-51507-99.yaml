@@ -1,0 +1,48 @@
+---
+id: GOST-R-51507-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Карточки почтовые. Технические требования. Методы контроля
+  type: main
+docidentifier:
+- content: GOST R 51507-99
+  type: GOST
+  primary: true
+docnumber: '51507'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51507:99
+  webpage: https://new-shop.ksm.kz/catalog/document/34743/
+  ics_code: '85.080'
+  pages: '16'
+  designation_original: ГОСТ Р 51507-99

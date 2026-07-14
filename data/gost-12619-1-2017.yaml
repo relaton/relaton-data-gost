@@ -1,0 +1,49 @@
+---
+id: GOST-12619-1-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ТРАНСПОРТ ДОРОЖНЫЙ. СЖАТЫЙ ВОДОРОД И КОМПОНЕНТЫ ТОПЛИВНОЙ СИСТЕМЫ ВОДОРОДА/ПРИРОДНОГО
+    ГАЗА Часть 1 Общие требования и определения
+  type: main
+docidentifier:
+- content: GOST 12619-1-2017
+  type: GOST
+  primary: true
+docnumber: 12619-1
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12619-1:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70363/
+  ics_code: '27.075'
+  pages: '13'
+  designation_original: ГОСТ ISO 12619-1-2017

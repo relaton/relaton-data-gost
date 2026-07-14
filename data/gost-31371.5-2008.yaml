@@ -1,0 +1,50 @@
+---
+id: GOST-31371.5-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Газ природный. Определение состава методом газовой хроматографии с оценкой
+    неопределенности. Часть 5. Определение азота, диоксида углерода С1-С5 и С6 + в
+    лаборатории и при непрерывном контроле с использованием трех колонок
+  type: main
+docidentifier:
+- content: GOST 31371.5-2008
+  type: GOST
+  primary: true
+docnumber: '31371.5'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31371.5:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/38226/
+  ics_code: '75.060'
+  pages: '20'
+  designation_original: ГОСТ 31371.5-2008

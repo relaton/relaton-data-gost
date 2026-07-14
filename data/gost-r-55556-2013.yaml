@@ -1,0 +1,50 @@
+---
+id: GOST-R-55556-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Платформы подъемные для инвалидов и других маломобильных групп населения.
+    Требования безопасности и доступности. Часть 2. Платформы подъемные с наклонным
+    перемещением
+  type: main
+docidentifier:
+- content: GOST R 55556-2013
+  type: GOST
+  primary: true
+docnumber: '55556'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55556:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56326/
+  ics_code: '11.180'
+  pages: '36'
+  designation_original: ГОСТ Р 55556-2013 (ИСО 9386-2:2000)

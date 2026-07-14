@@ -1,0 +1,49 @@
+---
+id: GOST-24445.7-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ангидрид фталевый технический. Метод определения цвета после обработки
+    серной кислотой
+  type: main
+docidentifier:
+- content: GOST 24445.7-92
+  type: GOST
+  primary: true
+docnumber: '24445.7'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24445.7:92
+  webpage: https://new-shop.ksm.kz/catalog/document/30293/
+  ics_code: 71.080.50
+  pages: '4'
+  designation_original: ГОСТ 24445.7-92

@@ -1,0 +1,48 @@
+---
+id: GOST-26858-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бумага электроизоляционная слюдяная. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 26858-86
+  type: GOST
+  primary: true
+docnumber: '26858'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26858:86
+  webpage: https://new-shop.ksm.kz/catalog/document/23627/
+  ics_code: 29.035.50
+  pages: '16'
+  designation_original: ГОСТ 26858-86

@@ -1,0 +1,49 @@
+---
+id: GOST-33783-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Колесные пары железнодорожного подвижного состава. Методы определения показателей
+    прочности
+  type: main
+docidentifier:
+- content: GOST 33783-2016
+  type: GOST
+  primary: true
+docnumber: '33783'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33783:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65119/
+  ics_code: '45.060'
+  pages: '62'
+  designation_original: ГОСТ 33783-2016

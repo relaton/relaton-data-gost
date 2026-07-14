@@ -1,0 +1,48 @@
+---
+id: GOST-7429-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Угли Кизеловского бассейна для коксования. Технические условия
+  type: main
+docidentifier:
+- content: GOST 7429-89
+  type: GOST
+  primary: true
+docnumber: '7429'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7429:89
+  webpage: https://new-shop.ksm.kz/catalog/document/40463/
+  ics_code: '73.040'
+  pages: '5'
+  designation_original: ГОСТ 7429-89

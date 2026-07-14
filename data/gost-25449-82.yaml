@@ -1,0 +1,48 @@
+---
+id: GOST-25449-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Теплообменники водо-водяные и пароводяные. Типы, основные параметры и размеры
+  type: main
+docidentifier:
+- content: GOST 25449-82
+  type: GOST
+  primary: true
+docnumber: '25449'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25449:82
+  webpage: https://new-shop.ksm.kz/catalog/document/22941/
+  ics_code: 27.060.30
+  pages: '6'
+  designation_original: ГОСТ 25449-82

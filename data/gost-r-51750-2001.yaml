@@ -1,0 +1,49 @@
+---
+id: GOST-R-51750-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Энергосбережение. Методика определения энергоемкости при производстве продукции
+    и оказании услуг в технологических энергетических системах. Общие положения
+  type: main
+docidentifier:
+- content: GOST R 51750-2001
+  type: GOST
+  primary: true
+docnumber: '51750'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51750:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/23033/
+  ics_code: '27.010'
+  pages: '29'
+  designation_original: ГОСТ Р 51750-2001

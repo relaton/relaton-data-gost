@@ -1,0 +1,49 @@
+---
+id: GOST-12301-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Коробки из картона, бумаги и комбинированных материалов. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 12301-2006
+  type: GOST
+  primary: true
+docnumber: '12301'
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12301:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/26366/
+  ics_code: '55.160'
+  pages: '20'
+  designation_original: ГОСТ 12301-2006

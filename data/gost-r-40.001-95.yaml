@@ -1,0 +1,48 @@
+---
+id: GOST-R-40.001-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Правила по проведению сертификации систем качества в Российской Федерации
+  type: main
+docidentifier:
+- content: GOST R 40.001-95
+  type: GOST
+  primary: true
+docnumber: '40.001'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:40.001:95
+  webpage: https://new-shop.ksm.kz/catalog/document/16066/
+  ics_code: 03.120.20
+  pages: '7'
+  designation_original: ГОСТ Р 40.001-95

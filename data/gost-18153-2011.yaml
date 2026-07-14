@@ -1,0 +1,50 @@
+---
+id: GOST-18153-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские для диагностики in vitro. Измерение величин в биологических
+    пробах. Метрологическая прослеживаемость значений каталитической концентрации
+    ферментов, приписанных калибраторам и контрольным материалам
+  type: main
+docidentifier:
+- content: GOST 18153-2011
+  type: GOST
+  primary: true
+docnumber: '18153'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18153:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52440/
+  ics_code: 11.100.10
+  pages: '20'
+  designation_original: ГОСТ ISO 18153-2011

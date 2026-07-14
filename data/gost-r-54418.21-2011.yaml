@@ -1,0 +1,50 @@
+---
+id: GOST-R-54418.21-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Возобновляемая энергетика. Ветроэнергетика. Установки ветроэнергетические.
+    Часть 21. Измерение и оценка характеристик, связанных с качеством электрической
+    энергии, ветроэнергетических установок, подключенных к электрической сети
+  type: main
+docidentifier:
+- content: GOST R 54418.21-2011
+  type: GOST
+  primary: true
+docnumber: '54418.21'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54418.21:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51931/
+  ics_code: '27.180'
+  pages: '58'
+  designation_original: ГОСТ Р 54418.21-2011 (МЭК 61400-21:2008)

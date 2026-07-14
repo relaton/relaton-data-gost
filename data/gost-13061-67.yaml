@@ -1,0 +1,48 @@
+---
+id: GOST-13061-67
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кольца для вспомогательного инструмента. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 13061-67
+  type: GOST
+  primary: true
+docnumber: '13061'
+date:
+- type: published
+  from: '1967-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1967'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13061:67
+  webpage: https://new-shop.ksm.kz/catalog/document/20849/
+  ics_code: 25.060.99
+  pages: '2'
+  designation_original: ГОСТ 13061-67

@@ -1,0 +1,48 @@
+---
+id: GOST-R-52020-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы лакокрасочные водно-дисперсионные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 52020-2003
+  type: GOST
+  primary: true
+docnumber: '52020'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52020:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/35002/
+  ics_code: '87.040'
+  pages: '15'
+  designation_original: ГОСТ Р 52020-2003

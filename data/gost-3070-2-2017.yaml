@@ -1,0 +1,50 @@
+---
+id: GOST-3070-2-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: СТАНКИ МЕТАЛЛОРЕЖУЩИЕ УСЛОВИЯ ИСПЫТАНИЙ ПРОВЕРКА НОРМ ТОЧНОСТИ РАСТОЧНЫХ
+    И ФРЕЗЕРНЫХ СТАНКОВ С ГОРИЗОНТАЛЬНЫМ ШПИНДЕЛЕМ Часть 2 Станки с подвижной стойкой
+    вдоль оси X и неподвижным столом
+  type: main
+docidentifier:
+- content: GOST 3070-2-2017
+  type: GOST
+  primary: true
+docnumber: 3070-2
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3070-2:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70395/
+  ics_code: 25.080.01
+  pages: '61'
+  designation_original: ГОСТ ISO 3070-2-2017

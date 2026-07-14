@@ -1,0 +1,50 @@
+---
+id: GOST-6940-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Материалы текстильные для средств
+    индивидуальной защиты. Метод определения воспламеняемости вертикально ориентированных
+    проб
+  type: main
+docidentifier:
+- content: GOST 6940-2002
+  type: GOST
+  primary: true
+docnumber: '6940'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6940:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38691/
+  ics_code: 59.080.30
+  pages: '12'
+  designation_original: ГОСТ ИСО 6940-2002

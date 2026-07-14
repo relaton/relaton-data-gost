@@ -1,0 +1,48 @@
+---
+id: GOST-R-17826-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии. Интерфейс управления облачными данными (CDMI)
+  type: main
+docidentifier:
+- content: GOST R 17826-2015
+  type: GOST
+  primary: true
+docnumber: '17826'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:17826:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62185/
+  ics_code: '35.080'
+  pages: '162'
+  designation_original: ГОСТ Р ИСО/МЭК 17826-2015

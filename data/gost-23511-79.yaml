@@ -1,0 +1,49 @@
+---
+id: GOST-23511-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Радиопомехи индустриальные от электротехнических устройств, эксплуатируемых
+    в жилых домах или подключаемых к их электрическим сетям. Нормы и методы измерений
+  type: main
+docidentifier:
+- content: GOST 23511-79
+  type: GOST
+  primary: true
+docnumber: '23511'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23511:79
+  webpage: https://new-shop.ksm.kz/catalog/document/42482/
+  ics_code: '33.100'
+  pages: '23'
+  designation_original: ГОСТ 23511-79

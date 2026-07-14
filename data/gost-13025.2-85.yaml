@@ -1,0 +1,48 @@
+---
+id: GOST-13025.2-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мебель бытовая. Функциональные размеры мебели для сидения и лежания
+  type: main
+docidentifier:
+- content: GOST 13025.2-85
+  type: GOST
+  primary: true
+docnumber: '13025.2'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13025.2:85
+  webpage: https://new-shop.ksm.kz/catalog/document/35588/
+  ics_code: 97.040.10
+  pages: '3'
+  designation_original: ГОСТ 13025.2-85

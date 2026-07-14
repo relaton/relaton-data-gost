@@ -1,0 +1,49 @@
+---
+id: GOST-34839-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Муфты для силовых кабелей на напряжение до 35 кВ включительно. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 34839-2022
+  type: GOST
+  primary: true
+docnumber: '34839'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34839:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/74687/
+  ics_code: 29.120.10
+  pages: '29'
+  designation_original: ГОСТ 34839-2022

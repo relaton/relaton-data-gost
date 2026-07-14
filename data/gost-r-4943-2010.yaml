@@ -1,0 +1,49 @@
+---
+id: GOST-R-4943-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сталь и чугун. Определение содержания меди. Спектрометрический метод атомной
+    абсорбции в пламени
+  type: main
+docidentifier:
+- content: GOST R 4943-2010
+  type: GOST
+  primary: true
+docnumber: '4943'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:4943:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45665/
+  ics_code: 77.080.01
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 4943-2010

@@ -1,0 +1,48 @@
+---
+id: GOST-26473.4-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сплавы и лигатуры на основе ванадия. Методы определения кремния
+  type: main
+docidentifier:
+- content: GOST 26473.4-85
+  type: GOST
+  primary: true
+docnumber: '26473.4'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26473.4:85
+  webpage: https://new-shop.ksm.kz/catalog/document/33185/
+  ics_code: 77.120.99
+  pages: '9'
+  designation_original: ГОСТ 26473.4-85

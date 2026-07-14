@@ -1,0 +1,49 @@
+---
+id: GOST-R-55271-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы менеджмента охраны труда. Рекомендации по применению при разработке
+    и освоении инновационной продукции
+  type: main
+docidentifier:
+- content: GOST R 55271-2012
+  type: GOST
+  primary: true
+docnumber: '55271'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55271:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/55535/
+  ics_code: '03.100'
+  pages: '32'
+  designation_original: ГОСТ Р 55271-2012

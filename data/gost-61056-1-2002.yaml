@@ -1,0 +1,49 @@
+---
+id: GOST-61056-1-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Портативные свинцово-кислотные аккумуляторы и батареи (закрытого типа).
+    Часть 1. Общие требования, функциональные характеристики. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 61056-1-2002
+  type: GOST
+  primary: true
+docnumber: 61056-1
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61056-1:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38856/
+  ics_code: 29.220.20
+  pages: '10'
+  designation_original: ГОСТ МЭК 61056-1-2002

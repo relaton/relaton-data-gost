@@ -1,0 +1,49 @@
+---
+id: GOST-61770-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Приборы электрические, присоединяемые к сетям водоснабжения. Предотвращение
+    обратного сифонирования и повреждения соединительных шлангов
+  type: main
+docidentifier:
+- content: GOST 61770-2012
+  type: GOST
+  primary: true
+docnumber: '61770'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61770:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58437/
+  ics_code: 91.140.60
+  pages: '20'
+  designation_original: ГОСТ IEC 61770-2012

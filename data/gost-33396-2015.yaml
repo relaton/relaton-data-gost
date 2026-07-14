@@ -1,0 +1,48 @@
+---
+id: GOST-33396-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы геосинтетические. Метод определения стойкости к гидролизу в воде
+  type: main
+docidentifier:
+- content: GOST 33396-2015
+  type: GOST
+  primary: true
+docnumber: '33396'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33396:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62715/
+  ics_code: 59.080.70
+  pages: '12'
+  designation_original: ГОСТ 33396-2015 (EN 12447:2001)

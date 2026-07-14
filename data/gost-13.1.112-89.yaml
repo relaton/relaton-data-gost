@@ -1,0 +1,49 @@
+---
+id: GOST-13.1.112-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Репрография. Микрография. Микрофиши нормативно-технических документов.
+    Общие требования и нормы
+  type: main
+docidentifier:
+- content: GOST 13.1.112-89
+  type: GOST
+  primary: true
+docnumber: 13.1.112
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13.1.112:89
+  webpage: https://new-shop.ksm.kz/catalog/document/25509/
+  ics_code: '37.080'
+  pages: '9'
+  designation_original: ГОСТ 13.1.112-89

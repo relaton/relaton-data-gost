@@ -1,0 +1,49 @@
+---
+id: GOST-19966-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плита опорная пресс-форм для выплавляемых моделей с прямоугольными матрицами.
+    Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 19966-74
+  type: GOST
+  primary: true
+docnumber: '19966'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19966:74
+  webpage: https://new-shop.ksm.kz/catalog/document/22450/
+  ics_code: 25.120.30
+  pages: '3'
+  designation_original: ГОСТ 19966-74

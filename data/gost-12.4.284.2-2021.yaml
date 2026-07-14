@@ -1,0 +1,51 @@
+---
+id: GOST-12.4.284.2-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Костюмы изолирующие для защиты от
+    твердых, жидких и газообразных химических веществ, включая твердые и жидкие аэрозоли.
+    Технические требования и методы испытаний газонепроницаемых изолирующих костюмов
+    (тип 1), применяемых при аварийных ситуациях
+  type: main
+docidentifier:
+- content: GOST 12.4.284.2-2021
+  type: GOST
+  primary: true
+docnumber: 12.4.284.2
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.4.284.2:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/74692/
+  ics_code: 13.340.10
+  pages: '18'
+  designation_original: ГОСТ 12.4.284.2-2021

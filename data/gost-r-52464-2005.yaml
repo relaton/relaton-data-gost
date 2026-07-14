@@ -1,0 +1,48 @@
+---
+id: GOST-R-52464-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Добавки вкусоароматические и пищевые ароматизаторы. Термины и определения
+  type: main
+docidentifier:
+- content: GOST R 52464-2005
+  type: GOST
+  primary: true
+docnumber: '52464'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52464:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/15735/
+  ics_code: 01.040.67
+  pages: '10'
+  designation_original: ГОСТ Р 52464-2005

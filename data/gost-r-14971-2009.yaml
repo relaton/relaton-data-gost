@@ -1,0 +1,48 @@
+---
+id: GOST-R-14971-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские. Применение менеджмента риска к медицинским изделиям
+  type: main
+docidentifier:
+- content: GOST R 14971-2009
+  type: GOST
+  primary: true
+docnumber: '14971'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:14971:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/46086/
+  ics_code: 11.040.01
+  pages: '67'
+  designation_original: ГОСТ Р ИСО 14971-2009

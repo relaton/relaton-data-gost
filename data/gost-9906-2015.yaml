@@ -1,0 +1,48 @@
+---
+id: GOST-9906-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Насосы динамические. Гидравлические испытания. Классы точности 1, 2 и 3
+  type: main
+docidentifier:
+- content: GOST 9906-2015
+  type: GOST
+  primary: true
+docnumber: '9906'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9906:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/65184/
+  ics_code: '23.080'
+  pages: '57'
+  designation_original: ГОСТ ISO 9906-2015

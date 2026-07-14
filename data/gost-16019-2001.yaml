@@ -1,0 +1,49 @@
+---
+id: GOST-16019-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура сухопутной подвижной радиосвязи. Требования по стойкости к воздействию
+    механических и климатических факторов и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 16019-2001
+  type: GOST
+  primary: true
+docnumber: '16019'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16019:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/24764/
+  ics_code: 33.050.10
+  pages: '15'
+  designation_original: ГОСТ 16019-2001

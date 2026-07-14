@@ -1,0 +1,50 @@
+---
+id: GOST-13479-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы из полиолефинов для транспортирования жидких и газообразных сред.
+    Определение стойкости к распространению трещин. Метод испытания на стойкость к
+    медленному распространению трещин на трубах с надрезом
+  type: main
+docidentifier:
+- content: GOST 13479-2023
+  type: GOST
+  primary: true
+docnumber: '13479'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13479:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/74614/
+  ics_code: 23.040.20
+  pages: '21'
+  designation_original: ГОСТ ISO 13479-2023

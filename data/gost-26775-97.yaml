@@ -1,0 +1,49 @@
+---
+id: GOST-26775-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Габариты подмостовые судоходных пролетов мостов на внутренних водных путях.
+    Нормы и технические требования
+  type: main
+docidentifier:
+- content: GOST 26775-97
+  type: GOST
+  primary: true
+docnumber: '26775'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26775:97
+  webpage: https://new-shop.ksm.kz/catalog/document/35547/
+  ics_code: '93.040'
+  pages: '26'
+  designation_original: ГОСТ 26775-97

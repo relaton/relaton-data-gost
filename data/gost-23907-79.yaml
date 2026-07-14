@@ -1,0 +1,49 @@
+---
+id: GOST-23907-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жидкости противообледенительные для летательных аппаратов. Общие технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 23907-79
+  type: GOST
+  primary: true
+docnumber: '23907'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23907:79
+  webpage: https://new-shop.ksm.kz/catalog/document/30264/
+  ics_code: 71.100.45
+  pages: '4'
+  designation_original: ГОСТ 23907-79

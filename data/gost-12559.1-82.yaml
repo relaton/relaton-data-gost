@@ -1,0 +1,48 @@
+---
+id: GOST-12559.1-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сплавы платино-иридиевые. Метод определения иридия
+  type: main
+docidentifier:
+- content: GOST 12559.1-82
+  type: GOST
+  primary: true
+docnumber: '12559.1'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12559.1:82
+  webpage: https://new-shop.ksm.kz/catalog/document/32471/
+  ics_code: 77.120.99
+  pages: '5'
+  designation_original: ГОСТ 12559.1-82

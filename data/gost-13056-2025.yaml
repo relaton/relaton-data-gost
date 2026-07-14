@@ -1,0 +1,49 @@
+---
+id: GOST-13056-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубопроводы из пластмасс. Напорные трубопроводы для горячей и холодной
+    воды. Метод испытания на герметичность под вакуумом
+  type: main
+docidentifier:
+- content: GOST 13056-2025
+  type: GOST
+  primary: true
+docnumber: '13056'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13056:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76906/
+  ics_code: 23.040.01
+  pages: '7'
+  designation_original: ГОСТ ISO 13056-2025

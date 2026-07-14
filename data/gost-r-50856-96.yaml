@@ -1,0 +1,49 @@
+---
+id: GOST-R-50856-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Измерители скорости движения транспортных средств радиолокационные. Общие
+    технические требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 50856-96
+  type: GOST
+  primary: true
+docnumber: '50856'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50856:96
+  webpage: https://new-shop.ksm.kz/catalog/document/18720/
+  ics_code: '17.080'
+  pages: '16'
+  designation_original: ГОСТ Р 50856-96

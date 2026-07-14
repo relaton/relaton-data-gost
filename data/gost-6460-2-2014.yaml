@@ -1,0 +1,49 @@
+---
+id: GOST-6460-2-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мотоциклы. Метод измерения выхлопных газов и потребления топлива. Часть
+    2. Циклы испытаний и специальные условия испытаний
+  type: main
+docidentifier:
+- content: GOST 6460-2-2014
+  type: GOST
+  primary: true
+docnumber: 6460-2
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6460-2:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/67838/
+  ics_code: '43.140'
+  pages: '32'
+  designation_original: ГОСТ ISO 6460-2-2014

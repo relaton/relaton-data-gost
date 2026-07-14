@@ -1,0 +1,49 @@
+---
+id: GOST-10722-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Каучуки и резиновые смеси. Метод определения вязкости и способности к преждевременной
+    вулканизации
+  type: main
+docidentifier:
+- content: GOST 10722-76
+  type: GOST
+  primary: true
+docnumber: '10722'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10722:76
+  webpage: https://new-shop.ksm.kz/catalog/document/34015/
+  ics_code: 83.040.10
+  pages: '22'
+  designation_original: ГОСТ 10722-76

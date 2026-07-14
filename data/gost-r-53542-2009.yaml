@@ -1,0 +1,49 @@
+---
+id: GOST-R-53542-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двигатели авиационные и их составные части. Пайка высоколегированных сталей
+    в вакууме. Общие требования к технологическому процессу
+  type: main
+docidentifier:
+- content: GOST R 53542-2009
+  type: GOST
+  primary: true
+docnumber: '53542'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53542:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42854/
+  ics_code: '49.050'
+  pages: '16'
+  designation_original: ГОСТ Р 53542-2009

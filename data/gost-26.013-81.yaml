@@ -1,0 +1,49 @@
+---
+id: GOST-26.013-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Средства измерения и автоматизации. Сигналы электрические с дискретным
+    изменением параметров входные и выходные
+  type: main
+docidentifier:
+- content: GOST 26.013-81
+  type: GOST
+  primary: true
+docnumber: '26.013'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26.013:81
+  webpage: https://new-shop.ksm.kz/catalog/document/20414/
+  ics_code: 25.040.40
+  pages: '7'
+  designation_original: ГОСТ 26.013-81

@@ -1,0 +1,48 @@
+---
+id: GOST-23269-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Турбины стационарные паровые. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 23269-78
+  type: GOST
+  primary: true
+docnumber: '23269'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23269:78
+  webpage: https://new-shop.ksm.kz/catalog/document/15154/
+  ics_code: 01.040.27
+  pages: '10'
+  designation_original: ГОСТ 23269-78

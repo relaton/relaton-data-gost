@@ -1,0 +1,48 @@
+---
+id: GOST-11529-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы поливинилхлоридные для полов. Методы контроля
+  type: main
+docidentifier:
+- content: GOST 11529-86
+  type: GOST
+  primary: true
+docnumber: '11529'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11529:86
+  webpage: https://new-shop.ksm.kz/catalog/document/34029/
+  ics_code: '97.150'
+  pages: '33'
+  designation_original: ГОСТ 11529-86

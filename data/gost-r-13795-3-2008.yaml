@@ -1,0 +1,50 @@
+---
+id: GOST-R-13795-3-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Хирургическая одежда и белье, применяемые как медицинские изделия для пациентов,
+    хирургического персонала и оборудования. Часть 3. Требования к исполнению и уровни
+    исполнения
+  type: main
+docidentifier:
+- content: GOST R 13795-3-2008
+  type: GOST
+  primary: true
+docnumber: 13795-3
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13795-3:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/40994/
+  ics_code: '11.140'
+  pages: '12'
+  designation_original: ГОСТ Р ЕН 13795-3-2008

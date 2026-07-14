@@ -1,0 +1,49 @@
+---
+id: GOST-23154-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппараты гамма-терапевтические статические и ротационные для дальнедистанционного
+    облучения. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 23154-78
+  type: GOST
+  primary: true
+docnumber: '23154'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23154:78
+  webpage: https://new-shop.ksm.kz/catalog/document/16465/
+  ics_code: 11.040.50
+  pages: '33'
+  designation_original: ГОСТ 23154-78

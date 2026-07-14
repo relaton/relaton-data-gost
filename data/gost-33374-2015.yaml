@@ -1,0 +1,49 @@
+---
+id: GOST-33374-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Этикетки парафинированные в бобинах для машинного завертывания кондитерских,
+    хлебобулочных изделий и жевательной резинки
+  type: main
+docidentifier:
+- content: GOST 33374-2015
+  type: GOST
+  primary: true
+docnumber: '33374'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33374:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/70260/
+  ics_code: '55.040'
+  pages: '12'
+  designation_original: ГОСТ 33374-2015

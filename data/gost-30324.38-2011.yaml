@@ -1,0 +1,49 @@
+---
+id: GOST-30324.38-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 2. Частные требования безопасности
+    к кроватям медицинским электрическим. - Взамен ГОСТ 30324.38-2002 (МЭК 60601-2-38:1996).
+    На основе ГОСТ Р 50267.38-99
+  type: main
+docidentifier:
+- content: GOST 30324.38-2011
+  type: GOST
+  primary: true
+docnumber: '30324.38'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30324.38:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48640/
+  pages: '25'
+  designation_original: ГОСТ 30324.38-2011

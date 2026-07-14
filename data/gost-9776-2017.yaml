@@ -1,0 +1,50 @@
+---
+id: GOST-9776-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло эфирное полевой мяты (Mentha arvensis), частично дементолизированное
+    (Mentha arvensis L. var. piperascens Malinv. and var. glabrata Holmes) Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 9776-2017
+  type: GOST
+  primary: true
+docnumber: '9776'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9776:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70348/
+  ics_code: 71.100.60
+  pages: '16'
+  designation_original: ГОСТ ISO 9776-2017

@@ -1,0 +1,49 @@
+---
+id: GOST-11843-3-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Статистические методы. Способность обнаружения. Методология определения
+    критического значения отклика без использования данных калибровки
+  type: main
+docidentifier:
+- content: GOST 11843-3-2005
+  type: GOST
+  primary: true
+docnumber: 11843-3
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11843-3:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/16063/
+  ics_code: 03.120.30
+  pages: '17'
+  designation_original: ГОСТ ИСО 11843-3-2005

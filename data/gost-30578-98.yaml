@@ -1,0 +1,50 @@
+---
+id: GOST-30578-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: "Целлюлоза беленая и сточные воды целлюлозно-бумажного производства.\r
+    Определение адсорбированных органических галогенов. Общие требования и методы
+    анализа"
+  type: main
+docidentifier:
+- content: GOST 30578-98
+  type: GOST
+  primary: true
+docnumber: '30578'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30578:98
+  webpage: https://new-shop.ksm.kz/catalog/document/17479/
+  ics_code: '85.040'
+  pages: '12'
+  designation_original: ГОСТ 30578-98

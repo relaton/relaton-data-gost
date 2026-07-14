@@ -1,0 +1,48 @@
+---
+id: GOST-R-1159-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы. Сополимеры винилхлорида с винилацетатом. Определение винилацетата
+  type: main
+docidentifier:
+- content: GOST R 1159-93
+  type: GOST
+  primary: true
+docnumber: '1159'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:1159:93
+  webpage: https://new-shop.ksm.kz/catalog/document/34514/
+  ics_code: 83.080.20
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 1159-93

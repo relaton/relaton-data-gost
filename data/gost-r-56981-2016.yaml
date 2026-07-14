@@ -1,0 +1,49 @@
+---
+id: GOST-R-56981-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Модули фотоэлектрические. Коммутационные коробки. Требования безопасности
+    и испытания
+  type: main
+docidentifier:
+- content: GOST R 56981-2016
+  type: GOST
+  primary: true
+docnumber: '56981'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56981:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/64840/
+  ics_code: '27.160'
+  pages: '56'
+  designation_original: ГОСТ Р 56981-2016 (МЭК 62790:2014)

@@ -1,0 +1,49 @@
+---
+id: GOST-29040-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бензины Метод определения бензола и суммарного содержания ароматических
+    углеводородов
+  type: main
+docidentifier:
+- content: GOST 29040-2018
+  type: GOST
+  primary: true
+docnumber: '29040'
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29040:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/73704/
+  ics_code: 75.160.20
+  pages: '11'
+  designation_original: ГОСТ 29040-2018

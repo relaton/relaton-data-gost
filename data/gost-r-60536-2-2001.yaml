@@ -1,0 +1,50 @@
+---
+id: GOST-R-60536-2-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Классификация электротехнического и электронного оборудования по способу
+    защиты от поражения электрическим током. Часть 2. Руководство для пользователей
+    по защите от поражения электрическим током
+  type: main
+docidentifier:
+- content: GOST R 60536-2-2001
+  type: GOST
+  primary: true
+docnumber: 60536-2
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60536-2:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/24096/
+  ics_code: '29.020'
+  pages: '12'
+  designation_original: ГОСТ Р МЭК 60536-2-2001

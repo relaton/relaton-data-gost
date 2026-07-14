@@ -1,0 +1,50 @@
+---
+id: GOST-303-7-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Котлы отопительные. Часть 7. Котлы с газовыми горелками с принудительной
+    подачей воздуха для горения для центрального отопления с номинальной тепловой
+    мощностью не более 1000 кВт. Технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 303-7-2013
+  type: GOST
+  primary: true
+docnumber: 303-7
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:303-7:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/75174/
+  ics_code: 91.140.10
+  pages: '56'
+  designation_original: ГОСТ EN 303-7-2013

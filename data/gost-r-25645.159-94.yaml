@@ -1,0 +1,49 @@
+---
+id: GOST-R-25645.159-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Потоки электронов спорадические в околоземном пространстве. Модель пространственно-временного
+    и энергетического распределения
+  type: main
+docidentifier:
+- content: GOST R 25645.159-94
+  type: GOST
+  primary: true
+docnumber: '25645.159'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:25645.159:94
+  webpage: https://new-shop.ksm.kz/catalog/document/16306/
+  ics_code: '07.040'
+  pages: '12'
+  designation_original: ГОСТ Р 25645.159-94

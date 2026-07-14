@@ -1,0 +1,49 @@
+---
+id: GOST-19139-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кинескопы для черно-белого и цветного телевидения. Методы измерения разрешающей
+    способности
+  type: main
+docidentifier:
+- content: GOST 19139-73
+  type: GOST
+  primary: true
+docnumber: '19139'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19139:73
+  webpage: https://new-shop.ksm.kz/catalog/document/24262/
+  ics_code: '31.100'
+  pages: '9'
+  designation_original: ГОСТ 19139-73

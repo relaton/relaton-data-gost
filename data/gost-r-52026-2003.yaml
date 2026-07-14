@@ -1,0 +1,49 @@
+---
+id: GOST-R-52026-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины для лесного хозяйства. Пилы цепные, кусторезы и мотокосы бензиномоторные.
+    Методы измерений технических характеристик двигателей внутреннего сгорания
+  type: main
+docidentifier:
+- content: GOST R 52026-2003
+  type: GOST
+  primary: true
+docnumber: '52026'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52026:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/28306/
+  ics_code: 65.060.80
+  pages: '11'
+  designation_original: ГОСТ Р 52026-2003

@@ -1,0 +1,48 @@
+---
+id: GOST-4670-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы. Определение твердости. Метод вдавливания шарика
+  type: main
+docidentifier:
+- content: GOST 4670-91
+  type: GOST
+  primary: true
+docnumber: '4670'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4670:91
+  webpage: https://new-shop.ksm.kz/catalog/document/33960/
+  ics_code: '83.080'
+  pages: '9'
+  designation_original: ГОСТ 4670-91

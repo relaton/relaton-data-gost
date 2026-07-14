@@ -1,0 +1,49 @@
+---
+id: GOST-25995-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроды для съема биоэлектрических потенциалов. Общие технические требования
+    и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 25995-2024
+  type: GOST
+  primary: true
+docnumber: '25995'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25995:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76163/
+  ics_code: 11.040.55
+  pages: '22'
+  designation_original: ГОСТ 25995-2024

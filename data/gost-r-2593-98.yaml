@@ -1,0 +1,49 @@
+---
+id: GOST-R-2593-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Передача данных и обмен информацией между системами.
+    34-контактный соединитель стыка ООД/АКД. Стыковочные размеры и распределение контактов
+  type: main
+docidentifier:
+- content: GOST R 2593-98
+  type: GOST
+  primary: true
+docnumber: '2593'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:2593:98
+  webpage: https://new-shop.ksm.kz/catalog/document/25406/
+  ics_code: 35.100.10
+  pages: '19'
+  designation_original: ГОСТ Р ИСО/МЭК 2593-98

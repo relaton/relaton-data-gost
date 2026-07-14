@@ -1,0 +1,48 @@
+---
+id: GOST-R-20433-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа. Метод испытания устойчивости окраски к сухому и мокрому трению
+  type: main
+docidentifier:
+- content: GOST R 20433-2009
+  type: GOST
+  primary: true
+docnumber: '20433'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:20433:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/45360/
+  ics_code: 59.140.30
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 20433-2009

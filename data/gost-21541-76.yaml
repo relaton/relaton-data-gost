@@ -1,0 +1,50 @@
+---
+id: GOST-21541-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Зенкеры со вставными ножами, оснащенные твердосплавными пластинами, для
+    обработки деталей из нержавеющих и жаропрочных сталей и сплавов. Конструкция и
+    размеры
+  type: main
+docidentifier:
+- content: GOST 21541-76
+  type: GOST
+  primary: true
+docnumber: '21541'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21541:76
+  webpage: https://new-shop.ksm.kz/catalog/document/21656/
+  ics_code: 25.100.30
+  pages: '6'
+  designation_original: ГОСТ 21541-76

@@ -1,0 +1,48 @@
+---
+id: GOST-R-51108-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Услуги бытовые. Химическая чистка. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 51108-97
+  type: GOST
+  primary: true
+docnumber: '51108'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51108:97
+  webpage: https://new-shop.ksm.kz/catalog/document/16109/
+  ics_code: 03.080.30
+  pages: '27'
+  designation_original: ГОСТ Р 51108-97

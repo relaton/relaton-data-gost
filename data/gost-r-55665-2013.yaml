@@ -1,0 +1,49 @@
+---
+id: GOST-R-55665-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование для спортивных игр. Ворота для мини-футбола и гандбола. Требования
+    и методы испытаний с учетом безопасности
+  type: main
+docidentifier:
+- content: GOST R 55665-2013
+  type: GOST
+  primary: true
+docnumber: '55665'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55665:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59012/
+  ics_code: 97.220.30
+  pages: '12'
+  designation_original: ГОСТ Р 55665-2013

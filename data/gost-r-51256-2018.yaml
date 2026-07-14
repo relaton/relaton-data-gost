@@ -1,0 +1,49 @@
+---
+id: GOST-R-51256-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Технические средства организации дорожного движения. Разметка дорожная.
+    Классификация. Технические требования
+  type: main
+docidentifier:
+- content: GOST R 51256-2018
+  type: GOST
+  primary: true
+docnumber: '51256'
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51256:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/72987/
+  ics_code: 93.080.30
+  pages: '45'
+  designation_original: ГОСТ Р 51256-2018

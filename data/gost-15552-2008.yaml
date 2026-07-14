@@ -1,0 +1,50 @@
+---
+id: GOST-15552-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пневмоприводы. Цилиндры со съемными креплениями на номинальное давление
+    1 000 кПа (10 бар) с диаметрами от 32 мм до 320 мм. Основные и присоединительные
+    размеры и размеры элементов креплений
+  type: main
+docidentifier:
+- content: GOST 15552-2008
+  type: GOST
+  primary: true
+docnumber: '15552'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15552:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/38253/
+  ics_code: 23.100.20
+  pages: '30'
+  designation_original: ГОСТ ИСО 15552-2008

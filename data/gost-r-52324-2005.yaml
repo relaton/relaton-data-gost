@@ -1,0 +1,49 @@
+---
+id: GOST-R-52324-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Эргономические требования к работе с визуальными дисплеями, основанными
+    на плоских панелях. Часть 2. Эргономические требования к дисплеям с плоскими панелями
+  type: main
+docidentifier:
+- content: GOST R 52324-2005
+  type: GOST
+  primary: true
+docnumber: '52324'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52324:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/17751/
+  ics_code: '13.180'
+  pages: '110'
+  designation_original: ГОСТ Р 52324-2005

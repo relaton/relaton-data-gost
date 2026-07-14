@@ -1,0 +1,51 @@
+---
+id: GOST-26315-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование групповых и линейных трактов систем передачи с частотным разделением
+    каналов. Нормы на номинальные относительные уровни.  Номинальные относительные
+    уровни сигналов передачи и входные и выходные сопротивления в точках взаимного
+    соединения
+  type: main
+docidentifier:
+- content: GOST 26315-84
+  type: GOST
+  primary: true
+docnumber: '26315'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26315:84
+  webpage: https://new-shop.ksm.kz/catalog/document/24850/
+  ics_code: 33.040.20
+  pages: '5'
+  designation_original: ГОСТ 26315-84

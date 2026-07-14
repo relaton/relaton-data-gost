@@ -1,0 +1,49 @@
+---
+id: GOST-32492-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Арматура композитная полимерная для армирования бетонных конструкций. Методы
+    определения физико-механических характеристик
+  type: main
+docidentifier:
+- content: GOST 32492-2024
+  type: GOST
+  primary: true
+docnumber: '32492'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32492:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76340/
+  ics_code: 91.080.40
+  pages: '46'
+  designation_original: ГОСТ 32492-2024

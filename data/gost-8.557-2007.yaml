@@ -1,0 +1,52 @@
+---
+id: GOST-8.557-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Государственная
+    поверочная схема для средств измерений спектральных, интегральных и редуцированных
+    коэффициентов направленного пропускания и оптической плотности в диапазоне длин
+    волн от 0,2  до 50,0 мкм, диффузного и зеркального отражений в диапазоне длин
+    волн от 0,2 до 20,0 мкм
+  type: main
+docidentifier:
+- content: GOST 8.557-2007
+  type: GOST
+  primary: true
+docnumber: '8.557'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.557:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/38132/
+  ics_code: 17.180.01
+  pages: '11'
+  designation_original: ГОСТ 8.557-2007

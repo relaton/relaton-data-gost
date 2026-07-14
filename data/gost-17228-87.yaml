@@ -1,0 +1,49 @@
+---
+id: GOST-17228-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Самолеты пассажирские и транспортные. Допустимые уровни шума, создаваемого
+    на местности
+  type: main
+docidentifier:
+- content: GOST 17228-87
+  type: GOST
+  primary: true
+docnumber: '17228'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17228:87
+  webpage: https://new-shop.ksm.kz/catalog/document/18397/
+  ics_code: '49.020'
+  pages: '19'
+  designation_original: ГОСТ 17228-87

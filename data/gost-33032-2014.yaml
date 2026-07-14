@@ -1,0 +1,49 @@
+---
+id: GOST-33032-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Валы карданные сельскохозяйственных машин. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 33032-2014
+  type: GOST
+  primary: true
+docnumber: '33032'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33032:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62236/
+  ics_code: 65.060.10
+  pages: '52'
+  designation_original: ГОСТ 33032-2014 (ISO 500-1:2014, ISO 500-2:2004, ISO 500-3:2014,
+    ISO 5673-1:2005, ISO 5673-2:2005)

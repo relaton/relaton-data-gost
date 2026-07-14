@@ -1,0 +1,50 @@
+---
+id: GOST-42.4.11-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гражданская оборона. Инженерно-техническое оборудование защитных сооружений
+    гражданской обороны. Клапаны герметические. Общие технические требования. Методы
+    испытания
+  type: main
+docidentifier:
+- content: GOST 42.4.11-2024
+  type: GOST
+  primary: true
+docnumber: 42.4.11
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:42.4.11:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76966/
+  ics_code: '13.200'
+  pages: '18'
+  designation_original: ГОСТ 42.4.11-2024

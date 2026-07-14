@@ -1,0 +1,49 @@
+---
+id: GOST-60335-2-30-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность бытовых и аналогичных электрических приборов. Часть 2-30.
+    Частные требования к комнатным обогревателям
+  type: main
+docidentifier:
+- content: GOST 60335-2-30-2013
+  type: GOST
+  primary: true
+docnumber: 60335-2-30
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60335-2-30:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57145/
+  ics_code: 97.100.10
+  pages: '24'
+  designation_original: ГОСТ IEC 60335-2-30-2013

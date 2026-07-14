@@ -1,0 +1,49 @@
+---
+id: GOST-R-52927-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Прокат для судостроения из стали нормальной, повышенной и высокой прочности.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST R 52927-2008
+  type: GOST
+  primary: true
+docnumber: '52927'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52927:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41168/
+  ics_code: 77.140.50
+  pages: '49'
+  designation_original: ГОСТ Р 52927-2008

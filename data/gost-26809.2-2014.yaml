@@ -1,0 +1,50 @@
+---
+id: GOST-26809.2-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко и молочная продукция. Правила приемки, методы отбора и подготовка
+    проб к анализу. Часть 2. Масло из коровьего молока, спреды, сыры и сырные продукты,
+    плавленые сыры и плавленые сырные продукты
+  type: main
+docidentifier:
+- content: GOST 26809.2-2014
+  type: GOST
+  primary: true
+docnumber: '26809.2'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26809.2:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60165/
+  ics_code: 67.100.10
+  pages: '20'
+  designation_original: ГОСТ 26809.2-2014

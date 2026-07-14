@@ -1,0 +1,49 @@
+---
+id: GOST-23.225-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Обеспечение износостойкости изделий. Методы подтверждения износостойкости.
+    Общие требования
+  type: main
+docidentifier:
+- content: GOST 23.225-99
+  type: GOST
+  primary: true
+docnumber: '23.225'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23.225:99
+  webpage: https://new-shop.ksm.kz/catalog/document/15998/
+  ics_code: 03.120.10
+  pages: '18'
+  designation_original: ГОСТ 23.225-99

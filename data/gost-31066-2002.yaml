@@ -1,0 +1,48 @@
+---
+id: GOST-31066-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Муфты одинарные для напорных труб из непластифицированного поливинилхлорида
+    и хлорированного поливинилхлорида с соединениями типа эластичного уплотнительного
+    кольца. Минимальная глубина захода
+  type: main
+docidentifier:
+- content: GOST 31066-2002
+  type: GOST
+  primary: true
+docnumber: '31066'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31066:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38558/
+  designation_original: ГОСТ 31066-2002

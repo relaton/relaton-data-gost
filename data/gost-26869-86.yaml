@@ -1,0 +1,48 @@
+---
+id: GOST-26869-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Саженцы декоративных кустарников. Технические условия
+  type: main
+docidentifier:
+- content: GOST 26869-86
+  type: GOST
+  primary: true
+docnumber: '26869'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26869:86
+  webpage: https://new-shop.ksm.kz/catalog/document/28050/
+  ics_code: 65.020.40
+  pages: '12'
+  designation_original: ГОСТ 26869-86

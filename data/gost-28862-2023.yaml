@@ -1,0 +1,50 @@
+---
+id: GOST-28862-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка. Упаковка, недоступная для открывания детьми. Требования и методы
+    испытаний упаковки нефармацевтической продукции, не оснащенной механизмом повторного
+    закрывания
+  type: main
+docidentifier:
+- content: GOST 28862-2023
+  type: GOST
+  primary: true
+docnumber: '28862'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28862:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/74239/
+  ics_code: '55.020'
+  pages: '20'
+  designation_original: ГОСТ ISO 28862-2023

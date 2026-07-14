@@ -1,0 +1,49 @@
+---
+id: GOST-30474-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кресла-коляски. Методы определения габаритных размеров, массы, минимального
+    радиуса поворота и минимальной ширины разворота
+  type: main
+docidentifier:
+- content: GOST 30474-96
+  type: GOST
+  primary: true
+docnumber: '30474'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30474:96
+  webpage: https://new-shop.ksm.kz/catalog/document/16581/
+  ics_code: '11.140'
+  pages: '11'
+  designation_original: ГОСТ 30474-96

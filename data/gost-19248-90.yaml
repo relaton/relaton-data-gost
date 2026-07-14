@@ -1,0 +1,48 @@
+---
+id: GOST-19248-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Припои. Классификация и обозначения
+  type: main
+docidentifier:
+- content: GOST 19248-90
+  type: GOST
+  primary: true
+docnumber: '19248'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19248:90
+  webpage: https://new-shop.ksm.kz/catalog/document/22419/
+  ics_code: 25.160.50
+  pages: '7'
+  designation_original: ГОСТ 19248-90

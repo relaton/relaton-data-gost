@@ -1,0 +1,49 @@
+---
+id: GOST-61340-4-2-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электростатика. Методы испытаний для прикладных задач. Электростатические
+    свойства одежды
+  type: main
+docidentifier:
+- content: GOST 61340-4-2-2024
+  type: GOST
+  primary: true
+docnumber: 61340-4-2
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61340-4-2:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75946/
+  ics_code: '29.020'
+  pages: '44'
+  designation_original: ГОСТ IEC/TS 61340-4-2-2024

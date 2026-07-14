@@ -1,0 +1,49 @@
+---
+id: GOST-12100-1-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность оборудования. Основные понятия, общие принципы конструирования.
+    Часть 1. Основные термины, методика
+  type: main
+docidentifier:
+- content: GOST 12100-1-2001
+  type: GOST
+  primary: true
+docnumber: 12100-1
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12100-1:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/17506/
+  ics_code: '13.110'
+  pages: '24'
+  designation_original: ГОСТ ИСО/ТО 12100-1-2001

@@ -1,0 +1,49 @@
+---
+id: GOST-33652-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лифты пассажирские. Технические требования доступности, включая доступность
+    для инвалидов и других маломобильных групп населения
+  type: main
+docidentifier:
+- content: GOST 33652-2015
+  type: GOST
+  primary: true
+docnumber: '33652'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33652:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64728/
+  ics_code: 91.140.90
+  pages: '24'
+  designation_original: ГОСТ 33652-2015 (EN 81-70:2003)

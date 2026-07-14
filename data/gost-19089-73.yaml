@@ -1,0 +1,48 @@
+---
+id: GOST-19089-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка. Метод определения виброзащитных свойств
+  type: main
+docidentifier:
+- content: GOST 19089-73
+  type: GOST
+  primary: true
+docnumber: '19089'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19089:73
+  webpage: https://new-shop.ksm.kz/catalog/document/26424/
+  ics_code: '55.020'
+  pages: '8'
+  designation_original: ГОСТ 19089-73

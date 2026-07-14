@@ -1,0 +1,49 @@
+---
+id: GOST-R-601-1-1-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 1. Общие требования безопасности.
+    Требования безопасности к медицинским электрическим системам
+  type: main
+docidentifier:
+- content: GOST R 601-1-1-96
+  type: GOST
+  primary: true
+docnumber: 601-1-1
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:601-1-1:96
+  webpage: https://new-shop.ksm.kz/catalog/document/16827/
+  ics_code: '11.040'
+  pages: '24'
+  designation_original: ГОСТ Р МЭК 601-1-1-96

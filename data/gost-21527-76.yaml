@@ -1,0 +1,50 @@
+---
+id: GOST-21527-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Развертки машинные насадные со вставными ножами, оснащенными твердосплавными
+    пластинами для обработки деталей из нержавеющих и жаропрочных сталей и сплавов.
+    Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 21527-76
+  type: GOST
+  primary: true
+docnumber: '21527'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21527:76
+  webpage: https://new-shop.ksm.kz/catalog/document/21654/
+  ics_code: 25.100.30
+  pages: '12'
+  designation_original: ГОСТ 21527-76

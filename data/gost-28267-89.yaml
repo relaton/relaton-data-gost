@@ -1,0 +1,49 @@
+---
+id: GOST-28267-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Клин полутоновый растровый 64 польный для факсимильной аппаратуры. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 28267-89
+  type: GOST
+  primary: true
+docnumber: '28267'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28267:89
+  webpage: https://new-shop.ksm.kz/catalog/document/24881/
+  ics_code: 33.050.10
+  pages: '5'
+  designation_original: ГОСТ 28267-89

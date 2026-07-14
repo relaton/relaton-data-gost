@@ -1,0 +1,49 @@
+---
+id: GOST-26577-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Перчатки и рукавицы на меховой подкладке для военнослужащих. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 26577-85
+  type: GOST
+  primary: true
+docnumber: '26577'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26577:85
+  webpage: https://new-shop.ksm.kz/catalog/document/27637/
+  ics_code: '61.040'
+  pages: '68'
+  designation_original: ГОСТ 26577-85

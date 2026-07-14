@@ -1,0 +1,50 @@
+---
+id: GOST-R-16702-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество воздуха рабочей зоны. Определение общего содержания изоцианатных
+    групп органических соединений в воздухе методом жидкостной хроматографии с использованием
+    1-(2-метокси-фенил) пиперазина
+  type: main
+docidentifier:
+- content: GOST R 16702-2008
+  type: GOST
+  primary: true
+docnumber: '16702'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:16702:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/42664/
+  ics_code: 13.040.30
+  pages: '36'
+  designation_original: ГОСТ Р ИСО 16702-2008

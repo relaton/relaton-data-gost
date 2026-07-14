@@ -1,0 +1,49 @@
+---
+id: GOST-23850-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура радиоэлектронная бытовая. Методы измерения электроакустических
+    параметров
+  type: main
+docidentifier:
+- content: GOST 23850-85
+  type: GOST
+  primary: true
+docnumber: '23850'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23850:85
+  webpage: https://new-shop.ksm.kz/catalog/document/24820/
+  ics_code: '33.160'
+  pages: '50'
+  designation_original: ГОСТ 23850-85

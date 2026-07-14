@@ -1,0 +1,48 @@
+---
+id: GOST-7241-2-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гидроприводы объемные. Муфты быстроразъемные. Часть 2. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 7241-2-2009
+  type: GOST
+  primary: true
+docnumber: 7241-2
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7241-2:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42434/
+  ics_code: 23.100.40
+  pages: '23'
+  designation_original: ГОСТ ИСО 7241-2-2009

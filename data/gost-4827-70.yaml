@@ -1,0 +1,49 @@
+---
+id: GOST-4827-70
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия ликеро-водочные. Розлив, упаковка, маркировка, транспортирование
+    и хранение
+  type: main
+docidentifier:
+- content: GOST 4827-70
+  type: GOST
+  primary: true
+docnumber: '4827'
+date:
+- type: published
+  from: '1970-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1970'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4827:70
+  webpage: https://new-shop.ksm.kz/catalog/document/40411/
+  ics_code: 67.160.10
+  pages: '7'
+  designation_original: ГОСТ 4827-70

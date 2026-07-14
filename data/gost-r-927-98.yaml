@@ -1,0 +1,49 @@
+---
+id: GOST-R-927-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства вспомогательные для ламп. Зажигающие устройства (кроме стартеров
+    тлеющего разряда). Требования к рабочим характеристикам
+  type: main
+docidentifier:
+- content: GOST R 927-98
+  type: GOST
+  primary: true
+docnumber: '927'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:927:98
+  webpage: https://new-shop.ksm.kz/catalog/document/24068/
+  ics_code: 29.140.99
+  pages: '19'
+  designation_original: ГОСТ Р МЭК 927-98

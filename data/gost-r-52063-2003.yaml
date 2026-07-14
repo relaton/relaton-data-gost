@@ -1,0 +1,49 @@
+---
+id: GOST-R-52063-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтепродукты жидкие. Определение группового углеводородного состава методом
+    флуоресцентной индикаторной адсорбции
+  type: main
+docidentifier:
+- content: GOST R 52063-2003
+  type: GOST
+  primary: true
+docnumber: '52063'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52063:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/31790/
+  ics_code: '75.080'
+  pages: '15'
+  designation_original: ГОСТ Р 52063-2003

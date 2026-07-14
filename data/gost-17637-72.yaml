@@ -1,0 +1,48 @@
+---
+id: GOST-17637-72
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Среда глюкозо-хелато-цитратно-сульфатная для хранения спермы хряков
+  type: main
+docidentifier:
+- content: GOST 17637-72
+  type: GOST
+  primary: true
+docnumber: '17637'
+date:
+- type: published
+  from: '1972-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17637:72
+  webpage: https://new-shop.ksm.kz/catalog/document/16417/
+  ics_code: '11.220'
+  pages: '10'
+  designation_original: ГОСТ 17637-72

@@ -1,0 +1,36 @@
+---
+id: GOST-R-58151.3
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Средства дезинфицирующие. Методы определения физико-химических показателей
+  type: main
+docidentifier:
+- content: GOST R 58151.3
+  type: GOST
+  primary: true
+docnumber: '58151.3'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:58151.3
+  webpage: https://new-shop.ksm.kz/catalog/document/76931/
+  pages: '16'
+  designation_original: ГОСТ Р 58151.3

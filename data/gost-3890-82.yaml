@@ -1,0 +1,49 @@
+---
+id: GOST-3890-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Патроны четырехкулачковые с независимым перемещением кулачков. Основные
+    и присоединительные размеры
+  type: main
+docidentifier:
+- content: GOST 3890-82
+  type: GOST
+  primary: true
+docnumber: '3890'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3890:82
+  webpage: https://new-shop.ksm.kz/catalog/document/20513/
+  ics_code: 25.060.20
+  pages: '23'
+  designation_original: ГОСТ 3890-82

@@ -1,0 +1,48 @@
+---
+id: GOST-25284.6-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сплавы цинковые. Методы определения железа
+  type: main
+docidentifier:
+- content: GOST 25284.6-95
+  type: GOST
+  primary: true
+docnumber: '25284.6'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25284.6:95
+  webpage: https://new-shop.ksm.kz/catalog/document/30332/
+  ics_code: 71.040.40
+  pages: '11'
+  designation_original: ГОСТ 25284.6-95

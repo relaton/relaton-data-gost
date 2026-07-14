@@ -1,0 +1,50 @@
+---
+id: GOST-R-1870-1-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность деревообрабатывающих станков. Станки круглопильные. Часть
+    1. Станки круглопильные универсальные (с подвижным столом и без), станки круглопильные
+    форматные и станки круглопильные для строительной площадки
+  type: main
+docidentifier:
+- content: GOST R 1870-1-2011
+  type: GOST
+  primary: true
+docnumber: 1870-1
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:1870-1:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52861/
+  ics_code: 79.120.10
+  pages: '82'
+  designation_original: ГОСТ Р ЕН 1870-1-2011

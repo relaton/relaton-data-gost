@@ -1,0 +1,48 @@
+---
+id: GOST-3902-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло эфирное фенхелевое. Технические условия
+  type: main
+docidentifier:
+- content: GOST 3902-82
+  type: GOST
+  primary: true
+docnumber: '3902'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3902:82
+  webpage: https://new-shop.ksm.kz/catalog/document/29649/
+  ics_code: 71.100.60
+  pages: '8'
+  designation_original: ГОСТ 3902-82

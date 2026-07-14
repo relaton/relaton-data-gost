@@ -1,0 +1,48 @@
+---
+id: GOST-R-9176-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ручки трубчатые технические. Адаптeры для циркулей
+  type: main
+docidentifier:
+- content: GOST R 9176-93
+  type: GOST
+  primary: true
+docnumber: '9176'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9176:93
+  webpage: https://new-shop.ksm.kz/catalog/document/15554/
+  ics_code: 01.100.40
+  pages: '8'
+  designation_original: ГОСТ Р ИСО 9176-93

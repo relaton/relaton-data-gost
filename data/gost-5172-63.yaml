@@ -1,0 +1,49 @@
+---
+id: GOST-5172-63
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Газгольдеры стальные постоянного объема, цилиндрические. Параметры и основные
+    рамеры
+  type: main
+docidentifier:
+- content: GOST 5172-63
+  type: GOST
+  primary: true
+docnumber: '5172'
+date:
+- type: published
+  from: '1963-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1963'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5172:63
+  webpage: https://new-shop.ksm.kz/catalog/document/19810/
+  ics_code: 23.020.30
+  pages: '8'
+  designation_original: ГОСТ 5172-63

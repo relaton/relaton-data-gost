@@ -1,0 +1,50 @@
+---
+id: GOST-R-10865-1-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы крепления кресла-коляски и удержания его пользователя для доступных
+    транспортных средств, предназначенных для использования сидящими и стоящими пассажирами.
+    Часть 1. Системы для пассажиров в креслах-колясках, сидящих лицом назад
+  type: main
+docidentifier:
+- content: GOST R 10865-1-2015
+  type: GOST
+  primary: true
+docnumber: 10865-1
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10865-1:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63646/
+  ics_code: 11.180.10
+  pages: '28'
+  designation_original: ГОСТ Р ИСО 10865-1-2015

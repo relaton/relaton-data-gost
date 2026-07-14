@@ -1,0 +1,49 @@
+---
+id: GOST-17580-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конструкции деревянные клееные. Метод определения стойкости клеевых соединений
+    к цикличным температурно-влажностным воздействиям
+  type: main
+docidentifier:
+- content: GOST 17580-82
+  type: GOST
+  primary: true
+docnumber: '17580'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17580:82
+  webpage: https://new-shop.ksm.kz/catalog/document/35197/
+  ics_code: 91.080.20
+  pages: '8'
+  designation_original: ГОСТ 17580-82

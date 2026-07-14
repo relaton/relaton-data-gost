@@ -1,0 +1,48 @@
+---
+id: GOST-21878-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Случайные процессы и динамические системы. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 21878-76
+  type: GOST
+  primary: true
+docnumber: '21878'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21878:76
+  webpage: https://new-shop.ksm.kz/catalog/document/15072/
+  ics_code: 01.040.07
+  pages: '33'
+  designation_original: ГОСТ 21878-76

@@ -1,0 +1,50 @@
+---
+id: GOST-14396-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двигатели внутреннего сгорания поршневые. Определение и метод измерения
+    мощности двигателя. Дополнительные требования при измерении выбросов продуктов
+    сгорания согласно ISO 8178
+  type: main
+docidentifier:
+- content: GOST 14396-2015
+  type: GOST
+  primary: true
+docnumber: '14396'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14396:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64789/
+  ics_code: '27.020'
+  pages: '16'
+  designation_original: ГОСТ ISO 14396-2015

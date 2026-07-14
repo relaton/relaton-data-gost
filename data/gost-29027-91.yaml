@@ -1,0 +1,49 @@
+---
+id: GOST-29027-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Влагомеры твердых и сыпучих веществ. Общие технические требования и методы
+    испытаний
+  type: main
+docidentifier:
+- content: GOST 29027-91
+  type: GOST
+  primary: true
+docnumber: '29027'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29027:91
+  webpage: https://new-shop.ksm.kz/catalog/document/18630/
+  ics_code: '17.060'
+  pages: '11'
+  designation_original: ГОСТ 29027-91

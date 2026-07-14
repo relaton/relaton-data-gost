@@ -1,0 +1,49 @@
+---
+id: GOST-5347-1-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Калибровка датчиков вибрации и удара. Часть 1. Первичная вибрационная
+    калибровка методами лазерной интерферометрии
+  type: main
+docidentifier:
+- content: GOST 5347-1-96
+  type: GOST
+  primary: true
+docnumber: 5347-1
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5347-1:96
+  webpage: https://new-shop.ksm.kz/catalog/document/18667/
+  ics_code: '17.160'
+  pages: '20'
+  designation_original: ГОСТ ИСО 5347-1-96

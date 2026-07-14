@@ -1,0 +1,48 @@
+---
+id: GOST-R-51260-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тренажеры реабилитационные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 51260-99
+  type: GOST
+  primary: true
+docnumber: '51260'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51260:99
+  webpage: https://new-shop.ksm.kz/catalog/document/16665/
+  ics_code: '11.180'
+  pages: '24'
+  designation_original: ГОСТ Р 51260-99

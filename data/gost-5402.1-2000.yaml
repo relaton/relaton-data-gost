@@ -1,0 +1,49 @@
+---
+id: GOST-5402.1-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия огнеупорные с общей пористостью менее 45%. Метод определения остаточных
+    изменений размеров при нагреве
+  type: main
+docidentifier:
+- content: GOST 5402.1-2000
+  type: GOST
+  primary: true
+docnumber: '5402.1'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5402.1:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/33764/
+  ics_code: '81.080'
+  pages: '12'
+  designation_original: ГОСТ 5402.1-2000

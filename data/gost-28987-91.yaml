@@ -1,0 +1,49 @@
+---
+id: GOST-28987-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Реле электрические логические. Применение системы оценки качества электронных
+    компонентов МЭК к логическим реле
+  type: main
+docidentifier:
+- content: GOST 28987-91
+  type: GOST
+  primary: true
+docnumber: '28987'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28987:91
+  webpage: https://new-shop.ksm.kz/catalog/document/23700/
+  ics_code: 29.120.70
+  pages: '19'
+  designation_original: ГОСТ 28987-91

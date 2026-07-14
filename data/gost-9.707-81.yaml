@@ -1,0 +1,49 @@
+---
+id: GOST-9.707-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система защиты от коррозии и старения. Материалы полимерные. Методы
+    ускоренных испытаний на климатическое старение
+  type: main
+docidentifier:
+- content: GOST 9.707-81
+  type: GOST
+  primary: true
+docnumber: '9.707'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9.707:81
+  webpage: https://new-shop.ksm.kz/catalog/document/18928/
+  ics_code: '19.040'
+  pages: '81'
+  designation_original: ГОСТ 9.707-81

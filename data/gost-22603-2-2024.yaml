@@ -1,0 +1,49 @@
+---
+id: GOST-22603-2-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии. Цифровое представление информации о продукции.
+    Часть 2. Требования к электронным устройствам со встроенными дисплеями
+  type: main
+docidentifier:
+- content: GOST 22603-2-2024
+  type: GOST
+  primary: true
+docnumber: 22603-2
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22603-2:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76334/
+  ics_code: '35.040'
+  pages: '7'
+  designation_original: ГОСТ ISO/IEC 22603-2-2024

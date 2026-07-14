@@ -1,0 +1,48 @@
+---
+id: GOST-23073-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы тепловые. Термины, определения и буквенные обозначения
+  type: main
+docidentifier:
+- content: GOST 23073-78
+  type: GOST
+  primary: true
+docnumber: '23073'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23073:78
+  webpage: https://new-shop.ksm.kz/catalog/document/15134/
+  ics_code: 01.040.31
+  pages: '5'
+  designation_original: ГОСТ 23073-78

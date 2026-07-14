@@ -1,0 +1,49 @@
+---
+id: GOST-R-60598-2-18-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Светильники. Часть 2. Частные требования. Раздел 18. Светильники для плавательных
+    бассейнов и аналогичного применения
+  type: main
+docidentifier:
+- content: GOST R 60598-2-18-98
+  type: GOST
+  primary: true
+docnumber: 60598-2-18
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60598-2-18:98
+  webpage: https://new-shop.ksm.kz/catalog/document/24098/
+  ics_code: 29.140.40
+  pages: '8'
+  designation_original: ГОСТ Р МЭК 60598-2-18-98

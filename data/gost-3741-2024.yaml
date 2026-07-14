@@ -1,0 +1,49 @@
+---
+id: GOST-3741-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Акустика. Определение уровней звуковой мощности и звуковой энергии источников
+    шума по звуковому давлению. Точные методы для реверберационных камер
+  type: main
+docidentifier:
+- content: GOST 3741-2024
+  type: GOST
+  primary: true
+docnumber: '3741'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3741:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76309/
+  ics_code: 17.140.01
+  pages: '56'
+  designation_original: ГОСТ ISO 3741-2024

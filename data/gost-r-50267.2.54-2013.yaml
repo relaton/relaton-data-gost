@@ -1,0 +1,50 @@
+---
+id: GOST-R-50267.2.54-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 2-54. Частные требования безопасности
+    с учетом основных функциональных характеристик к рентгеновским аппаратам для рентгенографии
+    рентгеноскопии
+  type: main
+docidentifier:
+- content: GOST R 50267.2.54-2013
+  type: GOST
+  primary: true
+docnumber: 50267.2.54
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50267.2.54:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58168/
+  ics_code: 11.040.50
+  pages: '62'
+  designation_original: ГОСТ Р 50267.2.54-2013 (МЭК 60601-2-54:2009)

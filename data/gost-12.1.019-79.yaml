@@ -1,0 +1,49 @@
+---
+id: GOST-12.1.019-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Электробезопасность. Общие требования
+    и номенклатура видов защиты
+  type: main
+docidentifier:
+- content: GOST 12.1.019-79
+  type: GOST
+  primary: true
+docnumber: 12.1.019
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.1.019:79
+  webpage: https://new-shop.ksm.kz/catalog/document/16884/
+  ics_code: '13.260'
+  pages: '7'
+  designation_original: ГОСТ 12.1.019-79

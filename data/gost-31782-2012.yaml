@@ -1,0 +1,49 @@
+---
+id: GOST-31782-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Виноград свежий машинной и ручной уборки для промышленной переработки.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 31782-2012
+  type: GOST
+  primary: true
+docnumber: '31782'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31782:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/53060/
+  ics_code: 67.080.10
+  pages: '14'
+  designation_original: ГОСТ 31782-2012

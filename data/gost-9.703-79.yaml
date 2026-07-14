@@ -1,0 +1,50 @@
+---
+id: GOST-9.703-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система защиты от коррозии и старения. Пластмассы для изделий, предназначенных
+    для эксплуатации в районах с тропическим климатом. Общие требования к выбору и
+    методы испытаний
+  type: main
+docidentifier:
+- content: GOST 9.703-79
+  type: GOST
+  primary: true
+docnumber: '9.703'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9.703:79
+  webpage: https://new-shop.ksm.kz/catalog/document/18925/
+  ics_code: '83.080'
+  pages: '67'
+  designation_original: ГОСТ 9.703-79

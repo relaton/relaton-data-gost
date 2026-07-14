@@ -1,0 +1,50 @@
+---
+id: GOST-R-52161.2.36-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность бытовых и аналогичных электрических приборов. Часть 2.36.
+    Частные требования к электрическим кухонным плитам, шкафам и конфоркам для предприятий
+    общественного питания
+  type: main
+docidentifier:
+- content: GOST R 52161.2.36-2012
+  type: GOST
+  primary: true
+docnumber: 52161.2.36
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52161.2.36:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/56719/
+  ics_code: 97.040.20
+  pages: '24'
+  designation_original: ГОСТ Р 52161.2.36-2012 (МЭК 60335-2-36:2008)

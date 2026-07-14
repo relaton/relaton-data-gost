@@ -1,0 +1,49 @@
+---
+id: GOST-R-141-1-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели маслонаполненные с бумажной изоляцией в металлической оболочке на
+    переменное напряжение до 400 кВ включительно и арматура к ним. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 141-1-96
+  type: GOST
+  primary: true
+docnumber: 141-1
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:141-1:96
+  webpage: https://new-shop.ksm.kz/catalog/document/24043/
+  ics_code: 29.060.20
+  pages: '28'
+  designation_original: ГОСТ Р МЭК 141-1-96

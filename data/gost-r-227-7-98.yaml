@@ -1,0 +1,50 @@
+---
+id: GOST-R-227-7-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели с поливинилхлоридной изоляцией на номинальное напряжение до 450/750
+    В включительно. Кабели гибкие экранированные и неэкранированные с двумя или более
+    токопроводящими жилами
+  type: main
+docidentifier:
+- content: GOST R 227-7-98
+  type: GOST
+  primary: true
+docnumber: 227-7
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:227-7:98
+  webpage: https://new-shop.ksm.kz/catalog/document/24044/
+  ics_code: 29.060.20
+  pages: '16'
+  designation_original: ГОСТ Р МЭК 227-7-98

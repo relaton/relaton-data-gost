@@ -1,0 +1,48 @@
+---
+id: GOST-32405-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фрезы концевые цельные твердосплавные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 32405-2013
+  type: GOST
+  primary: true
+docnumber: '32405'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32405:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57066/
+  ics_code: 25.100.20
+  pages: '16'
+  designation_original: ГОСТ 32405-2013 (ISO 10911:2010)

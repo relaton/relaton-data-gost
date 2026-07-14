@@ -1,0 +1,48 @@
+---
+id: GOST-12.0.002-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 12.0.002-2003
+  type: GOST
+  primary: true
+docnumber: 12.0.002
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.0.002:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/673/
+  ics_code: 01.040.13
+  pages: '14'
+  designation_original: ГОСТ 12.0.002-2003

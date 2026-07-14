@@ -1,0 +1,49 @@
+---
+id: GOST-R-8.629-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Меры рельефные
+    нанометрового диапазона с трапецеидальным профилем элементов. Методика поверки
+  type: main
+docidentifier:
+- content: GOST R 8.629-2007
+  type: GOST
+  primary: true
+docnumber: '8.629'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8.629:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/18868/
+  ics_code: 17.040.01
+  pages: '20'
+  designation_original: ГОСТ Р 8.629-2007

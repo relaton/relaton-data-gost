@@ -1,0 +1,49 @@
+---
+id: GOST-8338-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подшипники качения. Подшипники шариковые радиальные однорядные. Классификация,
+    указания по применению и эксплуатации
+  type: main
+docidentifier:
+- content: GOST 8338-2022
+  type: GOST
+  primary: true
+docnumber: '8338'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8338:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/75615/
+  ics_code: 21.100.20
+  pages: '29'
+  designation_original: ГОСТ 8338-2022

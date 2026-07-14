@@ -1,0 +1,48 @@
+---
+id: GOST-737-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ткань хлопчатобумажная "Тифтик вод". Технические условия
+  type: main
+docidentifier:
+- content: GOST 737-69
+  type: GOST
+  primary: true
+docnumber: '737'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:737:69
+  webpage: https://new-shop.ksm.kz/catalog/document/26576/
+  ics_code: 59.080.40
+  pages: '11'
+  designation_original: ГОСТ 737-69

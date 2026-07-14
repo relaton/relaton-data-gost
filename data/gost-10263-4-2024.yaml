@@ -1,0 +1,50 @@
+---
+id: GOST-10263-4-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Окружающая среда рабочего места оператора. Часть 4.
+    Системы обогрева, вентиляции и кондиционирования воздуха (HVAC). Технические требования
+    и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 10263-4-2024
+  type: GOST
+  primary: true
+docnumber: 10263-4
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10263-4:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76006/
+  ics_code: '53.100'
+  pages: '12'
+  designation_original: ГОСТ ISO 10263-4-2024

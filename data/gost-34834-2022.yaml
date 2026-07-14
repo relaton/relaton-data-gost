@@ -1,0 +1,49 @@
+---
+id: GOST-34834-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели силовые с экструдированной изоляцией на номинальное напряжение от
+    6 до 35 кВ включительно. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 34834-2022
+  type: GOST
+  primary: true
+docnumber: '34834'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34834:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/76044/
+  ics_code: 29.060.20
+  pages: '47'
+  designation_original: ГОСТ 34834-2022

@@ -1,0 +1,48 @@
+---
+id: GOST-9536-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Спирт изобутиловый технический. Технические условия
+  type: main
+docidentifier:
+- content: GOST 9536-79
+  type: GOST
+  primary: true
+docnumber: '9536'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9536:79
+  webpage: https://new-shop.ksm.kz/catalog/document/29881/
+  ics_code: 87.060.30
+  pages: '15'
+  designation_original: ГОСТ 9536-79

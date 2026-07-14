@@ -1,0 +1,49 @@
+---
+id: GOST-R-56189-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Производство нанотехнологическое. Контроль основных характеристик. Часть
+    2-1. Материалы из углеродных нанотрубок. Методы определения поверхностного сопротивления
+  type: main
+docidentifier:
+- content: GOST R 56189-2014
+  type: GOST
+  primary: true
+docnumber: '56189'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56189:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/59264/
+  ics_code: '07.030'
+  pages: '16'
+  designation_original: ГОСТ Р 56189-2014/IEC/TS 62607-2-1:2012

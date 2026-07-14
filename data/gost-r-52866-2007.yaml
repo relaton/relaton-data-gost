@@ -1,0 +1,49 @@
+---
+id: GOST-R-52866-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Глобальная навигационная спутниковая система. Станция контрольно-корректирующая
+    локальная гражданского назначения. Технические требования
+  type: main
+docidentifier:
+- content: GOST R 52866-2007
+  type: GOST
+  primary: true
+docnumber: '52866'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52866:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/40933/
+  ics_code: 33.060.30
+  pages: '7'
+  designation_original: ГОСТ Р 52866-2007

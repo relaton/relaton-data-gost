@@ -1,0 +1,49 @@
+---
+id: GOST-335-2-10-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность бытовых и аналогичных электрических приборов. Дополнительные
+    требования к полотерам и машинам для влажной очистки полов и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 335-2-10-95
+  type: GOST
+  primary: true
+docnumber: 335-2-10
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:335-2-10:95
+  webpage: https://new-shop.ksm.kz/catalog/document/514/
+  ics_code: '97.080'
+  pages: '97'
+  designation_original: ГОСТ МЭК 335-2-10-95

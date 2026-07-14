@@ -1,0 +1,48 @@
+---
+id: GOST-22775-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Круги шлифовальные лепестковые. Типы и основные размеры
+  type: main
+docidentifier:
+- content: GOST 22775-77
+  type: GOST
+  primary: true
+docnumber: '22775'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22775:77
+  webpage: https://new-shop.ksm.kz/catalog/document/21719/
+  ics_code: 25.100.70
+  pages: '5'
+  designation_original: ГОСТ 22775-77

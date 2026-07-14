@@ -1,0 +1,49 @@
+---
+id: GOST-R-22030-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество почвы. Биологические методы. Хроническая фитотоксичность в отношении
+    высших растений
+  type: main
+docidentifier:
+- content: GOST R 22030-2009
+  type: GOST
+  primary: true
+docnumber: '22030'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:22030:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/45368/
+  ics_code: 13.080.05
+  pages: '20'
+  designation_original: ГОСТ Р ИСО 22030-2009

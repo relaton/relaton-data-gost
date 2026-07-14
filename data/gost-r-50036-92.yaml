@@ -1,0 +1,50 @@
+---
+id: GOST-R-50036-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Протяжки с навертным хвостовиком для шлицевых отверстий с эвольвентным
+    профилем диаметром от 90 до 120 мм, модулем 2,5 мм с центрированием по наружному
+    диаметру комбинированные двухпроходные. Конструкция
+  type: main
+docidentifier:
+- content: GOST R 50036-92
+  type: GOST
+  primary: true
+docnumber: '50036'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50036:92
+  webpage: https://new-shop.ksm.kz/catalog/document/22814/
+  ics_code: 25.100.25
+  pages: '12'
+  designation_original: ГОСТ Р 50036-92

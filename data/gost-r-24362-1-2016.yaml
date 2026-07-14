@@ -1,0 +1,50 @@
+---
+id: GOST-R-24362-1-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы текстильные. Методы определения некоторых ароматических аминов,
+    выделяемых из азокрасителей. Часть 1. Обнаружение использования некоторых азокрасителей,
+    выделяемых из волокон при экстракции или без экстракции
+  type: main
+docidentifier:
+- content: GOST R 24362-1-2016
+  type: GOST
+  primary: true
+docnumber: 24362-1
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:24362-1:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/64879/
+  ics_code: 59.080.01
+  pages: '24'
+  designation_original: ГОСТ Р ИСО 24362-1-2016

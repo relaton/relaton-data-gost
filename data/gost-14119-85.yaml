@@ -1,0 +1,48 @@
+---
+id: GOST-14119-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Прутки из прецизионных сплавов для упругих элементов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 14119-85
+  type: GOST
+  primary: true
+docnumber: '14119'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14119:85
+  webpage: https://new-shop.ksm.kz/catalog/document/32601/
+  ics_code: 77.140.60
+  pages: '5'
+  designation_original: ГОСТ 14119-85

@@ -1,0 +1,48 @@
+---
+id: GOST-32796-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Свинина. Туши и отрубы. Требования при поставках и контроль качества
+  type: main
+docidentifier:
+- content: GOST 32796-2014
+  type: GOST
+  primary: true
+docnumber: '32796'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32796:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/65079/
+  ics_code: 67.120.10
+  pages: '68'
+  designation_original: ГОСТ 32796-2014

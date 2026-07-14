@@ -1,0 +1,49 @@
+---
+id: GOST-30747-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тракторы сельскохозяйственные. Определение показателей при испытаниях через
+    вал отбора мощности
+  type: main
+docidentifier:
+- content: GOST 30747-2001
+  type: GOST
+  primary: true
+docnumber: '30747'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30747:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/28203/
+  ics_code: 65.060.10
+  pages: '11'
+  designation_original: ГОСТ 30747-2001

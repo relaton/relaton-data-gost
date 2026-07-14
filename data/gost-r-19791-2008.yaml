@@ -1,0 +1,49 @@
+---
+id: GOST-R-19791-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Методы и средства обеспечения безопасности.
+    Оценка безопасности автоматизированных систем
+  type: main
+docidentifier:
+- content: GOST R 19791-2008
+  type: GOST
+  primary: true
+docnumber: '19791'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:19791:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/43103/
+  ics_code: '35.040'
+  pages: '126'
+  designation_original: ГОСТ Р ИСО/МЭК ТО 19791-2008

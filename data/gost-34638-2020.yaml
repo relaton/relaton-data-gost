@@ -1,0 +1,49 @@
+---
+id: GOST-34638-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Методы исследования воздействия химических веществ на организм человека.
+    Метод определения мембранного барьера in vitro при повреждении кожи
+  type: main
+docidentifier:
+- content: GOST 34638-2020
+  type: GOST
+  primary: true
+docnumber: '34638'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34638:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/73692/
+  ics_code: 71.040.10
+  pages: '18'
+  designation_original: ГОСТ 34638-2020

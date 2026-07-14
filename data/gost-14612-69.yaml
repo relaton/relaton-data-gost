@@ -1,0 +1,48 @@
+---
+id: GOST-14612-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Копры и копровое оборудование для свайных работ. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 14612-69
+  type: GOST
+  primary: true
+docnumber: '14612'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14612:69
+  webpage: https://new-shop.ksm.kz/catalog/document/14846/
+  ics_code: 01.040.73
+  pages: '12'
+  designation_original: ГОСТ 14612-69

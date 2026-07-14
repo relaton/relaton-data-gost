@@ -1,0 +1,49 @@
+---
+id: GOST-11478-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура радиоэлектронная бытовая. Нормы и методы испытаний на воздействие
+    внешних механических и климатических факторов
+  type: main
+docidentifier:
+- content: GOST 11478-88
+  type: GOST
+  primary: true
+docnumber: '11478'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11478:88
+  webpage: https://new-shop.ksm.kz/catalog/document/18959/
+  ics_code: '19.040'
+  pages: '44'
+  designation_original: ГОСТ 11478-88

@@ -1,0 +1,49 @@
+---
+id: GOST-34673.3-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тяговый подвижной состав железнодорожный. Часть 3. Методы контроля выполнения
+    функций устройствами, обеспечивающими безопасность движения
+  type: main
+docidentifier:
+- content: GOST 34673.3-2022
+  type: GOST
+  primary: true
+docnumber: '34673.3'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34673.3:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/75438/
+  ics_code: 45.060.20
+  pages: '20'
+  designation_original: ГОСТ 34673.3-2022

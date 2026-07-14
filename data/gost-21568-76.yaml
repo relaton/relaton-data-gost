@@ -1,0 +1,49 @@
+---
+id: GOST-21568-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Цветки мать-и-мачехи. Технические требования на продукцию, поставляемую
+    на экспорт
+  type: main
+docidentifier:
+- content: GOST 21568-76
+  type: GOST
+  primary: true
+docnumber: '21568'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21568:76
+  webpage: https://new-shop.ksm.kz/catalog/document/16445/
+  ics_code: 11.120.10
+  pages: '3'
+  designation_original: ГОСТ 21568-76

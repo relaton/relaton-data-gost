@@ -1,0 +1,49 @@
+---
+id: GOST-31212-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрокардиостимуляторы имплантируемые. Общие технические требования и
+    методы испытаний
+  type: main
+docidentifier:
+- content: GOST 31212-2003
+  type: GOST
+  primary: true
+docnumber: '31212'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31212:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/38410/
+  ics_code: 11.040.40
+  pages: '20'
+  designation_original: ГОСТ 31212-2003

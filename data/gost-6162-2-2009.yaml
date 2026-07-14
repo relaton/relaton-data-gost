@@ -1,0 +1,51 @@
+---
+id: GOST-6162-2-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гидроприводы объёмные. Соединения фланцевые с разрезными или цельными свободными
+    фланцами, с метрическими или дюймовыми винтами. Часть 2. Соединения фланцевые
+    на давление от 35 МПа (350 бар) до 40 МПа (400 бар) с условными проходами от DN
+    13 до DN 51
+  type: main
+docidentifier:
+- content: GOST 6162-2-2009
+  type: GOST
+  primary: true
+docnumber: 6162-2
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6162-2:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42431/
+  ics_code: 23.100.40
+  pages: '22'
+  designation_original: ГОСТ ИСО 6162-2-2009

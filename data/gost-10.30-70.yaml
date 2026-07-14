@@ -1,0 +1,48 @@
+---
+id: GOST-10.30-70
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лен трепаный. Технические требования на продукцию, поставляемую на экспорт
+  type: main
+docidentifier:
+- content: GOST 10.30-70
+  type: GOST
+  primary: true
+docnumber: '10.30'
+date:
+- type: published
+  from: '1970-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1970'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10.30:70
+  webpage: https://new-shop.ksm.kz/catalog/document/26557/
+  ics_code: 59.060.10
+  pages: '12'
+  designation_original: ГОСТ 10.30-70

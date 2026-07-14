@@ -1,0 +1,51 @@
+---
+id: GOST-R-8.662-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Газ природный.
+    Термодинамические свойства газовой фазы. Методы расчетного определения для целей
+    транспортирования и распределения газа на основе фундаментального уравнения состояния
+    AGA8
+  type: main
+docidentifier:
+- content: GOST R 8.662-2009
+  type: GOST
+  primary: true
+docnumber: '8.662'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8.662:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/44166/
+  ics_code: '75.060'
+  pages: '43'
+  designation_original: ГОСТ Р 8.662-2009 (ИСО 20765-1:2005)

@@ -1,0 +1,49 @@
+---
+id: GOST-35001.3-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы лакокрасочные. Методы воздействия лабораторных установок с источниками
+    света. Часть 3. Флуоресцентные ультрафиолетовые лампы
+  type: main
+docidentifier:
+- content: GOST 35001.3-2024
+  type: GOST
+  primary: true
+docnumber: '35001.3'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35001.3:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75802/
+  ics_code: '87.040'
+  pages: '22'
+  designation_original: ГОСТ 35001.3-2024

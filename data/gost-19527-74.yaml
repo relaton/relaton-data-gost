@@ -1,0 +1,48 @@
+---
+id: GOST-19527-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Коронки алмазные для бурения геологоразведочных скважин. Основные размеры
+  type: main
+docidentifier:
+- content: GOST 19527-74
+  type: GOST
+  primary: true
+docnumber: '19527'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19527:74
+  webpage: https://new-shop.ksm.kz/catalog/document/30886/
+  ics_code: 73.100.30
+  pages: '4'
+  designation_original: ГОСТ 19527-74

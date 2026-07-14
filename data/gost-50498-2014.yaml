@@ -1,0 +1,49 @@
+---
+id: GOST-50498-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электромагнитная совместимость. Стандарт на группу продукции для электронного
+    оборудования, устанавливаемого на транспортных средствах после их продажи.
+  type: main
+docidentifier:
+- content: GOST 50498-2014
+  type: GOST
+  primary: true
+docnumber: '50498'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:50498:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/64128/
+  ics_code: 33.100.01
+  pages: '9'
+  designation_original: ГОСТ EN 50498-2014

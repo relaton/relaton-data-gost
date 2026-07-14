@@ -1,0 +1,49 @@
+---
+id: GOST-23710-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кислоты жирные синтетические. Фотоколориметрический метод определения цветности
+    по йодной шкале
+  type: main
+docidentifier:
+- content: GOST 23710-86
+  type: GOST
+  primary: true
+docnumber: '23710'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23710:86
+  webpage: https://new-shop.ksm.kz/catalog/document/30255/
+  ics_code: 71.080.40
+  pages: '9'
+  designation_original: ГОСТ 23710-86

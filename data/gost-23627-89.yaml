@@ -1,0 +1,49 @@
+---
+id: GOST-23627-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия текстильно-галантерейные тканые, плетеные, витые и вязаные, метражные
+    и штучные. Нормы устойчивости окраски и методы ее определения
+  type: main
+docidentifier:
+- content: GOST 23627-89
+  type: GOST
+  primary: true
+docnumber: '23627'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23627:89
+  webpage: https://new-shop.ksm.kz/catalog/document/27596/
+  ics_code: '61.040'
+  pages: '12'
+  designation_original: ГОСТ 23627-89

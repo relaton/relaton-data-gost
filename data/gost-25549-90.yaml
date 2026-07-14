@@ -1,0 +1,49 @@
+---
+id: GOST-25549-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топлива, масла, смазки и специальные жидкости. Химмотологическая карта.
+    Порядок составления и согласования
+  type: main
+docidentifier:
+- content: GOST 25549-90
+  type: GOST
+  primary: true
+docnumber: '25549'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25549:90
+  webpage: https://new-shop.ksm.kz/catalog/document/31661/
+  ics_code: '75.100'
+  pages: '10'
+  designation_original: ГОСТ 25549-90

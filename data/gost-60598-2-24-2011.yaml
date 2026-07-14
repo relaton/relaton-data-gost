@@ -1,0 +1,49 @@
+---
+id: GOST-60598-2-24-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Светильники. Часть 2-24. Частные требования. Светильники с ограничением
+    температуры поверхности
+  type: main
+docidentifier:
+- content: GOST 60598-2-24-2011
+  type: GOST
+  primary: true
+docnumber: 60598-2-24
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60598-2-24:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/38824/
+  ics_code: 29.140.40
+  pages: '8'
+  designation_original: ГОСТ IEC 60598-2-24-2011

@@ -1,0 +1,49 @@
+---
+id: GOST-30331.1-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроустановки низковольтные. Часть 1. Основные положения, оценка общих
+    характеристик, термины и определения
+  type: main
+docidentifier:
+- content: GOST 30331.1-2013
+  type: GOST
+  primary: true
+docnumber: '30331.1'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30331.1:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58849/
+  ics_code: 29.120.50
+  pages: '55'
+  designation_original: ГОСТ 30331.1-2013 (IEC 60364-1:2005)

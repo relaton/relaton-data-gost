@@ -1,0 +1,50 @@
+---
+id: GOST-35302-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Теплоизоляционные изделия из пенополиуретана для строительства.  Системы
+    жесткого напыляемого пенополиуретана, предназначенные для напыления на месте производства
+    работ.  Технические условия
+  type: main
+docidentifier:
+- content: GOST 35302-2025
+  type: GOST
+  primary: true
+docnumber: '35302'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35302:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77030/
+  ics_code: '91.100'
+  pages: '41'
+  designation_original: ГОСТ 35302-2025 (EN 14315-1:2013)

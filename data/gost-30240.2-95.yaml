@@ -1,0 +1,48 @@
+---
+id: GOST-30240.2-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Концентрат баритовый. Фотометрический метод определения двуокиси кремния
+  type: main
+docidentifier:
+- content: GOST 30240.2-95
+  type: GOST
+  primary: true
+docnumber: '30240.2'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30240.2:95
+  webpage: https://new-shop.ksm.kz/catalog/document/31216/
+  ics_code: 73.060.99
+  pages: '6'
+  designation_original: ГОСТ 30240.2-95

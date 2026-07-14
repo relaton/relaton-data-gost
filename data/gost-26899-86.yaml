@@ -1,0 +1,50 @@
+---
+id: GOST-26899-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Техническая диагностика. Стенды роликовые для определения параметров тягово-скоростных
+    свойств и топливной экономичности автомобилей и колесных тракторов в условиях
+    эксплуатации. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST 26899-86
+  type: GOST
+  primary: true
+docnumber: '26899'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26899:86
+  webpage: https://new-shop.ksm.kz/catalog/document/25833/
+  ics_code: '43.180'
+  pages: '11'
+  designation_original: ГОСТ 26899-86

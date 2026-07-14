@@ -1,0 +1,48 @@
+---
+id: GOST-R-870-4-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства и системы телемеханики. Часть 4. Технические требования
+  type: main
+docidentifier:
+- content: GOST R 870-4-93
+  type: GOST
+  primary: true
+docnumber: 870-4
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:870-4:93
+  webpage: https://new-shop.ksm.kz/catalog/document/25059/
+  ics_code: '33.200'
+  pages: '30'
+  designation_original: ГОСТ Р МЭК 870-4-93

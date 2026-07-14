@@ -1,0 +1,49 @@
+---
+id: GOST-26897-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Радиостанции с однополосной модуляцией морской подвижной службы. Типы,
+    основные параметры, технические требования и методы измерений
+  type: main
+docidentifier:
+- content: GOST 26897-86
+  type: GOST
+  primary: true
+docnumber: '26897'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26897:86
+  webpage: https://new-shop.ksm.kz/catalog/document/26106/
+  ics_code: 47.020.70
+  pages: '36'
+  designation_original: ГОСТ 26897-86

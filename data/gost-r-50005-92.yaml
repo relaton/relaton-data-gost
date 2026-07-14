@@ -1,0 +1,49 @@
+---
+id: GOST-R-50005-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лазеры и излучатели твердотельные. Методы измерения максимальной локальной
+    плотности энергии (мощности) лазерного излучения
+  type: main
+docidentifier:
+- content: GOST R 50005-92
+  type: GOST
+  primary: true
+docnumber: '50005'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50005:92
+  webpage: https://new-shop.ksm.kz/catalog/document/24670/
+  ics_code: '31.260'
+  pages: '11'
+  designation_original: ГОСТ Р 50005-92

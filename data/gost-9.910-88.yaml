@@ -1,0 +1,50 @@
+---
+id: GOST-9.910-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система защиты от коррозии и старения. Металлы, сплавы, покрытия
+    жаростойкие. Метод испытания на термоусталость в газовых потоках на клиновидных
+    образцах
+  type: main
+docidentifier:
+- content: GOST 9.910-88
+  type: GOST
+  primary: true
+docnumber: '9.910'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9.910:88
+  webpage: https://new-shop.ksm.kz/catalog/document/20409/
+  ics_code: 25.220.40
+  pages: '27'
+  designation_original: ГОСТ 9.910-88

@@ -1,0 +1,50 @@
+---
+id: GOST-31418-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Методы испытаний на стойкость к механическим внешним воздействующим факторам
+    машин, приборов и других технических изделий. Испытания на удар с воспроизведением
+    ударного спектра
+  type: main
+docidentifier:
+- content: GOST 31418-2010
+  type: GOST
+  primary: true
+docnumber: '31418'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31418:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45471/
+  ics_code: '19.060'
+  pages: '28'
+  designation_original: ГОСТ 31418-2010

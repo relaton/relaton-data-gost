@@ -1,0 +1,49 @@
+---
+id: GOST-3019-2-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: 'Гидроприводы объемные. Размеры и условные обозначения крепежных фланцев
+    и концов валов объемных насосов и гидромоторов. Часть 2: Метрические ряды'
+  type: main
+docidentifier:
+- content: GOST 3019-2-2008
+  type: GOST
+  primary: true
+docnumber: 3019-2
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3019-2:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/38236/
+  ics_code: 23.100.10
+  pages: '23'
+  designation_original: ГОСТ ИСО 3019-2-2008

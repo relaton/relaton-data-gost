@@ -1,0 +1,49 @@
+---
+id: GOST-26807-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура бортовая цифровая самолетов и вертолетов. Методы стендовых испытаний
+    на работоспособность в условиях электромагнитных воздействий
+  type: main
+docidentifier:
+- content: GOST 26807-86
+  type: GOST
+  primary: true
+docnumber: '26807'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26807:86
+  webpage: https://new-shop.ksm.kz/catalog/document/648/
+  ics_code: '49.090'
+  pages: '20'
+  designation_original: ГОСТ 26807-86

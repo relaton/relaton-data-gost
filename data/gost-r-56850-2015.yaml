@@ -1,0 +1,49 @@
+---
+id: GOST-R-56850-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информатизация здоровья. Менеджмент рисков в информационно-вычислительных
+    сетях с медицинскими приборами. Часть 2-2. Руководство по выявлению и обмену информацией
+    о защите медицинских приборов, рисках и управлении рисками
+  type: main
+docidentifier:
+- content: GOST R 56850-2015
+  type: GOST
+  primary: true
+docnumber: '56850'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56850:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64569/
+  pages: '50'
+  designation_original: ГОСТ Р 56850-2015/IEC/TR 80001-2-2:2012

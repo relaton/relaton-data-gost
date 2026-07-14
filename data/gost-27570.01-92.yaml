@@ -1,0 +1,49 @@
+---
+id: GOST-27570.01-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность электрически нагреваемых одеял, подушек и аналогичных гибких
+    нагревательных приборов для бытового использования. Требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 27570.01-92
+  type: GOST
+  primary: true
+docnumber: '27570.01'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27570.01:92
+  webpage: https://new-shop.ksm.kz/catalog/document/17415/
+  ics_code: '13.120'
+  pages: '81'
+  designation_original: ГОСТ 27570.01-92

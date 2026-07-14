@@ -1,0 +1,49 @@
+---
+id: GOST-12247-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Баллоны стальные бесшовные большого объема для газов на Рр 31,4 и 39,2
+    МПа (320 и 400 кгс/см кв.). Технические условия
+  type: main
+docidentifier:
+- content: GOST 12247-80
+  type: GOST
+  primary: true
+docnumber: '12247'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12247:80
+  webpage: https://new-shop.ksm.kz/catalog/document/19905/
+  ics_code: 23.020.30
+  pages: '11'
+  designation_original: ГОСТ 12247-80

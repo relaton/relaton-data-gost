@@ -1,0 +1,49 @@
+---
+id: GOST-R-50896-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроагрегаты и передвижные электростанции с двигателями внутреннего
+    сгорания. Виды, комплектность и содержание эксплуатационных документов
+  type: main
+docidentifier:
+- content: GOST R 50896-96
+  type: GOST
+  primary: true
+docnumber: '50896'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50896:96
+  webpage: https://new-shop.ksm.kz/catalog/document/15516/
+  ics_code: '27.100'
+  pages: '49'
+  designation_original: ГОСТ Р 50896-96

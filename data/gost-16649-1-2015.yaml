@@ -1,0 +1,51 @@
+---
+id: GOST-16649-1-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Микробиология пищевой продукции и кормов. Горизонтальный метод подсчета
+    бета-глюкуронидаза-положительных Escherichia coli (кишечная палочка). Часть 1.
+    Методика подсчета колоний при температуре 44 °C с применением мембран и 5-бром-4-хлор-3-индолил
+    бета-D-глюкуронида
+  type: main
+docidentifier:
+- content: GOST 16649-1-2015
+  type: GOST
+  primary: true
+docnumber: 16649-1
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16649-1:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/70612/
+  ics_code: 07.100.30
+  pages: '16'
+  designation_original: ГОСТ ISO 16649-1-2015

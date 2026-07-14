@@ -1,0 +1,49 @@
+---
+id: GOST-R-20816-1-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Измерения вибрации и оценка вибрационного состояния машин. Часть
+    1. Общее руководство
+  type: main
+docidentifier:
+- content: GOST R 20816-1-2021
+  type: GOST
+  primary: true
+docnumber: 20816-1
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:20816-1:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75893/
+  ics_code: '17.160'
+  pages: '36'
+  designation_original: ГОСТ Р ИСО 20816-1-2021

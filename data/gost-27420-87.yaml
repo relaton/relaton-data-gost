@@ -1,0 +1,49 @@
+---
+id: GOST-27420-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы синтетические для деталей низа обуви. Метод определения морозостойкости
+    в динамических условиях
+  type: main
+docidentifier:
+- content: GOST 27420-87
+  type: GOST
+  primary: true
+docnumber: '27420'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27420:87
+  webpage: https://new-shop.ksm.kz/catalog/document/27651/
+  ics_code: '83.060'
+  pages: '7'
+  designation_original: ГОСТ 27420-87

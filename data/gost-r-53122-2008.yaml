@@ -1,0 +1,49 @@
+---
+id: GOST-R-53122-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия кондитерские. Методы определения содержания молочного жира в шоколадных
+    изделиях
+  type: main
+docidentifier:
+- content: GOST R 53122-2008
+  type: GOST
+  primary: true
+docnumber: '53122'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53122:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/42598/
+  ics_code: '67.190'
+  pages: '11'
+  designation_original: ГОСТ Р 53122-2008

@@ -1,0 +1,49 @@
+---
+id: GOST-35221-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Турбины стационарные паровые. Требования по контролю металла и продлению
+    срока службы основных элементов паровых турбин
+  type: main
+docidentifier:
+- content: GOST 35221-2024
+  type: GOST
+  primary: true
+docnumber: '35221'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35221:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76178/
+  ics_code: '27.040'
+  pages: '27'
+  designation_original: ГОСТ 35221-2024

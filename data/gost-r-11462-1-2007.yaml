@@ -1,0 +1,49 @@
+---
+id: GOST-R-11462-1-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Статистические методы. Руководство по внедрению статистического управления
+    процессами. Часть 1. Элементы
+  type: main
+docidentifier:
+- content: GOST R 11462-1-2007
+  type: GOST
+  primary: true
+docnumber: 11462-1
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:11462-1:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/16179/
+  ics_code: 03.120.30
+  pages: '24'
+  designation_original: ГОСТ Р ИСО 11462-1-2007

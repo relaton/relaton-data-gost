@@ -1,0 +1,48 @@
+---
+id: GOST-27667-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система цифровая звуковая "Компакт-диск". Параметры
+  type: main
+docidentifier:
+- content: GOST 27667-88
+  type: GOST
+  primary: true
+docnumber: '27667'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27667:88
+  webpage: https://new-shop.ksm.kz/catalog/document/24870/
+  ics_code: 33.160.30
+  pages: '36'
+  designation_original: ГОСТ 27667-88

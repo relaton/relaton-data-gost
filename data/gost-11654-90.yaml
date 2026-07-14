@@ -1,0 +1,48 @@
+---
+id: GOST-11654-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станки круглошлифовальные. Основные параметры и размеры. Нормы точности
+  type: main
+docidentifier:
+- content: GOST 11654-90
+  type: GOST
+  primary: true
+docnumber: '11654'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11654:90
+  webpage: https://new-shop.ksm.kz/catalog/document/22153/
+  ics_code: 25.080.50
+  pages: '39'
+  designation_original: ГОСТ 11654-90

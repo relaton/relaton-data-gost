@@ -1,0 +1,49 @@
+---
+id: GOST-R-50852-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Комбикорма, комбикормовое сырье. Метод определения содержания сырой золы,
+    кальция и фосфора с применением спектроскопии в ближней инфракрасной области
+  type: main
+docidentifier:
+- content: GOST R 50852-96
+  type: GOST
+  primary: true
+docnumber: '50852'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50852:96
+  webpage: https://new-shop.ksm.kz/catalog/document/28253/
+  ics_code: '65.120'
+  pages: '8'
+  designation_original: ГОСТ Р 50852-96

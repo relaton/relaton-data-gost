@@ -1,0 +1,49 @@
+---
+id: GOST-4200-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы стальные с гладкими концами, сварные и бесшовные. Общие таблицы размеров
+    и условных масс на единицу длины
+  type: main
+docidentifier:
+- content: GOST 4200-2019
+  type: GOST
+  primary: true
+docnumber: '4200'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4200:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71904/
+  ics_code: 23.040.10
+  pages: '15'
+  designation_original: ГОСТ ISO 4200-2019

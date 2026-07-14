@@ -1,0 +1,49 @@
+---
+id: GOST-31016-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автоматическая идентификация. Кодирование штриховое. Спецификация символики  PDF
+    417 ((ПДФ 417)
+  type: main
+docidentifier:
+- content: GOST 31016-2003
+  type: GOST
+  primary: true
+docnumber: '31016'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31016:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/38267/
+  ics_code: '35.040'
+  pages: '95'
+  designation_original: ГОСТ 31016-2003

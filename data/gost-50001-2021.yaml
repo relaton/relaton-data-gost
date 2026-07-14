@@ -1,0 +1,47 @@
+---
+id: GOST-50001-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы энергетического менеджмента. Требования и руководство по применению
+  type: main
+docidentifier:
+- content: GOST 50001-2021
+  type: GOST
+  primary: true
+docnumber: '50001'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:50001:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/77066/
+  pages: '37'
+  designation_original: ГОСТ ISO 50001-2021

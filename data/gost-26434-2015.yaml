@@ -1,0 +1,48 @@
+---
+id: GOST-26434-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты перекрытий железобетонные для жилых зданий. Типы и основные параметры
+  type: main
+docidentifier:
+- content: GOST 26434-2015
+  type: GOST
+  primary: true
+docnumber: '26434'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26434:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63253/
+  ics_code: 91.080.40
+  pages: '12'
+  designation_original: ГОСТ 26434-2015

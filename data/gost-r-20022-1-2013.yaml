@@ -1,0 +1,49 @@
+---
+id: GOST-R-20022-1-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Финансовые услуги. Универсальная схема сообщений финансовой индустрии.
+    Часть 1. Метамодель
+  type: main
+docidentifier:
+- content: GOST R 20022-1-2013
+  type: GOST
+  primary: true
+docnumber: 20022-1
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:20022-1:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/61195/
+  ics_code: '03.060'
+  pages: '159'
+  designation_original: ГОСТ Р ИСО 20022-1-2013

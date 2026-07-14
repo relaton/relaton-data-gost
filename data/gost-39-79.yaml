@@ -1,0 +1,48 @@
+---
+id: GOST-39-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нафтам-2. Технические условия
+  type: main
+docidentifier:
+- content: GOST 39-79
+  type: GOST
+  primary: true
+docnumber: '39'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:39:79
+  webpage: https://new-shop.ksm.kz/catalog/document/29538/
+  ics_code: 83.040.20
+  pages: '11'
+  designation_original: ГОСТ 39-79

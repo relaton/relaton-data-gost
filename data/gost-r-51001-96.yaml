@@ -1,0 +1,49 @@
+---
+id: GOST-R-51001-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автоматическая идентификация. Штриховое кодирование. Требования к символике
+    "2 из 5 чередующийся"
+  type: main
+docidentifier:
+- content: GOST R 51001-96
+  type: GOST
+  primary: true
+docnumber: '51001'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51001:96
+  webpage: https://new-shop.ksm.kz/catalog/document/665/
+  ics_code: '35.040'
+  pages: '20'
+  designation_original: ГОСТ Р 51001-96

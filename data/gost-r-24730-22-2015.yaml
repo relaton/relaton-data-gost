@@ -1,0 +1,52 @@
+---
+id: GOST-R-24730-22-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: 'Информационные технологии.Системы позиционирования в реальном времени
+    (RTLS). Часть 22. Протокол радиоинтерфейса для связи на частоте 2,4 ГГц с использованием
+    расширения спектра методом прямой последовательности (DSSS): Передатчики системы
+    RTLS, работающие с несколькими кодами расширения спектра и использующие кодирование
+    данных QPSK и схему расширения QPSK со смещением функции Уолша (WOQPSK)'
+  type: main
+docidentifier:
+- content: GOST R 24730-22-2015
+  type: GOST
+  primary: true
+docnumber: 24730-22
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:24730-22:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63681/
+  ics_code: '35.040'
+  pages: '28'
+  designation_original: ГОСТ Р ИСО/МЭК 24730-22-2015

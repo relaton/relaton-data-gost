@@ -1,0 +1,48 @@
+---
+id: GOST-R-51240-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соки фруктовые и овощные. Метод определения D-глюкозы и D-фруктозы
+  type: main
+docidentifier:
+- content: GOST R 51240-98
+  type: GOST
+  primary: true
+docnumber: '51240'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51240:98
+  webpage: https://new-shop.ksm.kz/catalog/document/29290/
+  ics_code: 67.160.20
+  pages: '10'
+  designation_original: ГОСТ Р 51240-98

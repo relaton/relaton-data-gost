@@ -1,0 +1,50 @@
+---
+id: GOST-19178-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мебель для предприятий бытового обслуживания. Функциональные размеры столов,
+    барьеров-стоек и стульев для приема заказов по ремонту бытовых машин и приборов,
+    металлоизделий, бытовой радиоэлектронной аппаратуры
+  type: main
+docidentifier:
+- content: GOST 19178-73
+  type: GOST
+  primary: true
+docnumber: '19178'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19178:73
+  webpage: https://new-shop.ksm.kz/catalog/document/35634/
+  ics_code: '97.140'
+  pages: '4'
+  designation_original: ГОСТ 19178-73

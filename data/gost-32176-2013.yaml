@@ -1,0 +1,49 @@
+---
+id: GOST-32176-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Табак и табачные изделия. Определение содержания остаточных количеств гидразида
+    малеиновоый кислоты
+  type: main
+docidentifier:
+- content: GOST 32176-2013
+  type: GOST
+  primary: true
+docnumber: '32176'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32176:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/55725/
+  ics_code: '65.160'
+  pages: '16'
+  designation_original: ГОСТ 32176-2013 (ISO 4876:1980)

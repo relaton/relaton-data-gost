@@ -1,0 +1,49 @@
+---
+id: GOST-R-9040-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Взаимосвязь открытых систем. Служба виртуальных
+    терминалов базового класса
+  type: main
+docidentifier:
+- content: GOST R 9040-96
+  type: GOST
+  primary: true
+docnumber: '9040'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9040:96
+  webpage: https://new-shop.ksm.kz/catalog/document/25241/
+  ics_code: 35.100.70
+  pages: '188'
+  designation_original: ГОСТ Р ИСО 9040-96

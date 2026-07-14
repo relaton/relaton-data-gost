@@ -1,0 +1,48 @@
+---
+id: GOST-3675-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Основные нормы взаимозаменяемости. Передачи червячные цилиндрические. Допуски
+  type: main
+docidentifier:
+- content: GOST 3675-81
+  type: GOST
+  primary: true
+docnumber: '3675'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3675:81
+  webpage: https://new-shop.ksm.kz/catalog/document/19176/
+  ics_code: '21.200'
+  pages: '64'
+  designation_original: ГОСТ 3675-81

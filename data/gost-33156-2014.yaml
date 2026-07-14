@@ -1,0 +1,49 @@
+---
+id: GOST-33156-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топлива среднеэтанольные для автомобильных двигателей с искровым зажиганием
+    с гибким выбором топлива. Методика смешивания
+  type: main
+docidentifier:
+- content: GOST 33156-2014
+  type: GOST
+  primary: true
+docnumber: '33156'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33156:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61833/
+  ics_code: 75.160.20
+  pages: '16'
+  designation_original: ГОСТ 33156-2014

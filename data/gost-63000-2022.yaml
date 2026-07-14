@@ -1,0 +1,49 @@
+---
+id: GOST-63000-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Техническая документация для оценки электрической и электронной продукции
+    в части ограничения содержания вредных веществ
+  type: main
+docidentifier:
+- content: GOST 63000-2022
+  type: GOST
+  primary: true
+docnumber: '63000'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:63000:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/74945/
+  ics_code: 01.040.01
+  pages: '11'
+  designation_original: ГОСТ IEC 63000-2022

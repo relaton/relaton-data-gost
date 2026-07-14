@@ -1,0 +1,49 @@
+---
+id: GOST-30217-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Меры индуктивности, взаимной индуктивности и комплексной индуктивности.
+    Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 30217-94
+  type: GOST
+  primary: true
+docnumber: '30217'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30217:94
+  webpage: https://new-shop.ksm.kz/catalog/document/39780/
+  ics_code: 17.220.20
+  pages: '17'
+  designation_original: ГОСТ 30217-94

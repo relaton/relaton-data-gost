@@ -1,0 +1,49 @@
+---
+id: GOST-4118-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контейнеры авиационные несертифицированные для нижней палубы самолетов.
+    Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 4118-96
+  type: GOST
+  primary: true
+docnumber: '4118'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4118:96
+  webpage: https://new-shop.ksm.kz/catalog/document/26519/
+  ics_code: '55.180'
+  pages: '9'
+  designation_original: ГОСТ ИСО 4118-96

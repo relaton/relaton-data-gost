@@ -1,0 +1,49 @@
+---
+id: GOST-332-1-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Испытания кабелей на нераспространение горения. Испытание  одиночного вертикально
+    расположенного изолированного провода или кабеля
+  type: main
+docidentifier:
+- content: GOST 332-1-2002
+  type: GOST
+  primary: true
+docnumber: 332-1
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:332-1:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38766/
+  ics_code: 29.060.20
+  pages: '11'
+  designation_original: ГОСТ МЭК 332-1-2002

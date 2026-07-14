@@ -1,0 +1,48 @@
+---
+id: GOST-17123-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Круги эльборовые шлифовальные. Типы и основные размеры
+  type: main
+docidentifier:
+- content: GOST 17123-79
+  type: GOST
+  primary: true
+docnumber: '17123'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17123:79
+  webpage: https://new-shop.ksm.kz/catalog/document/21168/
+  ics_code: 25.100.70
+  pages: '29'
+  designation_original: ГОСТ 17123-79

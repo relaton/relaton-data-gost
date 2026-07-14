@@ -1,0 +1,49 @@
+---
+id: GOST-18935-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фрезы концевые сферические эллипсовидные твердосплавные цельные для труднообрабатываемых
+    сталей и сплавов. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 18935-73
+  type: GOST
+  primary: true
+docnumber: '18935'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18935:73
+  webpage: https://new-shop.ksm.kz/catalog/document/21332/
+  ics_code: 25.100.20
+  pages: '2'
+  designation_original: ГОСТ 18935-73

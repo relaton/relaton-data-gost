@@ -1,0 +1,50 @@
+---
+id: GOST-R-60891-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Приборы фотоэлектрические.
+    Методики коррекции по температуре и энергетической освещенности результатов измерения
+    вольт-амперной характеристики
+  type: main
+docidentifier:
+- content: GOST R 60891-2013
+  type: GOST
+  primary: true
+docnumber: '60891'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60891:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59087/
+  ics_code: '27.160'
+  pages: '20'
+  designation_original: ГОСТ Р МЭК 60891-2013

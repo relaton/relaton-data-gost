@@ -1,0 +1,49 @@
+---
+id: GOST-25984.6-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Асбест хризотиловый. Метод определения фракционного состава на гидроклассификаторе
+    типа Бауэр-Мак-Нетт
+  type: main
+docidentifier:
+- content: GOST 25984.6-99
+  type: GOST
+  primary: true
+docnumber: '25984.6'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25984.6:99
+  webpage: https://new-shop.ksm.kz/catalog/document/31130/
+  ics_code: '73.080'
+  pages: '5'
+  designation_original: ГОСТ 25984.6-99

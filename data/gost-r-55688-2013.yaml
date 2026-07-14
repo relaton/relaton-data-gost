@@ -1,0 +1,49 @@
+---
+id: GOST-R-55688-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аудиовизуальная информационная система реального времени (РАВИС). Формирователь
+    контента. Структура и протоколы передачи данных
+  type: main
+docidentifier:
+- content: GOST R 55688-2013
+  type: GOST
+  primary: true
+docnumber: '55688'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55688:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56783/
+  ics_code: '33.170'
+  pages: '32'
+  designation_original: ГОСТ Р 55688-2013

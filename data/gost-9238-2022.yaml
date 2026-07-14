@@ -1,0 +1,48 @@
+---
+id: GOST-9238-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Габариты железнодорожного подвижного состава и приближения строений
+  type: main
+docidentifier:
+- content: GOST 9238-2022
+  type: GOST
+  primary: true
+docnumber: '9238'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9238:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/74121/
+  ics_code: 03.220.30
+  pages: '214'
+  designation_original: ГОСТ 9238-2022

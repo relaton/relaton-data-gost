@@ -1,0 +1,49 @@
+---
+id: GOST-R-59277-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы искусственного интеллекта. КЛАССИФИКАЦИЯ СИСТЕМ ИСКУССТВЕННОГО
+    ИНТЕЛЛЕКТА
+  type: main
+docidentifier:
+- content: GOST R 59277-2020
+  type: GOST
+  primary: true
+docnumber: '59277'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:59277:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/74755/
+  ics_code: '35.020'
+  pages: '16'
+  designation_original: ГОСТ Р 59277-2020

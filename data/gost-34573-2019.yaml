@@ -1,0 +1,49 @@
+---
+id: GOST-34573-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тормоза подвижного состава, курсирующего в грузовых поездах со скоростью
+    до 120 км/ч и в пассажирских поездах со скоростью до 200 км/ч. Технические требования
+  type: main
+docidentifier:
+- content: GOST 34573-2019
+  type: GOST
+  primary: true
+docnumber: '34573'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34573:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/72105/
+  ics_code: '45.060'
+  pages: '8'
+  designation_original: ГОСТ 34573-2019

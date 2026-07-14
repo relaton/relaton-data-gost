@@ -1,0 +1,49 @@
+---
+id: GOST-R-54744-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция соковая. Определение хинной, яблочной и лимонной кислот в продуктах
+    из клюквы и яблок методом высокоэффективной жидкостной хроматографии
+  type: main
+docidentifier:
+- content: GOST R 54744-2011
+  type: GOST
+  primary: true
+docnumber: '54744'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54744:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51588/
+  ics_code: 67.160.20
+  pages: '8'
+  designation_original: ГОСТ Р 54744-2011

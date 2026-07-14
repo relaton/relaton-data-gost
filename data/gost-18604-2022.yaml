@@ -1,0 +1,48 @@
+---
+id: GOST-18604-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка и окружающая среда. Переработка материалов
+  type: main
+docidentifier:
+- content: GOST 18604-2022
+  type: GOST
+  primary: true
+docnumber: '18604'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18604:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/75374/
+  ics_code: '55.020'
+  pages: '27'
+  designation_original: ГОСТ ISO 18604-2022

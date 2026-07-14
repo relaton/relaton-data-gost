@@ -1,0 +1,48 @@
+---
+id: GOST-23101-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Эмаль КО-88 кремнийорганическая термостойкая. Технические условия
+  type: main
+docidentifier:
+- content: GOST 23101-78
+  type: GOST
+  primary: true
+docnumber: '23101'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23101:78
+  webpage: https://new-shop.ksm.kz/catalog/document/22552/
+  ics_code: 25.220.50
+  pages: '1'
+  designation_original: ГОСТ 23101-78

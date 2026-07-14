@@ -1,0 +1,49 @@
+---
+id: GOST-3618-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Турбины паровые стационарные для привода турбогенераторов. Типы и основные
+    параметры
+  type: main
+docidentifier:
+- content: GOST 3618-82
+  type: GOST
+  primary: true
+docnumber: '3618'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3618:82
+  webpage: https://new-shop.ksm.kz/catalog/document/22890/
+  ics_code: '27.040'
+  pages: '7'
+  designation_original: ГОСТ 3618-82

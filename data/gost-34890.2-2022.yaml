@@ -1,0 +1,48 @@
+---
+id: GOST-34890.2-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мебель офисная. Столы рабочие. Часть 2. Требования механической безопасности
+  type: main
+docidentifier:
+- content: GOST 34890.2-2022
+  type: GOST
+  primary: true
+docnumber: '34890.2'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34890.2:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/73625/
+  ics_code: '97.140'
+  pages: '17'
+  designation_original: ГОСТ 34890.2–2022 (EN 527-2:2016+А1:2019)

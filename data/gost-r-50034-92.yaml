@@ -1,0 +1,50 @@
+---
+id: GOST-R-50034-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Совместимость технических средств электромагнитная. Двигатели асинхронные
+    напряжением до 1000 В. Нормы и методы испытаний на устойчивость к электромагнитным
+    помехам
+  type: main
+docidentifier:
+- content: GOST R 50034-92
+  type: GOST
+  primary: true
+docnumber: '50034'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50034:92
+  webpage: https://new-shop.ksm.kz/catalog/document/23722/
+  ics_code: 29.160.30
+  pages: '8'
+  designation_original: ГОСТ Р 50034-92

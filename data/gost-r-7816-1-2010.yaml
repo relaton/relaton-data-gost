@@ -1,0 +1,49 @@
+---
+id: GOST-R-7816-1-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Карты идентификационные. Карты на интегральных схемах с контактами. Часть
+    1. Физические характеристики
+  type: main
+docidentifier:
+- content: GOST R 7816-1-2010
+  type: GOST
+  primary: true
+docnumber: 7816-1
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:7816-1:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45379/
+  ics_code: 35.240.15
+  pages: '8'
+  designation_original: ГОСТ Р ИСО/МЭК 7816-1-2010

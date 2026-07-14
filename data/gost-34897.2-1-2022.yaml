@@ -1,0 +1,49 @@
+---
+id: GOST-34897.2-1-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Светильники. Часть 2-1. Частные требования.  Светильники стационарные общего
+    назначения
+  type: main
+docidentifier:
+- content: GOST 34897.2-1-2022
+  type: GOST
+  primary: true
+docnumber: 34897.2-1
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34897.2-1:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/73629/
+  ics_code: 29.140.40
+  pages: '8'
+  designation_original: ГОСТ 34897.2-1–2022 (IEC 60598-2-1:2020)

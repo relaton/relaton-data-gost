@@ -1,0 +1,50 @@
+---
+id: GOST-12966-3-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жиры и масла животные и растительные. Газовая хроматография метиловых эфиров
+    жирных кислот. Часть 3. Получение метиловых эфиров жирных кислот с использованием
+    гидроксида триметилсульфония (ГТМС)
+  type: main
+docidentifier:
+- content: GOST 12966-3-2020
+  type: GOST
+  primary: true
+docnumber: 12966-3
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12966-3:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/75219/
+  ics_code: 67.200.10
+  pages: '10'
+  designation_original: ГОСТ ISO 12966-3-2020

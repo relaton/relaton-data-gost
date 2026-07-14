@@ -1,0 +1,48 @@
+---
+id: GOST-R-2320-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гайки стальные самостопорящиеся. Механические и эксплуатационные свойства
+  type: main
+docidentifier:
+- content: GOST R 2320-2009
+  type: GOST
+  primary: true
+docnumber: '2320'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:2320:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/45231/
+  ics_code: 21.060.20
+  pages: '28'
+  designation_original: ГОСТ Р ИСО 2320-2009

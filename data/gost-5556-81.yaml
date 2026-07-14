@@ -1,0 +1,48 @@
+---
+id: GOST-5556-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вата медицинская гигроскопическая. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5556-81
+  type: GOST
+  primary: true
+docnumber: '5556'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5556:81
+  webpage: https://new-shop.ksm.kz/catalog/document/16368/
+  ics_code: 11.120.20
+  pages: '16'
+  designation_original: ГОСТ 5556-81

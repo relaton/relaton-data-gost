@@ -1,0 +1,47 @@
+---
+id: GOST-8889-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Осциллографы светолучевые. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 8889-88
+  type: GOST
+  primary: true
+docnumber: '8889'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8889:88
+  webpage: https://new-shop.ksm.kz/catalog/document/18258/
+  pages: '22'
+  designation_original: ГОСТ 8889-88

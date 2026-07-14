@@ -1,0 +1,51 @@
+---
+id: GOST-28360-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы обработки информации. Обмен информацией на кассете с магнитной
+    лентой шириной 6,30 мм (0,25 дюйма) при использовании способа записи с групповым
+    кодированием (ГК), с плотностью записи 394 п.п./мм (10000 п.п./дюйм), 39 симв./мм
+    (10(см. описание...)
+  type: main
+docidentifier:
+- content: GOST 28360-89
+  type: GOST
+  primary: true
+docnumber: '28360'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28360:89
+  webpage: https://new-shop.ksm.kz/catalog/document/25195/
+  ics_code: 35.220.22
+  pages: '15'
+  designation_original: ГОСТ 28360-89

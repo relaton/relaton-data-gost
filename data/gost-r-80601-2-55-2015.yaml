@@ -1,0 +1,49 @@
+---
+id: GOST-R-80601-2-55-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 2-55. Частные требования безопасности
+    с учетом основных функциональных характеристик к мониторам дыхательных смесей
+  type: main
+docidentifier:
+- content: GOST R 80601-2-55-2015
+  type: GOST
+  primary: true
+docnumber: 80601-2-55
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:80601-2-55:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63937/
+  ics_code: 11.040.10
+  pages: '54'
+  designation_original: ГОСТ Р ИСО 80601-2-55-2015

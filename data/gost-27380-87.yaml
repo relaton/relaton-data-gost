@@ -1,0 +1,48 @@
+---
+id: GOST-27380-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стеклопластики профильные электроизоляционные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 27380-87
+  type: GOST
+  primary: true
+docnumber: '27380'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27380:87
+  webpage: https://new-shop.ksm.kz/catalog/document/23638/
+  ics_code: 29.035.20
+  pages: '31'
+  designation_original: ГОСТ 27380-87

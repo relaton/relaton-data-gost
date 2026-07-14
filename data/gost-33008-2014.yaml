@@ -1,0 +1,49 @@
+---
+id: GOST-33008-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Камины открытые и каминные вставки, работающие на твердом топливе. Требования
+    и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 33008-2014
+  type: GOST
+  primary: true
+docnumber: '33008'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33008:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62686/
+  ics_code: 97.100.30
+  pages: '68'
+  designation_original: ГОСТ 33008-2014 (EN 13229:2005)

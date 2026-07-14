@@ -1,0 +1,48 @@
+---
+id: GOST-165-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станки фрезерные консольные. Основные размеры
+  type: main
+docidentifier:
+- content: GOST 165-81
+  type: GOST
+  primary: true
+docnumber: '165'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:165:81
+  webpage: https://new-shop.ksm.kz/catalog/document/20424/
+  ics_code: 25.080.20
+  pages: '6'
+  designation_original: ГОСТ 165-81

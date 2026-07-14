@@ -1,0 +1,49 @@
+---
+id: GOST-12635-67
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы магнитомягкие высокочастотные. Методы испытаний в диапазоне частот
+    от 10 кГц до 1 МГц
+  type: main
+docidentifier:
+- content: GOST 12635-67
+  type: GOST
+  primary: true
+docnumber: '12635'
+date:
+- type: published
+  from: '1967-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1967'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12635:67
+  webpage: https://new-shop.ksm.kz/catalog/document/23326/
+  ics_code: '29.030'
+  pages: '40'
+  designation_original: ГОСТ 12635-67

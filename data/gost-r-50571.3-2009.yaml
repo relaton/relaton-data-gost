@@ -1,0 +1,49 @@
+---
+id: GOST-R-50571.3-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроустановки низковольтные. Часть 4-41. Требования для обеспечения
+    безопасности. Защита от поражения электрическим током
+  type: main
+docidentifier:
+- content: GOST R 50571.3-2009
+  type: GOST
+  primary: true
+docnumber: '50571.3'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50571.3:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/45186/
+  ics_code: '13.260'
+  pages: '24'
+  designation_original: ГОСТ Р 50571.3-2009 (МЭК 60364-4-41:2005)

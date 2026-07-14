@@ -1,0 +1,49 @@
+---
+id: GOST-R-13365-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа. Химические испытания. Метод жидкостной хроматографии для определения
+    содержания консерванта (TCMTB, PCMC, OPP, OIT)
+  type: main
+docidentifier:
+- content: GOST R 13365-2015
+  type: GOST
+  primary: true
+docnumber: '13365'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13365:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63157/
+  ics_code: 59.140.30
+  pages: '8'
+  designation_original: ГОСТ Р ИСО 13365-2015

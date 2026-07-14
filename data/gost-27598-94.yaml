@@ -1,0 +1,48 @@
+---
+id: GOST-27598-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Катки дорожные вибрационные самоходные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 27598-94
+  type: GOST
+  primary: true
+docnumber: '27598'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27598:94
+  webpage: https://new-shop.ksm.kz/catalog/document/39760/
+  ics_code: '91.220'
+  pages: '15'
+  designation_original: ГОСТ 27598-94

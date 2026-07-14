@@ -1,0 +1,49 @@
+---
+id: GOST-R-57110-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Радиостанции аналоговые и цифровые морской подвижной службы (диапазон частот
+    от 156,025 до 163,275 МГц). Типы, основные параметры и технические требования
+  type: main
+docidentifier:
+- content: GOST R 57110-2016
+  type: GOST
+  primary: true
+docnumber: '57110'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57110:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65928/
+  ics_code: 33.070.10
+  pages: '40'
+  designation_original: ГОСТ Р 57110-2016

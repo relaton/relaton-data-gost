@@ -1,0 +1,49 @@
+---
+id: GOST-19773-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пиломатериалы хвойных и лиственных пород. Режимы сушки в камерах периодического
+    действия
+  type: main
+docidentifier:
+- content: GOST 19773-84
+  type: GOST
+  primary: true
+docnumber: '19773'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19773:84
+  webpage: https://new-shop.ksm.kz/catalog/document/33611/
+  ics_code: '79.040'
+  pages: '13'
+  designation_original: ГОСТ 19773-84

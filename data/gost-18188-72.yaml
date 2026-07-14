@@ -1,0 +1,49 @@
+---
+id: GOST-18188-72
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Растворители марок 645, 646, 647, 648 для лакокрасочных материалов. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 18188-72
+  type: GOST
+  primary: true
+docnumber: '18188'
+date:
+- type: published
+  from: '1972-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18188:72
+  webpage: https://new-shop.ksm.kz/catalog/document/34878/
+  ics_code: 87.060.30
+  pages: '16'
+  designation_original: ГОСТ 18188-72

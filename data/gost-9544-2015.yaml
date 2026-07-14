@@ -1,0 +1,48 @@
+---
+id: GOST-9544-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Арматура трубопроводная. Нормы герметичности затворов
+  type: main
+docidentifier:
+- content: GOST 9544-2015
+  type: GOST
+  primary: true
+docnumber: '9544'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9544:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62204/
+  ics_code: 23.060.01
+  pages: '57'
+  designation_original: ГОСТ 9544-2015

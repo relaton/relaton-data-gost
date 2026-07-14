@@ -1,0 +1,49 @@
+---
+id: GOST-24964-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Скобы непроходные для контроля внутреннего диаметра шлицевых валов с прямобочным
+    профилем при центрировании по D или b. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 24964-81
+  type: GOST
+  primary: true
+docnumber: '24964'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24964:81
+  webpage: https://new-shop.ksm.kz/catalog/document/18542/
+  ics_code: 17.040.30
+  pages: '4'
+  designation_original: ГОСТ 24964-81

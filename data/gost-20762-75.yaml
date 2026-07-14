@@ -1,0 +1,49 @@
+---
+id: GOST-20762-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабины воздушных судов, используемых в сельском и лесном хозяйствах. Нормы
+    и требования
+  type: main
+docidentifier:
+- content: GOST 20762-75
+  type: GOST
+  primary: true
+docnumber: '20762'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20762:75
+  webpage: https://new-shop.ksm.kz/catalog/document/638/
+  ics_code: '49.095'
+  pages: '7'
+  designation_original: ГОСТ 20762-75

@@ -1,0 +1,49 @@
+---
+id: GOST-30570-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сигареты. Определение содержания никотина во влажном конденсате главной
+    струи дыма. Метод газовой хроматографии
+  type: main
+docidentifier:
+- content: GOST 30570-2024
+  type: GOST
+  primary: true
+docnumber: '30570'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30570:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76230/
+  ics_code: '65.160'
+  pages: '17'
+  designation_original: ГОСТ 30570-2024

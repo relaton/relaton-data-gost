@@ -1,0 +1,49 @@
+---
+id: GOST-30851.1-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединители электрические бытового и аналогичного назначения. Часть 1.
+    Общие требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 30851.1-2002
+  type: GOST
+  primary: true
+docnumber: '30851.1'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30851.1:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38480/
+  ics_code: 29.120.30
+  pages: '93'
+  designation_original: ГОСТ 30851.1-2002

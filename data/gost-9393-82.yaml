@@ -1,0 +1,48 @@
+---
+id: GOST-9393-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жир ветеринарный из рыбы и морских млекопитающих. Технические условия
+  type: main
+docidentifier:
+- content: GOST 9393-82
+  type: GOST
+  primary: true
+docnumber: '9393'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9393:82
+  webpage: https://new-shop.ksm.kz/catalog/document/16381/
+  ics_code: 67.120.30
+  pages: '10'
+  designation_original: ГОСТ 9393-82

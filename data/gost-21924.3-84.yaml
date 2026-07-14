@@ -1,0 +1,49 @@
+---
+id: GOST-21924.3-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты железобетонные для покрытий городских дорог. Арматурные и монтажно-стыковые
+    изделия. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 21924.3-84
+  type: GOST
+  primary: true
+docnumber: '21924.3'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21924.3:84
+  webpage: https://new-shop.ksm.kz/catalog/document/35249/
+  ics_code: 91.080.40
+  pages: '11'
+  designation_original: ГОСТ 21924.3-84

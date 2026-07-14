@@ -1,0 +1,49 @@
+---
+id: GOST-19165-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Носители телевизионных программ - кинофильмы 16-мм. Размеры и расположение
+    полей изображений и дорожек записи звука
+  type: main
+docidentifier:
+- content: GOST 19165-73
+  type: GOST
+  primary: true
+docnumber: '19165'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19165:73
+  webpage: https://new-shop.ksm.kz/catalog/document/25630/
+  ics_code: 37.060.20
+  pages: '5'
+  designation_original: ГОСТ 19165-73

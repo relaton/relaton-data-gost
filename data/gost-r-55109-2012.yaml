@@ -1,0 +1,50 @@
+---
+id: GOST-R-55109-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Глобальные навигационные спутниковые системы. Морские дифференциальные
+    подсистемы. Система дистанционного контроля и управления. Общие требования, методы
+    и требуемые результаты испытаний
+  type: main
+docidentifier:
+- content: GOST R 55109-2012
+  type: GOST
+  primary: true
+docnumber: '55109'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55109:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/53835/
+  ics_code: 47.020.40
+  pages: '78'
+  designation_original: ГОСТ Р 55109-2012

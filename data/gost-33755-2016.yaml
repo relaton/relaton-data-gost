@@ -1,0 +1,49 @@
+---
+id: GOST-33755-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливо дизельное и мазут топочный. Определение предельной температуры
+    фильтруемости на холодном фильтре
+  type: main
+docidentifier:
+- content: GOST 33755-2016
+  type: GOST
+  primary: true
+docnumber: '33755'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33755:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65391/
+  ics_code: 75.160.30
+  pages: '20'
+  designation_original: ГОСТ 33755-2016

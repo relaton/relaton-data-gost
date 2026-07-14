@@ -1,0 +1,49 @@
+---
+id: GOST-24824-2-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии. Общие правила применения ASN.1. Быстрые сетевые
+    услуги. Часть 2
+  type: main
+docidentifier:
+- content: GOST 24824-2-2013
+  type: GOST
+  primary: true
+docnumber: 24824-2
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24824-2:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/62106/
+  ics_code: 35.100.60
+  pages: '46'
+  designation_original: ГОСТ ISO/IEC 24824-2-2013

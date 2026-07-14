@@ -1,0 +1,51 @@
+---
+id: GOST-33468-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Глобальная навигационная спутниковая система. Система экстренного реагирования
+    при авариях. Методы испытаний устройства/системы вызова экстренных оперативных
+    служб на соответствие требованиям к качеству громкоговорящей связи в кабине транспортного
+    средства
+  type: main
+docidentifier:
+- content: GOST 33468-2015
+  type: GOST
+  primary: true
+docnumber: '33468'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33468:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/66643/
+  ics_code: 35.240.60
+  pages: '78'
+  designation_original: ГОСТ 33468-2015

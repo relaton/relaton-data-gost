@@ -1,0 +1,48 @@
+---
+id: GOST-R-54579-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Акустика. Применение новых методов измерений в акустике зданий и помещений
+  type: main
+docidentifier:
+- content: GOST R 54579-2011
+  type: GOST
+  primary: true
+docnumber: '54579'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54579:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51527/
+  ics_code: 91.120.20
+  pages: '28'
+  designation_original: ГОСТ Р 54579-2011 (ИСО 18233:2006)

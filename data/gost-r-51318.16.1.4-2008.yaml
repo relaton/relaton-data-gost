@@ -1,0 +1,52 @@
+---
+id: GOST-R-51318.16.1.4-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Совместимость технических средств электромагнитная. Требования к аппаратуре
+    для измерения параметров индустриальных радиопомех и помехоустойчивости и методы
+    измерений. Часть 1-4. Аппаратура для измерения параметров индустриальных радиопомех
+    и помехоустойчивости. Устройства для измерения излучаемых радиопомех и испытаний
+    на устойчивость к излучаемым радиопомехам
+  type: main
+docidentifier:
+- content: GOST R 51318.16.1.4-2008
+  type: GOST
+  primary: true
+docnumber: 51318.16.1.4
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51318.16.1.4:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/40779/
+  ics_code: '33.100'
+  pages: '75'
+  designation_original: ГОСТ Р 51318.16.1.4-2008

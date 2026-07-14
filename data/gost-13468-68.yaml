@@ -1,0 +1,49 @@
+---
+id: GOST-13468-68
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединение для слива топлива из самолетов и вертолетов. Присоединительные
+    размеры. Технические требования
+  type: main
+docidentifier:
+- content: GOST 13468-68
+  type: GOST
+  primary: true
+docnumber: '13468'
+date:
+- type: published
+  from: '1968-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1968'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13468:68
+  webpage: https://new-shop.ksm.kz/catalog/document/609/
+  ics_code: '49.045'
+  pages: '8'
+  designation_original: ГОСТ 13468-68

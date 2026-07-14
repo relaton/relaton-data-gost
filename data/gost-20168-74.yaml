@@ -1,0 +1,49 @@
+---
+id: GOST-20168-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вкладыши деревянные сменные длиной от 1006 до 2006 мм, шириной от 806 до
+    1606 мм для модельных плит. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 20168-74
+  type: GOST
+  primary: true
+docnumber: '20168'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20168:74
+  webpage: https://new-shop.ksm.kz/catalog/document/21547/
+  ics_code: 25.120.30
+  pages: '7'
+  designation_original: ГОСТ 20168-74

@@ -1,0 +1,49 @@
+---
+id: GOST-4119-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Наборы принадлежностей к плоскопараллельным концевым мерам длины. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 4119-76
+  type: GOST
+  primary: true
+docnumber: '4119'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4119:76
+  webpage: https://new-shop.ksm.kz/catalog/document/18192/
+  ics_code: 17.040.30
+  pages: '13'
+  designation_original: ГОСТ 4119-76

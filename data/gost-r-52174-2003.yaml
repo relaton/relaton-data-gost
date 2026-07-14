@@ -1,0 +1,50 @@
+---
+id: GOST-R-52174-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Биологическая безопасность. Сырье и продукты пищевые. Метод идентификации
+    генетически модифицированных источников (ГМИ) растительного происхождения с применением
+    биологического микрочипа
+  type: main
+docidentifier:
+- content: GOST R 52174-2003
+  type: GOST
+  primary: true
+docnumber: '52174'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52174:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/28312/
+  ics_code: '65.140'
+  pages: '29'
+  designation_original: ГОСТ Р 52174-2003

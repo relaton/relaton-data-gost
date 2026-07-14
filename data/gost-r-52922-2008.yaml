@@ -1,0 +1,49 @@
+---
+id: GOST-R-52922-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фитинги из меди и медных сплавов для соединения медных труб способом капиллярной
+    пайки. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 52922-2008
+  type: GOST
+  primary: true
+docnumber: '52922'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52922:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41152/
+  ics_code: 23.040.15
+  pages: '34'
+  designation_original: ГОСТ Р 52922-2008

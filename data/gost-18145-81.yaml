@@ -1,0 +1,49 @@
+---
+id: GOST-18145-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Цепи на стыке С2 аппаратуры передачи данных с оконечным оборудованием при
+    последовательном вводе-выводе данных. Номенклатура и технические требования
+  type: main
+docidentifier:
+- content: GOST 18145-81
+  type: GOST
+  primary: true
+docnumber: '18145'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18145:81
+  webpage: https://new-shop.ksm.kz/catalog/document/24773/
+  ics_code: 33.040.40
+  pages: '28'
+  designation_original: ГОСТ 18145-81

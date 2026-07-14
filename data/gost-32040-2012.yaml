@@ -1,0 +1,50 @@
+---
+id: GOST-32040-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Корма, комбикорма, комбикормовое сырье. Метод определения содержания сырого
+    протеина, сырой клетчатки, сырого жира и влаги с применением спектроскопии в ближней
+    инфракрасной области
+  type: main
+docidentifier:
+- content: GOST 32040-2012
+  type: GOST
+  primary: true
+docnumber: '32040'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32040:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/56107/
+  ics_code: '65.120'
+  pages: '12'
+  designation_original: ГОСТ 32040-2012

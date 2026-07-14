@@ -1,0 +1,49 @@
+---
+id: GOST-25990-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Счетчики электрические активной энергии класса точности 2,0. Приемочный
+    контроль
+  type: main
+docidentifier:
+- content: GOST 25990-83
+  type: GOST
+  primary: true
+docnumber: '25990'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25990:83
+  webpage: https://new-shop.ksm.kz/catalog/document/18572/
+  ics_code: 17.220.20
+  pages: '27'
+  designation_original: ГОСТ 25990-83

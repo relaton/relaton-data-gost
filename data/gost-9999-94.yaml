@@ -1,0 +1,49 @@
+---
+id: GOST-9999-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроизмерительные самопишущие приборы прямого действия и вспомогательные
+    части к ним
+  type: main
+docidentifier:
+- content: GOST 9999-94
+  type: GOST
+  primary: true
+docnumber: '9999'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9999:94
+  webpage: https://new-shop.ksm.kz/catalog/document/18263/
+  ics_code: 17.220.20
+  pages: '77'
+  designation_original: ГОСТ 9999-94

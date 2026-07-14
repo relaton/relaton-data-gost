@@ -1,0 +1,49 @@
+---
+id: GOST-R-29362-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Функциональная совместимость веб-служб. Профиль
+    вложений WS-1. Версия 1.0
+  type: main
+docidentifier:
+- content: GOST R 29362-2013
+  type: GOST
+  primary: true
+docnumber: '29362'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:29362:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59299/
+  ics_code: 35.100.05
+  pages: '32'
+  designation_original: ГОСТ Р ИСО/МЭК 29362-2013

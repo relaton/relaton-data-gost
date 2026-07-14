@@ -1,0 +1,50 @@
+---
+id: GOST-R-54359-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Cоставы клеевые, базовые штукатурные, выравнивающие шпаклевочные на цементном
+    вяжущем для фасадных теплоизоляционных композиционных систем с наружными штукатурными
+    слоями. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 54359-2011
+  type: GOST
+  primary: true
+docnumber: '54359'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54359:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51770/
+  ics_code: 91.120.01
+  pages: '16'
+  designation_original: ГОСТ Р 54359-2011

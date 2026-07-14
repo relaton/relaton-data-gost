@@ -1,0 +1,49 @@
+---
+id: GOST-R-1048-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конденсаторы для цепей трубчатых люминесцентных и других разрядных ламп.
+    Общие требования и требования безопасности
+  type: main
+docidentifier:
+- content: GOST R 1048-94
+  type: GOST
+  primary: true
+docnumber: '1048'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:1048:94
+  webpage: https://new-shop.ksm.kz/catalog/document/714/
+  ics_code: 29.140.30
+  pages: '30'
+  designation_original: ГОСТ Р МЭК 1048-94

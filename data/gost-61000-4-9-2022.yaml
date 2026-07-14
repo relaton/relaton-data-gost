@@ -1,0 +1,49 @@
+---
+id: GOST-61000-4-9-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электромагнитная совместимость (ЭМС). Часть 4-9. Методы испытаний и измерений.
+    Испытание на устойчивость к импульсному магнитному полю
+  type: main
+docidentifier:
+- content: GOST 61000-4-9-2022
+  type: GOST
+  primary: true
+docnumber: 61000-4-9
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61000-4-9:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/76298/
+  ics_code: 33.100.10
+  pages: '49'
+  designation_original: ГОСТ IEC 61000-4-9-2022

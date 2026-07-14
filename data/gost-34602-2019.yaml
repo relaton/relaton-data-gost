@@ -1,0 +1,50 @@
+---
+id: GOST-34602-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автомобильные транспортные средства, использующие газ в качестве  моторного
+    топлива.  Общие технические требования к эксплуатации на сжиженном природном газе,
+    техника безопасности и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 34602-2019
+  type: GOST
+  primary: true
+docnumber: '34602'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34602:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71289/
+  ics_code: 43.060.40
+  pages: '23'
+  designation_original: ГОСТ 34602-2019

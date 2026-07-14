@@ -1,0 +1,50 @@
+---
+id: GOST-R-56443-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тренажеры стационарные. Шаговые тренажеры, тренажеры, имитирующие ходьбу
+    вверх по лестнице и скалолазание. Дополнительные специальные требования безопасности
+    и методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 56443-2015
+  type: GOST
+  primary: true
+docnumber: '56443'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56443:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63483/
+  ics_code: 97.220.30
+  pages: '16'
+  designation_original: ГОСТ Р 56443-2015

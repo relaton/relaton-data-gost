@@ -1,0 +1,49 @@
+---
+id: GOST-R-14915-2-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Эргономика мультимедийных пользовательских интерфейсов. Часть 2. Навигация
+    и управление мультимедийными средствами
+  type: main
+docidentifier:
+- content: GOST R 14915-2-2013
+  type: GOST
+  primary: true
+docnumber: 14915-2
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:14915-2:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57553/
+  ics_code: '13.180'
+  pages: '36'
+  designation_original: ГОСТ Р ИСО 14915-2-2013

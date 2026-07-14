@@ -1,0 +1,49 @@
+---
+id: GOST-3164-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Защитные устройства. Характеристика объема ограничения
+    деформации при лабораторных испытаниях
+  type: main
+docidentifier:
+- content: GOST 3164-2002
+  type: GOST
+  primary: true
+docnumber: '3164'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3164:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38665/
+  ics_code: '13.100'
+  pages: '4'
+  designation_original: ГОСТ ИСО 3164-2002

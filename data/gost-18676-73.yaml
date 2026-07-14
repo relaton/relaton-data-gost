@@ -1,0 +1,48 @@
+---
+id: GOST-18676-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Эксплуатация промыслового флота и портов. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 18676-73
+  type: GOST
+  primary: true
+docnumber: '18676'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18676:73
+  webpage: https://new-shop.ksm.kz/catalog/document/14962/
+  ics_code: 01.040.03
+  pages: '14'
+  designation_original: ГОСТ 18676-73

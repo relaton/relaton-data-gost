@@ -1,0 +1,50 @@
+---
+id: GOST-60034-18-32-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины электрические вращающиеся. Часть 18-32. Оценка функциональных показателей
+    систем изоляции. Методы испытаний для шаблонных обмоток. Оценка электрической
+    стойкости
+  type: main
+docidentifier:
+- content: GOST 60034-18-32-2014
+  type: GOST
+  primary: true
+docnumber: 60034-18-32
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60034-18-32:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62781/
+  ics_code: '29.160'
+  pages: '20'
+  designation_original: ГОСТ IEC 60034-18-32-2014

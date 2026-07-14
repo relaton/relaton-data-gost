@@ -1,0 +1,49 @@
+---
+id: GOST-R-15516-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Суда и морские технологии. Спусковые устройства с лопарями для спасательных
+    шлюпок
+  type: main
+docidentifier:
+- content: GOST R 15516-2011
+  type: GOST
+  primary: true
+docnumber: '15516'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:15516:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52162/
+  ics_code: 47.020.50
+  pages: '20'
+  designation_original: ГОСТ Р ИСО 15516-2011

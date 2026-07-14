@@ -1,0 +1,50 @@
+---
+id: GOST-R-50402-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование для газовой сварки, резки и родственных процессов. Устройства
+    предохранительные для горючих газов и кислорода или сжатого воздуха. Технические
+    требования и испытания
+  type: main
+docidentifier:
+- content: GOST R 50402-2011
+  type: GOST
+  primary: true
+docnumber: '50402'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50402:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/22822/
+  ics_code: 25.160.30
+  pages: '16'
+  designation_original: ГОСТ Р 50402-2011 (ИСО 5175:1987)

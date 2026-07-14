@@ -1,0 +1,49 @@
+---
+id: GOST-21815.18-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Преобразователи электронно-оптические. Метод измерения пространственной
+    частотно-контрастной характеристики
+  type: main
+docidentifier:
+- content: GOST 21815.18-90
+  type: GOST
+  primary: true
+docnumber: '21815.18'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21815.18:90
+  webpage: https://new-shop.ksm.kz/catalog/document/24452/
+  ics_code: '31.260'
+  pages: '19'
+  designation_original: ГОСТ 21815.18-90

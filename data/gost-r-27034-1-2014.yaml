@@ -1,0 +1,49 @@
+---
+id: GOST-R-27034-1-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Методы и средства обеспечения безопасности.
+    Безопасность приложений. Часть 1. Обзор и общие понятия
+  type: main
+docidentifier:
+- content: GOST R 27034-1-2014
+  type: GOST
+  primary: true
+docnumber: 27034-1
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:27034-1:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61763/
+  ics_code: '35.040'
+  pages: '74'
+  designation_original: ГОСТ Р ИСО/МЭК 27034-1-2014

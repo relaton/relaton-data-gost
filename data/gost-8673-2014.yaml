@@ -1,0 +1,49 @@
+---
+id: GOST-8673-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гайки шестигранные нормальные (тип 1) с мелким шагом резьбы. Классы точности
+    А и В
+  type: main
+docidentifier:
+- content: GOST 8673-2014
+  type: GOST
+  primary: true
+docnumber: '8673'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8673:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/64046/
+  ics_code: 21.060.20
+  pages: '16'
+  designation_original: ГОСТ ISO 8673-2014

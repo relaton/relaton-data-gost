@@ -1,0 +1,49 @@
+---
+id: GOST-R-26262-1-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Дорожные транспортные средства. Функциональная безопасность. Часть 1. Термины
+    и определения
+  type: main
+docidentifier:
+- content: GOST R 26262-1-2014
+  type: GOST
+  primary: true
+docnumber: 26262-1
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:26262-1:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61238/
+  ics_code: 01.040.43
+  pages: '20'
+  designation_original: ГОСТ Р ИСО 26262-1-2014

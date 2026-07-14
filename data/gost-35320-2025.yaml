@@ -1,0 +1,50 @@
+---
+id: GOST-35320-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция пищевая.  Продукция комбикормовая. Определение остаточного содержания
+    дихлороизоэверниновой кислоты (авиламицина) методом высокоэффективной жидкостной
+    хроматографии с масс-спектрометрическим детектированием
+  type: main
+docidentifier:
+- content: GOST 35320-2025
+  type: GOST
+  primary: true
+docnumber: '35320'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35320:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77130/
+  ics_code: '65.120'
+  pages: '20'
+  designation_original: ГОСТ 35320-2025

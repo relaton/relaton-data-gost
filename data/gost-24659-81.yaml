@@ -1,0 +1,49 @@
+---
+id: GOST-24659-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Самолеты короткого взлета и посадки. Допустимые уровни шума на местности
+    и методы определения уровней шума
+  type: main
+docidentifier:
+- content: GOST 24659-81
+  type: GOST
+  primary: true
+docnumber: '24659'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24659:81
+  webpage: https://new-shop.ksm.kz/catalog/document/17336/
+  ics_code: '49.020'
+  pages: '7'
+  designation_original: ГОСТ 24659-81

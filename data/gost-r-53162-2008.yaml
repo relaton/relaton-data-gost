@@ -1,0 +1,50 @@
+---
+id: GOST-R-53162-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты пищевые. Определение афлатоксина B1 и общего содержания афлатоксинов
+    B1, B2, G1 и G2 в зерновых культурах, орехах и продуктах их переработки. Метод
+    высокоэффективной жидкостной хроматографии
+  type: main
+docidentifier:
+- content: GOST R 53162-2008
+  type: GOST
+  primary: true
+docnumber: '53162'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53162:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/42602/
+  ics_code: '67.060'
+  pages: '15'
+  designation_original: ГОСТ Р 53162-2008

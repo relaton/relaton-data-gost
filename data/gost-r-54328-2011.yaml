@@ -1,0 +1,49 @@
+---
+id: GOST-R-54328-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стоматология. Доклиническая оценка систем имплантатов. Методы испытаний
+    на животных
+  type: main
+docidentifier:
+- content: GOST R 54328-2011
+  type: GOST
+  primary: true
+docnumber: '54328'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54328:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/46833/
+  ics_code: 11.060.15
+  pages: '12'
+  designation_original: ГОСТ Р 54328-2011/ISO/TS 22911:2005

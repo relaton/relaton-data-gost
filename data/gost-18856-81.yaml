@@ -1,0 +1,49 @@
+---
+id: GOST-18856-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппараты ингаляционного наркоза и искусственной вентиляции легких. Общие
+    технические требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 18856-81
+  type: GOST
+  primary: true
+docnumber: '18856'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18856:81
+  webpage: https://new-shop.ksm.kz/catalog/document/16424/
+  ics_code: 11.040.10
+  pages: '32'
+  designation_original: ГОСТ 18856-81

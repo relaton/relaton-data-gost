@@ -1,0 +1,49 @@
+---
+id: GOST-60335-2-81-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бытовые и аналогичные электрические приборы. Безопасность. Часть 2-81.
+    Частные требования к грелкам для ног и коврикам с подогревом
+  type: main
+docidentifier:
+- content: GOST 60335-2-81-2017
+  type: GOST
+  primary: true
+docnumber: 60335-2-81
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60335-2-81:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70434/
+  ics_code: '13.120'
+  pages: '23'
+  designation_original: ГОСТ IEC 60335-2-81-2017

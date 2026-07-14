@@ -1,0 +1,49 @@
+---
+id: GOST-21610-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станки фрезерные с числовым программным управлением. Основные параметры
+    и присоединительные размеры
+  type: main
+docidentifier:
+- content: GOST 21610-82
+  type: GOST
+  primary: true
+docnumber: '21610'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21610:82
+  webpage: https://new-shop.ksm.kz/catalog/document/21671/
+  ics_code: 25.080.20
+  pages: '5'
+  designation_original: ГОСТ 21610-82

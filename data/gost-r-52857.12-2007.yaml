@@ -1,0 +1,49 @@
+---
+id: GOST-R-52857.12-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сосуды и аппараты. Нормы и методы расчета на прочность. Требования к форме
+    представления расчетов на прочность, выполняемых на ЭВМ
+  type: main
+docidentifier:
+- content: GOST R 52857.12-2007
+  type: GOST
+  primary: true
+docnumber: '52857.12'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52857.12:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/40918/
+  ics_code: '71.120'
+  pages: '8'
+  designation_original: ГОСТ Р 52857.12-2007

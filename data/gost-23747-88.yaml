@@ -1,0 +1,48 @@
+---
+id: GOST-23747-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двери из алюминиевых сплавов. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 23747-88
+  type: GOST
+  primary: true
+docnumber: '23747'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23747:88
+  webpage: https://new-shop.ksm.kz/catalog/document/35302/
+  ics_code: 91.060.50
+  pages: '11'
+  designation_original: ГОСТ 23747-88

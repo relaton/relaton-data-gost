@@ -1,0 +1,50 @@
+---
+id: GOST-R-906-3-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система МЭК вилок и штепсельных розеток бытового и аналогичного назначения.
+    Частные требования к вилкам и штепсельным розеткам системы безопасного сверхнизкого
+    напряжения (SELV) 6, 12, 24, и 48 В и номинальный ток 16А. Технические требования
+  type: main
+docidentifier:
+- content: GOST R 906-3-96
+  type: GOST
+  primary: true
+docnumber: 906-3
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:906-3:96
+  webpage: https://new-shop.ksm.kz/catalog/document/24061/
+  ics_code: 29.120.30
+  pages: '11'
+  designation_original: ГОСТ Р МЭК 906-3-96

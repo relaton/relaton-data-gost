@@ -1,0 +1,48 @@
+---
+id: GOST-19011-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Руководящие указания по аудиту систем менеджмента
+  type: main
+docidentifier:
+- content: GOST 19011-2013
+  type: GOST
+  primary: true
+docnumber: '19011'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19011:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58741/
+  ics_code: 03.120.10
+  pages: '42'
+  designation_original: ГОСТ ISO 19011-2013

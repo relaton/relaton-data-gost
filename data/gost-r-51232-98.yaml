@@ -1,0 +1,48 @@
+---
+id: GOST-R-51232-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вода питьевая. Общие требования к организации и методам контроля качества
+  type: main
+docidentifier:
+- content: GOST R 51232-98
+  type: GOST
+  primary: true
+docnumber: '51232'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51232:98
+  webpage: https://new-shop.ksm.kz/catalog/document/17651/
+  ics_code: 13.060.20
+  pages: '19'
+  designation_original: ГОСТ Р 51232-98

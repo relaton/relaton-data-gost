@@ -1,0 +1,49 @@
+---
+id: GOST-31596-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Герметичность оборудования и аппаратуры для газовой сварки, резки и аналогичных
+    процессов. Допустимые скорости внешней утечки газа и метод их измерения
+  type: main
+docidentifier:
+- content: GOST 31596-2012
+  type: GOST
+  primary: true
+docnumber: '31596'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31596:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/54025/
+  ics_code: 25.160.30
+  pages: '8'
+  designation_original: ГОСТ 31596-2012 (ISO 9090:1989)

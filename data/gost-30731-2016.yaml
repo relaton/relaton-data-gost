@@ -1,0 +1,49 @@
+---
+id: GOST-30731-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Цилиндры, трубки и рукава гидропривода тормозов и сцепления транспортных
+    средств. Общие технические требования, правила приемки и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 30731-2016
+  type: GOST
+  primary: true
+docnumber: '30731'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30731:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67159/
+  ics_code: 43.040.40
+  pages: '16'
+  designation_original: ГОСТ 30731-2016

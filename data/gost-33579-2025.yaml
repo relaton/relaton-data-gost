@@ -1,0 +1,49 @@
+---
+id: GOST-33579-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жидкости охлаждающие на основе этиленгликоля. Определение температуры начала
+    кристаллизации автоматическим методом фазового перехода
+  type: main
+docidentifier:
+- content: GOST 33579-2025
+  type: GOST
+  primary: true
+docnumber: '33579'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33579:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76670/
+  ics_code: '75.100'
+  pages: '11'
+  designation_original: ГОСТ 33579-2025

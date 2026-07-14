@@ -1,0 +1,49 @@
+---
+id: GOST-33906-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топлива авиационные для газотурбинных двигателей. Определение смазывающей
+    способности на аппарате шар-цилиндр (BOCLE)
+  type: main
+docidentifier:
+- content: GOST 33906-2016
+  type: GOST
+  primary: true
+docnumber: '33906'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33906:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67537/
+  ics_code: 75.160.20
+  pages: '25'
+  designation_original: ГОСТ 33906-2016

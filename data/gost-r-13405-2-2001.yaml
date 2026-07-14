@@ -1,0 +1,49 @@
+---
+id: GOST-R-13405-2-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Протезирование и ортезирование. Классификация и описание узлов протезов.
+    Часть 2. Описание узлов протезов нижних конечностей
+  type: main
+docidentifier:
+- content: GOST R 13405-2-2001
+  type: GOST
+  primary: true
+docnumber: 13405-2
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13405-2:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/16813/
+  ics_code: 11.040.40
+  pages: '11'
+  designation_original: ГОСТ Р ИСО 13405-2-2001

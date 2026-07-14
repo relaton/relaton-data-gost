@@ -1,0 +1,49 @@
+---
+id: GOST-3308-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машина обычная лабораторная для прокуривания сигарет (курительная машина).
+    Определения и стандартные условия
+  type: main
+docidentifier:
+- content: GOST 3308-2003
+  type: GOST
+  primary: true
+docnumber: '3308'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3308:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/28208/
+  ics_code: '65.160'
+  pages: '20'
+  designation_original: ГОСТ ИСО 3308-2003

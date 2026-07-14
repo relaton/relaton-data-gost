@@ -1,0 +1,49 @@
+---
+id: GOST-R-50568.4-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мочевина (карбамид) техническая. Определение цвета формальдегидного раствора
+    в единицах Хазена (платино - кобальтовая шкала)
+  type: main
+docidentifier:
+- content: GOST R 50568.4-93
+  type: GOST
+  primary: true
+docnumber: '50568.4'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50568.4:93
+  webpage: https://new-shop.ksm.kz/catalog/document/28243/
+  ics_code: '65.080'
+  pages: '3'
+  designation_original: ГОСТ Р 50568.4-93

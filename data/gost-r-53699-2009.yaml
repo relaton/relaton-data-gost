@@ -1,0 +1,49 @@
+---
+id: GOST-R-53699-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Первичные упаковочные материалы для лекарственных средств. Частные требования
+    по применению ГОСТ Р ИСО 9001-2008 с учетом правил GMP
+  type: main
+docidentifier:
+- content: GOST R 53699-2009
+  type: GOST
+  primary: true
+docnumber: '53699'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53699:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42959/
+  ics_code: '11.120'
+  pages: '54'
+  designation_original: ГОСТ Р 53699-2009

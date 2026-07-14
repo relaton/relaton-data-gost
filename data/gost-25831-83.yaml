@@ -1,0 +1,48 @@
+---
+id: GOST-25831-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пленки фотографические листовые. Размеры и методы контроля
+  type: main
+docidentifier:
+- content: GOST 25831-83
+  type: GOST
+  primary: true
+docnumber: '25831'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25831:83
+  webpage: https://new-shop.ksm.kz/catalog/document/25681/
+  ics_code: 37.040.20
+  pages: '7'
+  designation_original: ГОСТ 25831-83

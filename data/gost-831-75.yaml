@@ -1,0 +1,48 @@
+---
+id: GOST-831-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подшипники шариковые радиально-упорные однорядные. Типы и основные размеры
+  type: main
+docidentifier:
+- content: GOST 831-75
+  type: GOST
+  primary: true
+docnumber: '831'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:831:75
+  webpage: https://new-shop.ksm.kz/catalog/document/19121/
+  ics_code: 21.100.20
+  pages: '15'
+  designation_original: ГОСТ 831-75

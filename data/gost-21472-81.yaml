@@ -1,0 +1,48 @@
+---
+id: GOST-21472-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы листовые. Гравиметрический метод определения паропроницаемости
+  type: main
+docidentifier:
+- content: GOST 21472-81
+  type: GOST
+  primary: true
+docnumber: '21472'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21472:81
+  webpage: https://new-shop.ksm.kz/catalog/document/26447/
+  ics_code: '55.040'
+  pages: '9'
+  designation_original: ГОСТ 21472-81

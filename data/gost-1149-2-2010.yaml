@@ -1,0 +1,49 @@
+---
+id: GOST-1149-2-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Одежда защитная. Электростатические свойства. Часть 2. Метод испытания
+    для измерения электрического сопротивления материала (объемное сопротивление)
+  type: main
+docidentifier:
+- content: GOST 1149-2-2010
+  type: GOST
+  primary: true
+docnumber: 1149-2
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1149-2:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45464/
+  ics_code: 13.340.10
+  pages: '13'
+  designation_original: ГОСТ EN 1149-2-2010

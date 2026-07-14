@@ -1,0 +1,52 @@
+---
+id: GOST-50491-4-1-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Общие требования к электронным системам жилых и общественных зданий   (HBES)
+    и системам автоматизации и управления зданиями (BACS). Часть 4-1. Общие требования
+    к функциональной безопасности изделий, предназначенных для включения в электронные
+    системы жилых и общественных зданий  (HBES) и системы автоматизации и управления
+    зданиями (BACS)
+  type: main
+docidentifier:
+- content: GOST 50491-4-1-2018
+  type: GOST
+  primary: true
+docnumber: 50491-4-1
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:50491-4-1:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/70571/
+  ics_code: '97.120'
+  pages: '33'
+  designation_original: ГОСТ EN 50491-4-1-2018

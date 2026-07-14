@@ -1,0 +1,48 @@
+---
+id: GOST-11363-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Диметилтерефталат технический. Технические условия
+  type: main
+docidentifier:
+- content: GOST 11363-91
+  type: GOST
+  primary: true
+docnumber: '11363'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11363:91
+  webpage: https://new-shop.ksm.kz/catalog/document/29984/
+  ics_code: 71.080.70
+  pages: '23'
+  designation_original: ГОСТ 11363-91

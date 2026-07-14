@@ -1,0 +1,50 @@
+---
+id: GOST-12.4.317-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ССБТ. Средства индивидуальной защиты от падения с высоты. Общие требования
+    к проведению испытаний изделий, предназначенных для эксплуатации в условиях пониженных
+    и/или повышенных температур воздуха
+  type: main
+docidentifier:
+- content: GOST 12.4.317-2019
+  type: GOST
+  primary: true
+docnumber: 12.4.317
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.4.317:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71530/
+  ics_code: 13.340.60
+  pages: '11'
+  designation_original: ГОСТ 12.4.317-2019

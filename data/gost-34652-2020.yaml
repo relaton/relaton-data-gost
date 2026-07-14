@@ -1,0 +1,49 @@
+---
+id: GOST-34652-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка. Санитарно-гигиенические требования к упаковке, предназначенной
+    для упаковывания парфюмерно-косметической продукции
+  type: main
+docidentifier:
+- content: GOST 34652-2020
+  type: GOST
+  primary: true
+docnumber: '34652'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34652:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/73120/
+  ics_code: '55.020'
+  pages: '17'
+  designation_original: ГОСТ 34652-2020

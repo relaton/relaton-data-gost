@@ -1,0 +1,50 @@
+---
+id: GOST-12119.4-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сталь электротехническая. Методы определения магнитных и электрических
+    свойств. Метод измерения удельных магнитных потерь и действующего значения напряженности
+    магнитного поля
+  type: main
+docidentifier:
+- content: GOST 12119.4-98
+  type: GOST
+  primary: true
+docnumber: '12119.4'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12119.4:98
+  webpage: https://new-shop.ksm.kz/catalog/document/32402/
+  ics_code: 77.040.20
+  pages: '11'
+  designation_original: ГОСТ 12119.4-98

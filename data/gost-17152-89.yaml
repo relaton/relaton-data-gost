@@ -1,0 +1,49 @@
+---
+id: GOST-17152-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Профили стальные горячекатаные для ножей землеройных машин. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 17152-89
+  type: GOST
+  primary: true
+docnumber: '17152'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17152:89
+  webpage: https://new-shop.ksm.kz/catalog/document/32752/
+  ics_code: 77.140.70
+  pages: '4'
+  designation_original: ГОСТ 17152-89

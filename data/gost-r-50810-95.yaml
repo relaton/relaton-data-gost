@@ -1,0 +1,49 @@
+---
+id: GOST-R-50810-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пожарная безопасность текстильных материалов. Ткани декоративные. Метод
+    испытания на воспламеняемость и классификация
+  type: main
+docidentifier:
+- content: GOST R 50810-95
+  type: GOST
+  primary: true
+docnumber: '50810'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50810:95
+  webpage: https://new-shop.ksm.kz/catalog/document/17604/
+  ics_code: 13.220.40
+  pages: '12'
+  designation_original: ГОСТ Р 50810-95

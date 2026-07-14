@@ -1,0 +1,49 @@
+---
+id: GOST-R-705-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Латекс каучуковый. Определение плотности при температуре от 5 град. С до
+    40 град. С
+  type: main
+docidentifier:
+- content: GOST R 705-2003
+  type: GOST
+  primary: true
+docnumber: '705'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:705:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/34513/
+  ics_code: 83.040.10
+  pages: '9'
+  designation_original: ГОСТ Р ИСО 705-2003

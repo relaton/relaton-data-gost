@@ -1,0 +1,49 @@
+---
+id: GOST-2061-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы и изделия текстильные. Определение крутки нитей Метод прямого
+    подсчета
+  type: main
+docidentifier:
+- content: GOST 2061-2023
+  type: GOST
+  primary: true
+docnumber: '2061'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2061:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/76470/
+  ics_code: 59.080.20
+  pages: '20'
+  designation_original: ГОСТ ISO 2061-2023

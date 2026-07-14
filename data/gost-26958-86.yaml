@@ -1,0 +1,49 @@
+---
+id: GOST-26958-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Свинец для производства свинцового сурика повышенной чистоты. Метод определения
+    ванадия, кобальта, марганца и хрома
+  type: main
+docidentifier:
+- content: GOST 26958-86
+  type: GOST
+  primary: true
+docnumber: '26958'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26958:86
+  webpage: https://new-shop.ksm.kz/catalog/document/33209/
+  ics_code: 77.120.60
+  pages: '12'
+  designation_original: ГОСТ 26958-86

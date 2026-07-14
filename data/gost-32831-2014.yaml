@@ -1,0 +1,49 @@
+---
+id: GOST-32831-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фрезы концевые с цилиндрическим, коническим хвостовиками и хвостовиком
+    конусностью 7:24. Размеры
+  type: main
+docidentifier:
+- content: GOST 32831-2014
+  type: GOST
+  primary: true
+docnumber: '32831'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32831:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61822/
+  ics_code: 25.100.20
+  pages: '16'
+  designation_original: ГОСТ 32831-2014 (ISO 1641-1:2003, ISO 1641-2:2011, ISO 1641-3:2011)

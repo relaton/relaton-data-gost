@@ -1,0 +1,48 @@
+---
+id: GOST-28275-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Морковь столовая свежая. Руководство по хранению
+  type: main
+docidentifier:
+- content: GOST 28275-94
+  type: GOST
+  primary: true
+docnumber: '28275'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28275:94
+  webpage: https://new-shop.ksm.kz/catalog/document/29057/
+  ics_code: 67.080.20
+  pages: '11'
+  designation_original: ГОСТ 28275-94

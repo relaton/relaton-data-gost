@@ -1,0 +1,49 @@
+---
+id: GOST-R-22649-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Обувь. Методы испытаний стелек и вкладных стелек. Адсорбция и десорбция
+    воды
+  type: main
+docidentifier:
+- content: GOST R 22649-2014
+  type: GOST
+  primary: true
+docnumber: '22649'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:22649:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61201/
+  ics_code: '61.060'
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 22649-2014

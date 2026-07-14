@@ -1,0 +1,49 @@
+---
+id: GOST-R-870-5-5-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства и системы телемеханики. Часть 5. Протоколы передачи. Раздел
+    5. Основные прикладные функции
+  type: main
+docidentifier:
+- content: GOST R 870-5-5-96
+  type: GOST
+  primary: true
+docnumber: 870-5-5
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:870-5-5:96
+  webpage: https://new-shop.ksm.kz/catalog/document/25064/
+  ics_code: '33.200'
+  pages: '55'
+  designation_original: ГОСТ Р МЭК 870-5-5-96

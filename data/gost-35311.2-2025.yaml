@@ -1,0 +1,49 @@
+---
+id: GOST-35311.2-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мебель. Кровати откидные. Требования безопасности и методы испытаний.  Часть
+    2. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 35311.2-2025
+  type: GOST
+  primary: true
+docnumber: '35311.2'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35311.2:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77152/
+  ics_code: '97.140'
+  pages: '12'
+  designation_original: ГОСТ 35311.2-2025 (EN 1129-2:1995)

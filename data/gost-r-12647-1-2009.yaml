@@ -1,0 +1,50 @@
+---
+id: GOST-R-12647-1-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Технология полиграфии. Контроль процесса изготовления цифровых файлов,
+    растровых цветоделений, пробных и тиражных оттисков. Часть 1. Параметры и методы
+    измерения
+  type: main
+docidentifier:
+- content: GOST R 12647-1-2009
+  type: GOST
+  primary: true
+docnumber: 12647-1
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:12647-1:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/45667/
+  ics_code: 37.100.01
+  pages: '24'
+  designation_original: ГОСТ Р ИСО 12647-1-2009

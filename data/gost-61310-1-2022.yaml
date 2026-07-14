@@ -1,0 +1,49 @@
+---
+id: GOST-61310-1-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность машин. Индикация, маркировка и запуск. Часть 1. Требования
+    к визуальным, звуковым и осязаемым сигналам
+  type: main
+docidentifier:
+- content: GOST 61310-1-2022
+  type: GOST
+  primary: true
+docnumber: 61310-1
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61310-1:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/74651/
+  ics_code: 01.080.20
+  pages: '20'
+  designation_original: ГОСТ IEC 61310-1-2022

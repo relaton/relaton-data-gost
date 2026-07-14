@@ -1,0 +1,48 @@
+---
+id: GOST-R-50951-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Внешний шум магистральных и маневровых тепловозов. Нормы и методы измерений
+  type: main
+docidentifier:
+- content: GOST R 50951-96
+  type: GOST
+  primary: true
+docnumber: '50951'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50951:96
+  webpage: https://new-shop.ksm.kz/catalog/document/18721/
+  ics_code: 45.060.10
+  pages: '14'
+  designation_original: ГОСТ Р 50951-96

@@ -1,0 +1,48 @@
+---
+id: GOST-R-8124-1-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность игрушек. Часть 1. Механические и физические свойства
+  type: main
+docidentifier:
+- content: GOST R 8124-1-2014
+  type: GOST
+  primary: true
+docnumber: 8124-1
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8124-1:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61065/
+  ics_code: 97.200.50
+  pages: '88'
+  designation_original: ГОСТ Р ИСО 8124-1-2014

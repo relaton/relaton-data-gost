@@ -1,0 +1,49 @@
+---
+id: GOST-34452-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Разъединители для тяговой сети железных дорог и приводы к ним. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 34452-2018
+  type: GOST
+  primary: true
+docnumber: '34452'
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34452:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/71631/
+  ics_code: 29.120.40
+  pages: '30'
+  designation_original: ГОСТ 34452-2018

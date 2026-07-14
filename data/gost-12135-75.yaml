@@ -1,0 +1,49 @@
+---
+id: GOST-12135-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подкладки костыльного скрепления к железнодорожным рельсам типа Р50. Конструкция
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 12135-75
+  type: GOST
+  primary: true
+docnumber: '12135'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12135:75
+  webpage: https://new-shop.ksm.kz/catalog/document/25965/
+  ics_code: '45.080'
+  pages: '7'
+  designation_original: ГОСТ 12135-75

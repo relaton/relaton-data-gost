@@ -1,0 +1,50 @@
+---
+id: GOST-R-53635-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Газовые воздухонагреватели с принудительной конвекцией для отопления (обогрева)
+    помещений теплопроизводительностью до 100 кВт. Общие технические требования и
+    методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 53635-2009
+  type: GOST
+  primary: true
+docnumber: '53635'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53635:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/44812/
+  ics_code: 91.140.01
+  pages: '70'
+  designation_original: ГОСТ Р 53635-2009 (ЕН 778:1998)

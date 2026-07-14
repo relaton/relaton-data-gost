@@ -1,0 +1,49 @@
+---
+id: GOST-13195-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вина, виноматериалы, коньяки и коньячные спирты. Соки плодово-ягодные спиртованные.
+    Метод определения железа
+  type: main
+docidentifier:
+- content: GOST 13195-73
+  type: GOST
+  primary: true
+docnumber: '13195'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13195:73
+  webpage: https://new-shop.ksm.kz/catalog/document/28742/
+  ics_code: 67.160.10
+  pages: '4'
+  designation_original: ГОСТ 13195-73

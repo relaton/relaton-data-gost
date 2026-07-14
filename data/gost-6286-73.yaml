@@ -1,0 +1,49 @@
+---
+id: GOST-6286-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рукава резиновые высокого давления с металлическими оплетками неармированные.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 6286-73
+  type: GOST
+  primary: true
+docnumber: '6286'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6286:73
+  webpage: https://new-shop.ksm.kz/catalog/document/33975/
+  ics_code: 83.140.40
+  pages: '16'
+  designation_original: ГОСТ 6286-73

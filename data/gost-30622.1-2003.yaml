@@ -1,0 +1,49 @@
+---
+id: GOST-30622.1-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сигареты. Определение содержания воды в конденсате дыма. Метод газовой
+    хроматографии
+  type: main
+docidentifier:
+- content: GOST 30622.1-2003
+  type: GOST
+  primary: true
+docnumber: '30622.1'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30622.1:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/28196/
+  ics_code: '65.160'
+  pages: '8'
+  designation_original: ГОСТ 30622.1-2003

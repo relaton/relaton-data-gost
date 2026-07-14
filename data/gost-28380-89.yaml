@@ -1,0 +1,49 @@
+---
+id: GOST-28380-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединения непаяные. Часть 1. Соединения накруткой непаяные. Общие требования,
+    методы испытаний и руководство по применению
+  type: main
+docidentifier:
+- content: GOST 28380-89
+  type: GOST
+  primary: true
+docnumber: '28380'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28380:89
+  webpage: https://new-shop.ksm.kz/catalog/document/23682/
+  ics_code: 29.120.20
+  pages: '27'
+  designation_original: ГОСТ 28380-89

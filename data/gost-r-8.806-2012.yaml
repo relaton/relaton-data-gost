@@ -1,0 +1,49 @@
+---
+id: GOST-R-8.806-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Государственная
+    поверочная схема для средств измерений массы и активности радия
+  type: main
+docidentifier:
+- content: GOST R 8.806-2012
+  type: GOST
+  primary: true
+docnumber: '8.806'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8.806:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/55785/
+  ics_code: '17.020'
+  pages: '8'
+  designation_original: ГОСТ Р 8.806-2012

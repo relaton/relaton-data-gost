@@ -1,0 +1,49 @@
+---
+id: GOST-26539-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Патроны цанговые с конусом 7:24 для крепления инструмента с цилиндрическим
+    хвостовиком. Основные размеры
+  type: main
+docidentifier:
+- content: GOST 26539-85
+  type: GOST
+  primary: true
+docnumber: '26539'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26539:85
+  webpage: https://new-shop.ksm.kz/catalog/document/22673/
+  ics_code: 25.060.20
+  pages: '6'
+  designation_original: ГОСТ 26539-85

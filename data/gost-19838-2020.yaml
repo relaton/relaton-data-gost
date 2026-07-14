@@ -1,0 +1,49 @@
+---
+id: GOST-19838-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция парфюмерно- косметическая Микробиология Руководящие указания
+    по применению стандартов ISO по микробиологии
+  type: main
+docidentifier:
+- content: GOST 19838-2020
+  type: GOST
+  primary: true
+docnumber: '19838'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19838:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/73972/
+  ics_code: 71.100.70
+  pages: '21'
+  designation_original: ГОСТ ISO/TR 19838-2020

@@ -1,0 +1,50 @@
+---
+id: GOST-10374-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Приборы аналоговые показывающие электроизмерительные прямого действия и
+    вспомогательные части к ним. Часть 7. Особые требования к многофункциональным
+    приборам
+  type: main
+docidentifier:
+- content: GOST 10374-93
+  type: GOST
+  primary: true
+docnumber: '10374'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10374:93
+  webpage: https://new-shop.ksm.kz/catalog/document/18270/
+  ics_code: 17.220.20
+  pages: '12'
+  designation_original: ГОСТ 10374-93

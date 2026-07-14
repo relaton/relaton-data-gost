@@ -1,0 +1,49 @@
+---
+id: GOST-4491-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Центры колесные литые для подвижного состава железных дорог колеи 1520
+    мм. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 4491-86
+  type: GOST
+  primary: true
+docnumber: '4491'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4491:86
+  webpage: https://new-shop.ksm.kz/catalog/document/25933/
+  ics_code: '45.060'
+  pages: '8'
+  designation_original: ГОСТ 4491-86

@@ -1,0 +1,49 @@
+---
+id: GOST-11254-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жиры животные топленые и мука кормовая животного происхождения. Методы
+    определения антиокислителей
+  type: main
+docidentifier:
+- content: GOST 11254-85
+  type: GOST
+  primary: true
+docnumber: '11254'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11254:85
+  webpage: https://new-shop.ksm.kz/catalog/document/28669/
+  ics_code: 67.200.10
+  pages: '24'
+  designation_original: ГОСТ 11254-85

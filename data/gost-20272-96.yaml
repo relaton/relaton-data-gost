@@ -1,0 +1,48 @@
+---
+id: GOST-20272-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ткани подкладочные из химических нитей и пряжи. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 20272-96
+  type: GOST
+  primary: true
+docnumber: '20272'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20272:96
+  webpage: https://new-shop.ksm.kz/catalog/document/27070/
+  ics_code: 59.080.30
+  pages: '8'
+  designation_original: ГОСТ 20272-96

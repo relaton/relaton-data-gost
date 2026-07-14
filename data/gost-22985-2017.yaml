@@ -1,0 +1,49 @@
+---
+id: GOST-22985-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Газы углеводородные сжиженные. Метод определения сероводорода, меркаптановой
+    серы и серооксида углерода
+  type: main
+docidentifier:
+- content: GOST 22985-2017
+  type: GOST
+  primary: true
+docnumber: '22985'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22985:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/68360/
+  ics_code: 75.160.30
+  pages: '27'
+  designation_original: ГОСТ 22985-2017

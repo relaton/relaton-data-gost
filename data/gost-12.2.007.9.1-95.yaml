@@ -1,0 +1,50 @@
+---
+id: GOST-12.2.007.9.1-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность электротермического оборудования. Часть 3. Частные требования
+    к электротермическим устройствам индукционного и прямого нагрева сопротивлением
+    и индукционным электропечам
+  type: main
+docidentifier:
+- content: GOST 12.2.007.9.1-95
+  type: GOST
+  primary: true
+docnumber: 12.2.007.9.1
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.2.007.9.1:95
+  webpage: https://new-shop.ksm.kz/catalog/document/22022/
+  ics_code: 25.180.10
+  pages: '25'
+  designation_original: ГОСТ 12.2.007.9.1-95

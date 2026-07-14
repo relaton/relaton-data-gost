@@ -1,0 +1,48 @@
+---
+id: GOST-R-52253-2004
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло и паста масляная из коровьего молока. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 52253-2004
+  type: GOST
+  primary: true
+docnumber: '52253'
+date:
+- type: published
+  from: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52253:2004
+  webpage: https://new-shop.ksm.kz/catalog/document/29459/
+  ics_code: 67.100.20
+  pages: '29'
+  designation_original: ГОСТ Р 52253-2004

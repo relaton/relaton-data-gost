@@ -1,0 +1,51 @@
+---
+id: GOST-61558-2-10-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность силовых трансформаторов, источников питания, реакторов и аналогичных
+    изделий. Часть 2-10. Дополнительные требования и методы испытаний отделяющих трансформаторов
+    с высокой степенью изоляции и отделяющих трансформаторов с вторичными напряжениями
+    свыше 1000 В
+  type: main
+docidentifier:
+- content: GOST 61558-2-10-2015
+  type: GOST
+  primary: true
+docnumber: 61558-2-10
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61558-2-10:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63410/
+  ics_code: '29.180'
+  pages: '16'
+  designation_original: ГОСТ IEC 61558-2-10-2015

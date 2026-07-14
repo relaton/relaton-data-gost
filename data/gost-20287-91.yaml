@@ -1,0 +1,48 @@
+---
+id: GOST-20287-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтепродукты. Методы определения температур текучести и застывания
+  type: main
+docidentifier:
+- content: GOST 20287-91
+  type: GOST
+  primary: true
+docnumber: '20287'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20287:91
+  webpage: https://new-shop.ksm.kz/catalog/document/31592/
+  ics_code: '75.080'
+  pages: '9'
+  designation_original: ГОСТ 20287-91

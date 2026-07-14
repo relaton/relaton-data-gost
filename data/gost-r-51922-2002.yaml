@@ -1,0 +1,48 @@
+---
+id: GOST-R-51922-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты вибрационные уплотняющие. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 51922-2002
+  type: GOST
+  primary: true
+docnumber: '51922'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51922:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/35517/
+  ics_code: '91.220'
+  pages: '11'
+  designation_original: ГОСТ Р 51922-2002

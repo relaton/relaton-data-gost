@@ -1,0 +1,48 @@
+---
+id: GOST-R-5287-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ремни приводные клиновые узких сечений для автомобилей. Испытание на усталость
+  type: main
+docidentifier:
+- content: GOST R 5287-2017
+  type: GOST
+  primary: true
+docnumber: '5287'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:5287:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/67631/
+  ics_code: 21.220.10
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 5287-2017

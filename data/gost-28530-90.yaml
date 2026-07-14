@@ -1,0 +1,49 @@
+---
+id: GOST-28530-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование для свеклосахарного производства. Теплообменники и подогреватели
+    сока. Типы, основные параметры и размеры
+  type: main
+docidentifier:
+- content: GOST 28530-90
+  type: GOST
+  primary: true
+docnumber: '28530'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28530:90
+  webpage: https://new-shop.ksm.kz/catalog/document/29071/
+  ics_code: '67.260'
+  pages: '11'
+  designation_original: ГОСТ 28530-90

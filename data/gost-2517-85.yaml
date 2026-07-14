@@ -1,0 +1,48 @@
+---
+id: GOST-2517-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть и нефтепродукты. Методы отбора проб
+  type: main
+docidentifier:
+- content: GOST 2517-85
+  type: GOST
+  primary: true
+docnumber: '2517'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2517:85
+  webpage: https://new-shop.ksm.kz/catalog/document/31321/
+  ics_code: '75.080'
+  pages: '25'
+  designation_original: ГОСТ 2517-85

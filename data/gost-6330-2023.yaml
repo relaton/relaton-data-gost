@@ -1,0 +1,49 @@
+---
+id: GOST-6330-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы и изделия текстильные. Процедуры домашней стирки и сушки для
+    испытаний текстильных материалов и изделий
+  type: main
+docidentifier:
+- content: GOST 6330-2023
+  type: GOST
+  primary: true
+docnumber: '6330'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6330:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/75130/
+  ics_code: 59.080.01
+  pages: '40'
+  designation_original: ГОСТ ISO 6330-2023

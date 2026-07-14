@@ -1,0 +1,50 @@
+---
+id: GOST-16274-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция парфюмерно-косметическая. Метод анализа аллергенов. Количественное
+    определение 57 потенциальных аллергенов в составе ароматических композиций с помощью
+    газовой хромато-масс-спектрометрии
+  type: main
+docidentifier:
+- content: GOST 16274-2023
+  type: GOST
+  primary: true
+docnumber: '16274'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16274:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/74585/
+  ics_code: 71.100.60
+  pages: '57'
+  designation_original: ГОСТ EN 16274-2023

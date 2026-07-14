@@ -1,0 +1,50 @@
+---
+id: GOST-3739-1-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шины и ободья индустриальные. Часть 1. Шины пневматические (метрические
+    серии) для ободьев с плоским основанием или конической полкой 5 град. Обозначение,
+    размеры и маркировка
+  type: main
+docidentifier:
+- content: GOST 3739-1-2003
+  type: GOST
+  primary: true
+docnumber: 3739-1
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3739-1:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/38419/
+  ics_code: 83.160.10
+  pages: '83'
+  designation_original: ГОСТ ИСО 3739-1-2003

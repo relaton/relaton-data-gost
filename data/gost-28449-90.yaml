@@ -1,0 +1,49 @@
+---
+id: GOST-28449-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станции автоматические телефонные. Общие требования по взаимодействию электронных
+    автоматических телефонных станций с координатными
+  type: main
+docidentifier:
+- content: GOST 28449-90
+  type: GOST
+  primary: true
+docnumber: '28449'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28449:90
+  webpage: https://new-shop.ksm.kz/catalog/document/24889/
+  ics_code: 33.040.35
+  pages: '32'
+  designation_original: ГОСТ 28449-90

@@ -1,0 +1,50 @@
+---
+id: GOST-R-61689-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Оборудование ультразвуковое
+    медицинское терапевтическое. Общие требования к методикам измерения параметров
+    акустического выхода в диапазоне частот от 0,5 до 5,0 МГц
+  type: main
+docidentifier:
+- content: GOST R 61689-2013
+  type: GOST
+  primary: true
+docnumber: '61689'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:61689:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59308/
+  ics_code: 11.040.60
+  pages: '46'
+  designation_original: ГОСТ Р МЭК 61689-2013

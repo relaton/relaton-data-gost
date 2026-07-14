@@ -1,0 +1,49 @@
+---
+id: GOST-11612.10-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фотоумножители. Метод определения нелинейности световой характеристики
+    в импульсном режиме
+  type: main
+docidentifier:
+- content: GOST 11612.10-84
+  type: GOST
+  primary: true
+docnumber: '11612.10'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11612.10:84
+  webpage: https://new-shop.ksm.kz/catalog/document/24149/
+  ics_code: '31.260'
+  pages: '3'
+  designation_original: ГОСТ 11612.10-84

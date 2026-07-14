@@ -1,0 +1,48 @@
+---
+id: GOST-1891-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Индивидуальное снаряжение для защиты от падения с высоты. Статические  веревки
+  type: main
+docidentifier:
+- content: GOST 1891-2009
+  type: GOST
+  primary: true
+docnumber: '1891'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1891:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42411/
+  ics_code: 13.340.99
+  pages: '13'
+  designation_original: ГОСТ ЕН 1891-2009

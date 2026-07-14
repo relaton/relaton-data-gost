@@ -1,0 +1,50 @@
+---
+id: GOST-14041-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы. Определение тенденции к выделению хлористого водорода и других
+    кислотных продуктов при высокой температуре у композиций и продуктов на основе
+    гомополимеров и сополимеров винилхлорида. Метод конго красный
+  type: main
+docidentifier:
+- content: GOST 14041-91
+  type: GOST
+  primary: true
+docnumber: '14041'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14041:91
+  webpage: https://new-shop.ksm.kz/catalog/document/34072/
+  ics_code: 83.080.20
+  pages: '8'
+  designation_original: ГОСТ 14041-91

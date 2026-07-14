@@ -1,0 +1,49 @@
+---
+id: GOST-14766-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины и приборы для определения механических свойств материалов. Термины
+    и определения
+  type: main
+docidentifier:
+- content: GOST 14766-69
+  type: GOST
+  primary: true
+docnumber: '14766'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14766:69
+  webpage: https://new-shop.ksm.kz/catalog/document/14852/
+  ics_code: 01.040.19
+  pages: '10'
+  designation_original: ГОСТ 14766-69

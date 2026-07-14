@@ -1,0 +1,48 @@
+---
+id: GOST-1555-67
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упоры плиточные для станочных приспособлений. Конструкция
+  type: main
+docidentifier:
+- content: GOST 1555-67
+  type: GOST
+  primary: true
+docnumber: '1555'
+date:
+- type: published
+  from: '1967-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1967'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1555:67
+  webpage: https://new-shop.ksm.kz/catalog/document/20458/
+  ics_code: 25.060.99
+  pages: '4'
+  designation_original: ГОСТ 1555-67

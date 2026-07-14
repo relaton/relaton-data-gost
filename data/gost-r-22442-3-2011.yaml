@@ -1,0 +1,50 @@
+---
+id: GOST-R-22442-3-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские, использующие ткани и их производные животного происхождения.
+    Часть 3. Валидация уничтожения и/или дезактивации вирусов и агентов инфекционной
+    губчатой энцефалопатии
+  type: main
+docidentifier:
+- content: GOST R 22442-3-2011
+  type: GOST
+  primary: true
+docnumber: 22442-3
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:22442-3:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/54854/
+  ics_code: 11.100.20
+  pages: '24'
+  designation_original: ГОСТ Р ИСО 22442-3-2011

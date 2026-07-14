@@ -1,0 +1,49 @@
+---
+id: GOST-10993-11-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские. Оценка биологического действия медицинских изделий.
+    Часть 11. Исследования общетоксического действия
+  type: main
+docidentifier:
+- content: GOST 10993-11-2021
+  type: GOST
+  primary: true
+docnumber: 10993-11
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10993-11:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75592/
+  ics_code: 11.100.20
+  pages: '33'
+  designation_original: ГОСТ ISO 10993-11-2021

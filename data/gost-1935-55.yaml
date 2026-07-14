@@ -1,0 +1,48 @@
+---
+id: GOST-1935-55
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мясо-баранина и козлятина - в тушах. Технические условия
+  type: main
+docidentifier:
+- content: GOST 1935-55
+  type: GOST
+  primary: true
+docnumber: '1935'
+date:
+- type: published
+  from: '1955-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1955'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1935:55
+  webpage: https://new-shop.ksm.kz/catalog/document/28401/
+  ics_code: 67.120.10
+  pages: '7'
+  designation_original: ГОСТ 1935-55

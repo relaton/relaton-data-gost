@@ -1,0 +1,49 @@
+---
+id: GOST-16775-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Калибры-скобы гладкие, оснащенные твердым сплавом, для диаметров от 3 до
+    180 мм. Размеры
+  type: main
+docidentifier:
+- content: GOST 16775-93
+  type: GOST
+  primary: true
+docnumber: '16775'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16775:93
+  webpage: https://new-shop.ksm.kz/catalog/document/18373/
+  ics_code: 17.040.30
+  pages: '8'
+  designation_original: ГОСТ 16775-93

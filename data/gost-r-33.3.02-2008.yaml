@@ -1,0 +1,50 @@
+---
+id: GOST-R-33.3.02-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единый российский страховой фонд документации. Страховые копии документации,
+    являющейся национальным научным, культурным и историческим наследием. Общие требования
+    к условиям хранения
+  type: main
+docidentifier:
+- content: GOST R 33.3.02-2008
+  type: GOST
+  primary: true
+docnumber: 33.3.02
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:33.3.02:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41125/
+  ics_code: '01.120'
+  pages: '19'
+  designation_original: ГОСТ Р 33.3.02-2008

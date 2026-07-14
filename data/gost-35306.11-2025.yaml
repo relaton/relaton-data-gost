@@ -1,0 +1,48 @@
+---
+id: GOST-35306.11-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность игрушек. Часть 11. Методы анализа органических соединений
+  type: main
+docidentifier:
+- content: GOST 35306.11-2025
+  type: GOST
+  primary: true
+docnumber: '35306.11'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35306.11:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77035/
+  ics_code: 97.200.50
+  pages: '54'
+  designation_original: ГОСТ 35306.11-2025 (EN 71-11:2005)

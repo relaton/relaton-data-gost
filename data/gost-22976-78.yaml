@@ -1,0 +1,48 @@
+---
+id: GOST-22976-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гидроприводы, пневмоприводы и смазочные системы. Правила приемки
+  type: main
+docidentifier:
+- content: GOST 22976-78
+  type: GOST
+  primary: true
+docnumber: '22976'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22976:78
+  webpage: https://new-shop.ksm.kz/catalog/document/19569/
+  ics_code: '23.100'
+  pages: '23'
+  designation_original: ГОСТ 22976-78

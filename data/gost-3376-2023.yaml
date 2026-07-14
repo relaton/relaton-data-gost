@@ -1,0 +1,49 @@
+---
+id: GOST-3376-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа. Физические и механические испытания. Определение предела прочности
+    при растяжении и относительного удлинения
+  type: main
+docidentifier:
+- content: GOST 3376-2023
+  type: GOST
+  primary: true
+docnumber: '3376'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3376:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/74598/
+  ics_code: 59.140.30
+  pages: '12'
+  designation_original: ГОСТ ISO 3376-2023

@@ -1,0 +1,48 @@
+---
+id: GOST-R-53710-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Месторождения нефтяные и газонефтяные. Правила проектирования разработки
+  type: main
+docidentifier:
+- content: GOST R 53710-2009
+  type: GOST
+  primary: true
+docnumber: '53710'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53710:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/44921/
+  ics_code: '73.020'
+  pages: '58'
+  designation_original: ГОСТ Р 53710-2009

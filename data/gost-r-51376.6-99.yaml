@@ -1,0 +1,49 @@
+---
+id: GOST-R-51376.6-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины ручные. Измерение вибрации на рукоятках. Часть 6. Машины ударно-вращательные
+    сверлильные
+  type: main
+docidentifier:
+- content: GOST R 51376.6-99
+  type: GOST
+  primary: true
+docnumber: '51376.6'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51376.6:99
+  webpage: https://new-shop.ksm.kz/catalog/document/18734/
+  ics_code: '25.140'
+  pages: '11'
+  designation_original: ГОСТ Р 51376.6-99

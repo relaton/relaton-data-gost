@@ -1,0 +1,48 @@
+---
+id: GOST-60065-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аудио-, видео- и аналогичная электронная аппаратура. Требования безопасности
+  type: main
+docidentifier:
+- content: GOST 60065-2013
+  type: GOST
+  primary: true
+docnumber: '60065'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60065:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58662/
+  ics_code: '97.020'
+  pages: '137'
+  designation_original: ГОСТ IEC 60065-2013

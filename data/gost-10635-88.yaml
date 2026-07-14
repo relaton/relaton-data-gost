@@ -1,0 +1,49 @@
+---
+id: GOST-10635-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты древесностружечные. Методы определения предела прочности и модуля
+    упругости при изгибе
+  type: main
+docidentifier:
+- content: GOST 10635-88
+  type: GOST
+  primary: true
+docnumber: '10635'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10635:88
+  webpage: https://new-shop.ksm.kz/catalog/document/33508/
+  ics_code: 79.060.20
+  pages: '8'
+  designation_original: ГОСТ 10635-88

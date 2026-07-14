@@ -1,0 +1,48 @@
+---
+id: GOST-6927-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты бетонные фасадные. Технические требования
+  type: main
+docidentifier:
+- content: GOST 6927-74
+  type: GOST
+  primary: true
+docnumber: '6927'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6927:74
+  webpage: https://new-shop.ksm.kz/catalog/document/35095/
+  ics_code: 91.100.30
+  pages: '7'
+  designation_original: ГОСТ 6927-74

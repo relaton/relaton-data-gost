@@ -1,0 +1,48 @@
+---
+id: GOST-17.1.4.02-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вода. Методика спектрофотометрического определения хлорофилла - а
+  type: main
+docidentifier:
+- content: GOST 17.1.4.02-90
+  type: GOST
+  primary: true
+docnumber: 17.1.4.02
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17.1.4.02:90
+  webpage: https://new-shop.ksm.kz/catalog/document/17179/
+  ics_code: '13.060'
+  pages: '12'
+  designation_original: ГОСТ 17.1.4.02-90

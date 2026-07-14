@@ -1,0 +1,49 @@
+---
+id: GOST-24966-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Скобы двусторонние для контроля толщины зубьев шлицевых валов с прямобочным
+    профилем. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 24966-81
+  type: GOST
+  primary: true
+docnumber: '24966'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24966:81
+  webpage: https://new-shop.ksm.kz/catalog/document/18544/
+  ics_code: 17.040.30
+  pages: '2'
+  designation_original: ГОСТ 24966-81

@@ -1,0 +1,50 @@
+---
+id: GOST-R-51701-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединительные устройства. Устройства для присоединения алюминиевых проводников
+    к зажимам из любого материала и медных проводников к зажимам из алюминиевых сплавов.
+    Общие требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 51701-2000
+  type: GOST
+  primary: true
+docnumber: '51701'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51701:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/23813/
+  ics_code: 29.120.20
+  pages: '35'
+  designation_original: ГОСТ Р 51701-2000

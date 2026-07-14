@@ -1,0 +1,49 @@
+---
+id: GOST-62341-6-1-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Дисплеи на органических светодиодах (OLED). Часть 6-1. Методы измерения
+    оптических и электрооптических параметров
+  type: main
+docidentifier:
+- content: GOST 62341-6-1-2016
+  type: GOST
+  primary: true
+docnumber: 62341-6-1
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:62341-6-1:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67576/
+  ics_code: '31.120'
+  pages: '28'
+  designation_original: ГОСТ IEC 62341-6-1-2016

@@ -1,0 +1,51 @@
+---
+id: GOST-6887-1-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Микробиология пищевых продуктов и кормов для животных. Подготовка образцов
+    для испытания, исходной суспензии и десятикратных разведений для микробиологического
+    исследования. Часть 1. Общие правила подготовки исходной суспензии и десятикратных
+    разведений
+  type: main
+docidentifier:
+- content: GOST 6887-1-2015
+  type: GOST
+  primary: true
+docnumber: 6887-1
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6887-1:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/68013/
+  ics_code: 07.100.30
+  pages: '9'
+  designation_original: ГОСТ ISO 6887-1-2015

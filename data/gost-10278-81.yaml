@@ -1,0 +1,48 @@
+---
+id: GOST-10278-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Калибры для упорной резьбы. Допуски
+  type: main
+docidentifier:
+- content: GOST 10278-81
+  type: GOST
+  primary: true
+docnumber: '10278'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10278:81
+  webpage: https://new-shop.ksm.kz/catalog/document/18268/
+  ics_code: 17.040.30
+  pages: '13'
+  designation_original: ГОСТ 10278-81

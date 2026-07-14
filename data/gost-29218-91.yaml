@@ -1,0 +1,49 @@
+---
+id: GOST-29218-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шины и ободья для мотоциклов (кодированные серии). Коды диаметров от 4
+    до 12. Часть 1. Пневматические шины
+  type: main
+docidentifier:
+- content: GOST 29218-91
+  type: GOST
+  primary: true
+docnumber: '29218'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29218:91
+  webpage: https://new-shop.ksm.kz/catalog/document/34462/
+  ics_code: 83.160.10
+  pages: '7'
+  designation_original: ГОСТ 29218-91

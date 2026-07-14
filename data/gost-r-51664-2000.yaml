@@ -1,0 +1,49 @@
+---
+id: GOST-R-51664-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы и аппаратура автоматического управления каналами радиосвязи. Основные
+    параметры
+  type: main
+docidentifier:
+- content: GOST R 51664-2000
+  type: GOST
+  primary: true
+docnumber: '51664'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51664:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/25016/
+  ics_code: 33.060.01
+  pages: '19'
+  designation_original: ГОСТ Р 51664-2000

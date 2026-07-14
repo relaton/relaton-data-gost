@@ -1,0 +1,49 @@
+---
+id: GOST-35082-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оценка соответствия. Требования к компетенции лабораторий, выполняющих
+    исследования продукции Халал
+  type: main
+docidentifier:
+- content: GOST 35082-2024
+  type: GOST
+  primary: true
+docnumber: '35082'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35082:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76265/
+  ics_code: '03.100'
+  pages: '15'
+  designation_original: ГОСТ 35082-2024

@@ -1,0 +1,50 @@
+---
+id: GOST-R-1047-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства вспомогательные для ламп. Преобразователи электронные понижающие,
+    питаемые от источников постоянного или переменного тока, для ламп накаливания.
+    Требования к рабочим характеристикам
+  type: main
+docidentifier:
+- content: GOST R 1047-98
+  type: GOST
+  primary: true
+docnumber: '1047'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:1047:98
+  webpage: https://new-shop.ksm.kz/catalog/document/24074/
+  ics_code: 29.140.30
+  pages: '14'
+  designation_original: ГОСТ Р МЭК 1047-98

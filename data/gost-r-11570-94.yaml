@@ -1,0 +1,49 @@
+---
+id: GOST-R-11570-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Иформационная технология. Передача данных и обмен информацией между системами.
+    Взаимосвязь открытых систем. Механизм идентификации протоколов транспортного уровня
+  type: main
+docidentifier:
+- content: GOST R 11570-94
+  type: GOST
+  primary: true
+docnumber: '11570'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:11570:94
+  webpage: https://new-shop.ksm.kz/catalog/document/25450/
+  ics_code: 35.100.40
+  pages: '12'
+  designation_original: ГОСТ Р ИСО/МЭК 11570-94

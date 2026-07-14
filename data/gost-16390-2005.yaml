@@ -1,0 +1,49 @@
+---
+id: GOST-16390-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автоматическая идентификация. Кодирование штриховое. Спецификации символики
+    Interleaved 2 of 5 (2 из 5 чередующийся)
+  type: main
+docidentifier:
+- content: GOST 16390-2005
+  type: GOST
+  primary: true
+docnumber: '16390'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16390:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/25354/
+  ics_code: '35.040'
+  pages: '19'
+  designation_original: ГОСТ ИСО/МЭК 16390-2005

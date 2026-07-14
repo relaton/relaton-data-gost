@@ -1,0 +1,49 @@
+---
+id: GOST-30011.4.1-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Низковольтная аппаратура распределения и управления. Часть 4. Контакторы
+    и пускатели. Раздел 1. Электромеханические контакторы и пускатели
+  type: main
+docidentifier:
+- content: GOST 30011.4.1-96
+  type: GOST
+  primary: true
+docnumber: 30011.4.1
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30011.4.1:96
+  webpage: https://new-shop.ksm.kz/catalog/document/23961/
+  ics_code: 29.120.40
+  pages: '60'
+  designation_original: ГОСТ 30011.4.1-96

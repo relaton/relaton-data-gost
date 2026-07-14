@@ -1,0 +1,50 @@
+---
+id: GOST-20706-1-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы и изделия текстильные. Качественный и количественный анализ некоторых
+    волокон лубяных культур (льна, пеньки, рами) и их смесей. Часть 1. Идентификация
+    вида волокна методами микроскопического исследования
+  type: main
+docidentifier:
+- content: GOST 20706-1-2022
+  type: GOST
+  primary: true
+docnumber: 20706-1
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20706-1:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/76833/
+  ics_code: 59.060.01
+  pages: '30'
+  designation_original: ГОСТ ISO 20706-1-2022

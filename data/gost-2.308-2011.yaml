@@ -1,0 +1,49 @@
+---
+id: GOST-2.308-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система конструкторской документации. Указания допусков формы и
+    расположения поверхностей
+  type: main
+docidentifier:
+- content: GOST 2.308-2011
+  type: GOST
+  primary: true
+docnumber: '2.308'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2.308:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/46760/
+  ics_code: '01.080'
+  pages: '27'
+  designation_original: ГОСТ 2.308-2011

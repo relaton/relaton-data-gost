@@ -1,0 +1,50 @@
+---
+id: GOST-62442-2-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Энергоэффективность пускорегулирующих аппаратов для ламп Часть 2 Пускорегулирующие
+    аппараты для газоразрядных ламп высокой интенсивности (кроме люминесцентных ламп)
+    Метод измерения для определения эффективности пускорегулирующего аппарата
+  type: main
+docidentifier:
+- content: GOST 62442-2-2017
+  type: GOST
+  primary: true
+docnumber: 62442-2
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:62442-2:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/73262/
+  ics_code: 29.140.99
+  pages: '12'
+  designation_original: ГОСТ IEC 62442-2-2017

@@ -1,0 +1,49 @@
+---
+id: GOST-28718-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины сельскохозяйственные и лесные. Машины для внесения твердых органических
+    удобрений. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 28718-90
+  type: GOST
+  primary: true
+docnumber: '28718'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28718:90
+  webpage: https://new-shop.ksm.kz/catalog/document/28132/
+  ics_code: 65.060.25
+  pages: '11'
+  designation_original: ГОСТ 28718-90

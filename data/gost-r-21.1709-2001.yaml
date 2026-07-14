@@ -1,0 +1,49 @@
+---
+id: GOST-R-21.1709-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система проектной документации для строительства. Правила выполнения рабочей
+    документации линейных сооружений гидромелиоративных систем
+  type: main
+docidentifier:
+- content: GOST R 21.1709-2001
+  type: GOST
+  primary: true
+docnumber: '21.1709'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:21.1709:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/15480/
+  ics_code: 91.010.30
+  pages: '29'
+  designation_original: ГОСТ Р 21.1709-2001

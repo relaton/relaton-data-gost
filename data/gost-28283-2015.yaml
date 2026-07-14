@@ -1,0 +1,48 @@
+---
+id: GOST-28283-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко коровье. Метод органолептической оценки вкуса и запаха
+  type: main
+docidentifier:
+- content: GOST 28283-2015
+  type: GOST
+  primary: true
+docnumber: '28283'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28283:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62218/
+  ics_code: 67.100.10
+  pages: '12'
+  designation_original: ГОСТ 28283-2015

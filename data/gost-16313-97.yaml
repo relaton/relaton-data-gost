@@ -1,0 +1,49 @@
+---
+id: GOST-16313-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Преобразователи частоты электромашинные мощностью до 200 кВт частотой до
+    20000 Гц. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 16313-97
+  type: GOST
+  primary: true
+docnumber: '16313'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16313:97
+  webpage: https://new-shop.ksm.kz/catalog/document/23399/
+  ics_code: '29.200'
+  pages: '8'
+  designation_original: ГОСТ 16313-97

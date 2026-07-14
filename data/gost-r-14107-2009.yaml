@@ -1,0 +1,50 @@
+---
+id: GOST-R-14107-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Производные жиров и масел. Метиловые эфиры жирных кислот (fame). Определение
+    содержания фосфора методом эмиссионной спектрометрии с индуктивно связанной плазмой
+    (ICP)
+  type: main
+docidentifier:
+- content: GOST R 14107-2009
+  type: GOST
+  primary: true
+docnumber: '14107'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:14107:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/43023/
+  ics_code: 67.200.10
+  pages: '11'
+  designation_original: ГОСТ Р ЕН 14107-2009

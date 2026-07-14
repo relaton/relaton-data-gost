@@ -1,0 +1,49 @@
+---
+id: GOST-R-50735-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Генераторы переменного тока мощностью от 2 до 3 кВт для отбора мощности
+    от двигателей подвижных средств. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 50735-95
+  type: GOST
+  primary: true
+docnumber: '50735'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50735:95
+  webpage: https://new-shop.ksm.kz/catalog/document/23752/
+  ics_code: 29.160.20
+  pages: '22'
+  designation_original: ГОСТ Р 50735-95

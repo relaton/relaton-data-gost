@@ -1,0 +1,49 @@
+---
+id: GOST-5426-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Волоки-заготовки из твердых спеченных сплавов для волочения шестигранных
+    прутков. Формы и размеры
+  type: main
+docidentifier:
+- content: GOST 5426-76
+  type: GOST
+  primary: true
+docnumber: '5426'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5426:76
+  webpage: https://new-shop.ksm.kz/catalog/document/32132/
+  ics_code: '77.180'
+  pages: '5'
+  designation_original: ГОСТ 5426-76

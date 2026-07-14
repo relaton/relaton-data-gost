@@ -1,0 +1,50 @@
+---
+id: GOST-62479-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оценка соответствия маломощного электронного и электрического оборудования
+    на соответствие основным ограничениям, связанным с воздействием на человека электромагнитных
+    полей (10 МГц – 300 ГГц)
+  type: main
+docidentifier:
+- content: GOST 62479-2013
+  type: GOST
+  primary: true
+docnumber: '62479'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:62479:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/64452/
+  ics_code: 17.220.20
+  pages: '21'
+  designation_original: ГОСТ IEC 62479-2013

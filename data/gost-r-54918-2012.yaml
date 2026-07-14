@@ -1,0 +1,49 @@
+---
+id: GOST-R-54918-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы обсадные, насосно-компрессорные, бурильные и трубы для трубопроводов
+    нефтяной и газовой промышленности. Формулы и расчет свойств
+  type: main
+docidentifier:
+- content: GOST R 54918-2012
+  type: GOST
+  primary: true
+docnumber: '54918'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54918:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58053/
+  ics_code: 75.180.10
+  pages: '254'
+  designation_original: ГОСТ Р 54918-2012 (ISO/TR 10400:2007)

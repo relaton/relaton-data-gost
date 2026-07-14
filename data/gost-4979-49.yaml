@@ -1,0 +1,49 @@
+---
+id: GOST-4979-49
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вода хозяйственно-питьевого и промышленного водоснабжения. Методы химического
+    анализа. Отбор, хранение и транспортирование проб
+  type: main
+docidentifier:
+- content: GOST 4979-49
+  type: GOST
+  primary: true
+docnumber: '4979'
+date:
+- type: published
+  from: '1949-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1949'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4979:49
+  webpage: https://new-shop.ksm.kz/catalog/document/48540/
+  ics_code: 13.060.10
+  pages: '6'
+  designation_original: ГОСТ 4979-49

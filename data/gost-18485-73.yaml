@@ -1,0 +1,49 @@
+---
+id: GOST-18485-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лампы модуляторные для работы в импульсном режиме. Методы измерения импульсных
+    напряжений на электродах
+  type: main
+docidentifier:
+- content: GOST 18485-73
+  type: GOST
+  primary: true
+docnumber: '18485'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18485:73
+  webpage: https://new-shop.ksm.kz/catalog/document/24195/
+  ics_code: '31.100'
+  pages: '6'
+  designation_original: ГОСТ 18485-73

@@ -1,0 +1,49 @@
+---
+id: GOST-R-3046-6-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: "Двигатели внутреннего сгорания поршневые. Характеристики. Часть 6.\r Защита
+    от превышения частоты вращения"
+  type: main
+docidentifier:
+- content: GOST R 3046-6-99
+  type: GOST
+  primary: true
+docnumber: 3046-6
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:3046-6:99
+  webpage: https://new-shop.ksm.kz/catalog/document/23049/
+  ics_code: '27.020'
+  pages: '4'
+  designation_original: ГОСТ Р ИСО 3046-6-99

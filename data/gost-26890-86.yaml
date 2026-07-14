@@ -1,0 +1,49 @@
+---
+id: GOST-26890-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гидроаппаратура. Присоединительные размеры стыковых плоскостей монтажных
+    плит
+  type: main
+docidentifier:
+- content: GOST 26890-86
+  type: GOST
+  primary: true
+docnumber: '26890'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26890:86
+  webpage: https://new-shop.ksm.kz/catalog/document/20260/
+  ics_code: '23.100'
+  pages: '33'
+  designation_original: ГОСТ 26890-86

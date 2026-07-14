@@ -1,0 +1,50 @@
+---
+id: GOST-R-9834-7-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Взаимосвязь открытых систем. Процедуры работы
+    уполномоченных по регистрации ВОС. Часть 7. Совместная регистрация ИСО и МСЭ-Т
+    международных организаций
+  type: main
+docidentifier:
+- content: GOST R 9834-7-2012
+  type: GOST
+  primary: true
+docnumber: 9834-7
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9834-7:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58248/
+  ics_code: 35.100.01
+  pages: '28'
+  designation_original: ГОСТ Р ИСО/МЭК 9834-7-2012

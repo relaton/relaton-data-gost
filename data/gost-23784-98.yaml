@@ -1,0 +1,49 @@
+---
+id: GOST-23784-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединители низкочастотные низковольтные и комбинированные. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 23784-98
+  type: GOST
+  primary: true
+docnumber: '23784'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23784:98
+  webpage: https://new-shop.ksm.kz/catalog/document/24507/
+  ics_code: 31.220.10
+  pages: '27'
+  designation_original: ГОСТ 23784-98

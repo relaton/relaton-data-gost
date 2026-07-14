@@ -1,0 +1,50 @@
+---
+id: GOST-8178-3-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двигатели внутреннего сгорания поршневые. Измерение выброса продуктов сгорания.
+    Часть 3. Определения и методы измерения дымности отработавших газов на установившихся
+    режимах
+  type: main
+docidentifier:
+- content: GOST 8178-3-2014
+  type: GOST
+  primary: true
+docnumber: 8178-3
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8178-3:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62275/
+  ics_code: '27.020'
+  pages: '13'
+  designation_original: ГОСТ ISO 8178-3-2014

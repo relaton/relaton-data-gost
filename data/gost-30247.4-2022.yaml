@@ -1,0 +1,49 @@
+---
+id: GOST-30247.4-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конструкции строительные. Светопрозрачные ограждающие конструкции и заполнения
+    проемов. Метод испытания на огнестойкость
+  type: main
+docidentifier:
+- content: GOST 30247.4-2022
+  type: GOST
+  primary: true
+docnumber: '30247.4'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30247.4:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/76189/
+  ics_code: 13.220.50
+  pages: '37'
+  designation_original: ГОСТ 30247.4-2022

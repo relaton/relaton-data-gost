@@ -1,0 +1,50 @@
+---
+id: GOST-24637-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фрезы концевые, оснащенные винтовыми твердосплавными пластинами, для обработки
+    деталей из высокопрочных сталей и титановых сплавов на станках с программным управлением.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 24637-81
+  type: GOST
+  primary: true
+docnumber: '24637'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24637:81
+  webpage: https://new-shop.ksm.kz/catalog/document/21813/
+  ics_code: 25.100.20
+  pages: '14'
+  designation_original: ГОСТ 24637-81

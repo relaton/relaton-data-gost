@@ -1,0 +1,49 @@
+---
+id: GOST-19005-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Средства обеспечения защиты изделий ракетной и ракетно-космической техники
+    от статического электричества. Общие требования к металлизации и заземлению
+  type: main
+docidentifier:
+- content: GOST 19005-81
+  type: GOST
+  primary: true
+docnumber: '19005'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19005:81
+  webpage: https://new-shop.ksm.kz/catalog/document/23452/
+  ics_code: 29.120.50
+  pages: '39'
+  designation_original: ГОСТ 19005-81

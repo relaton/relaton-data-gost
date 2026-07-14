@@ -1,0 +1,50 @@
+---
+id: GOST-R-50914-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства преобразования сигналов для одновременной двухсторонней передачи
+    данных по коммутируемым каналам связи телефонной сети общего пользования и некоммутируемым
+    каналам тональной частоты. Типы и основные параметры
+  type: main
+docidentifier:
+- content: GOST R 50914-96
+  type: GOST
+  primary: true
+docnumber: '50914'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50914:96
+  webpage: https://new-shop.ksm.kz/catalog/document/24952/
+  ics_code: 33.040.20
+  pages: '15'
+  designation_original: ГОСТ Р 50914-96

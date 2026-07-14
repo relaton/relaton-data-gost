@@ -1,0 +1,49 @@
+---
+id: GOST-29314-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бумага. Размеры необрезанных листов и рулонов для форматов основного ряда
+    ИСО-А
+  type: main
+docidentifier:
+- content: GOST 29314-92
+  type: GOST
+  primary: true
+docnumber: '29314'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29314:92
+  webpage: https://new-shop.ksm.kz/catalog/document/34722/
+  ics_code: '85.060'
+  pages: '4'
+  designation_original: ГОСТ 29314-92

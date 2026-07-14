@@ -1,0 +1,49 @@
+---
+id: GOST-R-61188-5-1-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Печатные платы и печатные узлы. Проектирование и применение. Часть 5-1.
+    Анализ соединений (посадочные места для монтажа компонентов). Общие требования
+  type: main
+docidentifier:
+- content: GOST R 61188-5-1-2012
+  type: GOST
+  primary: true
+docnumber: 61188-5-1
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:61188-5-1:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/57660/
+  ics_code: '31.190'
+  pages: '62'
+  designation_original: ГОСТ Р МЭК 61188-5-1-2012

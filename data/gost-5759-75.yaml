@@ -1,0 +1,48 @@
+---
+id: GOST-5759-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фуфайки и майки трикотажные для речного флота. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 5759-75
+  type: GOST
+  primary: true
+docnumber: '5759'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5759:75
+  webpage: https://new-shop.ksm.kz/catalog/document/27508/
+  ics_code: '61.020'
+  pages: '11'
+  designation_original: ГОСТ 5759-75

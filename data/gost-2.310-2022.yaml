@@ -1,0 +1,50 @@
+---
+id: GOST-2.310-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система конструкторской документации.  Нанесение на чертежах обозначений
+    покрытий, термической и других видов обработки, в том числе с использованием аддитивного
+    производства
+  type: main
+docidentifier:
+- content: GOST 2.310-2022
+  type: GOST
+  primary: true
+docnumber: '2.310'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2.310:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/76733/
+  ics_code: 01.080.30
+  pages: '12'
+  designation_original: ГОСТ 2.310-2022

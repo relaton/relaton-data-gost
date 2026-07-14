@@ -1,0 +1,50 @@
+---
+id: GOST-8.374-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Государственный
+    специальный эталон и общесоюзная поверочная схема для средств измерений объемного
+    расхода воды в диапазоне от 2,8х10 в ст. минус 8 до 2,8х10 в ст. минус 2  м куб./c
+  type: main
+docidentifier:
+- content: GOST 8.374-80
+  type: GOST
+  primary: true
+docnumber: '8.374'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.374:80
+  webpage: https://new-shop.ksm.kz/catalog/document/18027/
+  ics_code: '17.120'
+  pages: '7'
+  designation_original: ГОСТ 8.374-80

@@ -1,0 +1,49 @@
+---
+id: GOST-12.1.048-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Контроль радиационный при захоронении
+    радиоактивных отходов. Номенклатура контролируемых параметров
+  type: main
+docidentifier:
+- content: GOST 12.1.048-85
+  type: GOST
+  primary: true
+docnumber: 12.1.048
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.1.048:85
+  webpage: https://new-shop.ksm.kz/catalog/document/16899/
+  ics_code: '13.280'
+  pages: '9'
+  designation_original: ГОСТ 12.1.048-85

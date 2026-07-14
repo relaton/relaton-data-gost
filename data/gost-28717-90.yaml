@@ -1,0 +1,48 @@
+---
+id: GOST-28717-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины сельскохозяйственные и лесные. Сушилки барабанные. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 28717-90
+  type: GOST
+  primary: true
+docnumber: '28717'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28717:90
+  webpage: https://new-shop.ksm.kz/catalog/document/28131/
+  ics_code: 65.060.01
+  pages: '15'
+  designation_original: ГОСТ 28717-90

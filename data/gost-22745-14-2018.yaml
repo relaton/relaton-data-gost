@@ -1,0 +1,49 @@
+---
+id: GOST-22745-14-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы промышленной автоматизации и интеграция. Открытые технические словари
+    и их применение к основным данным. Часть 14. Интерфейс для запросов по словарю
+  type: main
+docidentifier:
+- content: GOST 22745-14-2018
+  type: GOST
+  primary: true
+docnumber: 22745-14
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22745-14:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/71686/
+  ics_code: 25.040.01
+  pages: '31'
+  designation_original: ГОСТ ISO/TS 22745-14-2018

@@ -1,0 +1,49 @@
+---
+id: GOST-32998.4-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стеклопакеты клееные. Методы определения физических характеристик герметизирующих
+    слоев
+  type: main
+docidentifier:
+- content: GOST 32998.4-2014
+  type: GOST
+  primary: true
+docnumber: '32998.4'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32998.4:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62584/
+  ics_code: 81.040.20
+  pages: '28'
+  designation_original: ГОСТ 32998.4-2014 (EN 1279-4:2002)

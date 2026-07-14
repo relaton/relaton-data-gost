@@ -1,0 +1,49 @@
+---
+id: GOST-2822-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Концы цапковые и штуцерные судовой арматуры и соединительных частей трубопроводов.
+    Основные параметры, размеры и технические требования
+  type: main
+docidentifier:
+- content: GOST 2822-78
+  type: GOST
+  primary: true
+docnumber: '2822'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2822:78
+  webpage: https://new-shop.ksm.kz/catalog/document/26044/
+  ics_code: 47.020.30
+  pages: '7'
+  designation_original: ГОСТ 2822-78

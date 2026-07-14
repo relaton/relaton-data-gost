@@ -1,0 +1,49 @@
+---
+id: GOST-5212-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Таблица аэродинамическая. Динамические давления и температуры торможения
+    воздуха для скорости полета от 10 до 4000 км/ч
+  type: main
+docidentifier:
+- content: GOST 5212-74
+  type: GOST
+  primary: true
+docnumber: '5212'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5212:74
+  webpage: https://new-shop.ksm.kz/catalog/document/16198/
+  ics_code: '07.030'
+  pages: '247'
+  designation_original: ГОСТ 5212-74

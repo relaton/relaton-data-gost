@@ -1,0 +1,49 @@
+---
+id: GOST-32576.4-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Краны грузоподъемные. Средства доступа, ограждения и защиты. Часть 4. Краны
+    стреловые
+  type: main
+docidentifier:
+- content: GOST 32576.4-2021
+  type: GOST
+  primary: true
+docnumber: '32576.4'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32576.4:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/76815/
+  ics_code: 53.020.20
+  pages: '8'
+  designation_original: ГОСТ 32576.4-2021

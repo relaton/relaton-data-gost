@@ -1,0 +1,49 @@
+---
+id: GOST-22934-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая автоматизированная система связи. Общие требования к сигналам взаимодействия
+    на абонентском участке сетей АТ-50 и ПД-200
+  type: main
+docidentifier:
+- content: GOST 22934-88
+  type: GOST
+  primary: true
+docnumber: '22934'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22934:88
+  webpage: https://new-shop.ksm.kz/catalog/document/24808/
+  ics_code: 33.040.40
+  pages: '16'
+  designation_original: ГОСТ 22934-88

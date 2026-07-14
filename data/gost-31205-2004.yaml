@@ -1,0 +1,49 @@
+---
+id: GOST-31205-2004
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Общие требования к машинам, приборам и другим техническим изделиям в части
+    условий хранения и транспортирования
+  type: main
+docidentifier:
+- content: GOST 31205-2004
+  type: GOST
+  primary: true
+docnumber: '31205'
+date:
+- type: published
+  from: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31205:2004
+  webpage: https://new-shop.ksm.kz/catalog/document/38320/
+  ics_code: '01.120'
+  pages: '1'
+  designation_original: ГОСТ 31205-2004

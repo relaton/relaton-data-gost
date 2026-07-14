@@ -1,0 +1,50 @@
+---
+id: GOST-R-51330.11-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрооборудование взрывозащищенное. Часть 12. Классификация смесей газов
+    и паров с воздухом по безопасным экспериментальным максимальным зазорам и минимальным
+    воспламеняющим токам
+  type: main
+docidentifier:
+- content: GOST R 51330.11-99
+  type: GOST
+  primary: true
+docnumber: '51330.11'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51330.11:99
+  webpage: https://new-shop.ksm.kz/catalog/document/23792/
+  ics_code: 29.260.20
+  pages: '13'
+  designation_original: ГОСТ Р 51330.11-99

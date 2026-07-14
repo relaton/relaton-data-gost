@@ -1,0 +1,49 @@
+---
+id: GOST-34141-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты пищевые, корма, продовольственное сырье. Определения мышьяка,
+    кадмия, ртути и свинца методом масс-спектрометрии с индуктивно-связанной плазмой
+  type: main
+docidentifier:
+- content: GOST 34141-2017
+  type: GOST
+  primary: true
+docnumber: '34141'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34141:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70516/
+  ics_code: '67.040'
+  pages: '13'
+  designation_original: ГОСТ 34141-2017

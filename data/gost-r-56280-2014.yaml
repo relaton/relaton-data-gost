@@ -1,0 +1,49 @@
+---
+id: GOST-R-56280-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Стойки операционные нейрохирургические
+    с набором эндоскопов. Технические требования для государственных закупок
+  type: main
+docidentifier:
+- content: GOST R 56280-2014
+  type: GOST
+  primary: true
+docnumber: '56280'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56280:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60921/
+  ics_code: 11.040.55
+  pages: '16'
+  designation_original: ГОСТ Р 56280-2014

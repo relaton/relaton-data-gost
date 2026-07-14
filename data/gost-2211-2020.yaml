@@ -1,0 +1,48 @@
+---
+id: GOST-2211-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Огнеупоры и огнеупорное сырье. Методы определения истинной плотности
+  type: main
+docidentifier:
+- content: GOST 2211-2020
+  type: GOST
+  primary: true
+docnumber: '2211'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2211:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/75558/
+  ics_code: '81.080'
+  pages: '12'
+  designation_original: ГОСТ 2211-2020

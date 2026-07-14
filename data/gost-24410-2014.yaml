@@ -1,0 +1,49 @@
+---
+id: GOST-24410-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Установка сменного оборудования на погрузчики с бортовым
+    поворотом
+  type: main
+docidentifier:
+- content: GOST 24410-2014
+  type: GOST
+  primary: true
+docnumber: '24410'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24410:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/75867/
+  ics_code: '53.100'
+  pages: '12'
+  designation_original: ГОСТ ISO 24410-2014

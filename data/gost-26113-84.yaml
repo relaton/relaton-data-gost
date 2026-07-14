@@ -1,0 +1,49 @@
+---
+id: GOST-26113-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Процедуры управления звеном передачи данных. Элементы балансных процедур
+    при одновременной двусторонней передаче информации и защиты от ошибок
+  type: main
+docidentifier:
+- content: GOST 26113-84
+  type: GOST
+  primary: true
+docnumber: '26113'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26113:84
+  webpage: https://new-shop.ksm.kz/catalog/document/24847/
+  ics_code: 33.040.20
+  pages: '51'
+  designation_original: ГОСТ 26113-84

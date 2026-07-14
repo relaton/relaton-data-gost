@@ -1,0 +1,48 @@
+---
+id: GOST-23201.3-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Глинозем. Методы разложения пробы и приготовления растворов
+  type: main
+docidentifier:
+- content: GOST 23201.3-94
+  type: GOST
+  primary: true
+docnumber: '23201.3'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23201.3:94
+  webpage: https://new-shop.ksm.kz/catalog/document/30247/
+  ics_code: 71.100.10
+  pages: '1'
+  designation_original: ГОСТ 23201.3-94

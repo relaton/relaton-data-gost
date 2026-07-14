@@ -1,0 +1,49 @@
+---
+id: GOST-4610-49
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование сливо-наливное для горючих и легковоспламеняющихся жидкостей.
+    Стояк сливно-наливной одиночный механизированный
+  type: main
+docidentifier:
+- content: GOST 4610-49
+  type: GOST
+  primary: true
+docnumber: '4610'
+date:
+- type: published
+  from: '1949-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1949'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4610:49
+  webpage: https://new-shop.ksm.kz/catalog/document/19807/
+  ics_code: 23.020.10
+  pages: '7'
+  designation_original: ГОСТ 4610-49

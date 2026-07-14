@@ -1,0 +1,50 @@
+---
+id: GOST-R-12.4.253-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Средства индивидуальной защиты органов
+    дыхания. Автономные изолирующие дыхательные аппараты со сжатым и с химически связанным
+    кислородом для горноспасателей. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 12.4.253-2011
+  type: GOST
+  primary: true
+docnumber: 12.4.253
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:12.4.253:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48847/
+  ics_code: 13.340.30
+  pages: '40'
+  designation_original: ГОСТ Р 12.4.253-2011

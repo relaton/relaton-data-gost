@@ -1,0 +1,50 @@
+---
+id: GOST-25347-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Основные нормы взаимозаменяемости. Характеристики изделий геометрические.
+    Система допусков на линейные размеры. Ряды допусков, предельные отклонения отверстий
+    и валов
+  type: main
+docidentifier:
+- content: GOST 25347-2013
+  type: GOST
+  primary: true
+docnumber: '25347'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25347:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59148/
+  ics_code: '17.040'
+  pages: '62'
+  designation_original: ГОСТ 25347-2013 (ISO 286-2:2010)

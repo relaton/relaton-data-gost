@@ -1,0 +1,49 @@
+---
+id: GOST-30738-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ЕСЗКС. Покрытия защитные полимерные, нефтебитумные и каменноугольные. Методы
+    лабораторных испытаний на биостойкость
+  type: main
+docidentifier:
+- content: GOST 30738-2001
+  type: GOST
+  primary: true
+docnumber: '30738'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30738:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/38903/
+  ics_code: '25.220'
+  pages: '25'
+  designation_original: ГОСТ 30738-2001

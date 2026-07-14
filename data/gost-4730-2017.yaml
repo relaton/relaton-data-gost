@@ -1,0 +1,49 @@
+---
+id: GOST-4730-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло эфирное мелалеуки (Melaleuca), типа терпинен-4-ол (масло чайного
+    растения) Технические условия
+  type: main
+docidentifier:
+- content: GOST 4730-2017
+  type: GOST
+  primary: true
+docnumber: '4730'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4730:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70349/
+  ics_code: 71.100.60
+  pages: '16'
+  designation_original: ГОСТ ISO 4730-2017

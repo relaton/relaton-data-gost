@@ -1,0 +1,48 @@
+---
+id: GOST-R-54392-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроустановки для животноводческих помещений. Способы выравнивания потенциалов
+  type: main
+docidentifier:
+- content: GOST R 54392-2011
+  type: GOST
+  primary: true
+docnumber: '54392'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54392:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51454/
+  ics_code: '13.260'
+  pages: '24'
+  designation_original: ГОСТ Р 54392-2011

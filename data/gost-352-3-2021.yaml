@@ -1,0 +1,50 @@
+---
+id: GOST-352-3-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Средства индивидуальной защиты органа
+    слуха. Общие технические требования. Часть 3. Противошумные наушники, совмещенные
+    со средствами индивидуальной защиты головы и/или лица
+  type: main
+docidentifier:
+- content: GOST 352-3-2021
+  type: GOST
+  primary: true
+docnumber: 352-3
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:352-3:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75595/
+  ics_code: 13.340.20
+  pages: '23'
+  designation_original: ГОСТ EN 352-3-2021

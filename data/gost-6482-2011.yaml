@@ -1,0 +1,48 @@
+---
+id: GOST-6482-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы железобетонные безнапорные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 6482-2011
+  type: GOST
+  primary: true
+docnumber: '6482'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6482:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/35088/
+  ics_code: 91.100.30
+  pages: '34'
+  designation_original: ГОСТ 6482-2011

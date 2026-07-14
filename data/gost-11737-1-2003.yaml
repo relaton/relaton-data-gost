@@ -1,0 +1,49 @@
+---
+id: GOST-11737-1-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стерилизация медицинских изделий. Микробиологические методы. Часть 1. Оценка
+    популяции микроорганизмов на продукции
+  type: main
+docidentifier:
+- content: GOST 11737-1-2003
+  type: GOST
+  primary: true
+docnumber: 11737-1
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11737-1:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/38422/
+  ics_code: '11.080'
+  pages: '23'
+  designation_original: ГОСТ ИСО 11737-1-2003

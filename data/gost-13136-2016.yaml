@@ -1,0 +1,51 @@
+---
+id: GOST-13136-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Микробиология пищевых продуктов и кормов для животных. Полимеразная цепная
+    реакция в режиме реального времени для определения патогенных микроорганизмов.
+    Горизонтальный метод обнаружения бактерий Escherichia coli, продуцирующих Шига-токсин,
+    в том числе серогрупп O157, O111, O26, O103 и O145
+  type: main
+docidentifier:
+- content: GOST 13136-2016
+  type: GOST
+  primary: true
+docnumber: '13136'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13136:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/71495/
+  ics_code: 07.100.30
+  pages: '27'
+  designation_original: ГОСТ ISO/TS 13136-2016

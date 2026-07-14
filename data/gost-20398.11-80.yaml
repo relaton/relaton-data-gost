@@ -1,0 +1,48 @@
+---
+id: GOST-20398.11-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Транзисторы полевые. Метод измерения э.д.с. шума
+  type: main
+docidentifier:
+- content: GOST 20398.11-80
+  type: GOST
+  primary: true
+docnumber: '20398.11'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20398.11:80
+  webpage: https://new-shop.ksm.kz/catalog/document/24329/
+  ics_code: 31.080.30
+  pages: '5'
+  designation_original: ГОСТ 20398.11-80

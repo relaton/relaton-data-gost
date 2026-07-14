@@ -1,0 +1,48 @@
+---
+id: GOST-R-8588-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Органолептический анализ. Методология. Испытания "А" - "Не А"
+  type: main
+docidentifier:
+- content: GOST R 8588-2008
+  type: GOST
+  primary: true
+docnumber: '8588'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8588:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/42649/
+  ics_code: '67.240'
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 8588-2008

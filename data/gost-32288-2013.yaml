@@ -1,0 +1,51 @@
+---
+id: GOST-32288-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Настоящий стандарт распространяется на орехи лещины в скорлупе культурных
+    сортов (Corylus avellana L. и Corylus maxima Mill.) и их гибридов, без плюски
+    и шелухи, предназначенные непосредственно для потребления в пищу или потребления
+    в пищу после смешивания с другими продуктами без дальнейшей переработки
+  type: main
+docidentifier:
+- content: GOST 32288-2013
+  type: GOST
+  primary: true
+docnumber: '32288'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32288:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56170/
+  ics_code: '67.200'
+  pages: '16'
+  designation_original: ГОСТ 32288-2013 (Unece STANDARD DDP-03:2007)

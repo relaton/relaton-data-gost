@@ -1,0 +1,48 @@
+---
+id: GOST-13466-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шайбы стопорные с носком уменьшенные. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 13466-77
+  type: GOST
+  primary: true
+docnumber: '13466'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13466:77
+  webpage: https://new-shop.ksm.kz/catalog/document/19401/
+  ics_code: 21.060.30
+  pages: '4'
+  designation_original: ГОСТ 13466-77

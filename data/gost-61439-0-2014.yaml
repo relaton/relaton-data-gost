@@ -1,0 +1,49 @@
+---
+id: GOST-61439-0-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства комплектные низковольтные распределения и управления. Часть
+    0. Руководство по определению комплектности
+  type: main
+docidentifier:
+- content: GOST 61439-0-2014
+  type: GOST
+  primary: true
+docnumber: 61439-0
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61439-0:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60507/
+  ics_code: 29.130.20
+  pages: '48'
+  designation_original: ГОСТ IEC/TR 61439-0-2014

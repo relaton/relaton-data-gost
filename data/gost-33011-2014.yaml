@@ -1,0 +1,50 @@
+---
+id: GOST-33011-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Котлы газовые центрального отопления. Котлы типа c с номинальной теплопроизводительностью
+    более 70 кВт, но не более 1000 кВт. Классификация, требования, методы испытаний
+    и маркировка
+  type: main
+docidentifier:
+- content: GOST 33011-2014
+  type: GOST
+  primary: true
+docnumber: '33011'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33011:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62044/
+  ics_code: 91.140.10
+  pages: '121'
+  designation_original: ГОСТ 33011-2014 (EN 15420:2010)

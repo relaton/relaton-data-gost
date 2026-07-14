@@ -1,0 +1,48 @@
+---
+id: GOST-30404-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливо твердое минеральное. Определение форм серы
+  type: main
+docidentifier:
+- content: GOST 30404-2013
+  type: GOST
+  primary: true
+docnumber: '30404'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30404:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56097/
+  ics_code: 75.160.10
+  pages: '20'
+  designation_original: ГОСТ 30404-2013 (ISO 157:1996)

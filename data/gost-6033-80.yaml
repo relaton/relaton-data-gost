@@ -1,0 +1,49 @@
+---
+id: GOST-6033-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Основные нормы взаимозаменяемости. Соединения шлицевые эвольвентные с углом
+    профиля 30 град. Размеры, допуски и измеряемые величины
+  type: main
+docidentifier:
+- content: GOST 6033-80
+  type: GOST
+  primary: true
+docnumber: '6033'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6033:80
+  webpage: https://new-shop.ksm.kz/catalog/document/19201/
+  ics_code: 21.120.30
+  pages: '86'
+  designation_original: ГОСТ 6033-80

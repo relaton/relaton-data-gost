@@ -1,0 +1,49 @@
+---
+id: GOST-8090-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лампы приемно-усилительные и генераторные мощностью, продолжительно рассеиваемой
+    анодом, до 25 Вт . Методы измерения тока и напряжения накала
+  type: main
+docidentifier:
+- content: GOST 8090-73
+  type: GOST
+  primary: true
+docnumber: '8090'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8090:73
+  webpage: https://new-shop.ksm.kz/catalog/document/24131/
+  ics_code: '31.100'
+  pages: '4'
+  designation_original: ГОСТ 8090-73

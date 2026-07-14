@@ -1,0 +1,49 @@
+---
+id: GOST-4251-4-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шины (серии с маркировкой нормы слойности) для сельскохозяйственных тракторов
+    и машин. Классификация и номенклатура шин
+  type: main
+docidentifier:
+- content: GOST 4251-4-94
+  type: GOST
+  primary: true
+docnumber: 4251-4
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4251-4:94
+  webpage: https://new-shop.ksm.kz/catalog/document/39781/
+  ics_code: 83.160.30
+  pages: '83'
+  designation_original: ГОСТ ИСО 4251-4-94

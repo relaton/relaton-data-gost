@@ -1,0 +1,49 @@
+---
+id: GOST-27474-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы электроизоляционные. Методы испытания на сопротивление образованию
+    токопроводящих мостиков и эрозии в жестких условиях окружающей среды
+  type: main
+docidentifier:
+- content: GOST 27474-87
+  type: GOST
+  primary: true
+docnumber: '27474'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27474:87
+  webpage: https://new-shop.ksm.kz/catalog/document/23645/
+  ics_code: 29.035.01
+  pages: '11'
+  designation_original: ГОСТ 27474-87

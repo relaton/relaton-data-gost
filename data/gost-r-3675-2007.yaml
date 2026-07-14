@@ -1,0 +1,49 @@
+---
+id: GOST-R-3675-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть сырая и нефтепродукты жидкие. Лабораторный метод определения плотности
+    с использованием ареометра
+  type: main
+docidentifier:
+- content: GOST R 3675-2007
+  type: GOST
+  primary: true
+docnumber: '3675'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:3675:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/41491/
+  ics_code: '75.080'
+  pages: '15'
+  designation_original: ГОСТ Р ИСО 3675-2007

@@ -1,0 +1,48 @@
+---
+id: GOST-9957-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Колбасные изделия и продукты из свинины, баранины и говядины. Методы определения
+    содержания хлористого натрия
+  type: main
+docidentifier:
+- content: GOST 9957-73
+  type: GOST
+  primary: true
+docnumber: '9957'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9957:73
+  webpage: https://new-shop.ksm.kz/catalog/document/28628/
+  pages: '4'
+  designation_original: ГОСТ 9957-73

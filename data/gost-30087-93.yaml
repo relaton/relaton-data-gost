@@ -1,0 +1,48 @@
+---
+id: GOST-30087-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Дрожжи кормовые-паприн. Методы определения 3,4-бензпирена
+  type: main
+docidentifier:
+- content: GOST 30087-93
+  type: GOST
+  primary: true
+docnumber: '30087'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30087:93
+  webpage: https://new-shop.ksm.kz/catalog/document/16297/
+  ics_code: 07.100.30
+  pages: '16'
+  designation_original: ГОСТ 30087-93

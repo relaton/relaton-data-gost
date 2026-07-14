@@ -1,0 +1,49 @@
+---
+id: GOST-30319.1-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Газ природный. Методы расчета физических свойств. Определение физических
+    свойств природного газа, его компонентов и продуктов его переработки
+  type: main
+docidentifier:
+- content: GOST 30319.1-96
+  type: GOST
+  primary: true
+docnumber: '30319.1'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30319.1:96
+  webpage: https://new-shop.ksm.kz/catalog/document/31744/
+  ics_code: '75.060'
+  pages: '20'
+  designation_original: ГОСТ 30319.1-96

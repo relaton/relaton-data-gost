@@ -1,0 +1,48 @@
+---
+id: GOST-28391-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия фаянсовые. Технические условия
+  type: main
+docidentifier:
+- content: GOST 28391-89
+  type: GOST
+  primary: true
+docnumber: '28391'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28391:89
+  webpage: https://new-shop.ksm.kz/catalog/document/33893/
+  ics_code: 81.060.20
+  pages: '15'
+  designation_original: ГОСТ 28391-89

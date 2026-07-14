@@ -1,0 +1,49 @@
+---
+id: GOST-12.0.230.4-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Системы управления охраной труда.
+    Методы идентификации опасностей на различных этапах выполнения работ
+  type: main
+docidentifier:
+- content: GOST 12.0.230.4-2018
+  type: GOST
+  primary: true
+docnumber: 12.0.230.4
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.0.230.4:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/71637/
+  ics_code: '13.100'
+  pages: '16'
+  designation_original: ГОСТ 12.0.230.4-2018

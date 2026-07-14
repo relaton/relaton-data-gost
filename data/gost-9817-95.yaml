@@ -1,0 +1,48 @@
+---
+id: GOST-9817-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппараты бытовые, работающие на твердом топливе. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 9817-95
+  type: GOST
+  primary: true
+docnumber: '9817'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9817:95
+  webpage: https://new-shop.ksm.kz/catalog/document/35582/
+  ics_code: 97.040.20
+  pages: '19'
+  designation_original: ГОСТ 9817-95

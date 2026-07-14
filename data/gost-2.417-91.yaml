@@ -1,0 +1,49 @@
+---
+id: GOST-2.417-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система конструкторской документации. Платы печатные. Правила выполнения
+    чертежей
+  type: main
+docidentifier:
+- content: GOST 2.417-91
+  type: GOST
+  primary: true
+docnumber: '2.417'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2.417:91
+  webpage: https://new-shop.ksm.kz/catalog/document/14532/
+  ics_code: 01.100.25
+  pages: '4'
+  designation_original: ГОСТ 2.417-91

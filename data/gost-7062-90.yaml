@@ -1,0 +1,49 @@
+---
+id: GOST-7062-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Поковки из углеродистой и легированной стали, изготовляемые ковкой на прессах.
+    Припуски и допуски
+  type: main
+docidentifier:
+- content: GOST 7062-90
+  type: GOST
+  primary: true
+docnumber: '7062'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7062:90
+  webpage: https://new-shop.ksm.kz/catalog/document/32188/
+  ics_code: 77.140.85
+  pages: '31'
+  designation_original: ГОСТ 7062-90

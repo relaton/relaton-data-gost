@@ -1,0 +1,48 @@
+---
+id: GOST-14233-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трансформаторы питания для бытовой радиоаппаратуры. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 14233-84
+  type: GOST
+  primary: true
+docnumber: '14233'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14233:84
+  webpage: https://new-shop.ksm.kz/catalog/document/23349/
+  ics_code: '33.160'
+  pages: '19'
+  designation_original: ГОСТ 14233-84

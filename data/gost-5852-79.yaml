@@ -1,0 +1,48 @@
+---
+id: GOST-5852-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Реактивы. Медь (II) уксуснокислая 1-водная. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5852-79
+  type: GOST
+  primary: true
+docnumber: '5852'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5852:79
+  webpage: https://new-shop.ksm.kz/catalog/document/29779/
+  ics_code: 71.040.30
+  pages: '12'
+  designation_original: ГОСТ 5852-79

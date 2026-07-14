@@ -1,0 +1,48 @@
+---
+id: GOST-60299-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Одеяла электрические бытовые. Методы измерения функциональных характеристик
+  type: main
+docidentifier:
+- content: GOST 60299-2013
+  type: GOST
+  primary: true
+docnumber: '60299'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60299:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/67792/
+  ics_code: 97.100.10
+  pages: '10'
+  designation_original: ГОСТ IEC 60299-2013

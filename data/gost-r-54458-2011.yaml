@@ -1,0 +1,50 @@
+---
+id: GOST-R-54458-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Телевидение вещательное цифровое. Транспортирование аудио-и видеослужб
+    с алгоритмом компрессии MPEG-4 (H.264/AVC) по цифровым системам передачи. Общие
+    технические требования
+  type: main
+docidentifier:
+- content: GOST R 54458-2011
+  type: GOST
+  primary: true
+docnumber: '54458'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54458:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51505/
+  ics_code: '33.170'
+  pages: '28'
+  designation_original: ГОСТ Р 54458-2011

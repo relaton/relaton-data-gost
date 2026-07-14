@@ -1,0 +1,50 @@
+---
+id: GOST-R-53735.5-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Разрядники вентильные и ограничители перенапряжений нелинейные для электроустановок
+    переменного тока на напряжение от 3 до 750 кв. Часть 5. Рекомендации по выбору
+    и применению
+  type: main
+docidentifier:
+- content: GOST R 53735.5-2009
+  type: GOST
+  primary: true
+docnumber: '53735.5'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53735.5:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/44941/
+  ics_code: 29.240.10
+  pages: '59'
+  designation_original: ГОСТ Р 53735.5-2009 (МЭК 60099-5:2000)

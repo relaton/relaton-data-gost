@@ -1,0 +1,49 @@
+---
+id: GOST-581-1-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мебель, используемая на открытом воздухе. Мебель для сидения и столы для
+    жилых, общественных зон и кемпингов. Часть 1. Общие требования безопасности
+  type: main
+docidentifier:
+- content: GOST 581-1-2012
+  type: GOST
+  primary: true
+docnumber: 581-1
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:581-1:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58122/
+  ics_code: '97.140'
+  pages: '12'
+  designation_original: ГОСТ EN 581-1-2012

@@ -1,0 +1,48 @@
+---
+id: GOST-8142-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подкладки к рельсам железнодорожным типов Р18, Р24, Р33. Технические условия
+  type: main
+docidentifier:
+- content: GOST 8142-89
+  type: GOST
+  primary: true
+docnumber: '8142'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8142:89
+  webpage: https://new-shop.ksm.kz/catalog/document/25946/
+  ics_code: '45.080'
+  pages: '8'
+  designation_original: ГОСТ 8142-89

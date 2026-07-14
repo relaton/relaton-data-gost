@@ -1,0 +1,49 @@
+---
+id: GOST-R-763-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты переработки фруктов и овощей. Определение золы, нерастворимой
+    в соляной кислоте
+  type: main
+docidentifier:
+- content: GOST R 763-2008
+  type: GOST
+  primary: true
+docnumber: '763'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:763:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/42626/
+  ics_code: 67.080.01
+  pages: '7'
+  designation_original: ГОСТ Р ИСО 763-2008

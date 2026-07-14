@@ -1,0 +1,49 @@
+---
+id: GOST-16325-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины вычислительные электронные цифровые общего назначения. Общие технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 16325-88
+  type: GOST
+  primary: true
+docnumber: '16325'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16325:88
+  webpage: https://new-shop.ksm.kz/catalog/document/25130/
+  ics_code: '35.160'
+  pages: '23'
+  designation_original: ГОСТ 16325-88

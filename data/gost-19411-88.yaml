@@ -1,0 +1,49 @@
+---
+id: GOST-19411-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия текстильно-галантерейные тканые, плетеные, вязаные, витые метражные
+    и штучные. Маркировка и первичная упаковка
+  type: main
+docidentifier:
+- content: GOST 19411-88
+  type: GOST
+  primary: true
+docnumber: '19411'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19411:88
+  webpage: https://new-shop.ksm.kz/catalog/document/27576/
+  ics_code: '61.040'
+  pages: '11'
+  designation_original: ГОСТ 19411-88

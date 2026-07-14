@@ -1,0 +1,50 @@
+---
+id: GOST-17840-4-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автомобильные транспортные средства. Информация для экстренных оперативных
+    и аварийно-спасательных служб. Часть 4. Идентификация источника энергии, приводящего
+    в движение транспортное средство
+  type: main
+docidentifier:
+- content: GOST 17840-4-2023
+  type: GOST
+  primary: true
+docnumber: 17840-4
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17840-4:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/75277/
+  ics_code: '43.020'
+  pages: '18'
+  designation_original: ГОСТ ISO 17840-4-2023

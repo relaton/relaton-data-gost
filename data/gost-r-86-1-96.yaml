@@ -1,0 +1,48 @@
+---
+id: GOST-R-86-1-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Батареи первичные. Часть 1. Общие положения
+  type: main
+docidentifier:
+- content: GOST R 86-1-96
+  type: GOST
+  primary: true
+docnumber: 86-1
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:86-1:96
+  webpage: https://new-shop.ksm.kz/catalog/document/24041/
+  ics_code: 29.220.10
+  pages: '48'
+  designation_original: ГОСТ Р МЭК 86-1-96

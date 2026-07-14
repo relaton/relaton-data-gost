@@ -1,0 +1,50 @@
+---
+id: GOST-R-52459.28-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Совместимость технических средств электромагнитная. Технические средства
+    радиосвязи. Часть 28. Частные требования к цифровому оборудованию беспроводных
+    линий видеосвязи
+  type: main
+docidentifier:
+- content: GOST R 52459.28-2009
+  type: GOST
+  primary: true
+docnumber: '52459.28'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52459.28:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42717/
+  ics_code: '33.100'
+  pages: '16'
+  designation_original: ГОСТ Р 52459.28-2009

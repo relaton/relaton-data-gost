@@ -1,0 +1,49 @@
+---
+id: GOST-8643-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Устройство для опускания стрелы гидравлических экскаваторов
+    и погрузчиков типа "обратная лопата". Технические требования и испытания
+  type: main
+docidentifier:
+- content: GOST 8643-2016
+  type: GOST
+  primary: true
+docnumber: '8643'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8643:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65734/
+  ics_code: '53.100'
+  pages: '9'
+  designation_original: ГОСТ ISO 8643-2016

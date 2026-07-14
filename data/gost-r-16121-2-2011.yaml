@@ -1,0 +1,49 @@
+---
+id: GOST-R-16121-2-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Эргономика транспортных средств. Требования к рабочему месту водителя автобуса.
+    Часть 2. Обзорность
+  type: main
+docidentifier:
+- content: GOST R 16121-2-2011
+  type: GOST
+  primary: true
+docnumber: 16121-2
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:16121-2:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52269/
+  ics_code: '13.180'
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 16121-2-2011

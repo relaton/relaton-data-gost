@@ -1,0 +1,50 @@
+---
+id: GOST-R-10611-5-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Функциональный стандарт. Профиль АМН1п. Системы
+    обработки сообщений. Унифицированный обмен сообщениями. Часть 5. Профиль АМН13.
+    Доступ к хранилищу сообщений (с использованием протокола Р7)
+  type: main
+docidentifier:
+- content: GOST R 10611-5-98
+  type: GOST
+  primary: true
+docnumber: 10611-5
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10611-5:98
+  webpage: https://new-shop.ksm.kz/catalog/document/25480/
+  ics_code: 35.100.05
+  pages: '49'
+  designation_original: ГОСТ Р ИСО/МЭК МФС 10611-5-98

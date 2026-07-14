@@ -1,0 +1,49 @@
+---
+id: GOST-9885-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тара стеклянная с широкой горловиной. Отклонение от плоскостности укупорочной
+    поверхности венчика горловины. Методы испытания
+  type: main
+docidentifier:
+- content: GOST 9885-2013
+  type: GOST
+  primary: true
+docnumber: '9885'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9885:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56263/
+  ics_code: '55.100'
+  pages: '8'
+  designation_original: ГОСТ ISO 9885-2013

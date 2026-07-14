@@ -1,0 +1,48 @@
+---
+id: GOST-5111-55
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Овцы и козы для убоя. Определение упитанности
+  type: main
+docidentifier:
+- content: GOST 5111-55
+  type: GOST
+  primary: true
+docnumber: '5111'
+date:
+- type: published
+  from: '1955-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1955'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5111:55
+  webpage: https://new-shop.ksm.kz/catalog/document/27729/
+  ics_code: 65.020.30
+  pages: '4'
+  designation_original: ГОСТ 5111-55

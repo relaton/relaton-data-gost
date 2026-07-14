@@ -1,0 +1,48 @@
+---
+id: GOST-12423-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы. Условия кондиционирования и испытания образцов (проб)
+  type: main
+docidentifier:
+- content: GOST 12423-2013
+  type: GOST
+  primary: true
+docnumber: '12423'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12423:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58422/
+  ics_code: '83.080'
+  pages: '12'
+  designation_original: ГОСТ 12423-2013 (ISO 291:2008)

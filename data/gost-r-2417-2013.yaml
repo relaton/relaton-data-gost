@@ -1,0 +1,59 @@
+---
+id: GOST-R-2417-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Настоящий стандарт устанавливает способ измерения, используемый для определения
+    величин сопротивления теплопередаче и коэффициента теплопередачи многослойного
+    остекления с плоскими и параллельными поверхностями. Поверхности с рельефом, такие
+    как узорчатое стекло, также могут рассматриваться как плоские. Настоящий стандарт
+    применим к многослойному остеклению с внешними листами, которые непрозрачны для
+    излучения в дальнем инфракрасном диапазоне, что выполняется в случае обычного
+    стекла. Вместе с тем, внутренние элементы остекления могут быть прозрачными в
+    дальнем инфракрасном диапазоне. Настоящий стандарт позволяет определить величины
+    R (сопротивление теплопередаче) и U (коэффициент теплопередачи) в центральной
+    области многослойного остекления. Краевые эффекты, связанные с тепловым мостиком
+    через дистанционную рамку клееного стеклопакета или раму не рассматриваются. Кроме
+    того, передача энергии за счет солнечного излучения также не учитывается
+  type: main
+docidentifier:
+- content: GOST R 2417-2013
+  type: GOST
+  primary: true
+docnumber: '2417'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:2417:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58717/
+  ics_code: 59.140.30
+  pages: '8'
+  designation_original: ГОСТ Р ИСО 2417-2013

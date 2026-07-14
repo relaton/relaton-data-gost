@@ -1,0 +1,49 @@
+---
+id: GOST-25278.17-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сплавы и лигатуры редких металлов. Спектральный (с индукционной высокочастотной
+    плазмой) метод определения компонентов и примесей в сплавах на основе ниобия
+  type: main
+docidentifier:
+- content: GOST 25278.17-87
+  type: GOST
+  primary: true
+docnumber: '25278.17'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25278.17:87
+  webpage: https://new-shop.ksm.kz/catalog/document/33150/
+  ics_code: 77.120.99
+  pages: '9'
+  designation_original: ГОСТ 25278.17-87

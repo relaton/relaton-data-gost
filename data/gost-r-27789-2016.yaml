@@ -1,0 +1,48 @@
+---
+id: GOST-R-27789-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информатизация здоровья. Журналы аудита для электронных медицинских карт
+  type: main
+docidentifier:
+- content: GOST R 27789-2016
+  type: GOST
+  primary: true
+docnumber: '27789'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:27789:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65301/
+  ics_code: 35.240.80
+  pages: '46'
+  designation_original: ГОСТ Р ИСО 27789-2016

@@ -1,0 +1,49 @@
+---
+id: GOST-11177-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Развертки ручные конические конусностью 1:50 с цилиндрическим хвостовиком.
+    Основные размеры
+  type: main
+docidentifier:
+- content: GOST 11177-84
+  type: GOST
+  primary: true
+docnumber: '11177'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11177:84
+  webpage: https://new-shop.ksm.kz/catalog/document/22132/
+  ics_code: 25.100.30
+  pages: '7'
+  designation_original: ГОСТ 11177-84

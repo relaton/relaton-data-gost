@@ -1,0 +1,48 @@
+---
+id: GOST-21488-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Прутки прессованные из алюминия и алюминиевых сплавов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 21488-2025
+  type: GOST
+  primary: true
+docnumber: '21488'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21488:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76395/
+  ics_code: 77.150.10
+  pages: '32'
+  designation_original: ГОСТ 21488-2025

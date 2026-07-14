@@ -1,0 +1,50 @@
+---
+id: GOST-898-7-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Механические свойства крепежных изделий. Часть 7. Испытание на кручение
+    и минимальные крутящие моменты для болтов и винтов номинальных диаметров от 1
+    до 10 мм
+  type: main
+docidentifier:
+- content: GOST 898-7-2015
+  type: GOST
+  primary: true
+docnumber: 898-7
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:898-7:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64515/
+  ics_code: 21.060.10
+  pages: '12'
+  designation_original: ГОСТ ISO 898-7-2015

@@ -1,0 +1,49 @@
+---
+id: GOST-28459-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Таблица телевизионная испытательная универсальная 0286. Общие технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 28459-90
+  type: GOST
+  primary: true
+docnumber: '28459'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28459:90
+  webpage: https://new-shop.ksm.kz/catalog/document/24890/
+  ics_code: 33.160.25
+  pages: '12'
+  designation_original: ГОСТ 28459-90

@@ -1,0 +1,48 @@
+---
+id: GOST-11263-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Красители органические. Прямой синий СВ-ЗУ. Технические условия
+  type: main
+docidentifier:
+- content: GOST 11263-80
+  type: GOST
+  primary: true
+docnumber: '11263'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11263:80
+  webpage: https://new-shop.ksm.kz/catalog/document/34842/
+  ics_code: '87.040'
+  pages: '11'
+  designation_original: ГОСТ 11263-80

@@ -1,0 +1,49 @@
+---
+id: GOST-25617-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ткани и изделия льняные, полульняные, хлопчатобумажные и смешанные. Методы
+    химических испытаний
+  type: main
+docidentifier:
+- content: GOST 25617-83
+  type: GOST
+  primary: true
+docnumber: '25617'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25617:83
+  webpage: https://new-shop.ksm.kz/catalog/document/27174/
+  ics_code: 59.080.30
+  pages: '33'
+  designation_original: ГОСТ 25617-83

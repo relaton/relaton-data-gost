@@ -1,0 +1,48 @@
+---
+id: GOST-1437-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтепродукты темные. Определение содержания серы сжиганием в струе воздуха
+  type: main
+docidentifier:
+- content: GOST 1437-2024
+  type: GOST
+  primary: true
+docnumber: '1437'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1437:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/77221/
+  ics_code: '75.080'
+  pages: '11'
+  designation_original: ГОСТ 1437-2024

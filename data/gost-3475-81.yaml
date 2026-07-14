@@ -1,0 +1,49 @@
+---
+id: GOST-3475-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройство автосцепное подвижного состава железных дорог колеи 1520 (1524)
+    мм. Установочные размеры
+  type: main
+docidentifier:
+- content: GOST 3475-81
+  type: GOST
+  primary: true
+docnumber: '3475'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3475:81
+  webpage: https://new-shop.ksm.kz/catalog/document/25930/
+  ics_code: '45.060'
+  pages: '6'
+  designation_original: ГОСТ 3475-81

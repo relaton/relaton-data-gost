@@ -1,0 +1,48 @@
+---
+id: GOST-5985-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтепродукты. Метод определения кислотности и кислотного числа
+  type: main
+docidentifier:
+- content: GOST 5985-79
+  type: GOST
+  primary: true
+docnumber: '5985'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5985:79
+  webpage: https://new-shop.ksm.kz/catalog/document/31366/
+  ics_code: '75.080'
+  pages: '9'
+  designation_original: ГОСТ 5985-79

@@ -1,0 +1,49 @@
+---
+id: GOST-5542-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Газы горючие природные для промышленного и коммунально-бытового назначения.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 5542-87
+  type: GOST
+  primary: true
+docnumber: '5542'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5542:87
+  webpage: https://new-shop.ksm.kz/catalog/document/31356/
+  ics_code: '75.060'
+  pages: '3'
+  designation_original: ГОСТ 5542-87

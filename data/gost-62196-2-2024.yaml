@@ -1,0 +1,51 @@
+---
+id: GOST-62196-2-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вилки, штепсельные розетки, переносные розетки и вводы транспортных средств.
+    Проводная зарядка для электромобилей. Часть 2. Требования к совместимости и взаимозаменяемости
+    размеров вспомогательного оборудования переменного тока со штырями и контактными
+    гнездами
+  type: main
+docidentifier:
+- content: GOST 62196-2-2024
+  type: GOST
+  primary: true
+docnumber: 62196-2
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:62196-2:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76098/
+  ics_code: 29.120.30
+  pages: '74'
+  designation_original: ГОСТ IEC 62196-2-2024

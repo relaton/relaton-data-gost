@@ -1,0 +1,49 @@
+---
+id: GOST-390-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия огнеупорные шамотные и полукислые общего назначения и массового
+    производства. Технические условия
+  type: main
+docidentifier:
+- content: GOST 390-96
+  type: GOST
+  primary: true
+docnumber: '390'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:390:96
+  webpage: https://new-shop.ksm.kz/catalog/document/33714/
+  ics_code: '81.080'
+  pages: '6'
+  designation_original: ГОСТ 390-96

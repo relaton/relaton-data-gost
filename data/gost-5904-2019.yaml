@@ -1,0 +1,48 @@
+---
+id: GOST-5904-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: '"Изделия кондитерские.  Правила приемки и методы отбора проб."'
+  type: main
+docidentifier:
+- content: GOST 5904-2019
+  type: GOST
+  primary: true
+docnumber: '5904'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5904:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71234/
+  ics_code: '67.180'
+  pages: '16'
+  designation_original: ГОСТ 5904-2019

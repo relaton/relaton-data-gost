@@ -1,0 +1,49 @@
+---
+id: GOST-34699-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Технические средства оповещения и управления эвакуацией пожарные. Общие
+    технические требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 34699-2020
+  type: GOST
+  primary: true
+docnumber: '34699'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34699:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/73117/
+  ics_code: 13.220.20
+  pages: '26'
+  designation_original: ГОСТ 34699-2020

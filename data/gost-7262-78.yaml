@@ -1,0 +1,48 @@
+---
+id: GOST-7262-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Провода медные, изолированные лаком ВЛ-931. Технические условия
+  type: main
+docidentifier:
+- content: GOST 7262-78
+  type: GOST
+  primary: true
+docnumber: '7262'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7262:78
+  webpage: https://new-shop.ksm.kz/catalog/document/23148/
+  ics_code: 29.060.10
+  pages: '19'
+  designation_original: ГОСТ 7262-78

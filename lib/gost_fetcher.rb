@@ -54,9 +54,17 @@ module GostFetcher
   autoload :Indexer,            "gost_fetcher/indexer"
   autoload :Scrape,             "gost_fetcher/scrape"
 
+  # KSM client namespace — the new-shop.ksm.kz scraper lives here.
+  module Ksm
+    autoload :Client,         "gost_fetcher/ksm/client"
+    autoload :CataloguePage,  "gost_fetcher/ksm/catalogue_page"
+    autoload :DocumentPage,   "gost_fetcher/ksm/document_page"
+  end
+
   # Sources namespace — each source lives under GostFetcher::Sources.
   module Sources
     autoload :Base,      "gost_fetcher/sources/base"
     autoload :Catalogue, "gost_fetcher/sources/catalogue"
+    autoload :Ksm,       "gost_fetcher/sources/ksm"
   end
 end

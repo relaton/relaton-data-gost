@@ -1,0 +1,48 @@
+---
+id: GOST-R-4254-4-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лебедки трелевочные. Требования безопасности
+  type: main
+docidentifier:
+- content: GOST R 4254-4-99
+  type: GOST
+  primary: true
+docnumber: 4254-4
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:4254-4:99
+  webpage: https://new-shop.ksm.kz/catalog/document/28331/
+  ics_code: 65.060.80
+  pages: '7'
+  designation_original: ГОСТ Р ИСО 4254-4-99

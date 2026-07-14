@@ -1,0 +1,48 @@
+---
+id: GOST-32851-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция косметическая для принятия ванн Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 32851-2014
+  type: GOST
+  primary: true
+docnumber: '32851'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32851:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/59520/
+  ics_code: 71.100.70
+  pages: '12'
+  designation_original: ГОСТ 32851-2014

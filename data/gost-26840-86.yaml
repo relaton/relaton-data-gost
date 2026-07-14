@@ -1,0 +1,48 @@
+---
+id: GOST-26840-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Установки электроручные вентиляторные ЭРВ 72-2, ЭРВ 72-3. Технические условия
+  type: main
+docidentifier:
+- content: GOST 26840-86
+  type: GOST
+  primary: true
+docnumber: '26840'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26840:86
+  webpage: https://new-shop.ksm.kz/catalog/document/20259/
+  ics_code: '23.120'
+  pages: '12'
+  designation_original: ГОСТ 26840-86

@@ -1,0 +1,49 @@
+---
+id: GOST-27697-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Промышленные роботы. Устройства циклового, позиционного и контурного программного
+    управления. Технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 27697-88
+  type: GOST
+  primary: true
+docnumber: '27697'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27697:88
+  webpage: https://new-shop.ksm.kz/catalog/document/21929/
+  ics_code: 25.040.30
+  pages: '11'
+  designation_original: ГОСТ 27697-88

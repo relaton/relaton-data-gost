@@ -1,0 +1,48 @@
+---
+id: GOST-60238-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Патроны резьбовые для ламп
+  type: main
+docidentifier:
+- content: GOST 60238-2002
+  type: GOST
+  primary: true
+docnumber: '60238'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60238:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38809/
+  ics_code: 29.140.10
+  pages: '60'
+  designation_original: ГОСТ МЭК 60238-2002

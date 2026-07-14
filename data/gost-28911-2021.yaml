@@ -1,0 +1,48 @@
+---
+id: GOST-28911-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лифты. Устройства управления, сигнализации и дополнительное оборудование
+  type: main
+docidentifier:
+- content: GOST 28911-2021
+  type: GOST
+  primary: true
+docnumber: '28911'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28911:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75612/
+  ics_code: 91.140.90
+  pages: '26'
+  designation_original: ГОСТ 28911-2021

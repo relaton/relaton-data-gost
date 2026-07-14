@@ -1,0 +1,50 @@
+---
+id: GOST-17127-71
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: 'Опоки литейные сварные из литых стальных элементов прямоугольные размерами
+    в свету: длиной от 400 до 500 мм, шириной от 300 до 400 мм, высотой от 75 до 200
+    мм. Конструкция и размеры'
+  type: main
+docidentifier:
+- content: GOST 17127-71
+  type: GOST
+  primary: true
+docnumber: '17127'
+date:
+- type: published
+  from: '1971-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1971'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17127:71
+  webpage: https://new-shop.ksm.kz/catalog/document/21169/
+  ics_code: 25.120.30
+  pages: '13'
+  designation_original: ГОСТ 17127-71

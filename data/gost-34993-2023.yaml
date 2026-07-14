@@ -1,0 +1,49 @@
+---
+id: GOST-34993-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция парфюмерно-косметическая.Токсикологическая оценка на основе анализа
+    токсикологических характеристик ингредиентов
+  type: main
+docidentifier:
+- content: GOST 34993-2023
+  type: GOST
+  primary: true
+docnumber: '34993'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34993:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/76108/
+  ics_code: 71.100.70
+  pages: '20'
+  designation_original: ГОСТ 34993-2023

@@ -1,0 +1,48 @@
+---
+id: GOST-25531-2-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пневмоприводы. Маслораспылители. Часть 2. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 25531-2-2009
+  type: GOST
+  primary: true
+docnumber: 25531-2
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25531-2:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42354/
+  ics_code: 23.100.99
+  pages: '19'
+  designation_original: ГОСТ 25531-2-2009 (ИСО 6301-2:1997)

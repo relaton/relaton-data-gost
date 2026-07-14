@@ -1,0 +1,49 @@
+---
+id: GOST-19799-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Микросхемы интегральные аналоговые. Методы измерения электрических параметров
+    и определения характеристик
+  type: main
+docidentifier:
+- content: GOST 19799-74
+  type: GOST
+  primary: true
+docnumber: '19799'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19799:74
+  webpage: https://new-shop.ksm.kz/catalog/document/24306/
+  ics_code: '31.200'
+  pages: '44'
+  designation_original: ГОСТ 19799-74

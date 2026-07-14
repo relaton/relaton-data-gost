@@ -1,0 +1,48 @@
+---
+id: GOST-799-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Болты путевые для скрепления рельсов широкой колеи. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST 799-73
+  type: GOST
+  primary: true
+docnumber: '799'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:799:73
+  webpage: https://new-shop.ksm.kz/catalog/document/25919/
+  ics_code: '45.080'
+  pages: '6'
+  designation_original: ГОСТ 799-73

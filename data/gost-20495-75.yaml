@@ -1,0 +1,49 @@
+---
+id: GOST-20495-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упрочнение металлических деталей поверхностой химико-термической обработкой.
+    Характеристики и свойства диффузионного слоя. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 20495-75
+  type: GOST
+  primary: true
+docnumber: '20495'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20495:75
+  webpage: https://new-shop.ksm.kz/catalog/document/15021/
+  ics_code: '25.200'
+  pages: '12'
+  designation_original: ГОСТ 20495-75

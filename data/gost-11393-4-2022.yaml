@@ -1,0 +1,50 @@
+---
+id: GOST-11393-4-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Средства индивидуальной защиты для
+    работающих с ручными цепными пилами. Часть 4. технические требования и методы
+    испытаний защитных перчаток
+  type: main
+docidentifier:
+- content: GOST 11393-4-2022
+  type: GOST
+  primary: true
+docnumber: 11393-4
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11393-4:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/76413/
+  ics_code: 13.340.40
+  pages: '25'
+  designation_original: ГОСТ ISO 11393-4-2022

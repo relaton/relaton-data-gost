@@ -1,0 +1,49 @@
+---
+id: GOST-34667.1-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы лакокрасочные. Защита стальных конструкций от коррозии при помощи
+    лакокрасочных систем. Часть 1. Общие положения
+  type: main
+docidentifier:
+- content: GOST 34667.1-2020
+  type: GOST
+  primary: true
+docnumber: '34667.1'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34667.1:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/75359/
+  ics_code: '25.220'
+  pages: '19'
+  designation_original: ГОСТ 34667.1-2020 (ISO 12944-1:2017)

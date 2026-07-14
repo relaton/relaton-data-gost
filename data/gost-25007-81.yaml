@@ -1,0 +1,49 @@
+---
+id: GOST-25007-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стык аппаратуры передачи данных с каналами связи систем передачи с частотным
+    разделением каналов. Основные параметры сопряжения
+  type: main
+docidentifier:
+- content: GOST 25007-81
+  type: GOST
+  primary: true
+docnumber: '25007'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25007:81
+  webpage: https://new-shop.ksm.kz/catalog/document/24831/
+  ics_code: 33.040.20
+  pages: '11'
+  designation_original: ГОСТ 25007-81

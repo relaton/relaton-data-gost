@@ -1,0 +1,49 @@
+---
+id: GOST-818-1-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Цепи стальные из круглых коротких звеньев для подъема грузов. Безопасность.
+    Часть 1. Общие требования к приемке
+  type: main
+docidentifier:
+- content: GOST 818-1-2011
+  type: GOST
+  primary: true
+docnumber: 818-1
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:818-1:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48704/
+  ics_code: 53.020.30
+  pages: '16'
+  designation_original: ГОСТ EN 818-1-2011

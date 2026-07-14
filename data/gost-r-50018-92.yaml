@@ -1,0 +1,50 @@
+---
+id: GOST-R-50018-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины текстильные и оборудование вспомогательное. Патроны конические для
+    крестовой намотки при крашении (крестовая намотка). Половина угла конуса 4 град.
+    угл. 20'. Размеры и методы контроля
+  type: main
+docidentifier:
+- content: GOST R 50018-92
+  type: GOST
+  primary: true
+docnumber: '50018'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50018:92
+  webpage: https://new-shop.ksm.kz/catalog/document/27401/
+  ics_code: 59.120.20
+  pages: '5'
+  designation_original: ГОСТ Р 50018-92

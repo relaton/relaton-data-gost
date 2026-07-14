@@ -1,0 +1,49 @@
+---
+id: GOST-R-55573-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мясо и мясные продукты. Определение кальция атомно-абсорбционным и титриметрическим
+    методами
+  type: main
+docidentifier:
+- content: GOST R 55573-2013
+  type: GOST
+  primary: true
+docnumber: '55573'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55573:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57406/
+  ics_code: 67.120.10
+  pages: '12'
+  designation_original: ГОСТ Р 55573-2013

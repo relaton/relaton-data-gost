@@ -1,0 +1,49 @@
+---
+id: GOST-28979-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Державки для токарных пластинчатых прорезных и отрезных резцов. Основные
+    размеры
+  type: main
+docidentifier:
+- content: GOST 28979-91
+  type: GOST
+  primary: true
+docnumber: '28979'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28979:91
+  webpage: https://new-shop.ksm.kz/catalog/document/22756/
+  ics_code: 25.060.20
+  pages: '3'
+  designation_original: ГОСТ 28979-91

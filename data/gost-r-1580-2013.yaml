@@ -1,0 +1,48 @@
+---
+id: GOST-R-1580-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Винты с плоской головкой со шлицем. Класс точности А
+  type: main
+docidentifier:
+- content: GOST R 1580-2013
+  type: GOST
+  primary: true
+docnumber: '1580'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:1580:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56905/
+  ics_code: 21.060.10
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 1580-2013

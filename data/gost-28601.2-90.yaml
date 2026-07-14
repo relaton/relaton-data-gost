@@ -1,0 +1,49 @@
+---
+id: GOST-28601.2-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система несущих конструкций серии 482,6 мм. Шкафы и стоечные конструкции.
+    Основные размеры
+  type: main
+docidentifier:
+- content: GOST 28601.2-90
+  type: GOST
+  primary: true
+docnumber: '28601.2'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28601.2:90
+  webpage: https://new-shop.ksm.kz/catalog/document/24618/
+  ics_code: '31.240'
+  pages: '3'
+  designation_original: ГОСТ 28601.2-90

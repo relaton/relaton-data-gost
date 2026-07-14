@@ -1,0 +1,49 @@
+---
+id: GOST-R-22745-2-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы промышленной автоматизации и их интеграция. Открытые технические
+    словари и их применение к основным данным. Часть 2. Словари
+  type: main
+docidentifier:
+- content: GOST R 22745-2-2011
+  type: GOST
+  primary: true
+docnumber: 22745-2
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:22745-2:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51879/
+  ics_code: 25.040.01
+  pages: '20'
+  designation_original: ГОСТ Р ИСО 22745-2-2011

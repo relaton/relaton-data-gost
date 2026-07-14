@@ -1,0 +1,48 @@
+---
+id: GOST-15991-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вакцина СТИ живая против сибирской язвы животных. Технические условия
+  type: main
+docidentifier:
+- content: GOST 15991-86
+  type: GOST
+  primary: true
+docnumber: '15991'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15991:86
+  webpage: https://new-shop.ksm.kz/catalog/document/40602/
+  ics_code: '11.220'
+  pages: '24'
+  designation_original: ГОСТ 15991-86

@@ -1,0 +1,49 @@
+---
+id: GOST-3884-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контакт-детали для коммутационных электрических аппаратов. Конструкция
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 3884-77
+  type: GOST
+  primary: true
+docnumber: '3884'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3884:77
+  webpage: https://new-shop.ksm.kz/catalog/document/23113/
+  ics_code: 29.130.20
+  pages: '14'
+  designation_original: ГОСТ 3884-77

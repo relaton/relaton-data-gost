@@ -1,0 +1,48 @@
+---
+id: GOST-61810-7-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Реле логические электромеханические. Часть 7. Методики испытания и измерения
+  type: main
+docidentifier:
+- content: GOST 61810-7-2013
+  type: GOST
+  primary: true
+docnumber: 61810-7
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61810-7:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/61605/
+  ics_code: 29.120.70
+  pages: '70'
+  designation_original: ГОСТ IEC 61810-7-2013

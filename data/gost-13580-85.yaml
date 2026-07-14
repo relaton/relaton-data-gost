@@ -1,0 +1,48 @@
+---
+id: GOST-13580-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты железобетонные ленточных фундаментов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 13580-85
+  type: GOST
+  primary: true
+docnumber: '13580'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13580:85
+  webpage: https://new-shop.ksm.kz/catalog/document/35175/
+  ics_code: 91.080.40
+  pages: '36'
+  designation_original: ГОСТ 13580-85

@@ -1,0 +1,48 @@
+---
+id: GOST-12492.9-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Профиль для крыла плоскореза сельскохозяйственных машин. Сортамент
+  type: main
+docidentifier:
+- content: GOST 12492.9-90
+  type: GOST
+  primary: true
+docnumber: '12492.9'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12492.9:90
+  webpage: https://new-shop.ksm.kz/catalog/document/32446/
+  ics_code: 77.140.70
+  pages: '2'
+  designation_original: ГОСТ 12492.9-90

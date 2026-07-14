@@ -1,0 +1,48 @@
+---
+id: GOST-2819-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы фотографические. Метод определения разрешающей способности
+  type: main
+docidentifier:
+- content: GOST 2819-84
+  type: GOST
+  primary: true
+docnumber: '2819'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2819:84
+  webpage: https://new-shop.ksm.kz/catalog/document/25565/
+  ics_code: 37.040.20
+  pages: '7'
+  designation_original: ГОСТ 2819-84

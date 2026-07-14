@@ -1,0 +1,48 @@
+---
+id: GOST-23903-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пути водные внутренние и их навигационное оборудование. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 23903-79
+  type: GOST
+  primary: true
+docnumber: '23903'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23903:79
+  webpage: https://new-shop.ksm.kz/catalog/document/15186/
+  ics_code: 01.040.93
+  pages: '12'
+  designation_original: ГОСТ 23903-79

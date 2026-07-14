@@ -1,0 +1,49 @@
+---
+id: GOST-30586-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Совместимость технических средств электромагнитная. Стойкость к воздействию
+    грозовых разрядов. Методы защиты
+  type: main
+docidentifier:
+- content: GOST 30586-98
+  type: GOST
+  primary: true
+docnumber: '30586'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30586:98
+  webpage: https://new-shop.ksm.kz/catalog/document/39102/
+  ics_code: '29.020'
+  pages: '29'
+  designation_original: ГОСТ 30586-98

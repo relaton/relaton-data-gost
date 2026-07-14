@@ -1,0 +1,49 @@
+---
+id: GOST-22088-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фрезы торцовые концевые с механическим креплением круглых твердосплавных
+    пластин. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 22088-76
+  type: GOST
+  primary: true
+docnumber: '22088'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22088:76
+  webpage: https://new-shop.ksm.kz/catalog/document/21693/
+  ics_code: 25.100.20
+  pages: '6'
+  designation_original: ГОСТ 22088-76

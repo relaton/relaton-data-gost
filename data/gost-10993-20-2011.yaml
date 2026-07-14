@@ -1,0 +1,49 @@
+---
+id: GOST-10993-20-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские. Оценка биологического действия медицинских изделий.
+    Часть 20. Принципы и методы исследования иммунотоксичности медицинских изделий
+  type: main
+docidentifier:
+- content: GOST 10993-20-2011
+  type: GOST
+  primary: true
+docnumber: 10993-20
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10993-20:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/54361/
+  ics_code: 11.100.20
+  pages: '36'
+  designation_original: ГОСТ ISO/TS 10993-20-2011

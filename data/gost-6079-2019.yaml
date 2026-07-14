@@ -1,0 +1,48 @@
+---
+id: GOST-6079-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Чай растворимый. Технические условия
+  type: main
+docidentifier:
+- content: GOST 6079-2019
+  type: GOST
+  primary: true
+docnumber: '6079'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6079:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71494/
+  ics_code: 67.140.10
+  pages: '8'
+  designation_original: ГОСТ ISO 6079-2019

@@ -1,0 +1,49 @@
+---
+id: GOST-8135-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гидроприводы объемные. Цилиндры с односторонним штоком. Ряд на 16 МПа (160
+    бар) - средняя серия и ряд на 25 МПа (250 бар). Допуски
+  type: main
+docidentifier:
+- content: GOST 8135-2009
+  type: GOST
+  primary: true
+docnumber: '8135'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8135:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42363/
+  ics_code: 23.100.20
+  pages: '23'
+  designation_original: ГОСТ ИСО 8135-2009

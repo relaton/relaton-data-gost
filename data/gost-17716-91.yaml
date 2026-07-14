@@ -1,0 +1,48 @@
+---
+id: GOST-17716-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Зеркала. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 17716-91
+  type: GOST
+  primary: true
+docnumber: '17716'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17716:91
+  webpage: https://new-shop.ksm.kz/catalog/document/33828/
+  ics_code: 81.040.30
+  pages: '12'
+  designation_original: ГОСТ 17716-91

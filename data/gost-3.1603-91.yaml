@@ -1,0 +1,49 @@
+---
+id: GOST-3.1603-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система технологической документации. Правила оформления документов
+    на технологические процессы (операции) сбора и сдачи технологических отходов
+  type: main
+docidentifier:
+- content: GOST 3.1603-91
+  type: GOST
+  primary: true
+docnumber: '3.1603'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3.1603:91
+  webpage: https://new-shop.ksm.kz/catalog/document/14644/
+  ics_code: '01.110'
+  pages: '11'
+  designation_original: ГОСТ 3.1603-91

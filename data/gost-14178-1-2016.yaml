@@ -1,0 +1,48 @@
+---
+id: GOST-14178-1-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стекло щелочноземельное силикатное. Технические требования
+  type: main
+docidentifier:
+- content: GOST 14178-1-2016
+  type: GOST
+  primary: true
+docnumber: 14178-1
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14178-1:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67669/
+  ics_code: 81.040.30
+  pages: '16'
+  designation_original: ГОСТ EN 14178-1-2016

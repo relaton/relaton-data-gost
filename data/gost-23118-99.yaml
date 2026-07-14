@@ -1,0 +1,48 @@
+---
+id: GOST-23118-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конструкции стальные строительные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 23118-99
+  type: GOST
+  primary: true
+docnumber: '23118'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23118:99
+  webpage: https://new-shop.ksm.kz/catalog/document/35276/
+  ics_code: 91.080.10
+  pages: '42'
+  designation_original: ГОСТ 23118-99

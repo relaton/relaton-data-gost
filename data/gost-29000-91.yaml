@@ -1,0 +1,50 @@
+---
+id: GOST-29000-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сердечники для катушек индуктивности и трансформаторов, применяемых в аппаратуре
+    дальней связи. Часть 3. Групповые технические условия на сердечники из магнитных
+    оксидных материалов, предназначенные для применения в широкополосных трансформаторах
+  type: main
+docidentifier:
+- content: GOST 29000-91
+  type: GOST
+  primary: true
+docnumber: '29000'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29000:91
+  webpage: https://new-shop.ksm.kz/catalog/document/23703/
+  ics_code: 29.100.10
+  pages: '8'
+  designation_original: ГОСТ 29000-91

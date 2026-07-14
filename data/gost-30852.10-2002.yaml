@@ -1,0 +1,49 @@
+---
+id: GOST-30852.10-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрооборудование взрывозащищенное. Часть 11. Искробезопасная электрическая
+    цепь i
+  type: main
+docidentifier:
+- content: GOST 30852.10-2002
+  type: GOST
+  primary: true
+docnumber: '30852.10'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30852.10:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38490/
+  ics_code: 29.260.20
+  pages: '124'
+  designation_original: ГОСТ 30852.10-2002

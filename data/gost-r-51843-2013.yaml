@@ -1,0 +1,49 @@
+---
+id: GOST-R-51843-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства контроля пламени для газовых аппаратов. Термоэлектрические устройства
+    контроля пламени. Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 51843-2013
+  type: GOST
+  primary: true
+docnumber: '51843'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51843:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59000/
+  ics_code: 27.060.20
+  pages: '24'
+  designation_original: ГОСТ Р 51843-2013 (ЕН 125:1991/A1:1996)

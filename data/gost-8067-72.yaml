@@ -1,0 +1,48 @@
+---
+id: GOST-8067-72
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пороха дымные. Метод определения количества пороховой пыли
+  type: main
+docidentifier:
+- content: GOST 8067-72
+  type: GOST
+  primary: true
+docnumber: '8067'
+date:
+- type: published
+  from: '1972-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8067:72
+  webpage: https://new-shop.ksm.kz/catalog/document/29842/
+  ics_code: 71.100.30
+  pages: '6'
+  designation_original: ГОСТ 8067-72

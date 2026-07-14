@@ -1,0 +1,49 @@
+---
+id: GOST-35116-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ферментные препараты микробного происхождения для пищевой промышленности.
+    Метод определения антибиотической активности
+  type: main
+docidentifier:
+- content: GOST 35116-2024
+  type: GOST
+  primary: true
+docnumber: '35116'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35116:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76166/
+  ics_code: '07.080'
+  pages: '16'
+  designation_original: ГОСТ 35116-2024

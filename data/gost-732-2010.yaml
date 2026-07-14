@@ -1,0 +1,49 @@
+---
+id: GOST-732-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Технические требовпания для приборов, работающих на сжиженном газе. Абсорбционные
+    холодильники
+  type: main
+docidentifier:
+- content: GOST 732-2010
+  type: GOST
+  primary: true
+docnumber: '732'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:732:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45514/
+  ics_code: 97.040.30
+  pages: '52'
+  designation_original: ГОСТ EN 732-2010

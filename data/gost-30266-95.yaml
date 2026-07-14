@@ -1,0 +1,48 @@
+---
+id: GOST-30266-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мыло хозяйственное твердое. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 30266-95
+  type: GOST
+  primary: true
+docnumber: '30266'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30266:95
+  webpage: https://new-shop.ksm.kz/catalog/document/30501/
+  ics_code: 71.100.70
+  pages: '15'
+  designation_original: ГОСТ 30266-95

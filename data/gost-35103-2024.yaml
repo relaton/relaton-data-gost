@@ -1,0 +1,49 @@
+---
+id: GOST-35103-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество воды. Определение фенольного индекса посредством анализа потока
+    (ПИА и НАП)
+  type: main
+docidentifier:
+- content: GOST 35103-2024
+  type: GOST
+  primary: true
+docnumber: '35103'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35103:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76058/
+  ics_code: 13.060.50
+  pages: '24'
+  designation_original: ГОСТ 35103-2024

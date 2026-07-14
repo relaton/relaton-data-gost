@@ -1,0 +1,48 @@
+---
+id: GOST-24333-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Зерно и продукты его переработки. Отбор проб
+  type: main
+docidentifier:
+- content: GOST 24333-2017
+  type: GOST
+  primary: true
+docnumber: '24333'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24333:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70414/
+  ics_code: '67.060'
+  pages: '27'
+  designation_original: ГОСТ ISO 24333-2017

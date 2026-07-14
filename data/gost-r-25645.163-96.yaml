@@ -1,0 +1,49 @@
+---
+id: GOST-R-25645.163-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Характеристики радиошумов в околоземном пространстве в диапазоне частот
+    от 0,1 до 50МГц
+  type: main
+docidentifier:
+- content: GOST R 25645.163-96
+  type: GOST
+  primary: true
+docnumber: '25645.163'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:25645.163:96
+  webpage: https://new-shop.ksm.kz/catalog/document/16310/
+  ics_code: '07.040'
+  pages: '19'
+  designation_original: ГОСТ Р 25645.163-96

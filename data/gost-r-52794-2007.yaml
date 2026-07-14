@@ -1,0 +1,48 @@
+---
+id: GOST-R-52794-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кофе жареный молотый. Метод определения массовой доли влаги при 103 °С
+  type: main
+docidentifier:
+- content: GOST R 52794-2007
+  type: GOST
+  primary: true
+docnumber: '52794'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52794:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/40852/
+  ics_code: 67.140.20
+  pages: '11'
+  designation_original: ГОСТ Р 52794-2007

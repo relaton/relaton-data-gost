@@ -1,0 +1,39 @@
+---
+id: GOST-15495
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко. Молочные продукты и питание для детей раннего возраста. Руководящие
+    указания для количественного определения меламина и циануровой кислоты методом
+    жидкостной хроматографии - тандемной масс-спектрометрии (LC-MS/MS)
+  type: main
+docidentifier:
+- content: GOST 15495
+  type: GOST
+  primary: true
+docnumber: '15495'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15495
+  webpage: https://new-shop.ksm.kz/catalog/document/54385/
+  ics_code: 67.100.99
+  pages: '66'
+  designation_original: ГОСТ ISO/TS 15495/IDF/RM 230-2012

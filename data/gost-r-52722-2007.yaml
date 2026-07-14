@@ -1,0 +1,50 @@
+---
+id: GOST-R-52722-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Каналы передачи цифровых телевизионных сигналов аппаратно-студийного комплекса
+    и передвижной телевизионной станции цифрового вещательного телевидения. Основные
+    параметры и методы измерений
+  type: main
+docidentifier:
+- content: GOST R 52722-2007
+  type: GOST
+  primary: true
+docnumber: '52722'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52722:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/25051/
+  ics_code: '33.170'
+  pages: '22'
+  designation_original: ГОСТ Р 52722-2007

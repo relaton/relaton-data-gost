@@ -1,0 +1,50 @@
+---
+id: GOST-R-28961-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Акустика. Статистическое распределение порогов слышимости людей с нормальным
+    слухом в возрасте от 18 до 25 лет при прослушивании в условиях свободного звукового
+    поля
+  type: main
+docidentifier:
+- content: GOST R 28961-2014
+  type: GOST
+  primary: true
+docnumber: '28961'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:28961:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61922/
+  ics_code: '13.140'
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 28961-2014

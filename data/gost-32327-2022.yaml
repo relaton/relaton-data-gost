@@ -1,0 +1,48 @@
+---
+id: GOST-32327-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтепродукты. Определение кислотного числа потенциометрическим титрованием
+  type: main
+docidentifier:
+- content: GOST 32327-2022
+  type: GOST
+  primary: true
+docnumber: '32327'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32327:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/75367/
+  ics_code: '75.140'
+  pages: '25'
+  designation_original: ГОСТ 32327-2022

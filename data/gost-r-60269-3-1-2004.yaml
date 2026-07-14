@@ -1,0 +1,50 @@
+---
+id: GOST-R-60269-3-1-2004
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Предохранители плавкие низковольтные. Часть 3-1. Дополнительные требования
+    к плавким предохранителям для эксплуатации неквалифицированным персоналом (плавкие
+    предохранители бытового и аналогичного назначения). Разделы I-IV
+  type: main
+docidentifier:
+- content: GOST R 60269-3-1-2004
+  type: GOST
+  primary: true
+docnumber: 60269-3-1
+date:
+- type: published
+  from: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60269-3-1:2004
+  webpage: https://new-shop.ksm.kz/catalog/document/24082/
+  ics_code: 29.120.50
+  pages: '97'
+  designation_original: ГОСТ Р МЭК 60269-3-1-2004

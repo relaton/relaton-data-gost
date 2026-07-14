@@ -1,0 +1,49 @@
+---
+id: GOST-343-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Одежда специальная для защиты от
+    дождя. Технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 343-2021
+  type: GOST
+  primary: true
+docnumber: '343'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:343:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75779/
+  ics_code: 13.340.10
+  pages: '22'
+  designation_original: ГОСТ EN 343-2021

@@ -1,0 +1,48 @@
+---
+id: GOST-3948-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Филе рыбное мороженое. Технические условия
+  type: main
+docidentifier:
+- content: GOST 3948-90
+  type: GOST
+  primary: true
+docnumber: '3948'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3948:90
+  webpage: https://new-shop.ksm.kz/catalog/document/28433/
+  ics_code: 67.120.30
+  pages: '13'
+  designation_original: ГОСТ 3948-90

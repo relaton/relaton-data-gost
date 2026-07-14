@@ -1,0 +1,48 @@
+---
+id: GOST-22652-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы электроэнергетические судовые. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 22652-77
+  type: GOST
+  primary: true
+docnumber: '22652'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22652:77
+  webpage: https://new-shop.ksm.kz/catalog/document/15116/
+  ics_code: 01.040.47
+  pages: '7'
+  designation_original: ГОСТ 22652-77

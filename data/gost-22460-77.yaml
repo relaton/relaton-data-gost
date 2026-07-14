@@ -1,0 +1,49 @@
+---
+id: GOST-22460-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пакеты из полимерных термоусадочных пленок для топографических карт. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 22460-77
+  type: GOST
+  primary: true
+docnumber: '22460'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22460:77
+  webpage: https://new-shop.ksm.kz/catalog/document/26457/
+  ics_code: '55.080'
+  pages: '4'
+  designation_original: ГОСТ 22460-77

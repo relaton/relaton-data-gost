@@ -1,0 +1,50 @@
+---
+id: GOST-31440.1-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двигатели внутреннего сгорания поршневые. Требования безопасности к двигателям,
+    предназначенным для применения в потенциально взрывоопасных средах. Часть 1. Двигатели
+    группы II для применения в средах, содержащий горючий газ и пар
+  type: main
+docidentifier:
+- content: GOST 31440.1-2011
+  type: GOST
+  primary: true
+docnumber: '31440.1'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31440.1:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48664/
+  ics_code: '13.230'
+  pages: '51'
+  designation_original: ГОСТ 31440.1-2011 (EN 1834-1:2000)

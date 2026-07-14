@@ -1,0 +1,48 @@
+---
+id: GOST-14193-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Монохлорамин ХБ технический. Технические условия
+  type: main
+docidentifier:
+- content: GOST 14193-95
+  type: GOST
+  primary: true
+docnumber: '14193'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14193:95
+  webpage: https://new-shop.ksm.kz/catalog/document/39592/
+  ics_code: 71.080.15
+  pages: '17'
+  designation_original: ГОСТ 14193-95

@@ -1,0 +1,49 @@
+---
+id: GOST-30716-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Энергосбережение. Установки для термовлажностной обработки сборных бетонных
+    и железобетонных изделий и конструкций. Методы расчета расхода тепловой энергии
+  type: main
+docidentifier:
+- content: GOST 30716-2000
+  type: GOST
+  primary: true
+docnumber: '30716'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30716:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/38892/
+  ics_code: 03.100.50
+  pages: '20'
+  designation_original: ГОСТ 30716-2000

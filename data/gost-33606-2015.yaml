@@ -1,0 +1,49 @@
+---
+id: GOST-33606-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства пломбировочные электронные. Система контроля комплектации вагонов
+    съемными частями. Общие положения
+  type: main
+docidentifier:
+- content: GOST 33606-2015
+  type: GOST
+  primary: true
+docnumber: '33606'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33606:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64724/
+  ics_code: '13.310'
+  pages: '12'
+  designation_original: ГОСТ 33606-2015

@@ -1,0 +1,49 @@
+---
+id: GOST-R-17776-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтяная и газовая промышленность морские добычные установки. Способы и
+    методы идентификации опасностей и оценки риска. Основные положения
+  type: main
+docidentifier:
+- content: GOST R 17776-2012
+  type: GOST
+  primary: true
+docnumber: '17776'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:17776:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/54850/
+  ics_code: '75.180'
+  pages: '62'
+  designation_original: ГОСТ Р ИСО 17776-2012

@@ -1,0 +1,48 @@
+---
+id: GOST-10150-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двигатели судовые, тепловозные и промышленные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 10150-88
+  type: GOST
+  primary: true
+docnumber: '10150'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10150:88
+  webpage: https://new-shop.ksm.kz/catalog/document/26063/
+  ics_code: 47.020.20
+  pages: '42'
+  designation_original: ГОСТ 10150-88

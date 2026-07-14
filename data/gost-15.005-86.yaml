@@ -1,0 +1,49 @@
+---
+id: GOST-15.005-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система разработки и постановки продукции на производство. Создание изделий
+    единичного и мелкосерийного производства, собираемых на месте эксплуатации
+  type: main
+docidentifier:
+- content: GOST 15.005-86
+  type: GOST
+  primary: true
+docnumber: '15.005'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15.005:86
+  webpage: https://new-shop.ksm.kz/catalog/document/15989/
+  ics_code: 03.100.50
+  pages: '11'
+  designation_original: ГОСТ 15.005-86

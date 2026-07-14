@@ -1,0 +1,49 @@
+---
+id: GOST-29257-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины текстильные и оборудование вспомогательное. Патроны цилиндрические
+    для ленточной пряжи. Размеры
+  type: main
+docidentifier:
+- content: GOST 29257-91
+  type: GOST
+  primary: true
+docnumber: '29257'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29257:91
+  webpage: https://new-shop.ksm.kz/catalog/document/27349/
+  ics_code: 59.120.20
+  pages: '4'
+  designation_original: ГОСТ 29257-91

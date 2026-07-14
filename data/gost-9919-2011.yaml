@@ -1,0 +1,49 @@
+---
+id: GOST-9919-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Частные требования безопасности и основные
+    характеристики пульсовых оксиметров
+  type: main
+docidentifier:
+- content: GOST 9919-2011
+  type: GOST
+  primary: true
+docnumber: '9919'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9919:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/58674/
+  ics_code: 11.040.10
+  pages: '74'
+  designation_original: ГОСТ ISO 9919-2011

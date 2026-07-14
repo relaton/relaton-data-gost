@@ -1,0 +1,49 @@
+---
+id: GOST-15484-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Этанол в качестве компонента бензина. Определение неорганических хлоридов
+    потенциометрическим титрованием
+  type: main
+docidentifier:
+- content: GOST 15484-2014
+  type: GOST
+  primary: true
+docnumber: '15484'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15484:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61382/
+  ics_code: 71.080.60
+  pages: '12'
+  designation_original: ГОСТ EN 15484-2014

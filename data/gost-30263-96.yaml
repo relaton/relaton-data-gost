@@ -1,0 +1,49 @@
+---
+id: GOST-30263-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Смеси резиновые для испытания. Приготовления, смешение и вулканизация.
+    Оборудование и методы
+  type: main
+docidentifier:
+- content: GOST 30263-96
+  type: GOST
+  primary: true
+docnumber: '30263'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30263:96
+  webpage: https://new-shop.ksm.kz/catalog/document/34473/
+  ics_code: '83.060'
+  pages: '20'
+  designation_original: ГОСТ 30263-96

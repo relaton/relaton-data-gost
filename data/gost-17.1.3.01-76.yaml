@@ -1,0 +1,48 @@
+---
+id: GOST-17.1.3.01-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Охрана природы. Гидросфера. Правила охраны водных объектов при лесосплаве
+  type: main
+docidentifier:
+- content: GOST 17.1.3.01-76
+  type: GOST
+  primary: true
+docnumber: 17.1.3.01
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17.1.3.01:76
+  webpage: https://new-shop.ksm.kz/catalog/document/17168/
+  ics_code: 13.060.10
+  pages: '3'
+  designation_original: ГОСТ 17.1.3.01-76

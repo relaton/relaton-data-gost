@@ -1,0 +1,50 @@
+---
+id: GOST-28524-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мобильные средства малой механизации сельскохозяйственных работ. Валы отбора
+    и приема мощности одноосных малогабаритных тракторов (мотоблоков). Основные параметры
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 28524-90
+  type: GOST
+  primary: true
+docnumber: '28524'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28524:90
+  webpage: https://new-shop.ksm.kz/catalog/document/28121/
+  ics_code: 65.060.10
+  pages: '4'
+  designation_original: ГОСТ 28524-90

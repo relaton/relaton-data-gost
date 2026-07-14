@@ -1,0 +1,49 @@
+---
+id: GOST-31168-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Здания жилые. Метод определения удельного потребления тепловой энергии
+    на отопление
+  type: main
+docidentifier:
+- content: GOST 31168-2014
+  type: GOST
+  primary: true
+docnumber: '31168'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31168:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/59171/
+  ics_code: 91.060.10
+  pages: '25'
+  designation_original: ГОСТ 31168-2014

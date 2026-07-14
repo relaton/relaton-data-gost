@@ -1,0 +1,48 @@
+---
+id: GOST-23484-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Установки электрогидравлические для выбивки стержней. Технические требования
+  type: main
+docidentifier:
+- content: GOST 23484-79
+  type: GOST
+  primary: true
+docnumber: '23484'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23484:79
+  webpage: https://new-shop.ksm.kz/catalog/document/21766/
+  ics_code: 25.120.30
+  pages: '11'
+  designation_original: ГОСТ 23484-79

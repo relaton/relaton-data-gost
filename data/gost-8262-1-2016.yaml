@@ -1,0 +1,50 @@
+---
+id: GOST-8262-1-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты молочные и пищевые продукты на основе молока. Определение содержания
+    жира гравиметрическим методом Вейбулла Бернтропа (контрольный метод). Часть 1.
+    Продукты
+  type: main
+docidentifier:
+- content: GOST 8262-1-2016
+  type: GOST
+  primary: true
+docnumber: 8262-1
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8262-1:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/68006/
+  ics_code: 67.100.01
+  pages: '17'
+  designation_original: ГОСТ ISO 8262-1-2016

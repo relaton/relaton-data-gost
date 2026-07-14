@@ -1,0 +1,49 @@
+---
+id: GOST-28752-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединители на частоты до 3 МГц. Часть 9. Цилиндрические соединители для
+    радиоаппаратуры и связанной с ними акустической аппаратуры
+  type: main
+docidentifier:
+- content: GOST 28752-90
+  type: GOST
+  primary: true
+docnumber: '28752'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28752:90
+  webpage: https://new-shop.ksm.kz/catalog/document/24629/
+  ics_code: 31.220.10
+  pages: '61'
+  designation_original: ГОСТ 28752-90

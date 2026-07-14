@@ -1,0 +1,51 @@
+---
+id: GOST-34030.1-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка. Требования к определению и контролю содержания в материале упаковки
+    тяжелых металлов и других опасных веществ и их выделения в окружающую среду. Часть
+    1. Требования к определению и контролю содержания в материале упаковки четырех
+    тяжелых металлов
+  type: main
+docidentifier:
+- content: GOST 34030.1-2016
+  type: GOST
+  primary: true
+docnumber: '34030.1'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34030.1:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/70386/
+  ics_code: '55.040'
+  pages: '28'
+  designation_original: ГОСТ 34030.1-2016

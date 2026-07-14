@@ -1,0 +1,48 @@
+---
+id: GOST-18976-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ткани текстильные. Метод определения стойкости к истиранию
+  type: main
+docidentifier:
+- content: GOST 18976-73
+  type: GOST
+  primary: true
+docnumber: '18976'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18976:73
+  webpage: https://new-shop.ksm.kz/catalog/document/27045/
+  ics_code: 59.080.30
+  pages: '6'
+  designation_original: ГОСТ 18976-73

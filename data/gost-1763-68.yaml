@@ -1,0 +1,48 @@
+---
+id: GOST-1763-68
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сталь. Методы определения глубины обезуглероженного слоя
+  type: main
+docidentifier:
+- content: GOST 1763-68
+  type: GOST
+  primary: true
+docnumber: '1763'
+date:
+- type: published
+  from: '1968-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1968'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1763:68
+  webpage: https://new-shop.ksm.kz/catalog/document/31960/
+  ics_code: 77.080.20
+  pages: '23'
+  designation_original: ГОСТ 1763-68

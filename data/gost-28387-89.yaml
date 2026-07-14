@@ -1,0 +1,49 @@
+---
+id: GOST-28387-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система инструментального захода летательных аппаратов на посадку сантиметрового
+    диапазона волн радиомаячная. Основные параметры и методы измерений
+  type: main
+docidentifier:
+- content: GOST 28387-89
+  type: GOST
+  primary: true
+docnumber: '28387'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28387:89
+  webpage: https://new-shop.ksm.kz/catalog/document/40510/
+  ics_code: '49.100'
+  pages: '66'
+  designation_original: ГОСТ 28387-89

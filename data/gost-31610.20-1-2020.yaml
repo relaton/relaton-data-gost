@@ -1,0 +1,49 @@
+---
+id: GOST-31610.20-1-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: 'Взрывоопасные среды. Часть 20-1: Характеристики веществ для классификации
+    газа и пара. Методы испытаний и данные'
+  type: main
+docidentifier:
+- content: GOST 31610.20-1-2020
+  type: GOST
+  primary: true
+docnumber: 31610.20-1
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31610.20-1:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/72204/
+  ics_code: 29.060.20
+  pages: '81'
+  designation_original: ГОСТ 31610.20-1-2020

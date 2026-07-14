@@ -1,0 +1,49 @@
+---
+id: GOST-23201.2-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Глинозем. Метод спектрального анализа. Определение пентоксида ванадия,
+    субоксида марганца, оксида хрома, диоксида титана и оксида цинка
+  type: main
+docidentifier:
+- content: GOST 23201.2-78
+  type: GOST
+  primary: true
+docnumber: '23201.2'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23201.2:78
+  webpage: https://new-shop.ksm.kz/catalog/document/30246/
+  ics_code: 71.100.10
+  pages: '9'
+  designation_original: ГОСТ 23201.2-78

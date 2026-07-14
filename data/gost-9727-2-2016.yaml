@@ -1,0 +1,50 @@
+---
+id: GOST-9727-2-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пробки корковые цилиндрические. Методы определения физических свойств.
+    Часть 2. Определение массы и кажущейся плотности для агломерированных корковых
+    пробок
+  type: main
+docidentifier:
+- content: GOST 9727-2-2016
+  type: GOST
+  primary: true
+docnumber: 9727-2
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9727-2:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65428/
+  ics_code: '55.040'
+  pages: '12'
+  designation_original: ГОСТ ISO 9727-2-2016

@@ -1,0 +1,48 @@
+---
+id: GOST-22850-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Передачи спироидные. Термины, определения и обозначения
+  type: main
+docidentifier:
+- content: GOST 22850-77
+  type: GOST
+  primary: true
+docnumber: '22850'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22850:77
+  webpage: https://new-shop.ksm.kz/catalog/document/15125/
+  ics_code: 01.040.21
+  pages: '68'
+  designation_original: ГОСТ 22850-77

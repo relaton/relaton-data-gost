@@ -1,0 +1,48 @@
+---
+id: GOST-13374-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло приборное ВНИИ НП-1-ЧМО. Технические условия
+  type: main
+docidentifier:
+- content: GOST 13374-86
+  type: GOST
+  primary: true
+docnumber: '13374'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13374:86
+  webpage: https://new-shop.ksm.kz/catalog/document/31522/
+  ics_code: '75.100'
+  pages: '3'
+  designation_original: ГОСТ 13374-86

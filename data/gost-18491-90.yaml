@@ -1,0 +1,48 @@
+---
+id: GOST-18491-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оправы корригирующих очков. Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 18491-90
+  type: GOST
+  primary: true
+docnumber: '18491'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18491:90
+  webpage: https://new-shop.ksm.kz/catalog/document/40410/
+  ics_code: 11.040.70
+  pages: '15'
+  designation_original: ГОСТ 18491-90

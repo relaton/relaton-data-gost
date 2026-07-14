@@ -1,0 +1,49 @@
+---
+id: GOST-34088-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Руководство по содержанию и уходу за лабораторными животными. Правила содержания
+    и ухода за сельскохозяйственными животными
+  type: main
+docidentifier:
+- content: GOST 34088-2017
+  type: GOST
+  primary: true
+docnumber: '34088'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34088:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/68528/
+  ics_code: 13.020.01
+  pages: '34'
+  designation_original: ГОСТ 34088-2017

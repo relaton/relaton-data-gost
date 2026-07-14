@@ -1,0 +1,51 @@
+---
+id: GOST-28999-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сердечники для катушек индуктивности и трансформаторов, применяемых в аппаратуре
+    дальней связи. Часть 2. Форма технических условий на сердечники конкретных типов
+    из магнитных оксидных материалов, предназначенные для применения в катушках(см.
+    описание...)
+  type: main
+docidentifier:
+- content: GOST 28999-91
+  type: GOST
+  primary: true
+docnumber: '28999'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28999:91
+  webpage: https://new-shop.ksm.kz/catalog/document/23702/
+  ics_code: 29.100.10
+  pages: '8'
+  designation_original: ГОСТ 28999-91

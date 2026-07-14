@@ -1,0 +1,49 @@
+---
+id: GOST-60269-7-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Предохранители плавкие низковольтные. Часть 7. Требования к плавким вставкам
+    для защиты аккумуляторных батарей и батарейных систем
+  type: main
+docidentifier:
+- content: GOST 60269-7-2024
+  type: GOST
+  primary: true
+docnumber: 60269-7
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60269-7:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76187/
+  ics_code: 29.120.50
+  pages: '20'
+  designation_original: ГОСТ IEC 60269-7-2024

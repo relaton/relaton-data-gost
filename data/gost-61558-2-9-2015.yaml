@@ -1,0 +1,50 @@
+---
+id: GOST-61558-2-9-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность силовых трансформаторов, блоков питания и аналогичных изделий.
+    Часть 2-9. Дополнительные требования к трансформаторам для переносных светильников
+    III класса с вольфрамовыми лампами
+  type: main
+docidentifier:
+- content: GOST 61558-2-9-2015
+  type: GOST
+  primary: true
+docnumber: 61558-2-9
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61558-2-9:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/68056/
+  ics_code: '29.180'
+  pages: '16'
+  designation_original: ГОСТ IEC 61558-2-9-2015

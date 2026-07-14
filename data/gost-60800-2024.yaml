@@ -1,0 +1,50 @@
+---
+id: GOST-60800-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели нагревательные на номинальное напряжение 300/500 В для обогрева
+    помещений и предотвращения образования льда. Общие технические требования и методы
+    испытаний
+  type: main
+docidentifier:
+- content: GOST 60800-2024
+  type: GOST
+  primary: true
+docnumber: '60800'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60800:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76066/
+  ics_code: 29.060.20
+  pages: '28'
+  designation_original: ГОСТ IEC 60800-2024

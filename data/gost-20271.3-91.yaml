@@ -1,0 +1,48 @@
+---
+id: GOST-20271.3-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия электронные СВЧ. Методы измерения параметров модулирующего импульса
+  type: main
+docidentifier:
+- content: GOST 20271.3-91
+  type: GOST
+  primary: true
+docnumber: '20271.3'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20271.3:91
+  webpage: https://new-shop.ksm.kz/catalog/document/24316/
+  ics_code: '31.100'
+  pages: '23'
+  designation_original: ГОСТ 20271.3-91

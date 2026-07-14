@@ -1,0 +1,49 @@
+---
+id: GOST-32711-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты переработки фруктов и овощей. Определение общего диоксида серы
+    ферментативным методом
+  type: main
+docidentifier:
+- content: GOST 32711-2014
+  type: GOST
+  primary: true
+docnumber: '32711'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32711:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/59621/
+  ics_code: '67.050'
+  pages: '16'
+  designation_original: ГОСТ 32711-2014

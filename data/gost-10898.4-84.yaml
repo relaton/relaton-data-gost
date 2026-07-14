@@ -1,0 +1,48 @@
+---
+id: GOST-10898.4-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Иониты. Метод определения удельного объема
+  type: main
+docidentifier:
+- content: GOST 10898.4-84
+  type: GOST
+  primary: true
+docnumber: '10898.4'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10898.4:84
+  webpage: https://new-shop.ksm.kz/catalog/document/29964/
+  ics_code: '71.100'
+  pages: '3'
+  designation_original: ГОСТ 10898.4-84

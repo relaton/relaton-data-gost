@@ -1,0 +1,49 @@
+---
+id: GOST-R-7378-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия крепежные. Болты, винты и шпильки. Отверстия под шплинты и отверстия
+    под контровочную проволоку
+  type: main
+docidentifier:
+- content: GOST R 7378-93
+  type: GOST
+  primary: true
+docnumber: '7378'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:7378:93
+  webpage: https://new-shop.ksm.kz/catalog/document/19764/
+  ics_code: 21.060.10
+  pages: '5'
+  designation_original: ГОСТ Р ИСО 7378-93

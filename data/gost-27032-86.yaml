@@ -1,0 +1,49 @@
+---
+id: GOST-27032-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины буртоукладочные для сахарных заводов. Типы, основные параметры и
+    размеры
+  type: main
+docidentifier:
+- content: GOST 27032-86
+  type: GOST
+  primary: true
+docnumber: '27032'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27032:86
+  webpage: https://new-shop.ksm.kz/catalog/document/29020/
+  ics_code: '67.260'
+  pages: '20'
+  designation_original: ГОСТ 27032-86

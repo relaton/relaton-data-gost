@@ -1,0 +1,48 @@
+---
+id: GOST-24161-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Суда водно-моторного спорта. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 24161-80
+  type: GOST
+  primary: true
+docnumber: '24161'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24161:80
+  webpage: https://new-shop.ksm.kz/catalog/document/15199/
+  ics_code: 01.040.47
+  pages: '7'
+  designation_original: ГОСТ 24161-80

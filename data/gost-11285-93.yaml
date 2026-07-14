@@ -1,0 +1,49 @@
+---
+id: GOST-11285-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Железы поджелудочные крупного рогатого скота и свиней замороженные. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 11285-93
+  type: GOST
+  primary: true
+docnumber: '11285'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11285:93
+  webpage: https://new-shop.ksm.kz/catalog/document/28671/
+  ics_code: 67.120.10
+  pages: '22'
+  designation_original: ГОСТ 11285-93

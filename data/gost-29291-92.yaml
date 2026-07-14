@@ -1,0 +1,49 @@
+---
+id: GOST-29291-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Гидравлические экскаваторы. Ковши типа "обратная лопата".
+    Расчет вместимости
+  type: main
+docidentifier:
+- content: GOST 29291-92
+  type: GOST
+  primary: true
+docnumber: '29291'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29291:92
+  webpage: https://new-shop.ksm.kz/catalog/document/26282/
+  ics_code: '53.100'
+  pages: '7'
+  designation_original: ГОСТ 29291-92

@@ -1,0 +1,49 @@
+---
+id: GOST-7173-54
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рельсы железнодорожные типа Р43 для путей промышленного транспорта. Конструкция
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 7173-54
+  type: GOST
+  primary: true
+docnumber: '7173'
+date:
+- type: published
+  from: '1954-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1954'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7173:54
+  webpage: https://new-shop.ksm.kz/catalog/document/25942/
+  ics_code: '45.080'
+  pages: '5'
+  designation_original: ГОСТ 7173-54

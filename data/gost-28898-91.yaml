@@ -1,0 +1,51 @@
+---
+id: GOST-28898-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конденсаторы постоянной емкости для электронной аппаратуры. Часть 11. Форма
+    технических условий на фольговые полиэтилентерефталатные пленочные конденсаторы
+    постоянной емкости, предназначенные для работы в цепях постоянного тока. Уровень
+    качества Е
+  type: main
+docidentifier:
+- content: GOST 28898-91
+  type: GOST
+  primary: true
+docnumber: '28898'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28898:91
+  webpage: https://new-shop.ksm.kz/catalog/document/24637/
+  ics_code: 31.060.10
+  pages: '16'
+  designation_original: ГОСТ 28898-91

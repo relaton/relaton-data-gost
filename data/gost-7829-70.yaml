@@ -1,0 +1,49 @@
+---
+id: GOST-7829-70
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Поковки из углеродистой и легированной стали, изготовляемые ковкой на молотах.
+    Припуски и допуски
+  type: main
+docidentifier:
+- content: GOST 7829-70
+  type: GOST
+  primary: true
+docnumber: '7829'
+date:
+- type: published
+  from: '1970-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1970'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7829:70
+  webpage: https://new-shop.ksm.kz/catalog/document/32212/
+  ics_code: 77.140.85
+  pages: '27'
+  designation_original: ГОСТ 7829-70

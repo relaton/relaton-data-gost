@@ -1,0 +1,49 @@
+---
+id: GOST-28314-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Центрифуги для обезвоживания продуктов обогащения угля и руды. Общие технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 28314-95
+  type: GOST
+  primary: true
+docnumber: '28314'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28314:95
+  webpage: https://new-shop.ksm.kz/catalog/document/39646/
+  ics_code: '73.120'
+  pages: '73'
+  designation_original: ГОСТ 28314-95

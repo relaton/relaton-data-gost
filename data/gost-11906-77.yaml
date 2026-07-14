@@ -1,0 +1,49 @@
+---
+id: GOST-11906-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Головки зуборезные для конических и гипоидных зубчатых колес с круговыми
+    зубьями. Технические условия
+  type: main
+docidentifier:
+- content: GOST 11906-77
+  type: GOST
+  primary: true
+docnumber: '11906'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11906:77
+  webpage: https://new-shop.ksm.kz/catalog/document/20749/
+  ics_code: 25.100.99
+  pages: '12'
+  designation_original: ГОСТ 11906-77

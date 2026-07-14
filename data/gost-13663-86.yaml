@@ -1,0 +1,48 @@
+---
+id: GOST-13663-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы стальные профильные. Технические требования
+  type: main
+docidentifier:
+- content: GOST 13663-86
+  type: GOST
+  primary: true
+docnumber: '13663'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13663:86
+  webpage: https://new-shop.ksm.kz/catalog/document/19926/
+  ics_code: 23.040.10
+  pages: '9'
+  designation_original: ГОСТ 13663-86

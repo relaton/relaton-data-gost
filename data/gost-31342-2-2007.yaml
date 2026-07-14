@@ -1,0 +1,49 @@
+---
+id: GOST-31342-2-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Транспортные средства для отдыха. Автокараваны. Часть 2. Установка отопительных
+    приборов, работающих на жидком топливе или сжиженном нефтяном газе
+  type: main
+docidentifier:
+- content: GOST 31342-2-2007
+  type: GOST
+  primary: true
+docnumber: 31342-2
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31342-2:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/38036/
+  ics_code: '43.100'
+  pages: '8'
+  designation_original: ГОСТ 31342-2-2007

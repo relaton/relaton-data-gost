@@ -1,0 +1,49 @@
+---
+id: GOST-28662-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вещества вспомогательные для текстильной промышленности. Метод определения
+    антивспенивающего эффекта
+  type: main
+docidentifier:
+- content: GOST 28662-90
+  type: GOST
+  primary: true
+docnumber: '28662'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28662:90
+  webpage: https://new-shop.ksm.kz/catalog/document/27285/
+  ics_code: '59.040'
+  pages: '6'
+  designation_original: ГОСТ 28662-90

@@ -1,0 +1,49 @@
+---
+id: GOST-20768-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура передачи данных. Устройство автоматического вызова УАВ-ТЛФ.
+    Типы и основные параметры
+  type: main
+docidentifier:
+- content: GOST 20768-75
+  type: GOST
+  primary: true
+docnumber: '20768'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20768:75
+  webpage: https://new-shop.ksm.kz/catalog/document/24790/
+  ics_code: 33.040.20
+  pages: '6'
+  designation_original: ГОСТ 20768-75

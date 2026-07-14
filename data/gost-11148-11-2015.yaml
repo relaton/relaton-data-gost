@@ -1,0 +1,49 @@
+---
+id: GOST-11148-11-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины ручные неэлектрические. Требования безопасности. Часть 11. Ножницы
+    и вырубные ножницы
+  type: main
+docidentifier:
+- content: GOST 11148-11-2015
+  type: GOST
+  primary: true
+docnumber: 11148-11
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11148-11:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64113/
+  ics_code: 25.140.10
+  pages: '22'
+  designation_original: ГОСТ ISO 11148-11-2015

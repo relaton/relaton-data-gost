@@ -1,0 +1,48 @@
+---
+id: GOST-3897-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия трикотажные. Маркировка, упаковка, транспортирование и хранение
+  type: main
+docidentifier:
+- content: GOST 3897-87
+  type: GOST
+  primary: true
+docnumber: '3897'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3897:87
+  webpage: https://new-shop.ksm.kz/catalog/document/27500/
+  ics_code: '61.020'
+  pages: '19'
+  designation_original: ГОСТ 3897-87

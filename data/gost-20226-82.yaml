@@ -1,0 +1,48 @@
+---
+id: GOST-20226-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подшипники качения. Заплечики для установки подшипников качения. Размеры
+  type: main
+docidentifier:
+- content: GOST 20226-82
+  type: GOST
+  primary: true
+docnumber: '20226'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20226:82
+  webpage: https://new-shop.ksm.kz/catalog/document/19515/
+  ics_code: 21.100.20
+  pages: '45'
+  designation_original: ГОСТ 20226-82

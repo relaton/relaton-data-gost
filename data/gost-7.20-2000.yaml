@@ -1,0 +1,49 @@
+---
+id: GOST-7.20-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов по информации, библиотечному и издательскому делу. Библиотечная
+    статистика
+  type: main
+docidentifier:
+- content: GOST 7.20-2000
+  type: GOST
+  primary: true
+docnumber: '7.20'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7.20:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/14662/
+  ics_code: 01.140.20
+  pages: '11'
+  designation_original: ГОСТ 7.20-2000

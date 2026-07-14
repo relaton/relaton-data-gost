@@ -1,0 +1,50 @@
+---
+id: GOST-35234-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Индивидуальные спасательные устройства, предназначенные для спасения неподготовленных
+    людей с высоты по внешнему фасаду здания. Общие технические требования. Методы
+    испытаний
+  type: main
+docidentifier:
+- content: GOST 35234-2024
+  type: GOST
+  primary: true
+docnumber: '35234'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35234:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76362/
+  ics_code: '13.200'
+  pages: '15'
+  designation_original: ГОСТ 35234-2024

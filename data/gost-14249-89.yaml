@@ -1,0 +1,48 @@
+---
+id: GOST-14249-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сосуды и аппараты. Нормы и методы расчета на прочность
+  type: main
+docidentifier:
+- content: GOST 14249-89
+  type: GOST
+  primary: true
+docnumber: '14249'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14249:89
+  webpage: https://new-shop.ksm.kz/catalog/document/30027/
+  ics_code: 71.120.01
+  pages: '55'
+  designation_original: ГОСТ 14249-89

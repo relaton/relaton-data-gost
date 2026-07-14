@@ -1,0 +1,49 @@
+---
+id: GOST-R-56807-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Композиты полимерные. Внесение результатов испытаний механических свойств
+    полимерных композитов в электронные базы данных. Общие требования
+  type: main
+docidentifier:
+- content: GOST R 56807-2015
+  type: GOST
+  primary: true
+docnumber: '56807'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56807:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63580/
+  ics_code: '83.120'
+  pages: '54'
+  designation_original: ГОСТ Р 56807-2015

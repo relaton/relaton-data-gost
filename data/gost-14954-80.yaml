@@ -1,0 +1,48 @@
+---
+id: GOST-14954-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Канат двойной свивки типа ЛК-Р конструкции 6х19(1+6+6/6)+7х7(1+6). Сортамент
+  type: main
+docidentifier:
+- content: GOST 14954-80
+  type: GOST
+  primary: true
+docnumber: '14954'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14954:80
+  webpage: https://new-shop.ksm.kz/catalog/document/32646/
+  ics_code: 77.140.65
+  pages: '5'
+  designation_original: ГОСТ 14954-80

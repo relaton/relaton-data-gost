@@ -1,0 +1,49 @@
+---
+id: GOST-R-57700.5-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Численное моделирование физических процессов. Термины и определения в области
+    механики течений в пористых средах
+  type: main
+docidentifier:
+- content: GOST R 57700.5-2017
+  type: GOST
+  primary: true
+docnumber: '57700.5'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57700.5:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/67735/
+  ics_code: 01.040.01
+  pages: '20'
+  designation_original: ГОСТ Р 57700.5-2017

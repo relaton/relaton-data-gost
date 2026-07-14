@@ -1,0 +1,50 @@
+---
+id: GOST-R-56526-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Требования надежности и безопасности космических систем, комплексов и автоматических
+    космических аппаратов единичного (мелкосерийного) изготовления с длительными сроками
+    активного существования
+  type: main
+docidentifier:
+- content: GOST R 56526-2015
+  type: GOST
+  primary: true
+docnumber: '56526'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56526:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62146/
+  ics_code: '49.140'
+  pages: '50'
+  designation_original: ГОСТ Р 56526-2015

@@ -1,0 +1,49 @@
+---
+id: GOST-17.0.0.02-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Охрана природы. Метрологическое обеспечение контроля загрязненности атмосферы,
+    поверхностных вод и почвы. Основные положения
+  type: main
+docidentifier:
+- content: GOST 17.0.0.02-79
+  type: GOST
+  primary: true
+docnumber: 17.0.0.02
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17.0.0.02:79
+  webpage: https://new-shop.ksm.kz/catalog/document/39816/
+  ics_code: 13.020.10
+  pages: '2'
+  designation_original: ГОСТ 17.0.0.02-79

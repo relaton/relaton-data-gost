@@ -1,0 +1,48 @@
+---
+id: GOST-10088-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нити искусственные. Метод определения неравномерности окрашивания
+  type: main
+docidentifier:
+- content: GOST 10088-90
+  type: GOST
+  primary: true
+docnumber: '10088'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10088:90
+  webpage: https://new-shop.ksm.kz/catalog/document/26831/
+  ics_code: 59.080.20
+  pages: '7'
+  designation_original: ГОСТ 10088-90

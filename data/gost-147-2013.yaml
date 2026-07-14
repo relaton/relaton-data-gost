@@ -1,0 +1,49 @@
+---
+id: GOST-147-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливо твердое минеральное. Определение высшей теплоты сгорания и расчет
+    низшей теплоты сгорания
+  type: main
+docidentifier:
+- content: GOST 147-2013
+  type: GOST
+  primary: true
+docnumber: '147'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:147:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57015/
+  ics_code: 75.160.10
+  pages: '48'
+  designation_original: ГОСТ 147-2013 (ISO 1928:2009)

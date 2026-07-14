@@ -1,0 +1,51 @@
+---
+id: GOST-18363-3-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жиры и масла животные и растительные Определение содержания сложных эфиров
+    жирных кислот монохлорпропандиолов (МХПД) и глицидола с применением ГХ/МС Часть
+    3 Метод с использованием кислотной переэтерификации и измерение содержания 2-МХПД,
+    3-МХПД и глицидола
+  type: main
+docidentifier:
+- content: GOST 18363-3-2020
+  type: GOST
+  primary: true
+docnumber: 18363-3
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18363-3:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/72874/
+  ics_code: 67.200.10
+  pages: '24'
+  designation_original: ГОСТ ISO 18363-3-2020

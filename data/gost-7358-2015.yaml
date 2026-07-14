@@ -1,0 +1,50 @@
+---
+id: GOST-7358-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масла эфирные бергамотовое, лимонное, горького померанца и лайма, полностью
+    или частично очищенные от бергаптена. Определение содержания бергаптена методом
+    высокоэффективной жидкостной хроматографии (ВЭЖХ)
+  type: main
+docidentifier:
+- content: GOST 7358-2015
+  type: GOST
+  primary: true
+docnumber: '7358'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7358:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62834/
+  ics_code: 71.100.60
+  pages: '8'
+  designation_original: ГОСТ ISO 7358-2015

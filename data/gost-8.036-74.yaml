@@ -1,0 +1,49 @@
+---
+id: GOST-8.036-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Государственный
+    первичный эталон и общесоюзная поверочная схема для средств измерений массы радия
+  type: main
+docidentifier:
+- content: GOST 8.036-74
+  type: GOST
+  primary: true
+docnumber: '8.036'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.036:74
+  webpage: https://new-shop.ksm.kz/catalog/document/17870/
+  ics_code: '17.060'
+  pages: '8'
+  designation_original: ГОСТ 8.036-74

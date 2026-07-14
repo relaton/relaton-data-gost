@@ -1,0 +1,48 @@
+---
+id: GOST-18614-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сердечники замкнутые Ш-образные из магнитомягких ферритов. Основные размеры
+  type: main
+docidentifier:
+- content: GOST 18614-79
+  type: GOST
+  primary: true
+docnumber: '18614'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18614:79
+  webpage: https://new-shop.ksm.kz/catalog/document/24221/
+  ics_code: 31.220.99
+  pages: '9'
+  designation_original: ГОСТ 18614-79

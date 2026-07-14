@@ -1,0 +1,49 @@
+---
+id: GOST-10219-1-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Профили полые сварные холодного формирования из нелегированных и мелкозернистых
+    сталей для конструкций. Часть 1. Технические условия поставки
+  type: main
+docidentifier:
+- content: GOST 10219-1-2010
+  type: GOST
+  primary: true
+docnumber: 10219-1
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10219-1:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45125/
+  ics_code: 77.140.75
+  pages: '33'
+  designation_original: ГОСТ ЕН 10219-1-2010

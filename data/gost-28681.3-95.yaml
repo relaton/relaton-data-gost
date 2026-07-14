@@ -1,0 +1,49 @@
+---
+id: GOST-28681.3-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Туристско-экскурсионное обслуживание. Требования по обеспечению безопасности
+    туристов и экскурсантов
+  type: main
+docidentifier:
+- content: GOST 28681.3-95
+  type: GOST
+  primary: true
+docnumber: '28681.3'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28681.3:95
+  webpage: https://new-shop.ksm.kz/catalog/document/16050/
+  ics_code: 03.080.30
+  pages: '8'
+  designation_original: ГОСТ 28681.3-95

@@ -1,0 +1,49 @@
+---
+id: GOST-32090-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шкурки меховые и овчины выделанные. Методы определения массовой доли оксида
+    хрома (III)
+  type: main
+docidentifier:
+- content: GOST 32090-2013
+  type: GOST
+  primary: true
+docnumber: '32090'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32090:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59172/
+  ics_code: 59.140.30
+  pages: '8'
+  designation_original: ГОСТ 32090-2013

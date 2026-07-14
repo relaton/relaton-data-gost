@@ -1,0 +1,49 @@
+---
+id: GOST-R-15704-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Промышленные автоматизированные системы. Требования к стандартным архитектурам
+    и методологиям предприятия
+  type: main
+docidentifier:
+- content: GOST R 15704-2008
+  type: GOST
+  primary: true
+docnumber: '15704'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:15704:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/45333/
+  ics_code: 25.040.01
+  pages: '57'
+  designation_original: ГОСТ Р ИСО 15704-2008

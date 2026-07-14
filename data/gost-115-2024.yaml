@@ -1,0 +1,49 @@
+---
+id: GOST-115-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Использование неопределенности измерений при осуществлении деятельности
+    по оценке соответствия в области электротехники
+  type: main
+docidentifier:
+- content: GOST 115-2024
+  type: GOST
+  primary: true
+docnumber: '115'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:115:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76027/
+  ics_code: '17.020'
+  pages: '24'
+  designation_original: ГОСТ IEC Guide 115-2024

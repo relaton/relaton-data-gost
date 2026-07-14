@@ -1,0 +1,50 @@
+---
+id: GOST-31368.4-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Измерения виброакустических передаточных характеристик упругих
+    элементов конструкций в лабораторных условиях. Часть 4. Динамическая жесткость
+    неопорных упругих элементов конструкции для поступательной вибрации
+  type: main
+docidentifier:
+- content: GOST 31368.4-2008
+  type: GOST
+  primary: true
+docnumber: '31368.4'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31368.4:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/38166/
+  ics_code: 17.140.01
+  pages: '35'
+  designation_original: ГОСТ 31368.4-2008

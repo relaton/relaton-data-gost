@@ -1,0 +1,50 @@
+---
+id: GOST-6697-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы электроснабжения, источники, преобразователи и приемники электрической
+    энергии переменного тока. Номинальные частоты от 0,1 до 10000 Гц и допускаемые
+    отклонения
+  type: main
+docidentifier:
+- content: GOST 6697-83
+  type: GOST
+  primary: true
+docnumber: '6697'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6697:83
+  webpage: https://new-shop.ksm.kz/catalog/document/23879/
+  ics_code: '29.020'
+  pages: '4'
+  designation_original: ГОСТ 6697-83

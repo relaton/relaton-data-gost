@@ -1,0 +1,49 @@
+---
+id: GOST-31438.1-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Взрывоопасные среды. Предотвращение взрыва и защита. Часть 1. Основные
+    концепции и методология
+  type: main
+docidentifier:
+- content: GOST 31438.1-2024
+  type: GOST
+  primary: true
+docnumber: '31438.1'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31438.1:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75582/
+  ics_code: '13.230'
+  pages: '46'
+  designation_original: ГОСТ 31438.1-2024

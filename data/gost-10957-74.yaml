@@ -1,0 +1,48 @@
+---
+id: GOST-10957-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жидкости кремнийорганические марок 132-24 и 132-25. Технические условия
+  type: main
+docidentifier:
+- content: GOST 10957-74
+  type: GOST
+  primary: true
+docnumber: '10957'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10957:74
+  webpage: https://new-shop.ksm.kz/catalog/document/29971/
+  ics_code: 71.100.55
+  pages: '10'
+  designation_original: ГОСТ 10957-74

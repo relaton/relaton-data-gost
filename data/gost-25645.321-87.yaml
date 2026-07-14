@@ -1,0 +1,48 @@
+---
+id: GOST-25645.321-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стойкость полимерных материалов радиационная. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 25645.321-87
+  type: GOST
+  primary: true
+docnumber: '25645.321'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25645.321:87
+  webpage: https://new-shop.ksm.kz/catalog/document/15278/
+  ics_code: 01.040.83
+  pages: '20'
+  designation_original: ГОСТ 25645.321-87

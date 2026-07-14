@@ -1,0 +1,49 @@
+---
+id: GOST-32310-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия из экструзионного пенополистирола, применяемые в строительстве.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 32310-2020
+  type: GOST
+  primary: true
+docnumber: '32310'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32310:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/74010/
+  ics_code: 91.100.60
+  pages: '34'
+  designation_original: ГОСТ 32310-2020

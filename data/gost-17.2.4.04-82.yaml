@@ -1,0 +1,49 @@
+---
+id: GOST-17.2.4.04-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Охрана природы. Атмосфера. Нормирование внешних шумовых характеристик судов
+    внутреннего и прибрежного плавания
+  type: main
+docidentifier:
+- content: GOST 17.2.4.04-82
+  type: GOST
+  primary: true
+docnumber: 17.2.4.04
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17.2.4.04:82
+  webpage: https://new-shop.ksm.kz/catalog/document/17192/
+  ics_code: 13.040.20
+  pages: '5'
+  designation_original: ГОСТ 17.2.4.04-82

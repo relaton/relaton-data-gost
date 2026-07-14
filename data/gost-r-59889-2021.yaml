@@ -1,0 +1,50 @@
+---
+id: GOST-R-59889-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Транспортные средства. Внесение изменений в конструкцию транспортных средств,
+    находящихся в эксплуатации. Технические требования, технический контроль и методы
+    испытаний
+  type: main
+docidentifier:
+- content: GOST R 59889-2021
+  type: GOST
+  primary: true
+docnumber: '59889'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:59889:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75303/
+  ics_code: '43.020'
+  pages: '50'
+  designation_original: ГОСТ Р 59889-2021

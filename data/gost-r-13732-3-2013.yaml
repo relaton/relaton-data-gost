@@ -1,0 +1,49 @@
+---
+id: GOST-R-13732-3-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Эргономика термальной среды. Методы оценки реакции человека при контакте
+    с поверхностями. Часть 3. Контакт с холодными поверхностями
+  type: main
+docidentifier:
+- content: GOST R 13732-3-2013
+  type: GOST
+  primary: true
+docnumber: 13732-3
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13732-3:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56935/
+  ics_code: '13.180'
+  pages: '24'
+  designation_original: ГОСТ Р ИСО 13732-3-2013

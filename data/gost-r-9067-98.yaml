@@ -1,0 +1,49 @@
+---
+id: GOST-R-9067-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Передача данных. Процедуры автоматической  изоляции
+    неисправностей с использованием проверочных шлейфов
+  type: main
+docidentifier:
+- content: GOST R 9067-98
+  type: GOST
+  primary: true
+docnumber: '9067'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9067:98
+  webpage: https://new-shop.ksm.kz/catalog/document/25422/
+  ics_code: 35.100.10
+  pages: '8'
+  designation_original: ГОСТ Р ИСО/МЭК 9067-98

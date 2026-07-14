@@ -1,0 +1,49 @@
+---
+id: GOST-31298.2-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шум машин. Определение звукоизоляции кожухов. Часть 2. Измерения на месте
+    установки для приемки и подтверждения заявленных значений шумовых характеристик
+  type: main
+docidentifier:
+- content: GOST 31298.2-2005
+  type: GOST
+  primary: true
+docnumber: '31298.2'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31298.2:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/18827/
+  ics_code: 17.140.01
+  pages: '24'
+  designation_original: ГОСТ 31298.2-2005

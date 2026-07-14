@@ -1,0 +1,49 @@
+---
+id: GOST-28089-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конструкции строительные стеновые. Метод определения прочности сцепления
+    облицовочных плиток с основанием
+  type: main
+docidentifier:
+- content: GOST 28089-2012
+  type: GOST
+  primary: true
+docnumber: '28089'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28089:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/35435/
+  ics_code: 91.060.10
+  pages: '12'
+  designation_original: ГОСТ 28089-2012

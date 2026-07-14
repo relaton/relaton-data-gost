@@ -1,0 +1,48 @@
+---
+id: GOST-R-54182-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стекло и изделия из него. Метод испытания на стойкость к соляному туману
+  type: main
+docidentifier:
+- content: GOST R 54182-2010
+  type: GOST
+  primary: true
+docnumber: '54182'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54182:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/51691/
+  ics_code: 81.040.30
+  pages: '12'
+  designation_original: ГОСТ Р 54182-2010

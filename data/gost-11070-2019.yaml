@@ -1,0 +1,48 @@
+---
+id: GOST-11070-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Чушки первичного алюминия. Технические условия
+  type: main
+docidentifier:
+- content: GOST 11070-2019
+  type: GOST
+  primary: true
+docnumber: '11070'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11070:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71249/
+  ics_code: 77.120.10
+  pages: '12'
+  designation_original: ГОСТ 11070-2019

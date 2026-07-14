@@ -1,0 +1,49 @@
+---
+id: GOST-3634-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Люки смотровых колодцев и дождеприемники ливнесточных колодцев. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 3634-99
+  type: GOST
+  primary: true
+docnumber: '3634'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3634:99
+  webpage: https://new-shop.ksm.kz/catalog/document/35066/
+  ics_code: 91.140.70
+  pages: '25'
+  designation_original: ГОСТ 3634-99

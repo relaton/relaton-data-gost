@@ -1,0 +1,48 @@
+---
+id: GOST-R-51180-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы электроизоляционные. Требования безопасности и методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 51180-98
+  type: GOST
+  primary: true
+docnumber: '51180'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51180:98
+  webpage: https://new-shop.ksm.kz/catalog/document/23997/
+  ics_code: 29.035.01
+  pages: '11'
+  designation_original: ГОСТ Р 51180-98

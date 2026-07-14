@@ -1,0 +1,49 @@
+---
+id: GOST-R-19831-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Модель и протокол интерфейса управления облачной инфраструктурой (CIMI).
+    Интерфейс для управления облачной инфраструктурой
+  type: main
+docidentifier:
+- content: GOST R 19831-2017
+  type: GOST
+  primary: true
+docnumber: '19831'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:19831:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/67640/
+  ics_code: 35.100.05
+  pages: '174'
+  designation_original: ГОСТ Р ИСО/МЭК 19831-2017

@@ -1,0 +1,49 @@
+---
+id: GOST-2575-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Транспорт дорожный. Символы для органов управления, индикаторов и сигнальных
+    устройств
+  type: main
+docidentifier:
+- content: GOST 2575-2005
+  type: GOST
+  primary: true
+docnumber: '2575'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2575:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/38303/
+  ics_code: 01.080.20
+  pages: '43'
+  designation_original: ГОСТ ИСО 2575-2005

@@ -1,0 +1,49 @@
+---
+id: GOST-18357-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Калибры-скобы двусторонние для длин свыше 300 до 500 мм. Конструкция и
+    размеры
+  type: main
+docidentifier:
+- content: GOST 18357-73
+  type: GOST
+  primary: true
+docnumber: '18357'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18357:73
+  webpage: https://new-shop.ksm.kz/catalog/document/18431/
+  ics_code: 17.040.30
+  pages: '7'
+  designation_original: ГОСТ 18357-73

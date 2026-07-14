@@ -1,0 +1,49 @@
+---
+id: GOST-8756.4-70
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты пищевые консервированные. Метод определения содержания минеральных
+    примесей (песка)
+  type: main
+docidentifier:
+- content: GOST 8756.4-70
+  type: GOST
+  primary: true
+docnumber: '8756.4'
+date:
+- type: published
+  from: '1970-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1970'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8756.4:70
+  webpage: https://new-shop.ksm.kz/catalog/document/28589/
+  ics_code: '67.050'
+  pages: '2'
+  designation_original: ГОСТ 8756.4-70

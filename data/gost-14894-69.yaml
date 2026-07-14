@@ -1,0 +1,49 @@
+---
+id: GOST-14894-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Термоэлектрические термометры образцовые 2-го разряда и общепромышленного
+    назначения для низких температур. Методы и средства поверки
+  type: main
+docidentifier:
+- content: GOST 14894-69
+  type: GOST
+  primary: true
+docnumber: '14894'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14894:69
+  webpage: https://new-shop.ksm.kz/catalog/document/18358/
+  ics_code: 17.200.20
+  pages: '11'
+  designation_original: ГОСТ 14894-69

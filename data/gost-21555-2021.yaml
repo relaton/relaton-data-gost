@@ -1,0 +1,49 @@
+---
+id: GOST-21555-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы лакокрасочные. Обзор методов определения твердости и износостойкости
+    покрытий
+  type: main
+docidentifier:
+- content: GOST 21555-2021
+  type: GOST
+  primary: true
+docnumber: '21555'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21555:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/74753/
+  ics_code: '87.040'
+  pages: '74'
+  designation_original: ГОСТ ISO/TR 21555-2021

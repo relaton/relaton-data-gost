@@ -1,0 +1,49 @@
+---
+id: GOST-33202-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка стеклянная. Стекло. Гидролитическая стойкость стекла при 98 °С.
+    Метод испытания и классификация
+  type: main
+docidentifier:
+- content: GOST 33202-2023
+  type: GOST
+  primary: true
+docnumber: '33202'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33202:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/75291/
+  ics_code: '81.040'
+  pages: '18'
+  designation_original: ГОСТ 33202-2023

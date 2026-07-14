@@ -1,0 +1,48 @@
+---
+id: GOST-12494-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Коньяки (бренди), поставляемые для экспорта. Технические условия
+  type: main
+docidentifier:
+- content: GOST 12494-77
+  type: GOST
+  primary: true
+docnumber: '12494'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12494:77
+  webpage: https://new-shop.ksm.kz/catalog/document/28711/
+  ics_code: 67.160.10
+  pages: '3'
+  designation_original: ГОСТ 12494-77

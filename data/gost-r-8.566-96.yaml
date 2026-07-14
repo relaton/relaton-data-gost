@@ -1,0 +1,50 @@
+---
+id: GOST-R-8.566-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Излучатели эталонные
+    (образцовые) в виде моделей абсолютно черного тела для диапазона температур от
+    минус 50 град. Цельс. до плюс 2500 град. Цельс. Методика аттестации и поверки
+  type: main
+docidentifier:
+- content: GOST R 8.566-96
+  type: GOST
+  primary: true
+docnumber: '8.566'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8.566:96
+  webpage: https://new-shop.ksm.kz/catalog/document/18680/
+  ics_code: 17.200.10
+  pages: '24'
+  designation_original: ГОСТ Р 8.566-96

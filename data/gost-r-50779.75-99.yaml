@@ -1,0 +1,49 @@
+---
+id: GOST-R-50779.75-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Статистические методы. Последовательные планы выборочного контроля по альтернативному
+    признаку
+  type: main
+docidentifier:
+- content: GOST R 50779.75-99
+  type: GOST
+  primary: true
+docnumber: '50779.75'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50779.75:99
+  webpage: https://new-shop.ksm.kz/catalog/document/16099/
+  ics_code: 03.120.30
+  pages: '45'
+  designation_original: ГОСТ Р 50779.75-99

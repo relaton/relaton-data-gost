@@ -1,0 +1,48 @@
+---
+id: GOST-7293-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Чугун с шаровидным графитом для отливок. Марки
+  type: main
+docidentifier:
+- content: GOST 7293-85
+  type: GOST
+  primary: true
+docnumber: '7293'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7293:85
+  webpage: https://new-shop.ksm.kz/catalog/document/32191/
+  ics_code: 77.080.10
+  pages: '3'
+  designation_original: ГОСТ 7293-85

@@ -1,0 +1,49 @@
+---
+id: GOST-R-51188-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Защита информации. Испытания программных средств на наличие компьютерных
+    вирусов. Типовое руководство
+  type: main
+docidentifier:
+- content: GOST R 51188-98
+  type: GOST
+  primary: true
+docnumber: '51188'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51188:98
+  webpage: https://new-shop.ksm.kz/catalog/document/25370/
+  ics_code: '35.080'
+  pages: '9'
+  designation_original: ГОСТ Р 51188-98

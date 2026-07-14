@@ -1,0 +1,48 @@
+---
+id: GOST-26322-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование стоматологическое. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 26322-84
+  type: GOST
+  primary: true
+docnumber: '26322'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26322:84
+  webpage: https://new-shop.ksm.kz/catalog/document/15308/
+  ics_code: 01.040.11
+  pages: '21'
+  designation_original: ГОСТ 26322-84

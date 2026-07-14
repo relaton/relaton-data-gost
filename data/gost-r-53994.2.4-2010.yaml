@@ -1,0 +1,50 @@
+---
+id: GOST-R-53994.2.4-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автоматические электрические управляющие устройства бытового и аналогичного
+    назначения. Часть 2.4. Частные требования к устройствам тепловой защиты двигателей
+    мотор-компрессоров герметичного и полугерметичного типов
+  type: main
+docidentifier:
+- content: GOST R 53994.2.4-2010
+  type: GOST
+  primary: true
+docnumber: 53994.2.4
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53994.2.4:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/46010/
+  ics_code: '97.120'
+  pages: '16'
+  designation_original: ГОСТ Р 53994.2.4-2010 (МЭК 60730-2-4:2006)

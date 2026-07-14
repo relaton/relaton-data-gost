@@ -1,0 +1,49 @@
+---
+id: GOST-60335-2-73-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бытовые и аналогичные электрические приборы. Безопасность. Часть 2-73.
+    Дополнительные требования к стационарным погружным нагревателям
+  type: main
+docidentifier:
+- content: GOST 60335-2-73-2018
+  type: GOST
+  primary: true
+docnumber: 60335-2-73
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60335-2-73:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/70591/
+  ics_code: 91.140.65
+  pages: '11'
+  designation_original: ГОСТ IEC 60335-2-73-2018

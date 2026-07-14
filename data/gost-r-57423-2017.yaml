@@ -1,0 +1,50 @@
+---
+id: GOST-R-57423-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы для котельного и теплообменного оборудования. Часть 2. Трубы стальные
+    бесшовные для работы под давлением более 6,4 МПа и при температуре выше 400 °С.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST R 57423-2017
+  type: GOST
+  primary: true
+docnumber: '57423'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57423:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/67604/
+  ics_code: 77.140.75
+  pages: '66'
+  designation_original: ГОСТ Р 57423-2017

@@ -1,0 +1,48 @@
+---
+id: GOST-15946-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трава череды. Технические условия
+  type: main
+docidentifier:
+- content: GOST 15946-94
+  type: GOST
+  primary: true
+docnumber: '15946'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15946:94
+  webpage: https://new-shop.ksm.kz/catalog/document/16404/
+  ics_code: 65.020.20
+  pages: '12'
+  designation_original: ГОСТ 15946-94

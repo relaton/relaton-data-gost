@@ -1,0 +1,50 @@
+---
+id: GOST-31433-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система трубопроводов из пластмассы для водоснабжения, работающая под давлением
+    и без давления. Системы из термореактивного стеклопластика на основе ненасыщенной
+    полиэфирной смолы
+  type: main
+docidentifier:
+- content: GOST 31433-2011
+  type: GOST
+  primary: true
+docnumber: '31433'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31433:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48652/
+  ics_code: 91.140.60
+  pages: '51'
+  designation_original: ГОСТ 31433-2011

@@ -1,0 +1,48 @@
+---
+id: GOST-22840-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Экстракт солодкового корня. Технические условия
+  type: main
+docidentifier:
+- content: GOST 22840-77
+  type: GOST
+  primary: true
+docnumber: '22840'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22840:77
+  webpage: https://new-shop.ksm.kz/catalog/document/16459/
+  ics_code: 11.120.10
+  pages: '6'
+  designation_original: ГОСТ 22840-77

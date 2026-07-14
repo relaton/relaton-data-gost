@@ -1,0 +1,49 @@
+---
+id: GOST-R-2017-2-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация и удар. Упругие системы крепления. Часть 2. Технические данные
+    для применения систем виброизоляции для железнодорожного транспорта
+  type: main
+docidentifier:
+- content: GOST R 2017-2-2011
+  type: GOST
+  primary: true
+docnumber: 2017-2
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:2017-2:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52232/
+  ics_code: '17.160'
+  pages: '16'
+  designation_original: ГОСТ Р ИСО 2017-2-2011

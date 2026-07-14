@@ -1,0 +1,49 @@
+---
+id: GOST-9727-8-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пробки корковые цилиндрические. Методы определения физических свойств.
+    Часть 8. Определение капиллярности
+  type: main
+docidentifier:
+- content: GOST 9727-8-2024
+  type: GOST
+  primary: true
+docnumber: 9727-8
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9727-8:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75812/
+  ics_code: '79.100'
+  pages: '11'
+  designation_original: ГОСТ ISO 9727-8-2024

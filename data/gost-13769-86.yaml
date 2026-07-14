@@ -1,0 +1,49 @@
+---
+id: GOST-13769-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пружины винтовые цилиндрические сжатия 1 класса, разряда 4 из стали круглого
+    сечения. Основные параметры витков
+  type: main
+docidentifier:
+- content: GOST 13769-86
+  type: GOST
+  primary: true
+docnumber: '13769'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13769:86
+  webpage: https://new-shop.ksm.kz/catalog/document/19417/
+  ics_code: '21.160'
+  pages: '10'
+  designation_original: ГОСТ 13769-86

@@ -1,0 +1,49 @@
+---
+id: GOST-60127-1-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Миниатюрные плавкие предохранители. Часть 1. Терминология для миниатюрных
+    плавких предохранителей и общие требования к миниатюрным плавким вставкам
+  type: main
+docidentifier:
+- content: GOST 60127-1-2010
+  type: GOST
+  primary: true
+docnumber: 60127-1
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60127-1:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/44676/
+  ics_code: 29.120.50
+  pages: '24'
+  designation_original: ГОСТ IEC 60127-1-2010

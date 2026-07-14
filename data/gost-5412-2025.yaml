@@ -1,0 +1,49 @@
+---
+id: GOST-5412-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка. Пакеты полимерные для розничной торговли, пригодные для промышленного
+    компостирования. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5412-2025
+  type: GOST
+  primary: true
+docnumber: '5412'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5412:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76615/
+  ics_code: '55.080'
+  pages: '21'
+  designation_original: ГОСТ ISO 5412-2025

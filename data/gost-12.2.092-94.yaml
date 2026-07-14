@@ -1,0 +1,50 @@
+---
+id: GOST-12.2.092-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Оборудование элекромеханическое
+    и электронагревательное для предприятий общественного питания. Общие технические
+    требования по безопасности и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 12.2.092-94
+  type: GOST
+  primary: true
+docnumber: 12.2.092
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.2.092:94
+  webpage: https://new-shop.ksm.kz/catalog/document/16975/
+  ics_code: '13.100'
+  pages: '11'
+  designation_original: ГОСТ 12.2.092-94

@@ -1,0 +1,49 @@
+---
+id: GOST-28487-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Резьба коническая замковая для элементов бурильных колонн. Профиль. Размеры.
+    Допуски
+  type: main
+docidentifier:
+- content: GOST 28487-90
+  type: GOST
+  primary: true
+docnumber: '28487'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28487:90
+  webpage: https://new-shop.ksm.kz/catalog/document/19658/
+  ics_code: '21.040'
+  pages: '11'
+  designation_original: ГОСТ 28487-90

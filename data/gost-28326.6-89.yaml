@@ -1,0 +1,49 @@
+---
+id: GOST-28326.6-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аммиак жидкий технический. Визуально-нефелометрический метод определения
+    общего хлора
+  type: main
+docidentifier:
+- content: GOST 28326.6-89
+  type: GOST
+  primary: true
+docnumber: '28326.6'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28326.6:89
+  webpage: https://new-shop.ksm.kz/catalog/document/30420/
+  ics_code: 71.100.20
+  pages: '5'
+  designation_original: ГОСТ 28326.6-89

@@ -1,0 +1,48 @@
+---
+id: GOST-5286-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Замки стальные навинчиваемые для бурильных труб. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST 5286-2022
+  type: GOST
+  primary: true
+docnumber: '5286'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5286:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/76554/
+  ics_code: 75.180.10
+  pages: '35'
+  designation_original: ГОСТ 5286-2022

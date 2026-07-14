@@ -1,0 +1,50 @@
+---
+id: GOST-R-28560-2-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информация и документация. Радиочастотная идентификация в библиотеках.
+    Часть 2. Кодирование элементов данных радиочастотной идентификации на основе правил
+    ИСО/МЭК 15962
+  type: main
+docidentifier:
+- content: GOST R 28560-2-2014
+  type: GOST
+  primary: true
+docnumber: 28560-2
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:28560-2:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61421/
+  ics_code: 01.140.40
+  pages: '46'
+  designation_original: ГОСТ Р ИСО 28560-2-2014

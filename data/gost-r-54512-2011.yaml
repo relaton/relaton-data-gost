@@ -1,0 +1,50 @@
+---
+id: GOST-R-54512-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Классификация химической продукции, опасность которой обусловлена физико-химическими
+    свойствами. Определение способности химической продукции выделять воспламеняющиеся
+    газы при соприкосновении с водой
+  type: main
+docidentifier:
+- content: GOST R 54512-2011
+  type: GOST
+  primary: true
+docnumber: '54512'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54512:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51949/
+  ics_code: '13.100'
+  pages: '8'
+  designation_original: ГОСТ Р 54512-2011

@@ -1,0 +1,48 @@
+---
+id: GOST-21153.2-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Породы горные. Методы определения предела прочности при одноосном сжатии
+  type: main
+docidentifier:
+- content: GOST 21153.2-84
+  type: GOST
+  primary: true
+docnumber: '21153.2'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21153.2:84
+  webpage: https://new-shop.ksm.kz/catalog/document/30963/
+  ics_code: '73.020'
+  pages: '8'
+  designation_original: ГОСТ 21153.2-84

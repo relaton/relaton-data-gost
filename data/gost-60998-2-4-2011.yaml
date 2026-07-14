@@ -1,0 +1,49 @@
+---
+id: GOST-60998-2-4-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства соединительные для низковольтных цепей бытового и аналогичного
+    назначения. Частные требования к устройствам для соединения проводников скручиванием
+  type: main
+docidentifier:
+- content: GOST 60998-2-4-2011
+  type: GOST
+  primary: true
+docnumber: 60998-2-4
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60998-2-4:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52535/
+  ics_code: 29.120.20
+  pages: '15'
+  designation_original: ГОСТ IEC 60998-2-4-2011

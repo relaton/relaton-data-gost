@@ -1,0 +1,49 @@
+---
+id: GOST-R-54521-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Статистические методы. Математические символы и знаки для применения в
+    стандартах
+  type: main
+docidentifier:
+- content: GOST R 54521-2011
+  type: GOST
+  primary: true
+docnumber: '54521'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54521:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52445/
+  ics_code: 03.120.30
+  pages: '36'
+  designation_original: ГОСТ Р 54521-2011

@@ -1,0 +1,49 @@
+---
+id: GOST-30775-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ресурсосбережение. Обращение с отходами. Классификация, идентификация и
+    кодирование отходов. Основные положения
+  type: main
+docidentifier:
+- content: GOST 30775-2001
+  type: GOST
+  primary: true
+docnumber: '30775'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30775:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/17482/
+  ics_code: '13.020'
+  pages: '42'
+  designation_original: ГОСТ 30775-2001

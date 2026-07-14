@@ -1,0 +1,48 @@
+---
+id: GOST-R-51696-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Товары бытовой химии. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST R 51696-2000
+  type: GOST
+  primary: true
+docnumber: '51696'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51696:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/30582/
+  ics_code: '71.100'
+  pages: '15'
+  designation_original: ГОСТ Р 51696-2000

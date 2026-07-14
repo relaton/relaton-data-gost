@@ -1,0 +1,48 @@
+---
+id: GOST-17584-72
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Муфты и соединительные детали чугунные для асбестоцементных напорных труб
+  type: main
+docidentifier:
+- content: GOST 17584-72
+  type: GOST
+  primary: true
+docnumber: '17584'
+date:
+- type: published
+  from: '1972-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17584:72
+  webpage: https://new-shop.ksm.kz/catalog/document/20028/
+  ics_code: 23.040.60
+  pages: '21'
+  designation_original: ГОСТ 17584-72

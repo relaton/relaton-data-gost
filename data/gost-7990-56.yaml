@@ -1,0 +1,48 @@
+---
+id: GOST-7990-56
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Консервы мясные. Почки в томатном соусе. Технические условия
+  type: main
+docidentifier:
+- content: GOST 7990-56
+  type: GOST
+  primary: true
+docnumber: '7990'
+date:
+- type: published
+  from: '1956-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1956'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7990:56
+  webpage: https://new-shop.ksm.kz/catalog/document/28574/
+  ics_code: 67.120.10
+  pages: '4'
+  designation_original: ГОСТ 7990-56

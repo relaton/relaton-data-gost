@@ -1,0 +1,49 @@
+---
+id: GOST-14872-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Таблицы испытательные оптические телевизионные. Типы, размеры и технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 14872-82
+  type: GOST
+  primary: true
+docnumber: '14872'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14872:82
+  webpage: https://new-shop.ksm.kz/catalog/document/24760/
+  ics_code: 33.160.25
+  pages: '12'
+  designation_original: ГОСТ 14872-82

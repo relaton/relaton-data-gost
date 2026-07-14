@@ -1,0 +1,49 @@
+---
+id: GOST-24070-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Основные нормы взаимозаменяемости. Соединения шпоночные с тангенциальными
+    усиленными шпонками. Размеры сечений шпонок и пазов. Допуски и посадки
+  type: main
+docidentifier:
+- content: GOST 24070-80
+  type: GOST
+  primary: true
+docnumber: '24070'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24070:80
+  webpage: https://new-shop.ksm.kz/catalog/document/19582/
+  ics_code: 21.120.30
+  pages: '7'
+  designation_original: ГОСТ 24070-80

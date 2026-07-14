@@ -1,0 +1,48 @@
+---
+id: GOST-9853.15-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Титан губчатый. Метод определения молибдена
+  type: main
+docidentifier:
+- content: GOST 9853.15-96
+  type: GOST
+  primary: true
+docnumber: '9853.15'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9853.15:96
+  webpage: https://new-shop.ksm.kz/catalog/document/32313/
+  ics_code: '77.120'
+  pages: '7'
+  designation_original: ГОСТ 9853.15-96

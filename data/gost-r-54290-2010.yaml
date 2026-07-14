@@ -1,0 +1,49 @@
+---
+id: GOST-R-54290-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливный эталон (Ed75-Ed85) для автомобильных двигателей с принудительным
+    зажиганием. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 54290-2010
+  type: GOST
+  primary: true
+docnumber: '54290'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54290:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/46813/
+  ics_code: 75.160.20
+  pages: '16'
+  designation_original: ГОСТ Р 54290-2010

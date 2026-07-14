@@ -1,0 +1,49 @@
+---
+id: GOST-14930-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сельскохозяйственные и  лесные машины и садовое  оборудование. Машины,  управляемые
+    рядом идущим  оператором, и ручные  машины. Определение  доступности рабочих  поверхностей
+  type: main
+docidentifier:
+- content: GOST 14930-2016
+  type: GOST
+  primary: true
+docnumber: '14930'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14930:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/73550/
+  ics_code: 65.060.01
+  pages: '13'
+  designation_original: ГОСТ EN 14930-2016

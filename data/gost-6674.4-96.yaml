@@ -1,0 +1,48 @@
+---
+id: GOST-6674.4-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сплавы медно-фосфористые. Метод определения висмута
+  type: main
+docidentifier:
+- content: GOST 6674.4-96
+  type: GOST
+  primary: true
+docnumber: '6674.4'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6674.4:96
+  webpage: https://new-shop.ksm.kz/catalog/document/32161/
+  ics_code: 77.120.30
+  pages: '7'
+  designation_original: ГОСТ 6674.4-96

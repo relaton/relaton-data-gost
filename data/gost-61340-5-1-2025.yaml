@@ -1,0 +1,49 @@
+---
+id: GOST-61340-5-1-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электростатика. Защита электронных устройств от электростатических явлений.
+    Общие требования
+  type: main
+docidentifier:
+- content: GOST 61340-5-1-2025
+  type: GOST
+  primary: true
+docnumber: 61340-5-1
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61340-5-1:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76902/
+  ics_code: 17.220.99
+  pages: '23'
+  designation_original: ГОСТ IEC 61340-5-1-2025

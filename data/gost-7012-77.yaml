@@ -1,0 +1,49 @@
+---
+id: GOST-7012-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трансформаторы однофазные однопостовые для автоматической дуговой сварки
+    под флюсом. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 7012-77
+  type: GOST
+  primary: true
+docnumber: '7012'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7012:77
+  webpage: https://new-shop.ksm.kz/catalog/document/23144/
+  ics_code: '29.180'
+  pages: '11'
+  designation_original: ГОСТ 7012-77

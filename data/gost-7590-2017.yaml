@@ -1,0 +1,49 @@
+---
+id: GOST-7590-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ленты конвейерные металлокордные.Методы определения общей толщины и толщины
+    покрытия
+  type: main
+docidentifier:
+- content: GOST 7590-2017
+  type: GOST
+  primary: true
+docnumber: '7590'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7590:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/68700/
+  ics_code: 53.040.20
+  pages: '8'
+  designation_original: ГОСТ ISO 7590-2017

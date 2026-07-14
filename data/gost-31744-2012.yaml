@@ -1,0 +1,49 @@
+---
+id: GOST-31744-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Микробиология пищевых продуктов и кормов для животных. Метод подсчета колоний
+    Clostridium perfringens.
+  type: main
+docidentifier:
+- content: GOST 31744-2012
+  type: GOST
+  primary: true
+docnumber: '31744'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31744:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/53043/
+  ics_code: '67.040'
+  pages: '27'
+  designation_original: ГОСТ 31744-2012 (ISO 7937:2004)

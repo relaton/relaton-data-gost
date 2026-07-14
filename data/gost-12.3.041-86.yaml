@@ -1,0 +1,49 @@
+---
+id: GOST-12.3.041-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Применение пестицидов для защиты
+    растений. Требования безопасности
+  type: main
+docidentifier:
+- content: GOST 12.3.041-86
+  type: GOST
+  primary: true
+docnumber: 12.3.041
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.3.041:86
+  webpage: https://new-shop.ksm.kz/catalog/document/17035/
+  ics_code: '65.100'
+  pages: '3'
+  designation_original: ГОСТ 12.3.041-86

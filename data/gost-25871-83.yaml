@@ -1,0 +1,48 @@
+---
+id: GOST-25871-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия кожгалантерейные. Упаковка, маркировка, транспортирование и хранение
+  type: main
+docidentifier:
+- content: GOST 25871-83
+  type: GOST
+  primary: true
+docnumber: '25871'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25871:83
+  webpage: https://new-shop.ksm.kz/catalog/document/27179/
+  ics_code: 59.140.35
+  pages: '8'
+  designation_original: ГОСТ 25871-83

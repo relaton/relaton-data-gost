@@ -1,0 +1,50 @@
+---
+id: GOST-19893-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубопроводы из пластмасс. Трубы и фитинги из термопластов для горячей
+    и холодной воды. Метод испытания узлов соединений на стойкость к циклическому
+    изменению температуры
+  type: main
+docidentifier:
+- content: GOST 19893-2024
+  type: GOST
+  primary: true
+docnumber: '19893'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19893:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76917/
+  ics_code: 23.040.20
+  pages: '12'
+  designation_original: ГОСТ ISO 19893-2024

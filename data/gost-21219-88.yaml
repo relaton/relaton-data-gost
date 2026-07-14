@@ -1,0 +1,49 @@
+---
+id: GOST-21219-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия ведомственного назначения. Допуски при раскрое деталей белья, санитарно-госпитальной
+    одежды и постельных принадлежностей
+  type: main
+docidentifier:
+- content: GOST 21219-88
+  type: GOST
+  primary: true
+docnumber: '21219'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21219:88
+  webpage: https://new-shop.ksm.kz/catalog/document/27588/
+  ics_code: '61.020'
+  pages: '27'
+  designation_original: ГОСТ 21219-88

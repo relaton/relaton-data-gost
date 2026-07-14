@@ -1,0 +1,49 @@
+---
+id: GOST-9.307-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система защиты от коррозии и старения. Покрытия цинковые горячие.
+    Общие требования и методы контроля
+  type: main
+docidentifier:
+- content: GOST 9.307-2021
+  type: GOST
+  primary: true
+docnumber: '9.307'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9.307:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75777/
+  ics_code: 25.220.40
+  pages: '27'
+  designation_original: ГОСТ 9.307-2021

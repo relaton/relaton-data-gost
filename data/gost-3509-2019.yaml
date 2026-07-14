@@ -1,0 +1,48 @@
+---
+id: GOST-3509-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кофе и кофейные продукты. Словарь
+  type: main
+docidentifier:
+- content: GOST 3509-2019
+  type: GOST
+  primary: true
+docnumber: '3509'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3509:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/76043/
+  ics_code: 67.140.10
+  pages: '14'
+  designation_original: ГОСТ ISO 3509-2019

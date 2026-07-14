@@ -1,0 +1,49 @@
+---
+id: GOST-13109-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрическая энергия. Совместимость технических средств электромагнитная.
+    Нормы качества электрической энергии в системах электроснабжения общего назначения
+  type: main
+docidentifier:
+- content: GOST 13109-97
+  type: GOST
+  primary: true
+docnumber: '13109'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13109:97
+  webpage: https://new-shop.ksm.kz/catalog/document/23886/
+  ics_code: '29.020'
+  pages: '35'
+  designation_original: ГОСТ 13109-97

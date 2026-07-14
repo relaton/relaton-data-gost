@@ -1,0 +1,48 @@
+---
+id: GOST-25809-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Смесители и краны водоразборные. Типы и основные размеры
+  type: main
+docidentifier:
+- content: GOST 25809-96
+  type: GOST
+  primary: true
+docnumber: '25809'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25809:96
+  webpage: https://new-shop.ksm.kz/catalog/document/35361/
+  ics_code: 91.140.70
+  pages: '20'
+  designation_original: ГОСТ 25809-96

@@ -1,0 +1,49 @@
+---
+id: GOST-14340.10-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Провода эмалированные круглые. Методы испытания механической прочности
+    изоляции на истирание
+  type: main
+docidentifier:
+- content: GOST 14340.10-69
+  type: GOST
+  primary: true
+docnumber: '14340.10'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14340.10:69
+  webpage: https://new-shop.ksm.kz/catalog/document/23362/
+  ics_code: 29.060.10
+  pages: '6'
+  designation_original: ГОСТ 14340.10-69

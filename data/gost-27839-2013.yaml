@@ -1,0 +1,48 @@
+---
+id: GOST-27839-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мука пшеничная. Методы определения количества и качества клейковины
+  type: main
+docidentifier:
+- content: GOST 27839-2013
+  type: GOST
+  primary: true
+docnumber: '27839'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27839:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57040/
+  ics_code: '67.060'
+  pages: '22'
+  designation_original: ГОСТ 27839-2013

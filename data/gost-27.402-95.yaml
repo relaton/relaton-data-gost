@@ -1,0 +1,49 @@
+---
+id: GOST-27.402-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Надежность в технике. Планы испытаний для контроля средней наработки до
+    отказа (на отказ). Часть 1. Экспоненциальное распределение
+  type: main
+docidentifier:
+- content: GOST 27.402-95
+  type: GOST
+  primary: true
+docnumber: '27.402'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27.402:95
+  webpage: https://new-shop.ksm.kz/catalog/document/19113/
+  ics_code: '21.020'
+  pages: '41'
+  designation_original: ГОСТ 27.402-95

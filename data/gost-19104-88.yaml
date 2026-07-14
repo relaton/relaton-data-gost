@@ -1,0 +1,49 @@
+---
+id: GOST-19104-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединители низкочастотные на напряжение до 1500 В цилиндрические. Основные
+    параметры и размеры
+  type: main
+docidentifier:
+- content: GOST 19104-88
+  type: GOST
+  primary: true
+docnumber: '19104'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19104:88
+  webpage: https://new-shop.ksm.kz/catalog/document/24253/
+  ics_code: 31.220.10
+  pages: '68'
+  designation_original: ГОСТ 19104-88

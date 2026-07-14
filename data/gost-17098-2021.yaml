@@ -1,0 +1,49 @@
+---
+id: GOST-17098-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка. Рекомендации по определению веществ и материалов, которые могут
+    препятствовать переработке упаковки
+  type: main
+docidentifier:
+- content: GOST 17098-2021
+  type: GOST
+  primary: true
+docnumber: '17098'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17098:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/74153/
+  ics_code: '55.020'
+  pages: '25'
+  designation_original: ГОСТ ISO/TR 17098-2021

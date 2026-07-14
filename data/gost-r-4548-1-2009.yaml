@@ -1,0 +1,49 @@
+---
+id: GOST-R-4548-1-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Методы испытаний полнопоточных масляных фильтров двигателей внутреннего
+    сгорания. Часть 1. Зависимость перепада давления от расхода
+  type: main
+docidentifier:
+- content: GOST R 4548-1-2009
+  type: GOST
+  primary: true
+docnumber: 4548-1
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:4548-1:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/43028/
+  ics_code: '27.020'
+  pages: '15'
+  designation_original: ГОСТ Р ИСО 4548-1-2009

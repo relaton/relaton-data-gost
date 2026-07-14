@@ -1,0 +1,51 @@
+---
+id: GOST-50130-4-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы сигнализации. Часть 4. Электромагнитная совместимость. Стандарт
+    на группу продукции. Требования к помехоустойчивости компонентов систем пожарной,
+    противовзломной, охранной сигнализации, видеонаблюдения, контроля доступа и социальной
+    сигнализации
+  type: main
+docidentifier:
+- content: GOST 50130-4-2017
+  type: GOST
+  primary: true
+docnumber: 50130-4
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:50130-4:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70441/
+  ics_code: '13.320'
+  pages: '22'
+  designation_original: ГОСТ EN 50130-4-2017

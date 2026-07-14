@@ -1,0 +1,51 @@
+---
+id: GOST-60034-18-42-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины электрические вращающиеся. Часть 18-42. Квалификационные и приемочные
+    испытания для систем электроизоляции, стойких к частичному разряду, типа II, используемых
+    во вращающихся электрических машинах с питанием от преобразователей источника
+    напряжения
+  type: main
+docidentifier:
+- content: GOST 60034-18-42-2014
+  type: GOST
+  primary: true
+docnumber: 60034-18-42
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60034-18-42:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61390/
+  ics_code: '29.160'
+  pages: '28'
+  designation_original: ГОСТ IEC/TS 60034-18-42-2014

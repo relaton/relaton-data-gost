@@ -1,0 +1,48 @@
+---
+id: GOST-61534-1-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы шинопроводные Часть 1 Общие требования
+  type: main
+docidentifier:
+- content: GOST 61534-1-2019
+  type: GOST
+  primary: true
+docnumber: 61534-1
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61534-1:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/73073/
+  ics_code: 29.160.10
+  pages: '53'
+  designation_original: ГОСТ IEC 61534-1-2019

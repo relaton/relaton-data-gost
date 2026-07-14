@@ -1,0 +1,49 @@
+---
+id: GOST-R-55260.3.1-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гидроэлектростанции. Часть 3-1. Гидротурбины. Технические требования к
+    поставке
+  type: main
+docidentifier:
+- content: GOST R 55260.3.1-2013
+  type: GOST
+  primary: true
+docnumber: 55260.3.1
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55260.3.1:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57370/
+  ics_code: '27.140'
+  pages: '52'
+  designation_original: ГОСТ Р 55260.3.1-2013

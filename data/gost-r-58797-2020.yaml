@@ -1,0 +1,49 @@
+---
+id: GOST-R-58797-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вода питьевая, расфасованная в емкости. Определение массовой концентрации
+    растворенного кислорода. Методика измерений
+  type: main
+docidentifier:
+- content: GOST R 58797-2020
+  type: GOST
+  primary: true
+docnumber: '58797'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:58797:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/76320/
+  ics_code: 13.060.20
+  pages: '16'
+  designation_original: ГОСТ Р 58797-2020

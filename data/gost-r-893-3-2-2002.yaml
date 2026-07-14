@@ -1,0 +1,49 @@
+---
+id: GOST-R-893-3-2-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы промышленные слоистые листовые. Технические требования к материалам
+    на основе эпоксидной смолы. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 893-3-2-2002
+  type: GOST
+  primary: true
+docnumber: 893-3-2
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:893-3-2:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/24060/
+  ics_code: 29.035.20
+  pages: '17'
+  designation_original: ГОСТ Р МЭК 893-3-2-2002

@@ -1,0 +1,49 @@
+---
+id: GOST-675-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стекло и изделия из него. Методы определения тепловых характеристик. Определение
+    сопротивления теплопередаче методом измерения теплового потока
+  type: main
+docidentifier:
+- content: GOST 675-2014
+  type: GOST
+  primary: true
+docnumber: '675'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:675:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61380/
+  ics_code: 81.040.01
+  pages: '16'
+  designation_original: ГОСТ EN 675-2014

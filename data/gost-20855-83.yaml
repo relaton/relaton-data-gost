@@ -1,0 +1,49 @@
+---
+id: GOST-20855-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства преобразования сигналов аппаратуры передачи данных для коммутируемых
+    и некоммутируемых каналов тональной частоты. Типы и основные параметры
+  type: main
+docidentifier:
+- content: GOST 20855-83
+  type: GOST
+  primary: true
+docnumber: '20855'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20855:83
+  webpage: https://new-shop.ksm.kz/catalog/document/24791/
+  ics_code: 33.040.40
+  pages: '16'
+  designation_original: ГОСТ 20855-83

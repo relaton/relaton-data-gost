@@ -1,0 +1,49 @@
+---
+id: GOST-7394-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Балласт гравийный и гравийно-песчаный для железнодорожного пути. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 7394-85
+  type: GOST
+  primary: true
+docnumber: '7394'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7394:85
+  webpage: https://new-shop.ksm.kz/catalog/document/35099/
+  ics_code: 91.100.15
+  pages: '10'
+  designation_original: ГОСТ 7394-85

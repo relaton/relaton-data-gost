@@ -1,0 +1,49 @@
+---
+id: GOST-R-50537-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Миниатюрные плавкие предохранители. Терминология для миниатюрных плавких
+    предохранителей и общие требования к миниатюрным плавким вставкам
+  type: main
+docidentifier:
+- content: GOST R 50537-93
+  type: GOST
+  primary: true
+docnumber: '50537'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50537:93
+  webpage: https://new-shop.ksm.kz/catalog/document/711/
+  ics_code: 29.120.50
+  pages: '19'
+  designation_original: ГОСТ Р 50537-93

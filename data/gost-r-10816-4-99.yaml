@@ -1,0 +1,49 @@
+---
+id: GOST-R-10816-4-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Контроль состояния машин по результатам измерений вибрации на
+    невращающихся частях. Часть 4. Газотурбинные установки
+  type: main
+docidentifier:
+- content: GOST R 10816-4-99
+  type: GOST
+  primary: true
+docnumber: 10816-4
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10816-4:99
+  webpage: https://new-shop.ksm.kz/catalog/document/18768/
+  ics_code: '17.160'
+  pages: '9'
+  designation_original: ГОСТ Р ИСО 10816-4-99

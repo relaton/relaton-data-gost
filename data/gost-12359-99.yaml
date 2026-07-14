@@ -1,0 +1,49 @@
+---
+id: GOST-12359-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стали углеродистые, легированные и высоколегированные. Методы определения
+    азота
+  type: main
+docidentifier:
+- content: GOST 12359-99
+  type: GOST
+  primary: true
+docnumber: '12359'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12359:99
+  webpage: https://new-shop.ksm.kz/catalog/document/32431/
+  ics_code: 77.080.20
+  pages: '15'
+  designation_original: ГОСТ 12359-99

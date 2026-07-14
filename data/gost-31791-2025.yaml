@@ -1,0 +1,48 @@
+---
+id: GOST-31791-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сырье эфирно-масличное цветочно-травянистое. Технические условия
+  type: main
+docidentifier:
+- content: GOST 31791-2025
+  type: GOST
+  primary: true
+docnumber: '31791'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31791:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76667/
+  ics_code: 65.020.20
+  pages: '19'
+  designation_original: ГОСТ 31791-2025

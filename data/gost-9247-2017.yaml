@@ -1,0 +1,49 @@
+---
+id: GOST-9247-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Электрические провода и кабели. Принципы идентификации
+    и маркировки
+  type: main
+docidentifier:
+- content: GOST 9247-2017
+  type: GOST
+  primary: true
+docnumber: '9247'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9247:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/67690/
+  ics_code: '01.070'
+  pages: '8'
+  designation_original: ГОСТ ISO 9247-2017

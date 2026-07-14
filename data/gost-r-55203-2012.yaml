@@ -1,0 +1,50 @@
+---
+id: GOST-R-55203-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Воздухонагреватели газовые смесительные c принудительной конвекцией для
+    обогрева помещений небытового назначения с номинальной тепловой мощностью до 300
+    кВт
+  type: main
+docidentifier:
+- content: GOST R 55203-2012
+  type: GOST
+  primary: true
+docnumber: '55203'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55203:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/57341/
+  ics_code: 91.140.01
+  pages: '45'
+  designation_original: ГОСТ Р 55203-2012 (ЕН 525:2009)

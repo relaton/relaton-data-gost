@@ -1,0 +1,48 @@
+---
+id: GOST-4756-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ферросиликомарганец. Технические требования и условия поставки
+  type: main
+docidentifier:
+- content: GOST 4756-91
+  type: GOST
+  primary: true
+docnumber: '4756'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4756:91
+  webpage: https://new-shop.ksm.kz/catalog/document/32096/
+  ics_code: '77.100'
+  pages: '7'
+  designation_original: ГОСТ 4756-91

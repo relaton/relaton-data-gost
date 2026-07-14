@@ -1,0 +1,38 @@
+---
+id: GOST-13366-1
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко. Часть 1. Метод определения количества соматических клеток с применением
+    микроскопа (контрольный метод)
+  type: main
+docidentifier:
+- content: GOST 13366-1
+  type: GOST
+  primary: true
+docnumber: 13366-1
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13366-1
+  webpage: https://new-shop.ksm.kz/catalog/document/68051/
+  ics_code: 67.100.01
+  pages: '18'
+  designation_original: ГОСТ ISO 13366-1/IDF 148-1-2014

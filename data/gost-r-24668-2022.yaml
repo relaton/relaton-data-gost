@@ -1,0 +1,49 @@
+---
+id: GOST-R-24668-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии. Искусственный интеллект. Структура управления
+    процессами аналитики больших данных
+  type: main
+docidentifier:
+- content: GOST R 24668-2022
+  type: GOST
+  primary: true
+docnumber: '24668'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:24668:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/74783/
+  ics_code: '35.020'
+  pages: '54'
+  designation_original: ГОСТ Р ИСО/МЭК 24668-2022

@@ -1,0 +1,49 @@
+---
+id: GOST-R-7.0.1-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов по информации, библиотечному и издательскому делу .
+    Издания. Знак охраны авторского права. Общие требования и правила оформления
+  type: main
+docidentifier:
+- content: GOST R 7.0.1-2003
+  type: GOST
+  primary: true
+docnumber: 7.0.1
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:7.0.1:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/15677/
+  ics_code: '01.140'
+  pages: '12'
+  designation_original: ГОСТ Р 7.0.1-2003

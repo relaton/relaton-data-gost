@@ -1,0 +1,49 @@
+---
+id: GOST-7.88-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов по информации, библиотечному и издательскому делу. Правила
+    сокращения заглавий и слов в заглавиях публикаций
+  type: main
+docidentifier:
+- content: GOST 7.88-2003
+  type: GOST
+  primary: true
+docnumber: '7.88'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7.88:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/15599/
+  ics_code: 01.140.20
+  pages: '8'
+  designation_original: ГОСТ 7.88-2003

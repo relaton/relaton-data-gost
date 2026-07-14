@@ -1,0 +1,48 @@
+---
+id: GOST-1461-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть и нефтепродукты. Метод определения зольности
+  type: main
+docidentifier:
+- content: GOST 1461-2023
+  type: GOST
+  primary: true
+docnumber: '1461'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1461:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/74682/
+  ics_code: '75.080'
+  pages: '11'
+  designation_original: ГОСТ 1461-2023

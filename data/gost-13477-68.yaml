@@ -1,0 +1,48 @@
+---
+id: GOST-13477-68
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сепараторы центробежные судовые. Номинальные производительности
+  type: main
+docidentifier:
+- content: GOST 13477-68
+  type: GOST
+  primary: true
+docnumber: '13477'
+date:
+- type: published
+  from: '1968-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1968'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13477:68
+  webpage: https://new-shop.ksm.kz/catalog/document/26072/
+  ics_code: 47.020.20
+  pages: '3'
+  designation_original: ГОСТ 13477-68

@@ -1,0 +1,49 @@
+---
+id: GOST-17535-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Детали приборов высокоточные металлические. Стабилизация размеров термической
+    обработкой. Типовые технологические процессы
+  type: main
+docidentifier:
+- content: GOST 17535-77
+  type: GOST
+  primary: true
+docnumber: '17535'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17535:77
+  webpage: https://new-shop.ksm.kz/catalog/document/21200/
+  ics_code: '25.200'
+  pages: '46'
+  designation_original: ГОСТ 17535-77

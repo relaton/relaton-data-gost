@@ -1,0 +1,49 @@
+---
+id: GOST-33779-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Товары бытовой химии. Оценка эффективности посудомоечных средств (тарелочный
+    тест)
+  type: main
+docidentifier:
+- content: GOST 33779-2016
+  type: GOST
+  primary: true
+docnumber: '33779'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33779:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65394/
+  ics_code: 71.040.40
+  pages: '12'
+  designation_original: ГОСТ 33779-2016

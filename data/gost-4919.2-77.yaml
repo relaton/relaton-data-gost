@@ -1,0 +1,48 @@
+---
+id: GOST-4919.2-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Реактивы и особо чистые вещества. Методы приготовления буферных растворов
+  type: main
+docidentifier:
+- content: GOST 4919.2-77
+  type: GOST
+  primary: true
+docnumber: '4919.2'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4919.2:77
+  webpage: https://new-shop.ksm.kz/catalog/document/29739/
+  ics_code: 71.040.30
+  pages: '11'
+  designation_original: ГОСТ 4919.2-77

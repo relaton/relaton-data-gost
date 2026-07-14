@@ -1,0 +1,48 @@
+---
+id: GOST-2879-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Прокат сортовой стальной горячекатаный шестигранный. Сортамент
+  type: main
+docidentifier:
+- content: GOST 2879-2006
+  type: GOST
+  primary: true
+docnumber: '2879'
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2879:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/38079/
+  ics_code: 77.140.60
+  pages: '10'
+  designation_original: ГОСТ 2879-2006

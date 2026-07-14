@@ -1,0 +1,49 @@
+---
+id: GOST-R-13683-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стерилизация медицинской продукции. Требования к валидации и текущему контролю.
+    Стерилизация влажным теплом в медицинских учреждениях
+  type: main
+docidentifier:
+- content: GOST R 13683-2000
+  type: GOST
+  primary: true
+docnumber: '13683'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13683:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/16818/
+  ics_code: '11.080'
+  pages: '28'
+  designation_original: ГОСТ Р ИСО 13683-2000

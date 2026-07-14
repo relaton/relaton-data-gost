@@ -1,0 +1,48 @@
+---
+id: GOST-13979.9-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жмыхи и шроты. Методика выполнения измерений активности уреазы
+  type: main
+docidentifier:
+- content: GOST 13979.9-69
+  type: GOST
+  primary: true
+docnumber: '13979.9'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13979.9:69
+  webpage: https://new-shop.ksm.kz/catalog/document/27843/
+  ics_code: 67.200.10
+  pages: '5'
+  designation_original: ГОСТ 13979.9-69

@@ -1,0 +1,50 @@
+---
+id: GOST-303-1-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Котлы отопительные. Часть 1. Котлы с горелкой с поддувом воздуха для центрального
+    отопления. Терминология, общие требования, испытания и маркировка (на основе СТБ
+    EN 303-1-2010)
+  type: main
+docidentifier:
+- content: GOST 303-1-2013
+  type: GOST
+  primary: true
+docnumber: 303-1
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:303-1:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/68060/
+  ics_code: 91.140.10
+  pages: '28'
+  designation_original: ГОСТ EN 303-1-2013

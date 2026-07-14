@@ -1,0 +1,48 @@
+---
+id: GOST-R-51028-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройство защиты от ошибок аппаратуры передачи данных. Методы защиты
+  type: main
+docidentifier:
+- content: GOST R 51028-97
+  type: GOST
+  primary: true
+docnumber: '51028'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51028:97
+  webpage: https://new-shop.ksm.kz/catalog/document/24960/
+  ics_code: 33.040.20
+  pages: '42'
+  designation_original: ГОСТ Р 51028-97

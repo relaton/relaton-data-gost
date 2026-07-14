@@ -1,0 +1,49 @@
+---
+id: GOST-591-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Звездочки к приводным роликовым и втулочным цепям. Методы расчета и построения
+    профиля зуба и инструмента. Допуски
+  type: main
+docidentifier:
+- content: GOST 591-69
+  type: GOST
+  primary: true
+docnumber: '591'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:591:69
+  webpage: https://new-shop.ksm.kz/catalog/document/19118/
+  ics_code: 21.220.30
+  pages: '70'
+  designation_original: ГОСТ 591-69

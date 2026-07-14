@@ -1,0 +1,49 @@
+---
+id: GOST-2639-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кинопроекторы для 35- и 70-мм фильмов. Типы. Основные параметры. Технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 2639-76
+  type: GOST
+  primary: true
+docnumber: '2639'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2639:76
+  webpage: https://new-shop.ksm.kz/catalog/document/25563/
+  ics_code: 37.060.10
+  pages: '14'
+  designation_original: ГОСТ 2639-76

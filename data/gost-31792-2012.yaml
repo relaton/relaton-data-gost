@@ -1,0 +1,50 @@
+---
+id: GOST-31792-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рыба, морские беспозвоночные и продукты их переработки. Определение содержания
+    диоксинов и диоксинподобных полихлорированных бифенилов хромато-масс-спектральным
+    методом
+  type: main
+docidentifier:
+- content: GOST 31792-2012
+  type: GOST
+  primary: true
+docnumber: '31792'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31792:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/54077/
+  ics_code: 67.120.30
+  pages: '59'
+  designation_original: ГОСТ 31792-2012

@@ -1,0 +1,52 @@
+---
+id: GOST-303-4-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Котлы отопительные. Часть 4. Котлы отопительные с горелками с принудительной
+    подачей воздуха для горения. Дополнительные требования к котлам, оснащенным горелками
+    на жидком топливе с принудительной подачей воздуха для горения, теплопроизводительностью
+    не более 70 кВт и максимальным рабочим давлением 3 бар. Терминология, требования,
+    испытания и маркировка
+  type: main
+docidentifier:
+- content: GOST 303-4-2013
+  type: GOST
+  primary: true
+docnumber: 303-4
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:303-4:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/70201/
+  ics_code: 91.140.10
+  pages: '28'
+  designation_original: ГОСТ EN 303-4-2013

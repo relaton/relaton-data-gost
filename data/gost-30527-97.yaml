@@ -1,0 +1,48 @@
+---
+id: GOST-30527-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станки металлорежущие. Методы проверки точности обработки образца-изделия
+  type: main
+docidentifier:
+- content: GOST 30527-97
+  type: GOST
+  primary: true
+docnumber: '30527'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30527:97
+  webpage: https://new-shop.ksm.kz/catalog/document/21976/
+  ics_code: '25.080'
+  pages: '11'
+  designation_original: ГОСТ 30527-97

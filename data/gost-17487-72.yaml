@@ -1,0 +1,49 @@
+---
+id: GOST-17487-72
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубки осциллографические с магнитным отклонением луча. Основные параметры
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 17487-72
+  type: GOST
+  primary: true
+docnumber: '17487'
+date:
+- type: published
+  from: '1972-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17487:72
+  webpage: https://new-shop.ksm.kz/catalog/document/24185/
+  ics_code: '31.100'
+  pages: '5'
+  designation_original: ГОСТ 17487-72

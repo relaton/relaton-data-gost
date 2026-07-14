@@ -1,0 +1,49 @@
+---
+id: GOST-18604.24-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Транзисторы биполярные высокочастотные. Метод измерения выходной мощности
+    коэффициента усиления по мощности и коэффициента полезного действия коллектора
+  type: main
+docidentifier:
+- content: GOST 18604.24-81
+  type: GOST
+  primary: true
+docnumber: '18604.24'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18604.24:81
+  webpage: https://new-shop.ksm.kz/catalog/document/24218/
+  ics_code: 31.080.30
+  pages: '11'
+  designation_original: ГОСТ 18604.24-81

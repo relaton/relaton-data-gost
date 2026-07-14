@@ -1,0 +1,49 @@
+---
+id: GOST-16143-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Детали и изделия из древесины и древесных материалов. Методы определения
+    блеска прозрачных лаковых покрытий
+  type: main
+docidentifier:
+- content: GOST 16143-81
+  type: GOST
+  primary: true
+docnumber: '16143'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16143:81
+  webpage: https://new-shop.ksm.kz/catalog/document/33545/
+  ics_code: '79.040'
+  pages: '7'
+  designation_original: ГОСТ 16143-81

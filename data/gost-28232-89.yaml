@@ -1,0 +1,50 @@
+---
+id: GOST-28232-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Основные методы испытаний на воздействие внешних факторов. Часть 2. Испытания.
+    Руководство по применению испытаний стандартов МЭК 68 (ГОСТ 28198-89 - ГОСТ 28236-89)
+    для имитации воздействий хранения
+  type: main
+docidentifier:
+- content: GOST 28232-89
+  type: GOST
+  primary: true
+docnumber: '28232'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28232:89
+  webpage: https://new-shop.ksm.kz/catalog/document/19043/
+  ics_code: '19.040'
+  pages: '8'
+  designation_original: ГОСТ 28232-89

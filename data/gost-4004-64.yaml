@@ -1,0 +1,48 @@
+---
+id: GOST-4004-64
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Слитки алюминиевые для проволоки. Технические условия
+  type: main
+docidentifier:
+- content: GOST 4004-64
+  type: GOST
+  primary: true
+docnumber: '4004'
+date:
+- type: published
+  from: '1964-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1964'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4004:64
+  webpage: https://new-shop.ksm.kz/catalog/document/32077/
+  ics_code: 77.120.10
+  pages: '8'
+  designation_original: ГОСТ 4004-64

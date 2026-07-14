@@ -1,0 +1,49 @@
+---
+id: GOST-19071-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластины режущие сменные многогранные твердосплавные круглой формы с отверстием
+    и стружколомающими канавками на одной стороне. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 19071-80
+  type: GOST
+  primary: true
+docnumber: '19071'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19071:80
+  webpage: https://new-shop.ksm.kz/catalog/document/22412/
+  ics_code: '25.100'
+  pages: '5'
+  designation_original: ГОСТ 19071-80

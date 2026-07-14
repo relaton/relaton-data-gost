@@ -1,0 +1,49 @@
+---
+id: GOST-R-52799-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шум. Измерение вносимых потерь канальных глушителей при отсутствии потока.
+    Ориентировочный метод в лабораторных условиях
+  type: main
+docidentifier:
+- content: GOST R 52799-2007
+  type: GOST
+  primary: true
+docnumber: '52799'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52799:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/40858/
+  ics_code: '13.140'
+  pages: '12'
+  designation_original: ГОСТ Р 52799-2007

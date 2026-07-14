@@ -1,0 +1,49 @@
+---
+id: GOST-15143-1-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные и машины дорожно-строительные мобильные. Обмен данными
+    на рабочих площадках. Часть 1. Архитектура системы
+  type: main
+docidentifier:
+- content: GOST 15143-1-2017
+  type: GOST
+  primary: true
+docnumber: 15143-1
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15143-1:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70503/
+  ics_code: 35.240.99
+  pages: '56'
+  designation_original: ГОСТ ISO 15143-1-2017

@@ -1,0 +1,49 @@
+---
+id: GOST-8288-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Затворы плоские для бункеров общего назначения. Основные  присоединительные
+    размеры
+  type: main
+docidentifier:
+- content: GOST 8288-74
+  type: GOST
+  primary: true
+docnumber: '8288'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8288:74
+  webpage: https://new-shop.ksm.kz/catalog/document/26166/
+  ics_code: '53.080'
+  pages: '7'
+  designation_original: ГОСТ 8288-74

@@ -1,0 +1,48 @@
+---
+id: GOST-19658-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кремний монокристаллический в слитках. Технические условия
+  type: main
+docidentifier:
+- content: GOST 19658-81
+  type: GOST
+  primary: true
+docnumber: '19658'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19658:81
+  webpage: https://new-shop.ksm.kz/catalog/document/23464/
+  ics_code: '29.045'
+  pages: '59'
+  designation_original: ГОСТ 19658-81

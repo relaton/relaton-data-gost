@@ -1,0 +1,49 @@
+---
+id: GOST-35222-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Правила проведения тепловых приемочных испытаний паровых турбин. Часть
+    0. Широкий диапазон точности для различных типов и размеров турбин
+  type: main
+docidentifier:
+- content: GOST 35222-2024
+  type: GOST
+  primary: true
+docnumber: '35222'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35222:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76191/
+  ics_code: '27.040'
+  pages: '48'
+  designation_original: ГОСТ 35222-2024

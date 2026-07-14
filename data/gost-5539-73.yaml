@@ -1,0 +1,48 @@
+---
+id: GOST-5539-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Глет свинцовый. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5539-73
+  type: GOST
+  primary: true
+docnumber: '5539'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5539:73
+  webpage: https://new-shop.ksm.kz/catalog/document/34779/
+  ics_code: 87.060.99
+  pages: '26'
+  designation_original: ГОСТ 5539-73

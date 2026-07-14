@@ -1,0 +1,49 @@
+---
+id: GOST-14611-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конденсаторы постоянной и переменной емкости вакуумные. Ряды номинальных
+    емкостей напряжений и токов
+  type: main
+docidentifier:
+- content: GOST 14611-78
+  type: GOST
+  primary: true
+docnumber: '14611'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14611:78
+  webpage: https://new-shop.ksm.kz/catalog/document/24162/
+  ics_code: '31.060'
+  pages: '3'
+  designation_original: ГОСТ 14611-78

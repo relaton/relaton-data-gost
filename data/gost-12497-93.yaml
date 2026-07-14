@@ -1,0 +1,49 @@
+---
+id: GOST-12497-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы. Соединения эпоксидные. Методы определения содержания эпоксидных
+    групп
+  type: main
+docidentifier:
+- content: GOST 12497-93
+  type: GOST
+  primary: true
+docnumber: '12497'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12497:93
+  webpage: https://new-shop.ksm.kz/catalog/document/39862/
+  ics_code: 93.080.10
+  pages: '11'
+  designation_original: ГОСТ 12497-93

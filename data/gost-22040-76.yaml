@@ -1,0 +1,49 @@
+---
+id: GOST-22040-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шпильки с ввинчиваемым концом длиной 2,5d. Класс точности В. Конструкция
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 22040-76
+  type: GOST
+  primary: true
+docnumber: '22040'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22040:76
+  webpage: https://new-shop.ksm.kz/catalog/document/19555/
+  ics_code: 21.060.10
+  pages: '15'
+  designation_original: ГОСТ 22040-76

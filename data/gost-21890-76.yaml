@@ -1,0 +1,48 @@
+---
+id: GOST-21890-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фюзеляж, крылья и оперение самолетов и вертолетов. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 21890-76
+  type: GOST
+  primary: true
+docnumber: '21890'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21890:76
+  webpage: https://new-shop.ksm.kz/catalog/document/15075/
+  ics_code: 01.040.49
+  pages: '11'
+  designation_original: ГОСТ 21890-76

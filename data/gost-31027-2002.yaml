@@ -1,0 +1,48 @@
+---
+id: GOST-31027-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мясо и мясные продукты. Определение содержания азота (арбитражный метод)
+  type: main
+docidentifier:
+- content: GOST 31027-2002
+  type: GOST
+  primary: true
+docnumber: '31027'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31027:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38540/
+  ics_code: 67.120.10
+  pages: '9'
+  designation_original: ГОСТ 31027-2002

@@ -1,0 +1,49 @@
+---
+id: GOST-R-9834-4-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Взаимосвязь открытых систем. Процедуры действий
+    уполномоченных по регистрации ВОС. Часть 4. Регистр профилей СрВТ
+  type: main
+docidentifier:
+- content: GOST R 9834-4-2009
+  type: GOST
+  primary: true
+docnumber: 9834-4
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9834-4:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/43094/
+  ics_code: 35.100.70
+  pages: '12'
+  designation_original: ГОСТ Р ИСО/МЭК 9834-4-2009

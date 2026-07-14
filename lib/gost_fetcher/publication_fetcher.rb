@@ -101,13 +101,16 @@ module GostFetcher
 
     def build_hash(entry, docid, cover)
       title_text = cover&.title || entry.title || docid.to_s
+      title_lang = entry.language&.match?(/^Рус/i) ? "rus" : "eng"
+      script_lang = title_lang == "rus" ? "Cyrl" : "Latn"
       date = year_to_date(cover&.year || docid.year)
+      status = entry.status || "in-force"
 
       hash = {
         "id" => docid.id,
         "type" => "standard",
         "title" => [{
-          "language" => "eng",
+          "language" => title_lang,
           "content" => title_text,
           "type" => "main",
         }],
@@ -117,16 +120,27 @@ module GostFetcher
           "primary" => true,
         }],
         "docnumber" => docid.number,
-        "contributor" => [GostFetcher.gost_publisher_contributor],
-        "language" => ["eng"],
-        "script" => ["Latn"],
-        "status" => { "stage" => { "content" => "in-force" } },
+        "contributor" => contributors_for(entry),
+        "language" => [title_lang],
+        "script" => [script_lang],
+        "status" => { "stage" => { "content" => status } },
         "ext" => ext_block(entry, docid, cover),
       }
       apply_source!(hash, entry)
       apply_dates!(hash, date)
       apply_copyright!(hash, date)
       hash
+    end
+
+    def contributors_for(entry)
+      list = [GostFetcher.gost_publisher_contributor]
+      return list unless entry.developer && !entry.developer.empty?
+
+      list << {
+        "role" => [{ "type" => "author" }],
+        "organization" => { "name" => [{ "content" => entry.developer }] },
+      }
+      list
     end
 
     def year_to_date(year)
@@ -148,6 +162,11 @@ module GostFetcher
       urn = cover&.urn || docid.urn
       ext["urn"] = urn if urn && !urn.empty?
       ext["webpage"] = entry.web_url if entry.web_url
+      ext["ics_code"] = entry.ics_code if entry.ics_code
+      ext["developer"] = entry.developer if entry.developer
+      ext["pages"] = entry.pages.to_s if entry.pages
+      ext["keywords"] = Array(entry.keywords).map { |k| { "content" => k } } if entry.keywords&.any?
+      ext["designation_original"] = entry.designation_full if entry.designation_full
       ext
     end
 

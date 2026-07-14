@@ -1,0 +1,49 @@
+---
+id: GOST-30802-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контейнеры грузовые серии 1. Технические требования и методы испытаний.
+    Часть 2. Контейнеры изотермические
+  type: main
+docidentifier:
+- content: GOST 30802-2002
+  type: GOST
+  primary: true
+docnumber: '30802'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30802:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38464/
+  ics_code: 55.180.10
+  pages: '55'
+  designation_original: ГОСТ 30802-2002

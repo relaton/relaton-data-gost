@@ -1,0 +1,50 @@
+---
+id: GOST-9.510-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Eдинaя cиcтeмa зaщиты от коррозии и старения. Полуфабрикаты из алюминия
+    и алюминиевых сплавов. Общие требования к временной противокоррозионной защите,
+    упаковке, траспортированию и хранению
+  type: main
+docidentifier:
+- content: GOST 9.510-93
+  type: GOST
+  primary: true
+docnumber: '9.510'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9.510:93
+  webpage: https://new-shop.ksm.kz/catalog/document/20407/
+  ics_code: '25.220'
+  pages: '63'
+  designation_original: ГОСТ 9.510-93

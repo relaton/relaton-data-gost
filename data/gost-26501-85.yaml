@@ -1,0 +1,48 @@
+---
+id: GOST-26501-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Корпуса морских судов. Общие требования к электрохимической защите
+  type: main
+docidentifier:
+- content: GOST 26501-85
+  type: GOST
+  primary: true
+docnumber: '26501'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26501:85
+  webpage: https://new-shop.ksm.kz/catalog/document/26105/
+  ics_code: 47.020.10
+  pages: '10'
+  designation_original: ГОСТ 26501-85

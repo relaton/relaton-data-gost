@@ -1,0 +1,50 @@
+---
+id: GOST-60947-6-2-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура распределения и управления низковольтная. Часть 6-2. Оборудование
+    многофункциональное. Коммутационные устройства (или оборудование) управления и
+    защиты
+  type: main
+docidentifier:
+- content: GOST 60947-6-2-2013
+  type: GOST
+  primary: true
+docnumber: 60947-6-2
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60947-6-2:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57814/
+  ics_code: 29.120.40
+  pages: '94'
+  designation_original: ГОСТ IEC 60947-6-2-2013

@@ -1,0 +1,48 @@
+---
+id: GOST-26502-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Белково-витаминные и амидо-витаминные добавки. Технические условия
+  type: main
+docidentifier:
+- content: GOST 26502-85
+  type: GOST
+  primary: true
+docnumber: '26502'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26502:85
+  webpage: https://new-shop.ksm.kz/catalog/document/40622/
+  ics_code: '65.120'
+  pages: '9'
+  designation_original: ГОСТ 26502-85

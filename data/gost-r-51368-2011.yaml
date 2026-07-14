@@ -1,0 +1,50 @@
+---
+id: GOST-R-51368-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Методы испытаний на стойкость к климатическим внешним воздействующим факторам
+    машин, приборов и других технических изделий. Испытания на устойчивость к воздействию
+    температуры
+  type: main
+docidentifier:
+- content: GOST R 51368-2011
+  type: GOST
+  primary: true
+docnumber: '51368'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51368:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48860/
+  ics_code: '19.040'
+  pages: '28'
+  designation_original: ГОСТ Р 51368-2011

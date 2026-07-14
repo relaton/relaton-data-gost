@@ -1,0 +1,48 @@
+---
+id: GOST-31790-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подукты из свинины вареные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 31790-2012
+  type: GOST
+  primary: true
+docnumber: '31790'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31790:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/54075/
+  ics_code: 67.120.10
+  pages: '33'
+  designation_original: ГОСТ 31790-2012

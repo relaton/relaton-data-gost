@@ -1,0 +1,49 @@
+---
+id: GOST-25772-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ограждения лестниц, балконов, крыш, лестниц маршевых и площадок металлических
+    Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 25772-2021
+  type: GOST
+  primary: true
+docnumber: '25772'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25772:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/73803/
+  ics_code: 91.080.10
+  pages: '25'
+  designation_original: ГОСТ 25772-2021

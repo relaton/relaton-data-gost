@@ -1,0 +1,48 @@
+---
+id: GOST-23785.3-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ткань кордная. Метод определения числа кручений
+  type: main
+docidentifier:
+- content: GOST 23785.3-2001
+  type: GOST
+  primary: true
+docnumber: '23785.3'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23785.3:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/27146/
+  ics_code: 59.080.30
+  pages: '4'
+  designation_original: ГОСТ 23785.3-2001

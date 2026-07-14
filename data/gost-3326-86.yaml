@@ -1,0 +1,48 @@
+---
+id: GOST-3326-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Клапаны запорные, клапаны и затворы обратные. Строительные длины
+  type: main
+docidentifier:
+- content: GOST 3326-86
+  type: GOST
+  primary: true
+docnumber: '3326'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3326:86
+  webpage: https://new-shop.ksm.kz/catalog/document/19801/
+  ics_code: 23.060.20
+  pages: '11'
+  designation_original: ГОСТ 3326-86

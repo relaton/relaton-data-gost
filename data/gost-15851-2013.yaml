@@ -1,0 +1,50 @@
+---
+id: GOST-15851-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты пищевые. Определение афлатоксина B1 в продуктах на зерновой основе
+    для питания грудных детей и детей раннего возраста. Метод ВЭЖХ с применением иммуноаффинной
+    колоночной очистки экстракта и флуориметрическим детектированием
+  type: main
+docidentifier:
+- content: GOST 15851-2013
+  type: GOST
+  primary: true
+docnumber: '15851'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15851:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58430/
+  ics_code: '67.060'
+  pages: '16'
+  designation_original: ГОСТ EN 15851-2013

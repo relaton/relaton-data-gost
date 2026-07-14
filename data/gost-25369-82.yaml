@@ -1,0 +1,49 @@
+---
+id: GOST-25369-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фотоэлементы измерительные. Основные параметры. Методы измерений основных
+    параметров
+  type: main
+docidentifier:
+- content: GOST 25369-82
+  type: GOST
+  primary: true
+docnumber: '25369'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25369:82
+  webpage: https://new-shop.ksm.kz/catalog/document/24565/
+  ics_code: '31.260'
+  pages: '18'
+  designation_original: ГОСТ 25369-82

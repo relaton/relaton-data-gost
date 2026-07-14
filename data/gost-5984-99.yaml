@@ -1,0 +1,48 @@
+---
+id: GOST-5984-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вещества взрывчатые. Методы определения бризантности
+  type: main
+docidentifier:
+- content: GOST 5984-99
+  type: GOST
+  primary: true
+docnumber: '5984'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5984:99
+  webpage: https://new-shop.ksm.kz/catalog/document/29787/
+  ics_code: 71.100.30
+  pages: '25'
+  designation_original: ГОСТ 5984-99

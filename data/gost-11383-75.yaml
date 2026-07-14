@@ -1,0 +1,48 @@
+---
+id: GOST-11383-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубки медные и латунные тонкостенные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 11383-75
+  type: GOST
+  primary: true
+docnumber: '11383'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11383:75
+  webpage: https://new-shop.ksm.kz/catalog/document/19897/
+  ics_code: 23.040.15
+  pages: '23'
+  designation_original: ГОСТ 11383-75

@@ -1,0 +1,48 @@
+---
+id: GOST-71-1-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Игрушки. Требования безопасности. Часть 1. Механические и физические характеристики
+  type: main
+docidentifier:
+- content: GOST 71-1-2008
+  type: GOST
+  primary: true
+docnumber: 71-1
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:71-1:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/38230/
+  ics_code: 97.200.50
+  pages: '73'
+  designation_original: ГОСТ ЕН 71-1-2008

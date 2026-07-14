@@ -1,0 +1,48 @@
+---
+id: GOST-11850-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины для леса самоходные. Требования безопасности
+  type: main
+docidentifier:
+- content: GOST 11850-2011
+  type: GOST
+  primary: true
+docnumber: '11850'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11850:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/54370/
+  ics_code: 65.060.80
+  pages: '24'
+  designation_original: ГОСТ ISO 11850-2011

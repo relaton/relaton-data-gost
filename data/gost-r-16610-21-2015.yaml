@@ -1,0 +1,50 @@
+---
+id: GOST-R-16610-21-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Геометрические
+    характеристики изделий (ГХИ). Фильтрация. Часть 21. Линейные профильные фильтры.
+    Фильтры Гаусса
+  type: main
+docidentifier:
+- content: GOST R 16610-21-2015
+  type: GOST
+  primary: true
+docnumber: 16610-21
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:16610-21:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63163/
+  ics_code: 17.040.20
+  pages: '28'
+  designation_original: ГОСТ Р ИСО 16610-21-2015

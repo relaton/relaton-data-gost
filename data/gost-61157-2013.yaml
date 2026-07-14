@@ -1,0 +1,50 @@
+---
+id: GOST-61157-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Изделия медицинские
+    электрические. Приборы ультразвуковые диагностические. Требования к представлению
+    параметров акустического выхода в технической документации
+  type: main
+docidentifier:
+- content: GOST 61157-2013
+  type: GOST
+  primary: true
+docnumber: '61157'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61157:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59206/
+  ics_code: '17.020'
+  pages: '32'
+  designation_original: ГОСТ IEC 61157-2013

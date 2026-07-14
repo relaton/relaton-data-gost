@@ -1,0 +1,49 @@
+---
+id: GOST-302-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Резонаторы пьезоэлектрические. Методы измерений параметров пьезоэлектрических
+    резонаторов, работающих в диапазоне частот до 30 МГц
+  type: main
+docidentifier:
+- content: GOST 302-2000
+  type: GOST
+  primary: true
+docnumber: '302'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:302:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/39000/
+  ics_code: '31.140'
+  pages: '20'
+  designation_original: ГОСТ МЭК 302-2000

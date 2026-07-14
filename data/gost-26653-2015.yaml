@@ -1,0 +1,48 @@
+---
+id: GOST-26653-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подготовка генеральных грузов к транспортированию. Общие требования
+  type: main
+docidentifier:
+- content: GOST 26653-2015
+  type: GOST
+  primary: true
+docnumber: '26653'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26653:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62489/
+  ics_code: '55.020'
+  pages: '25'
+  designation_original: ГОСТ 26653-2015

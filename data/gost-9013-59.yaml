@@ -1,0 +1,48 @@
+---
+id: GOST-9013-59
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Металлы. Метод измерения твердости по Роквеллу
+  type: main
+docidentifier:
+- content: GOST 9013-59
+  type: GOST
+  primary: true
+docnumber: '9013'
+date:
+- type: published
+  from: '1959-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1959'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9013:59
+  webpage: https://new-shop.ksm.kz/catalog/document/32266/
+  ics_code: 77.040.10
+  pages: '9'
+  designation_original: ГОСТ 9013-59

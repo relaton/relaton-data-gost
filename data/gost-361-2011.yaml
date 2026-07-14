@@ -1,0 +1,49 @@
+---
+id: GOST-361-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ССБТ. Средства индивидуальной защиты от падения с высоты. Страховочные
+    привязи. Общие технические требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 361-2011
+  type: GOST
+  primary: true
+docnumber: '361'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:361:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48694/
+  ics_code: 13.340.01
+  pages: '13'
+  designation_original: ГОСТ EN 361-2011

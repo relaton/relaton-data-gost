@@ -1,0 +1,49 @@
+---
+id: GOST-24271-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шарниры под сварку на кассетные пресс-формы для изготовления резинотехнических
+    изделий. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 24271-80
+  type: GOST
+  primary: true
+docnumber: '24271'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24271:80
+  webpage: https://new-shop.ksm.kz/catalog/document/34275/
+  ics_code: '83.200'
+  pages: '7'
+  designation_original: ГОСТ 24271-80

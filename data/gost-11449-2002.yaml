@@ -1,0 +1,49 @@
+---
+id: GOST-11449-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Культиваторы фрезерные, управляемые идущим рядом оператором. Требования
+    безопасности и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 11449-2002
+  type: GOST
+  primary: true
+docnumber: '11449'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11449:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38755/
+  ics_code: 65.060.20
+  pages: '12'
+  designation_original: ГОСТ ИСО 11449-2002

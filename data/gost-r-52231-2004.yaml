@@ -1,0 +1,48 @@
+---
+id: GOST-R-52231-2004
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Внешний шум автомобилей в эксплуатации. Допустимые уровни и методы измерения
+  type: main
+docidentifier:
+- content: GOST R 52231-2004
+  type: GOST
+  primary: true
+docnumber: '52231'
+date:
+- type: published
+  from: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52231:2004
+  webpage: https://new-shop.ksm.kz/catalog/document/25890/
+  ics_code: '43.080'
+  pages: '10'
+  designation_original: ГОСТ Р 52231-2004

@@ -1,0 +1,48 @@
+---
+id: GOST-R-57474-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Дезинфектология и дезинфекционная деятельность. Химические дезинфицирующие
+    средства и антисептики. Методы определения четвертичных аммониевых соединений
+  type: main
+docidentifier:
+- content: GOST R 57474-2017
+  type: GOST
+  primary: true
+docnumber: '57474'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57474:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/76928/
+  pages: '15'
+  designation_original: ГОСТ Р 57474-2017

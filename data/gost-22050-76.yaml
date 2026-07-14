@@ -1,0 +1,48 @@
+---
+id: GOST-22050-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Магнитопроводы ленточные. Типы и основные размеры
+  type: main
+docidentifier:
+- content: GOST 22050-76
+  type: GOST
+  primary: true
+docnumber: '22050'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22050:76
+  webpage: https://new-shop.ksm.kz/catalog/document/23506/
+  ics_code: '29.180'
+  pages: '14'
+  designation_original: ГОСТ 22050-76

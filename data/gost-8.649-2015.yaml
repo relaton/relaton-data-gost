@@ -1,0 +1,48 @@
+---
+id: GOST-8.649-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Угли бурые, каменные
+    и антрацит. Инфракрасный термогравиметрический метод определения общей влаги
+  type: main
+docidentifier:
+- content: GOST 8.649-2015
+  type: GOST
+  primary: true
+docnumber: '8.649'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.649:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64668/
+  pages: '12'
+  designation_original: ГОСТ 8.649-2015

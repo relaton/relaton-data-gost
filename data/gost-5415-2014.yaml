@@ -1,0 +1,49 @@
+---
+id: GOST-5415-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Втулки переходные с наружным конусом 7:24 и внутренним конусом морзе с
+    встроенным винтом. Размеры
+  type: main
+docidentifier:
+- content: GOST 5415-2014
+  type: GOST
+  primary: true
+docnumber: '5415'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5415:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62272/
+  ics_code: 25.060.20
+  pages: '8'
+  designation_original: ГОСТ ISO 5415-2014

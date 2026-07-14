@@ -1,0 +1,49 @@
+---
+id: GOST-30413-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Дороги автомобильные. Метод определения коэффициента сцепления колеса автомобиля
+    с дорожным покрытием
+  type: main
+docidentifier:
+- content: GOST 30413-96
+  type: GOST
+  primary: true
+docnumber: '30413'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30413:96
+  webpage: https://new-shop.ksm.kz/catalog/document/35551/
+  ics_code: 93.080.20
+  pages: '10'
+  designation_original: ГОСТ 30413-96

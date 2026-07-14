@@ -1,0 +1,49 @@
+---
+id: GOST-11063-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масла моторные с присадками. Метод определения стабильности по индукционному
+    периоду осадкообразования
+  type: main
+docidentifier:
+- content: GOST 11063-77
+  type: GOST
+  primary: true
+docnumber: '11063'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11063:77
+  webpage: https://new-shop.ksm.kz/catalog/document/31481/
+  ics_code: '75.100'
+  pages: '3'
+  designation_original: ГОСТ 11063-77

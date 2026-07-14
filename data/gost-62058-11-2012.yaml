@@ -1,0 +1,49 @@
+---
+id: GOST-62058-11-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура для измерения электрической энергии переменного тока. Приемочный
+    контроль. Часть 11. Общие методы приемочного контроля
+  type: main
+docidentifier:
+- content: GOST 62058-11-2012
+  type: GOST
+  primary: true
+docnumber: 62058-11
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:62058-11:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58025/
+  ics_code: 17.220.20
+  pages: '74'
+  designation_original: ГОСТ IEC 62058-11-2012

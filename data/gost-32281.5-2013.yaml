@@ -1,0 +1,49 @@
+---
+id: GOST-32281.5-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стекло и изделия из него. Определение прочности на изгиб. Испытание двойным
+    соосным кольцом на плоских образцах с небольшими площадями испытываемых поверхностей
+  type: main
+docidentifier:
+- content: GOST 32281.5-2013
+  type: GOST
+  primary: true
+docnumber: '32281.5'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32281.5:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56164/
+  ics_code: 81.040.01
+  pages: '16'
+  designation_original: ГОСТ 32281.5-2013 (EN 1288-5:2000)

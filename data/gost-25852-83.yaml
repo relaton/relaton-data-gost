@@ -1,0 +1,49 @@
+---
+id: GOST-25852-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контакт-детали электрические из благородных металлов и сплавов на их основе.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 25852-83
+  type: GOST
+  primary: true
+docnumber: '25852'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25852:83
+  webpage: https://new-shop.ksm.kz/catalog/document/18567/
+  ics_code: '17.020'
+  pages: '65'
+  designation_original: ГОСТ 25852-83

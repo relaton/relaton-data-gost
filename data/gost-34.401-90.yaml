@@ -1,0 +1,50 @@
+---
+id: GOST-34.401-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Комплекс стандартов на автоматизированные системы.
+    Средства технические периферийные автоматизированных систем дорожного движения.
+    Типы и технические требования
+  type: main
+docidentifier:
+- content: GOST 34.401-90
+  type: GOST
+  primary: true
+docnumber: '34.401'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34.401:90
+  webpage: https://new-shop.ksm.kz/catalog/document/25108/
+  ics_code: 35.240.60
+  pages: '13'
+  designation_original: ГОСТ 34.401-90

@@ -1,0 +1,49 @@
+---
+id: GOST-35085-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оценка соответствия. Общие требования к органам, осуществляющим сертификацию
+    персонала, участвующего в деятельности, связанной с Халал
+  type: main
+docidentifier:
+- content: GOST 35085-2024
+  type: GOST
+  primary: true
+docnumber: '35085'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35085:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76267/
+  ics_code: '03.100'
+  pages: '15'
+  designation_original: ГОСТ 35085-2024

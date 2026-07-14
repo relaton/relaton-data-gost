@@ -1,0 +1,48 @@
+---
+id: GOST-R-50929-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Премиксы. Методы определения витаминов группы В
+  type: main
+docidentifier:
+- content: GOST R 50929-96
+  type: GOST
+  primary: true
+docnumber: '50929'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50929:96
+  webpage: https://new-shop.ksm.kz/catalog/document/28257/
+  ics_code: '65.120'
+  pages: '39'
+  designation_original: ГОСТ Р 50929-96

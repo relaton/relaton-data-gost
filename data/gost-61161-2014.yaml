@@ -1,0 +1,50 @@
+---
+id: GOST-61161-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Мощность ультразвука
+    в жидкостях. Общие требования к методикам выполнения измерений в диапазоне частот
+    от 0,5 до 25 МГц
+  type: main
+docidentifier:
+- content: GOST 61161-2014
+  type: GOST
+  primary: true
+docnumber: '61161'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61161:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/59207/
+  ics_code: '17.020'
+  pages: '40'
+  designation_original: ГОСТ IEC 61161-2014

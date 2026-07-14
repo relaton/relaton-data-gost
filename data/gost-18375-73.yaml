@@ -1,0 +1,48 @@
+---
+id: GOST-18375-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло смазочное 132-08. Технические условия
+  type: main
+docidentifier:
+- content: GOST 18375-73
+  type: GOST
+  primary: true
+docnumber: '18375'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18375:73
+  webpage: https://new-shop.ksm.kz/catalog/document/30128/
+  ics_code: 71.100.55
+  pages: '16'
+  designation_original: ГОСТ 18375-73

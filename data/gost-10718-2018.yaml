@@ -1,0 +1,50 @@
+---
+id: GOST-10718-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пробки корковые. Подсчет колониеобразующих единиц дрожжей, плесени и бактерий,
+    способных как к экстрагированию, так и к росту в спиртовой среде, для определения
+    характеристик пробок с низким содержанием микроорганизмов
+  type: main
+docidentifier:
+- content: GOST 10718-2018
+  type: GOST
+  primary: true
+docnumber: '10718'
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10718:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/74158/
+  ics_code: '55.040'
+  pages: '12'
+  designation_original: ГОСТ ISO 10718-2018

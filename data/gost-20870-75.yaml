@@ -1,0 +1,49 @@
+---
+id: GOST-20870-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы ячеистые жесткие. Метод определения скорости прохождения паров
+    воды
+  type: main
+docidentifier:
+- content: GOST 20870-75
+  type: GOST
+  primary: true
+docnumber: '20870'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20870:75
+  webpage: https://new-shop.ksm.kz/catalog/document/34189/
+  ics_code: 83.080.01
+  pages: '4'
+  designation_original: ГОСТ 20870-75

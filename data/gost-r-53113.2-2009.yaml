@@ -1,0 +1,51 @@
+---
+id: GOST-R-53113.2-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Защита информационных технологий и автоматизированных
+    систем от угроз информационной безопасности, реализуемых с использованием скрытых
+    каналов. Часть 2. Рекомендации по организации защиты информации, информационных
+    технологий и автоматизированных систем от атак с использованием скрытых каналов
+  type: main
+docidentifier:
+- content: GOST R 53113.2-2009
+  type: GOST
+  primary: true
+docnumber: '53113.2'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53113.2:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42597/
+  ics_code: '35.040'
+  pages: '12'
+  designation_original: ГОСТ Р 53113.2-2009

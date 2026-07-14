@@ -1,0 +1,48 @@
+---
+id: GOST-61217-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппараты дистанционные для лучевой терапии. Координаты, движения и шкалы
+  type: main
+docidentifier:
+- content: GOST 61217-2002
+  type: GOST
+  primary: true
+docnumber: '61217'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61217:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/37989/
+  ics_code: 11.040.60
+  pages: '49'
+  designation_original: ГОСТ МЭК 61217-2002

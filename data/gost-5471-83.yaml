@@ -1,0 +1,48 @@
+---
+id: GOST-5471-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масла растительные. Правила приемки и методы отбора проб
+  type: main
+docidentifier:
+- content: GOST 5471-83
+  type: GOST
+  primary: true
+docnumber: '5471'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5471:83
+  webpage: https://new-shop.ksm.kz/catalog/document/40639/
+  ics_code: 67.200.10
+  pages: '13'
+  designation_original: ГОСТ 5471-83

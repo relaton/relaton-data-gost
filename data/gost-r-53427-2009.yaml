@@ -1,0 +1,49 @@
+---
+id: GOST-R-53427-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия парфюмерно-косметические в аэрозольной упаковке. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST R 53427-2009
+  type: GOST
+  primary: true
+docnumber: '53427'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53427:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42772/
+  ics_code: 71.100.70
+  pages: '24'
+  designation_original: ГОСТ Р 53427-2009

@@ -1,0 +1,49 @@
+---
+id: GOST-19838-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Характеристика контролепригодности изделий авиационной техники. Правила
+    изложения и оформления
+  type: main
+docidentifier:
+- content: GOST 19838-82
+  type: GOST
+  primary: true
+docnumber: '19838'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19838:82
+  webpage: https://new-shop.ksm.kz/catalog/document/15001/
+  ics_code: '49.020'
+  pages: '21'
+  designation_original: ГОСТ 19838-82

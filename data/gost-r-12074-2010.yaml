@@ -1,0 +1,49 @@
+---
+id: GOST-R-12074-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы сварочные. Требования к системе менеджмента качества при изготовлении,
+    поставке и продаже материалов для сварки и родственных процессов
+  type: main
+docidentifier:
+- content: GOST R 12074-2010
+  type: GOST
+  primary: true
+docnumber: '12074'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:12074:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/54838/
+  ics_code: 25.160.20
+  pages: '12'
+  designation_original: ГОСТ Р ЕН 12074-2010

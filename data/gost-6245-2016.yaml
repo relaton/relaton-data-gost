@@ -1,0 +1,48 @@
+---
+id: GOST-6245-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть и нефтепродукты. Определение содержания золы
+  type: main
+docidentifier:
+- content: GOST 6245-2016
+  type: GOST
+  primary: true
+docnumber: '6245'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6245:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67582/
+  ics_code: 75.160.20
+  pages: '8'
+  designation_original: ГОСТ ISO 6245-2016

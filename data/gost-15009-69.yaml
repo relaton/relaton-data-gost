@@ -1,0 +1,49 @@
+---
+id: GOST-15009-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: 'Опоки литейные цельнолитые чугунные прямоугольные размерами в свету: длиной
+    1200; 1400 мм, шириной 900; 1000 мм, высотой 450; 500 мм. Конструкция и размеры'
+  type: main
+docidentifier:
+- content: GOST 15009-69
+  type: GOST
+  primary: true
+docnumber: '15009'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15009:69
+  webpage: https://new-shop.ksm.kz/catalog/document/20990/
+  ics_code: 25.120.30
+  pages: '5'
+  designation_original: ГОСТ 15009-69

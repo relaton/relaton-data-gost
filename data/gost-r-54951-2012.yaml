@@ -1,0 +1,48 @@
+---
+id: GOST-R-54951-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Корма для животных. Определение содержания влаги
+  type: main
+docidentifier:
+- content: GOST R 54951-2012
+  type: GOST
+  primary: true
+docnumber: '54951'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54951:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/52550/
+  ics_code: '65.120'
+  pages: '65'
+  designation_original: ГОСТ Р 54951-2012 (ИСО 6496:1999)

@@ -1,0 +1,38 @@
+---
+id: GOST-R-3914
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины текстильные и вспомогательное оборудование. Цилиндрические патроны.
+    Патроны для эластичных волокон. Размеры, методы контроля и обозначение
+  type: main
+docidentifier:
+- content: GOST R 3914
+  type: GOST
+  primary: true
+docnumber: '3914'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:3914
+  webpage: https://new-shop.ksm.kz/catalog/document/27475/
+  ics_code: 59.120.20
+  pages: '5'
+  designation_original: ГОСТ Р ИСО 3914/4-93

@@ -1,0 +1,49 @@
+---
+id: GOST-9736-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Приборы электрические прямого преобразования для измерения неэлектрических
+    величин. Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 9736-91
+  type: GOST
+  primary: true
+docnumber: '9736'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9736:91
+  webpage: https://new-shop.ksm.kz/catalog/document/18256/
+  ics_code: '17.220'
+  pages: '15'
+  designation_original: ГОСТ 9736-91

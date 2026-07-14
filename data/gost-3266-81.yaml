@@ -1,0 +1,48 @@
+---
+id: GOST-3266-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Метчики машинные и ручные. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 3266-81
+  type: GOST
+  primary: true
+docnumber: '3266'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3266:81
+  webpage: https://new-shop.ksm.kz/catalog/document/20500/
+  ics_code: 25.100.50
+  pages: '74'
+  designation_original: ГОСТ 3266-81

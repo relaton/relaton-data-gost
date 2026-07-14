@@ -1,0 +1,49 @@
+---
+id: GOST-8292-1-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жиры и масла животные и растительные. Определение содержания твердого жира
+    методом импульсного ядерного магнитного резонанса. Часть 1. Прямой метод
+  type: main
+docidentifier:
+- content: GOST 8292-1-2024
+  type: GOST
+  primary: true
+docnumber: 8292-1
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8292-1:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75767/
+  ics_code: 67.200.10
+  pages: '34'
+  designation_original: ГОСТ ISO 8292-1-2024

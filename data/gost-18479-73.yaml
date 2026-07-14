@@ -1,0 +1,48 @@
+---
+id: GOST-18479-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пилы круглые строгальные для распиловки древесины. Технические условия
+  type: main
+docidentifier:
+- content: GOST 18479-73
+  type: GOST
+  primary: true
+docnumber: '18479'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18479:73
+  webpage: https://new-shop.ksm.kz/catalog/document/33600/
+  ics_code: 79.120.20
+  pages: '15'
+  designation_original: ГОСТ 18479-73

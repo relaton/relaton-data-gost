@@ -1,0 +1,49 @@
+---
+id: GOST-R-12952-1-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы текстильные. Характеристики горения постельных принадлежностей.
+    Часть 1. Общие методы испытаний на возгораемость от тлеющей сигареты
+  type: main
+docidentifier:
+- content: GOST R 12952-1-2010
+  type: GOST
+  primary: true
+docnumber: 12952-1
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:12952-1:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/46955/
+  ics_code: 13.220.40
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 12952-1-2010

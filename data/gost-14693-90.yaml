@@ -1,0 +1,49 @@
+---
+id: GOST-14693-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства комплектные распределительные негерметизированные в металлической
+    оболочке на напряжение до 10 кВ. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 14693-90
+  type: GOST
+  primary: true
+docnumber: '14693'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14693:90
+  webpage: https://new-shop.ksm.kz/catalog/document/23888/
+  ics_code: 29.240.99
+  pages: '27'
+  designation_original: ГОСТ 14693-90

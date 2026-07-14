@@ -1,0 +1,49 @@
+---
+id: GOST-19794-1-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии. Биометрия. Форматы обмена биометрическими данными.
+    Часть 1. Структура
+  type: main
+docidentifier:
+- content: GOST 19794-1-2015
+  type: GOST
+  primary: true
+docnumber: 19794-1
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19794-1:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62856/
+  ics_code: '35.040'
+  pages: '32'
+  designation_original: ГОСТ ISO/IEC 19794-1-2015

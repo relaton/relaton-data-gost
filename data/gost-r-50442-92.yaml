@@ -1,0 +1,48 @@
+---
+id: GOST-R-50442-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть и нефтепродукты. Рентгено-флуоресцентный метод определения серы
+  type: main
+docidentifier:
+- content: GOST R 50442-92
+  type: GOST
+  primary: true
+docnumber: '50442'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50442:92
+  webpage: https://new-shop.ksm.kz/catalog/document/31752/
+  ics_code: '75.040'
+  pages: '6'
+  designation_original: ГОСТ Р 50442-92

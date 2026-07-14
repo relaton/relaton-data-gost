@@ -1,0 +1,48 @@
+---
+id: GOST-14139-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Коньячные и плодовые спирты. Метод определения средних эфиров
+  type: main
+docidentifier:
+- content: GOST 14139-76
+  type: GOST
+  primary: true
+docnumber: '14139'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14139:76
+  webpage: https://new-shop.ksm.kz/catalog/document/28771/
+  ics_code: 67.160.10
+  pages: '4'
+  designation_original: ГОСТ 14139-76

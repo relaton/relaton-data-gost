@@ -1,0 +1,49 @@
+---
+id: GOST-9792-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Колбасные изделия и продукты из свинины, баранины, говядины и мяса других
+    видов убойных животных и птиц. Правила приемки и методы отбора проб
+  type: main
+docidentifier:
+- content: GOST 9792-73
+  type: GOST
+  primary: true
+docnumber: '9792'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9792:73
+  webpage: https://new-shop.ksm.kz/catalog/document/28617/
+  ics_code: 67.120.10
+  pages: '4'
+  designation_original: ГОСТ 9792-73

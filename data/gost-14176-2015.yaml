@@ -1,0 +1,49 @@
+---
+id: GOST-14176-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты пищевые. Определение домоевой кислоты в мидиях методом высокоэффективной
+    жидкостной хроматографии
+  type: main
+docidentifier:
+- content: GOST 14176-2015
+  type: GOST
+  primary: true
+docnumber: '14176'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14176:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62776/
+  ics_code: 67.120.30
+  pages: '12'
+  designation_original: ГОСТ EN 14176-2015

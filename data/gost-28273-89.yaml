@@ -1,0 +1,48 @@
+---
+id: GOST-28273-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Интерфейс накопителей на гибких магнитных дисках. Общие требования
+  type: main
+docidentifier:
+- content: GOST 28273-89
+  type: GOST
+  primary: true
+docnumber: '28273'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28273:89
+  webpage: https://new-shop.ksm.kz/catalog/document/25194/
+  ics_code: '35.200'
+  pages: '12'
+  designation_original: ГОСТ 28273-89

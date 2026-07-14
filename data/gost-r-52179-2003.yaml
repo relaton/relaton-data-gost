@@ -1,0 +1,49 @@
+---
+id: GOST-R-52179-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Маргарины, жиры для кулинарии, кондитерской, хлебопекарной и молочной промышленности.
+    Правила приемки и методы контроля
+  type: main
+docidentifier:
+- content: GOST R 52179-2003
+  type: GOST
+  primary: true
+docnumber: '52179'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52179:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/29440/
+  ics_code: 67.200.10
+  pages: '39'
+  designation_original: ГОСТ Р 52179-2003

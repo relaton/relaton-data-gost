@@ -1,0 +1,49 @@
+---
+id: GOST-21909-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вал приема мощности навесных сельскохозяйственных машин, агрегатируемых
+    с тракторами классов от 0,6 до 2. Расположение
+  type: main
+docidentifier:
+- content: GOST 21909-83
+  type: GOST
+  primary: true
+docnumber: '21909'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21909:83
+  webpage: https://new-shop.ksm.kz/catalog/document/27927/
+  ics_code: 65.060.01
+  pages: '4'
+  designation_original: ГОСТ 21909-83

@@ -1,0 +1,48 @@
+---
+id: GOST-29083-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Каучук и латекс. Определение содержания меди. Фотометрический метод
+  type: main
+docidentifier:
+- content: GOST 29083-91
+  type: GOST
+  primary: true
+docnumber: '29083'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29083:91
+  webpage: https://new-shop.ksm.kz/catalog/document/34456/
+  ics_code: 83.040.10
+  pages: '7'
+  designation_original: ГОСТ 29083-91

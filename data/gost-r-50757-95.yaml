@@ -1,0 +1,50 @@
+---
+id: GOST-R-50757-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сигналы передач звукового вещания государственных и независимых телерадиокомпаний,
+    передаваемые на вход трактов первичного распределения. Основные параметры. Методы
+    измерений
+  type: main
+docidentifier:
+- content: GOST R 50757-95
+  type: GOST
+  primary: true
+docnumber: '50757'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50757:95
+  webpage: https://new-shop.ksm.kz/catalog/document/24934/
+  ics_code: '33.170'
+  pages: '9'
+  designation_original: ГОСТ Р 50757-95

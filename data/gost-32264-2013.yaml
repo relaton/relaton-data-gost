@@ -1,0 +1,48 @@
+---
+id: GOST-32264-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гудрон и пек. Определение содержания соединений, нерастворимых в толуоле
+  type: main
+docidentifier:
+- content: GOST 32264-2013
+  type: GOST
+  primary: true
+docnumber: '32264'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32264:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56155/
+  ics_code: '75.140'
+  pages: '8'
+  designation_original: ГОСТ 32264-2013

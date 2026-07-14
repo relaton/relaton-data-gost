@@ -1,0 +1,49 @@
+---
+id: GOST-20345-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Средства индивидуальной защиты ног.
+    Обувь безопасная. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST 20345-2024
+  type: GOST
+  primary: true
+docnumber: '20345'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20345:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76417/
+  ics_code: 13.340.50
+  pages: '50'
+  designation_original: ГОСТ ISO 20345-2024

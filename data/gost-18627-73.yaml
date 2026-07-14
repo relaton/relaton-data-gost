@@ -1,0 +1,49 @@
+---
+id: GOST-18627-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Приборы для измерения краевых искажений стартстопных и синхронных сигналов.
+    Типы и основные параметры
+  type: main
+docidentifier:
+- content: GOST 18627-73
+  type: GOST
+  primary: true
+docnumber: '18627'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18627:73
+  webpage: https://new-shop.ksm.kz/catalog/document/18442/
+  ics_code: 17.220.20
+  pages: '10'
+  designation_original: ГОСТ 18627-73

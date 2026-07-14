@@ -1,0 +1,49 @@
+---
+id: GOST-16172-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Круги алмазные шлифовальные чашечные конические формы 12А2 с углом 45 град.
+    Основные размеры
+  type: main
+docidentifier:
+- content: GOST 16172-90
+  type: GOST
+  primary: true
+docnumber: '16172'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16172:90
+  webpage: https://new-shop.ksm.kz/catalog/document/21038/
+  ics_code: 25.100.70
+  pages: '8'
+  designation_original: ГОСТ 16172-90

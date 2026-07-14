@@ -1,0 +1,50 @@
+---
+id: GOST-949-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Баллоны стальные бесшовные на рабочее давление не более 30,0 МПа (305,9
+    кгс/см2) вместимостью не более 100 л для транспортировки, хранения и использования
+    газов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 949-2023
+  type: GOST
+  primary: true
+docnumber: '949'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:949:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/74204/
+  ics_code: 23.020.20
+  pages: '50'
+  designation_original: ГОСТ 949-2023

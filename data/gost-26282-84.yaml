@@ -1,0 +1,48 @@
+---
+id: GOST-26282-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Преобразователи электроэнергии полупроводниковые мощностью до 5 кВ.А. Параметры
+  type: main
+docidentifier:
+- content: GOST 26282-84
+  type: GOST
+  primary: true
+docnumber: '26282'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26282:84
+  webpage: https://new-shop.ksm.kz/catalog/document/23916/
+  ics_code: '29.200'
+  pages: '6'
+  designation_original: ГОСТ 26282-84

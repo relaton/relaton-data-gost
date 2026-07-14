@@ -1,0 +1,49 @@
+---
+id: GOST-23787.1-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Растворы антисептического препарата ХМК Технические требования, требования
+    безопасности и методы анализа
+  type: main
+docidentifier:
+- content: GOST 23787.1-2023
+  type: GOST
+  primary: true
+docnumber: '23787.1'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23787.1:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/73944/
+  ics_code: 71.100.50
+  pages: '12'
+  designation_original: ГОСТ 23787.1-2023

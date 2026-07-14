@@ -1,0 +1,49 @@
+---
+id: GOST-33571-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ресурсосбережение. Упаковка. Требования к применению европейских стандартов
+    в области упаковки и упаковочных отходов
+  type: main
+docidentifier:
+- content: GOST 33571-2015
+  type: GOST
+  primary: true
+docnumber: '33571'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33571:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62754/
+  ics_code: 13.030.10
+  pages: '20'
+  designation_original: ГОСТ 33571-2015 (EN 13427:2004)

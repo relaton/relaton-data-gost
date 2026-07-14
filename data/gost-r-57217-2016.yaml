@@ -1,0 +1,49 @@
+---
+id: GOST-R-57217-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Барокамеры медицинские многоместные с рабочим давлением газовой среды 1,0
+    МПа. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST R 57217-2016
+  type: GOST
+  primary: true
+docnumber: '57217'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57217:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65973/
+  ics_code: 11.040.99
+  pages: '24'
+  designation_original: ГОСТ Р 57217-2016

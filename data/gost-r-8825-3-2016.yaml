@@ -1,0 +1,49 @@
+---
+id: GOST-R-8825-3-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Правила кодирования АСН.1. Часть 3. Спецификация
+    нотации контроля кодирования (ECN)
+  type: main
+docidentifier:
+- content: GOST R 8825-3-2016
+  type: GOST
+  primary: true
+docnumber: 8825-3
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8825-3:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/66793/
+  ics_code: 35.100.60
+  pages: '222'
+  designation_original: ГОСТ Р ИСО/МЭК 8825-3-2016

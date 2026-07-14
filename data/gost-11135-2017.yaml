@@ -1,0 +1,49 @@
+---
+id: GOST-11135-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стерилизация медицинской продукции. Этиленоксид. Требования к разработке,
+    валидации и текущему контролю процесса стерилизации медицинских изделий
+  type: main
+docidentifier:
+- content: GOST 11135-2017
+  type: GOST
+  primary: true
+docnumber: '11135'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11135:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/67560/
+  ics_code: 11.080.01
+  pages: '69'
+  designation_original: ГОСТ ISO 11135-2017

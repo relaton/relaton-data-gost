@@ -1,0 +1,48 @@
+---
+id: GOST-33701-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Определение и применение показателей точности методов испытаний нефтепродуктов
+  type: main
+docidentifier:
+- content: GOST 33701-2015
+  type: GOST
+  primary: true
+docnumber: '33701'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33701:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/65616/
+  ics_code: 17.140.50
+  pages: '59'
+  designation_original: ГОСТ 33701-2015

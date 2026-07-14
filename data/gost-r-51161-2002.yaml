@@ -1,0 +1,48 @@
+---
+id: GOST-R-51161-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Штанги насосные, устьевые штоки и муфты к ним. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 51161-2002
+  type: GOST
+  primary: true
+docnumber: '51161'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51161:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/31767/
+  ics_code: '75.180'
+  pages: '48'
+  designation_original: ГОСТ Р 51161-2002

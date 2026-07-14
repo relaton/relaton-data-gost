@@ -1,0 +1,49 @@
+---
+id: GOST-32690-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция соковая. Определение пестицидов методом тандемной высокоэффективной
+    жидкостной хроматомасс-спектрометрии (ВЭЖХ-МС/МС)
+  type: main
+docidentifier:
+- content: GOST 32690-2014
+  type: GOST
+  primary: true
+docnumber: '32690'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32690:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60206/
+  ics_code: 67.080.01
+  pages: '40'
+  designation_original: ГОСТ 32690-2014

@@ -1,0 +1,49 @@
+---
+id: GOST-16666-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плитки подкладные для пуансонов к державкам с двумя крепежными отверстиями.
+    Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 16666-80
+  type: GOST
+  primary: true
+docnumber: '16666'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16666:80
+  webpage: https://new-shop.ksm.kz/catalog/document/21128/
+  ics_code: 25.120.10
+  pages: '3'
+  designation_original: ГОСТ 16666-80

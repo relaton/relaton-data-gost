@@ -1,0 +1,48 @@
+---
+id: GOST-2665-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Никель сернокислый технический. Технические условия
+  type: main
+docidentifier:
+- content: GOST 2665-86
+  type: GOST
+  primary: true
+docnumber: '2665'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2665:86
+  webpage: https://new-shop.ksm.kz/catalog/document/29614/
+  ics_code: 71.060.50
+  pages: '26'
+  designation_original: ГОСТ 2665-86

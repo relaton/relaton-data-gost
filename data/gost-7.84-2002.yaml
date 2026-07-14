@@ -1,0 +1,49 @@
+---
+id: GOST-7.84-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов по информации, библиотечному и издательскому делу. Издания.
+    Обложки и переплеты. Общие требования и правила оформления
+  type: main
+docidentifier:
+- content: GOST 7.84-2002
+  type: GOST
+  primary: true
+docnumber: '7.84'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7.84:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/15595/
+  ics_code: 01.140.40
+  pages: '7'
+  designation_original: ГОСТ 7.84-2002

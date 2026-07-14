@@ -1,0 +1,49 @@
+---
+id: GOST-35057-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция плодоовощная, плодово-ягодная и растительная. Методы санитарно-паразитологической
+    экспертизы
+  type: main
+docidentifier:
+- content: GOST 35057-2024
+  type: GOST
+  primary: true
+docnumber: '35057'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35057:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75530/
+  ics_code: '67.050'
+  pages: '17'
+  designation_original: ГОСТ 35057-2024

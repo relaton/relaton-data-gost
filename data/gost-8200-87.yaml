@@ -1,0 +1,49 @@
+---
+id: GOST-8200-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Прессы гидравлические для изготовления изделий из пластмасс. Параметры
+    и размеры. Нормы точности
+  type: main
+docidentifier:
+- content: GOST 8200-87
+  type: GOST
+  primary: true
+docnumber: '8200'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8200:87
+  webpage: https://new-shop.ksm.kz/catalog/document/22102/
+  ics_code: 25.120.10
+  pages: '11'
+  designation_original: ГОСТ 8200-87

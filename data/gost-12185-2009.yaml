@@ -1,0 +1,49 @@
+---
+id: GOST-12185-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть и нефтепродукты. Определение плотности с использованием плотномера
+    с осциллирующей U-образной трубкой
+  type: main
+docidentifier:
+- content: GOST 12185-2009
+  type: GOST
+  primary: true
+docnumber: '12185'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12185:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/41469/
+  ics_code: '75.080'
+  pages: '14'
+  designation_original: ГОСТ ИСО 12185-2009

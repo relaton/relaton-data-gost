@@ -1,0 +1,49 @@
+---
+id: GOST-20519-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартизации экспортной продукции. Экспонаты для ярмарок и выставок.
+    Основные требования
+  type: main
+docidentifier:
+- content: GOST 20519-75
+  type: GOST
+  primary: true
+docnumber: '20519'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20519:75
+  webpage: https://new-shop.ksm.kz/catalog/document/15023/
+  ics_code: '01.120'
+  pages: '7'
+  designation_original: ГОСТ 20519-75

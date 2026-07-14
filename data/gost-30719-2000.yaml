@@ -1,0 +1,50 @@
+---
+id: GOST-30719-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибраторы и резонаторы пьезокерамические для стабилизации и выделения частот.
+    Глава I. Стандартные значения и условия эксплуатации. Глава II. Условия проведения
+    измерений и испытаний
+  type: main
+docidentifier:
+- content: GOST 30719-2000
+  type: GOST
+  primary: true
+docnumber: '30719'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30719:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/38894/
+  ics_code: '31.140'
+  pages: '24'
+  designation_original: ГОСТ 30719-2000

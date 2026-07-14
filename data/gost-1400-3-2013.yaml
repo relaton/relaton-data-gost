@@ -1,0 +1,49 @@
+---
+id: GOST-1400-3-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Предметы ухода за детьми. Соски детские. Часть 3. Санитарно-химические
+    требования и методы определения
+  type: main
+docidentifier:
+- content: GOST 1400-3-2013
+  type: GOST
+  primary: true
+docnumber: 1400-3
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1400-3:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57106/
+  ics_code: '83.140'
+  pages: '18'
+  designation_original: ГОСТ EN 1400-3-2013

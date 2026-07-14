@@ -1,0 +1,49 @@
+---
+id: GOST-35291-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция, предназначенная для детей и подростков.  Газохроматографическое
+    определение фталатов в водных вытяжках из материалов различного состава
+  type: main
+docidentifier:
+- content: GOST 35291-2025
+  type: GOST
+  primary: true
+docnumber: '35291'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35291:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77019/
+  ics_code: '19.020'
+  pages: '21'
+  designation_original: ГОСТ 35291-2025

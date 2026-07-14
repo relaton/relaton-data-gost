@@ -1,0 +1,50 @@
+---
+id: GOST-R-13899-2-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сталь. Определение содержания молибдена, ниобия и вольфрама в легированной
+    стали. Спектрометрический атомно-эмиссионный с индуктивно связанной плазмой метод.
+    Часть 2. Определение содержания ниобия
+  type: main
+docidentifier:
+- content: GOST R 13899-2-2009
+  type: GOST
+  primary: true
+docnumber: 13899-2
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13899-2:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/41758/
+  ics_code: 77.080.20
+  pages: '18'
+  designation_original: ГОСТ Р ИСО 13899-2-2009

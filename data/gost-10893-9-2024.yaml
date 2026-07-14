@@ -1,0 +1,49 @@
+---
+id: GOST-10893-9-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы стальные бесшовные и сварные. Часть 9. Автоматизированный ультразвуковой
+    контроль для обнаружения расслоений в полосе/листе для производства сварных труб
+  type: main
+docidentifier:
+- content: GOST 10893-9-2024
+  type: GOST
+  primary: true
+docnumber: 10893-9
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10893-9:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76190/
+  ics_code: 23.040.10
+  pages: '15'
+  designation_original: ГОСТ ISO 10893-9-2024

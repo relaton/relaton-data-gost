@@ -1,0 +1,49 @@
+---
+id: GOST-6433.6-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы электроизоляционные. Методы определения ионных примесей путем
+    экстрагирования
+  type: main
+docidentifier:
+- content: GOST 6433.6-84
+  type: GOST
+  primary: true
+docnumber: '6433.6'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6433.6:84
+  webpage: https://new-shop.ksm.kz/catalog/document/23138/
+  ics_code: 29.035.01
+  pages: '9'
+  designation_original: ГОСТ 6433.6-84

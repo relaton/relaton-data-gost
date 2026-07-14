@@ -1,0 +1,48 @@
+---
+id: GOST-10264-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Системы пуска с замковым включателем
+  type: main
+docidentifier:
+- content: GOST 10264-2000
+  type: GOST
+  primary: true
+docnumber: '10264'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10264:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/38989/
+  ics_code: '53.100'
+  pages: '4'
+  designation_original: ГОСТ ИСО 10264-2000

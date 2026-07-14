@@ -1,0 +1,50 @@
+---
+id: GOST-26083-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы ионообменные фильтрующие систем очистки водного теплоносителя
+    атомных электростанций с кипящими реакторами большой мощности. Общие технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 26083-84
+  type: GOST
+  primary: true
+docnumber: '26083'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26083:84
+  webpage: https://new-shop.ksm.kz/catalog/document/40630/
+  ics_code: 27.120.20
+  pages: '7'
+  designation_original: ГОСТ 26083-84

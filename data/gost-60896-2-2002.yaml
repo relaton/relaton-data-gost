@@ -1,0 +1,49 @@
+---
+id: GOST-60896-2-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Свинцово-кислотные стационарные батареи. Общие требования и методы испытаний.
+    Часть 2. Закрытые типы
+  type: main
+docidentifier:
+- content: GOST 60896-2-2002
+  type: GOST
+  primary: true
+docnumber: 60896-2
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60896-2:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38840/
+  ics_code: 29.220.20
+  pages: '22'
+  designation_original: ГОСТ МЭК 60896-2-2002

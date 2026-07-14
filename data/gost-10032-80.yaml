@@ -1,0 +1,49 @@
+---
+id: GOST-10032-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Дизель-генераторы стационарные, передвижные, судовые вспомогательные. Технические
+    требования к автоматизации
+  type: main
+docidentifier:
+- content: GOST 10032-80
+  type: GOST
+  primary: true
+docnumber: '10032'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10032:80
+  webpage: https://new-shop.ksm.kz/catalog/document/26062/
+  ics_code: 47.020.20
+  pages: '6'
+  designation_original: ГОСТ 10032-80

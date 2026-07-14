@@ -1,0 +1,49 @@
+---
+id: GOST-30971-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Швы монтажные узлов примыкания оконных блоков к стеновым проемам. Общие
+    технические условия
+  type: main
+docidentifier:
+- content: GOST 30971-2012
+  type: GOST
+  primary: true
+docnumber: '30971'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30971:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/35478/
+  ics_code: 91.060.50
+  pages: '48'
+  designation_original: ГОСТ 30971-2012

@@ -1,0 +1,49 @@
+---
+id: GOST-30-1-2-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: 'Плиты газовые бытовые. Часть 1-2: Требования безопасности. Приборы, имеющие
+    духовки и/или грили с принудительной циркуляцией воздуха'
+  type: main
+docidentifier:
+- content: GOST 30-1-2-2007
+  type: GOST
+  primary: true
+docnumber: 30-1-2
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30-1-2:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/38168/
+  ics_code: 97.040.20
+  pages: '19'
+  designation_original: ГОСТ ЕН 30-1-2-2007

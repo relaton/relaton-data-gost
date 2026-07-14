@@ -1,0 +1,49 @@
+---
+id: GOST-R-52079-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы стальные сварные для магистральных газопроводов, нефтепроводов и
+    нефтепродуктопроводов. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 52079-2003
+  type: GOST
+  primary: true
+docnumber: '52079'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52079:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/33392/
+  ics_code: 77.140.75
+  pages: '32'
+  designation_original: ГОСТ Р 52079-2003

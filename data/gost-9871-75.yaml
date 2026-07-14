@@ -1,0 +1,49 @@
+---
+id: GOST-9871-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Термометры стеклянные ртутные электроконтактные и терморегуляторы. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 9871-75
+  type: GOST
+  primary: true
+docnumber: '9871'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9871:75
+  webpage: https://new-shop.ksm.kz/catalog/document/18260/
+  ics_code: 17.200.20
+  pages: '23'
+  designation_original: ГОСТ 9871-75

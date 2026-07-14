@@ -1,0 +1,49 @@
+---
+id: GOST-19667-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контейнер специализированный групповой массой брутто 5,0 т для штучных
+    грузов
+  type: main
+docidentifier:
+- content: GOST 19667-74
+  type: GOST
+  primary: true
+docnumber: '19667'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19667:74
+  webpage: https://new-shop.ksm.kz/catalog/document/26427/
+  ics_code: 55.180.10
+  pages: '7'
+  designation_original: ГОСТ 19667-74

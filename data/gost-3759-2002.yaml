@@ -1,0 +1,49 @@
+---
+id: GOST-3759-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы текстильные. Подготовка, нанесение меток и измерение проб текстильных
+    материалов и одежды при испытании по определению изменений линейных размеров
+  type: main
+docidentifier:
+- content: GOST 3759-2002
+  type: GOST
+  primary: true
+docnumber: '3759'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3759:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/37842/
+  ics_code: '19.060'
+  pages: '8'
+  designation_original: ГОСТ ИСО 3759-2002

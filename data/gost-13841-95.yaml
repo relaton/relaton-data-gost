@@ -1,0 +1,48 @@
+---
+id: GOST-13841-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ящики из гофрированного картона для химической продукции. Технические условия
+  type: main
+docidentifier:
+- content: GOST 13841-95
+  type: GOST
+  primary: true
+docnumber: '13841'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13841:95
+  webpage: https://new-shop.ksm.kz/catalog/document/26379/
+  ics_code: '55.160'
+  pages: '12'
+  designation_original: ГОСТ 13841-95

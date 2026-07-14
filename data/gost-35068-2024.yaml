@@ -1,0 +1,50 @@
+---
+id: GOST-35068-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Табак нагреваемый, изделия с бестабачной смесью, жидкости для электронных
+    систем доставки никотина, никотинсодержащие изделия орального потребления (НИКПЭКИ),
+    бестабачные смеси для нагревания. Определение никотина в наполнителе
+  type: main
+docidentifier:
+- content: GOST 35068-2024
+  type: GOST
+  primary: true
+docnumber: '35068'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35068:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75805/
+  ics_code: '65.160'
+  pages: '24'
+  designation_original: ГОСТ 35068-2024

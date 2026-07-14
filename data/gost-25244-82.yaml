@@ -1,0 +1,50 @@
+---
+id: GOST-25244-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стык управляющего вычислительного комплекса с периферийным оборудованием
+    автоматических телефонных станций. Требования к функционально-временным характеристикам
+    магистрали стыка
+  type: main
+docidentifier:
+- content: GOST 25244-82
+  type: GOST
+  primary: true
+docnumber: '25244'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25244:82
+  webpage: https://new-shop.ksm.kz/catalog/document/24836/
+  ics_code: 33.040.35
+  pages: '19'
+  designation_original: ГОСТ 25244-82

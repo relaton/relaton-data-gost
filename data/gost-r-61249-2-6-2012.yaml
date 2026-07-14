@@ -1,0 +1,52 @@
+---
+id: GOST-R-61249-2-6-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы для печатных плат и других структур межсоединений. Часть 2-6.
+    Материалы основания армированные фольгированные и нефольгированные. Листы армированные
+    слоистые на основе тканого или нетканого стекловолокна Е-типа с бромсодержащим
+    эпоксидным связующим, нормированной горючести (вертикальный тест горения), фольгированные
+    медью
+  type: main
+docidentifier:
+- content: GOST R 61249-2-6-2012
+  type: GOST
+  primary: true
+docnumber: 61249-2-6
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:61249-2-6:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/57679/
+  ics_code: '31.190'
+  pages: '20'
+  designation_original: ГОСТ Р МЭК 61249-2-6-2012

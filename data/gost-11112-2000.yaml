@@ -1,0 +1,48 @@
+---
+id: GOST-11112-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Сиденье оператора. Размеры и технические требования
+  type: main
+docidentifier:
+- content: GOST 11112-2000
+  type: GOST
+  primary: true
+docnumber: '11112'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11112:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/38993/
+  ics_code: '53.100'
+  pages: '8'
+  designation_original: ГОСТ ИСО 11112-2000

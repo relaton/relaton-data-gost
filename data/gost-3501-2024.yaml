@@ -1,0 +1,50 @@
+---
+id: GOST-3501-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубопроводы из пластмасс. Механические соединения между фитингами и напорными
+    трубами. Метод определения стойкости к выдергиванию под действием постоянного
+    осевого усилия
+  type: main
+docidentifier:
+- content: GOST 3501-2024
+  type: GOST
+  primary: true
+docnumber: '3501'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3501:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75729/
+  ics_code: '23.040'
+  pages: '10'
+  designation_original: ГОСТ ISO 3501-2024

@@ -1,0 +1,50 @@
+---
+id: GOST-R-389-2-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Акустика. Опорный
+    нуль для калибровки аудиометрической аппаратуры. Часть 2. Опорные эквивалентные
+    пороговые уровни звукового давления чистых тонов для вставных телефонов
+  type: main
+docidentifier:
+- content: GOST R 389-2-2011
+  type: GOST
+  primary: true
+docnumber: 389-2
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:389-2:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52236/
+  ics_code: '13.140'
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 389-2-2011

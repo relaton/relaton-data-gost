@@ -1,0 +1,49 @@
+---
+id: GOST-33869-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Энергетическая эффективность. Водонагреватели и резервуары для хранения
+    горячей воды. Проектирование с учетом воздействия на окружающую среду
+  type: main
+docidentifier:
+- content: GOST 33869-2016
+  type: GOST
+  primary: true
+docnumber: '33869'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33869:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65904/
+  ics_code: 91.140.65
+  pages: '28'
+  designation_original: ГОСТ 33869-2016

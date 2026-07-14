@@ -1,0 +1,49 @@
+---
+id: GOST-27684-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мармиты электрические для предприятий общественного питания. Общие технические
+    требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 27684-88
+  type: GOST
+  primary: true
+docnumber: '27684'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27684:88
+  webpage: https://new-shop.ksm.kz/catalog/document/35716/
+  ics_code: 97.100.10
+  pages: '6'
+  designation_original: ГОСТ 27684-88

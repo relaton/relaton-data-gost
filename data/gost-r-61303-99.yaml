@@ -1,0 +1,49 @@
+---
+id: GOST-R-61303-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Радионуклидные калибраторы. Методы испытаний
+    эксплуатационных характеристик
+  type: main
+docidentifier:
+- content: GOST R 61303-99
+  type: GOST
+  primary: true
+docnumber: '61303'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:61303:99
+  webpage: https://new-shop.ksm.kz/catalog/document/16862/
+  ics_code: 11.040.50
+  pages: '12'
+  designation_original: ГОСТ Р МЭК 61303-99

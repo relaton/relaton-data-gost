@@ -1,0 +1,48 @@
+---
+id: GOST-2160-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливо твердое минеральное. Определение действительной и кажущейся плотности
+  type: main
+docidentifier:
+- content: GOST 2160-2015
+  type: GOST
+  primary: true
+docnumber: '2160'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2160:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63765/
+  ics_code: 75.160.10
+  pages: '16'
+  designation_original: ГОСТ 2160-2015 (ISO 5072:2013)

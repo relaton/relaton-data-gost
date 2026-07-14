@@ -1,0 +1,50 @@
+---
+id: GOST-34258-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Средства лекарственные для ветеринарного применения, кормовые добавки.
+    Метод определения содержания водорастворимых витаминов с помощью высокоэффективной
+    жидкостной хроматографии со спектрофотометри ческим детектированием
+  type: main
+docidentifier:
+- content: GOST 34258-2017
+  type: GOST
+  primary: true
+docnumber: '34258'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34258:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/71796/
+  ics_code: '11.220'
+  pages: '13'
+  designation_original: ГОСТ 34258-2017

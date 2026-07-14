@@ -1,0 +1,48 @@
+---
+id: GOST-19808-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стекло медицинское. Марки
+  type: main
+docidentifier:
+- content: GOST 19808-86
+  type: GOST
+  primary: true
+docnumber: '19808'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19808:86
+  webpage: https://new-shop.ksm.kz/catalog/document/16426/
+  ics_code: '11.040'
+  pages: '11'
+  designation_original: ГОСТ 19808-86

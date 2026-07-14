@@ -1,0 +1,50 @@
+---
+id: GOST-60554-3-1-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бумага электроизоляционная целлюлозная. Технические требования. Часть 3.
+    Общие технические требования к отдельным материалам. Раздел 1. Бумага электроизоляционная
+    общего назначения
+  type: main
+docidentifier:
+- content: GOST 60554-3-1-2002
+  type: GOST
+  primary: true
+docnumber: 60554-3-1
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60554-3-1:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/34740/
+  ics_code: '85.060'
+  pages: '11'
+  designation_original: ГОСТ МЭК 60554-3-1-2002

@@ -1,0 +1,50 @@
+---
+id: GOST-12.4.292-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Средства индивидуальной защиты органов
+    дыхания. Изолирующие самоспасатели с химически связанным или сжатым кислородом.
+    Технические требования. Методы испытаний. Маркировка. Правила отбора образцов
+  type: main
+docidentifier:
+- content: GOST 12.4.292-2015
+  type: GOST
+  primary: true
+docnumber: 12.4.292
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.4.292:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62517/
+  ics_code: 13.340.30
+  pages: '36'
+  designation_original: ГОСТ 12.4.292-2015

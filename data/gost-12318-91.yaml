@@ -1,0 +1,48 @@
+---
+id: GOST-12318-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Консервы мясные "Паштет мясной". Технические условия
+  type: main
+docidentifier:
+- content: GOST 12318-91
+  type: GOST
+  primary: true
+docnumber: '12318'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12318:91
+  webpage: https://new-shop.ksm.kz/catalog/document/28704/
+  ics_code: 67.120.10
+  pages: '3'
+  designation_original: ГОСТ 12318-91

@@ -1,0 +1,48 @@
+---
+id: GOST-14177-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шпиндели со встроенным приводом. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 14177-88
+  type: GOST
+  primary: true
+docnumber: '14177'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14177:88
+  webpage: https://new-shop.ksm.kz/catalog/document/22213/
+  ics_code: 25.060.99
+  pages: '16'
+  designation_original: ГОСТ 14177-88

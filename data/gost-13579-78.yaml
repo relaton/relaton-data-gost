@@ -1,0 +1,48 @@
+---
+id: GOST-13579-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Блоки бетонные для стен подвалов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 13579-78
+  type: GOST
+  primary: true
+docnumber: '13579'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13579:78
+  webpage: https://new-shop.ksm.kz/catalog/document/35174/
+  ics_code: 91.080.40
+  pages: '11'
+  designation_original: ГОСТ 13579-78

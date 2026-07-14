@@ -1,0 +1,50 @@
+---
+id: GOST-35036-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Техника пожарная. Системы управления робототехнических комплексов для проведения
+    аварийно-спасательных работ и пожаротушения. Общие технические требования. Методы
+    испытаний
+  type: main
+docidentifier:
+- content: GOST 35036-2023
+  type: GOST
+  primary: true
+docnumber: '35036'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35036:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/75516/
+  ics_code: 13.220.01
+  pages: '16'
+  designation_original: ГОСТ 35036-2023

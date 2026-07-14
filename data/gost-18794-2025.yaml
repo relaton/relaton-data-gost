@@ -1,0 +1,48 @@
+---
+id: GOST-18794-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кофе. Органолептический анализ. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 18794-2025
+  type: GOST
+  primary: true
+docnumber: '18794'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18794:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76700/
+  ics_code: 01.040.67
+  pages: '16'
+  designation_original: ГОСТ ISO 18794-2025

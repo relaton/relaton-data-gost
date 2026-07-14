@@ -1,0 +1,49 @@
+---
+id: GOST-24.701-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система стандартов автоматизированных систем управления. Надежность
+    автоматизированных систем управления. Основные положения
+  type: main
+docidentifier:
+- content: GOST 24.701-86
+  type: GOST
+  primary: true
+docnumber: '24.701'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24.701:86
+  webpage: https://new-shop.ksm.kz/catalog/document/25100/
+  ics_code: '35.240'
+  pages: '11'
+  designation_original: ГОСТ 24.701-86

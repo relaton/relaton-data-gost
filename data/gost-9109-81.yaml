@@ -1,0 +1,48 @@
+---
+id: GOST-9109-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Грунтовка ФЛ-03К и ФЛ-03Ж. Технические условия
+  type: main
+docidentifier:
+- content: GOST 9109-81
+  type: GOST
+  primary: true
+docnumber: '9109'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9109:81
+  webpage: https://new-shop.ksm.kz/catalog/document/34825/
+  ics_code: '87.040'
+  pages: '12'
+  designation_original: ГОСТ 9109-81

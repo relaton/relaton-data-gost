@@ -1,0 +1,49 @@
+---
+id: GOST-28082-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы обработки информации. Методы обнаружения ошибок при последовательной
+    передаче данных
+  type: main
+docidentifier:
+- content: GOST 28082-89
+  type: GOST
+  primary: true
+docnumber: '28082'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28082:89
+  webpage: https://new-shop.ksm.kz/catalog/document/25340/
+  ics_code: '35.020'
+  pages: '11'
+  designation_original: ГОСТ 28082-89

@@ -1,0 +1,49 @@
+---
+id: GOST-R-60986-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Предельные температуры электрических кабелей на номинальное напряжение
+    от 6 кВ (Um = 7,2 кВ) до 30 кВ (Um = 36 кВ) в условиях короткого замыкания
+  type: main
+docidentifier:
+- content: GOST R 60986-2009
+  type: GOST
+  primary: true
+docnumber: '60986'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60986:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/43115/
+  ics_code: 29.060.20
+  pages: '12'
+  designation_original: ГОСТ Р МЭК 60986-2009

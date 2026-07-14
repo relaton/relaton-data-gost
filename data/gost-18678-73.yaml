@@ -1,0 +1,48 @@
+---
+id: GOST-18678-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Чашки пломбировочные. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 18678-73
+  type: GOST
+  primary: true
+docnumber: '18678'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18678:73
+  webpage: https://new-shop.ksm.kz/catalog/document/26420/
+  ics_code: '55.040'
+  pages: '9'
+  designation_original: ГОСТ 18678-73

@@ -1,0 +1,49 @@
+---
+id: GOST-15627-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Каучуки синтетические бутадиен-метилстирольный СКМС-30АРК и бутадиен-стирольный
+    СКС-30АРК. Технические условия
+  type: main
+docidentifier:
+- content: GOST 15627-79
+  type: GOST
+  primary: true
+docnumber: '15627'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15627:79
+  webpage: https://new-shop.ksm.kz/catalog/document/34097/
+  ics_code: 83.040.10
+  pages: '16'
+  designation_original: ГОСТ 15627-79

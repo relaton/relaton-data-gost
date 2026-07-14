@@ -1,0 +1,48 @@
+---
+id: GOST-33415-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка стеклянная. Бутылки сувенирные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 33415-2015
+  type: GOST
+  primary: true
+docnumber: '33415'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33415:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/66882/
+  ics_code: '81.040'
+  pages: '11'
+  designation_original: ГОСТ 33415-2015

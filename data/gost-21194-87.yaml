@@ -1,0 +1,48 @@
+---
+id: GOST-21194-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура радиоэлектронная бытовая. Приемка
+  type: main
+docidentifier:
+- content: GOST 21194-87
+  type: GOST
+  primary: true
+docnumber: '21194'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21194:87
+  webpage: https://new-shop.ksm.kz/catalog/document/24794/
+  ics_code: '33.160'
+  pages: '25'
+  designation_original: ГОСТ 21194-87

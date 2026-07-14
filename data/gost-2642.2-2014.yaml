@@ -1,0 +1,49 @@
+---
+id: GOST-2642.2-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Огнеупоры и огнеупорное сырье. Метод определения относительного изменения
+    массы при прокаливании
+  type: main
+docidentifier:
+- content: GOST 2642.2-2014
+  type: GOST
+  primary: true
+docnumber: '2642.2'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2642.2:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60693/
+  ics_code: '81.080'
+  pages: '8'
+  designation_original: ГОСТ 2642.2-2014

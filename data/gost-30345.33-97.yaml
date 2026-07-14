@@ -1,0 +1,50 @@
+---
+id: GOST-30345.33-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность бытовых и аналогичных электрических приборов. Дополнительные
+    требования к  приборам для гигиены рта, присоединяемым к сети через безопасный
+    разделительный трансформатор
+  type: main
+docidentifier:
+- content: GOST 30345.33-97
+  type: GOST
+  primary: true
+docnumber: '30345.33'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30345.33:97
+  webpage: https://new-shop.ksm.kz/catalog/document/38002/
+  ics_code: '13.120'
+  pages: '11'
+  designation_original: ГОСТ 30345.33-97

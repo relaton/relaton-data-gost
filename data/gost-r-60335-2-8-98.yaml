@@ -1,0 +1,50 @@
+---
+id: GOST-R-60335-2-8-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность бытовых и аналогичных электрических приборов. Дополнительные
+    требования к бритвам, машинкам для стрижки волос и аналогичным приборам и методы
+    испытаний
+  type: main
+docidentifier:
+- content: GOST R 60335-2-8-98
+  type: GOST
+  primary: true
+docnumber: 60335-2-8
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60335-2-8:98
+  webpage: https://new-shop.ksm.kz/catalog/document/523/
+  ics_code: '97.170'
+  pages: '11'
+  designation_original: ГОСТ Р МЭК 60335-2-8-98

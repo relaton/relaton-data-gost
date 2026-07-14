@@ -1,0 +1,48 @@
+---
+id: GOST-10538-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливо твердое. Методы определения химического состава золы
+  type: main
+docidentifier:
+- content: GOST 10538-87
+  type: GOST
+  primary: true
+docnumber: '10538'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10538:87
+  webpage: https://new-shop.ksm.kz/catalog/document/31471/
+  ics_code: 75.160.10
+  pages: '15'
+  designation_original: ГОСТ 10538-87

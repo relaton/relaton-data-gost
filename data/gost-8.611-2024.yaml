@@ -1,0 +1,50 @@
+---
+id: GOST-8.611-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Расход и объем
+    газа. Методика (метод) измерений с применением ультразвуковых преобразователей
+    расхода
+  type: main
+docidentifier:
+- content: GOST 8.611-2024
+  type: GOST
+  primary: true
+docnumber: '8.611'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.611:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76308/
+  ics_code: '17.020'
+  pages: '61'
+  designation_original: ГОСТ 8.611-2024

@@ -1,0 +1,48 @@
+---
+id: GOST-19596-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лопаты. Технические условия
+  type: main
+docidentifier:
+- content: GOST 19596-87
+  type: GOST
+  primary: true
+docnumber: '19596'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19596:87
+  webpage: https://new-shop.ksm.kz/catalog/document/26201/
+  ics_code: '53.120'
+  pages: '33'
+  designation_original: ГОСТ 19596-87

@@ -1,0 +1,48 @@
+---
+id: GOST-24768-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия фарфоровые. Метод определения белизны
+  type: main
+docidentifier:
+- content: GOST 24768-2000
+  type: GOST
+  primary: true
+docnumber: '24768'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24768:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/35688/
+  ics_code: 97.040.60
+  pages: '16'
+  designation_original: ГОСТ 24768-2000

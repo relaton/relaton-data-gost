@@ -1,0 +1,48 @@
+---
+id: GOST-33552-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автобусы для перевозки детей. Технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 33552-2015
+  type: GOST
+  primary: true
+docnumber: '33552'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33552:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64718/
+  ics_code: 43.080.20
+  pages: '18'
+  designation_original: ГОСТ 33552-2015

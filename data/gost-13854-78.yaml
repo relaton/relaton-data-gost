@@ -1,0 +1,49 @@
+---
+id: GOST-13854-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Семена орехоплодных и плюсконосных деревьев и кустарников. Посевные качества.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 13854-78
+  type: GOST
+  primary: true
+docnumber: '13854'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13854:78
+  webpage: https://new-shop.ksm.kz/catalog/document/27829/
+  ics_code: 65.020.40
+  pages: '8'
+  designation_original: ГОСТ 13854-78

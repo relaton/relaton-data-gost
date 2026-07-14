@@ -1,0 +1,49 @@
+---
+id: GOST-9630-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двигатели трехфазные асинхронные напряжением свыше 1000 В. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 9630-80
+  type: GOST
+  primary: true
+docnumber: '9630'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9630:80
+  webpage: https://new-shop.ksm.kz/catalog/document/23172/
+  ics_code: 29.160.30
+  pages: '23'
+  designation_original: ГОСТ 9630-80

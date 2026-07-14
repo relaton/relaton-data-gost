@@ -1,0 +1,48 @@
+---
+id: GOST-613-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нагреватели газовые автономные конвективные
+  type: main
+docidentifier:
+- content: GOST 613-2010
+  type: GOST
+  primary: true
+docnumber: '613'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:613:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45457/
+  ics_code: 97.100.20
+  pages: '123'
+  designation_original: ГОСТ EN 613-2010

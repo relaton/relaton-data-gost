@@ -1,0 +1,49 @@
+---
+id: GOST-R-795-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Средства индивидуальной защиты от
+    падения с высоты. Анкерные устройства. Общие технические требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 795-2012
+  type: GOST
+  primary: true
+docnumber: '795'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:795:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/57517/
+  ics_code: 13.340.60
+  pages: '20'
+  designation_original: ГОСТ Р ЕН 795-2012

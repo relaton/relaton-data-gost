@@ -1,0 +1,49 @@
+---
+id: GOST-R-53219-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество почвы. Определение содержания азота в воздушно-сухих почвах с
+    помощью хлорида кальция
+  type: main
+docidentifier:
+- content: GOST R 53219-2008
+  type: GOST
+  primary: true
+docnumber: '53219'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53219:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41611/
+  ics_code: 13.080.05
+  pages: '15'
+  designation_original: ГОСТ Р 53219-2008

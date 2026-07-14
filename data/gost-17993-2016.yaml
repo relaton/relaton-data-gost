@@ -1,0 +1,50 @@
+---
+id: GOST-17993-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество воды. Определение 15-ти полициклических ароматических углеводородов
+    (ПАУ). Метод высокоэффективной жидкостной хроматографии с флуоресцентным детектированием
+    после экстракции жидкость-жидкость
+  type: main
+docidentifier:
+- content: GOST 17993-2016
+  type: GOST
+  primary: true
+docnumber: '17993'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17993:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/68076/
+  ics_code: 13.060.01
+  pages: '24'
+  designation_original: ГОСТ ISO 17993-2016

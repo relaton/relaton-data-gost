@@ -1,0 +1,48 @@
+---
+id: GOST-R-15457-1-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Карты идентификационные. Карты тонкие гибкие. Часть 1. Физические характеристики
+  type: main
+docidentifier:
+- content: GOST R 15457-1-2006
+  type: GOST
+  primary: true
+docnumber: 15457-1
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:15457-1:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/25460/
+  ics_code: 35.240.15
+  pages: '27'
+  designation_original: ГОСТ Р ИСО/МЭК 15457-1-2006

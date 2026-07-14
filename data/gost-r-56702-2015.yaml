@@ -1,0 +1,49 @@
+---
+id: GOST-R-56702-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лекарственные средства для медицинского применения. Доклинические токсикологические
+    и фармакокинетические исследования безопасности
+  type: main
+docidentifier:
+- content: GOST R 56702-2015
+  type: GOST
+  primary: true
+docnumber: '56702'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56702:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63521/
+  ics_code: '11.020'
+  pages: '16'
+  designation_original: ГОСТ Р 56702-2015

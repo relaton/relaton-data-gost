@@ -1,0 +1,49 @@
+---
+id: GOST-5725-4-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Точность (правильность и прецизионность) методов и результатов измерений.
+    Часть 4. Основные методы определения правильности стандартного метода измерений
+  type: main
+docidentifier:
+- content: GOST 5725-4-2003
+  type: GOST
+  primary: true
+docnumber: 5725-4
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5725-4:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/37973/
+  ics_code: 03.120.30
+  pages: '30'
+  designation_original: ГОСТ ИСО 5725-4-2003

@@ -1,0 +1,50 @@
+---
+id: GOST-R-6887-2-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Микробиология пищевых продуктов и кормов для животных. Подготовка проб,
+    исходной суспензии и десятикратных разведений для микробиологических исследований.
+    Часть 2. Специальные правила подготовки мяса и мясных продуктов
+  type: main
+docidentifier:
+- content: GOST R 6887-2-2013
+  type: GOST
+  primary: true
+docnumber: 6887-2
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:6887-2:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58223/
+  ics_code: 07.100.30
+  pages: '16'
+  designation_original: ГОСТ Р ИСО 6887-2-2013

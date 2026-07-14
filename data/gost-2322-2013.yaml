@@ -1,0 +1,49 @@
+---
+id: GOST-2322-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Каучук бутадиен-стирольный (sbr) эмульсионной и растворной полимеризации.
+    Методы оценки
+  type: main
+docidentifier:
+- content: GOST 2322-2013
+  type: GOST
+  primary: true
+docnumber: '2322'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2322:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58037/
+  ics_code: '83.060'
+  pages: '20'
+  designation_original: ГОСТ ISO 2322-2013

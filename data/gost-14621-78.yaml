@@ -1,0 +1,48 @@
+---
+id: GOST-14621-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рулеты бисквитные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 14621-78
+  type: GOST
+  primary: true
+docnumber: '14621'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14621:78
+  webpage: https://new-shop.ksm.kz/catalog/document/28774/
+  ics_code: '67.060'
+  pages: '5'
+  designation_original: ГОСТ 14621-78

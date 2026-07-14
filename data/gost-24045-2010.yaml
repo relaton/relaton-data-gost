@@ -1,0 +1,49 @@
+---
+id: GOST-24045-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Профили стальные листовые гнутые с трапециевидными гофрами для строительства.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 24045-2010
+  type: GOST
+  primary: true
+docnumber: '24045'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24045:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45512/
+  ics_code: 77.140.70
+  pages: '12'
+  designation_original: ГОСТ 24045-2010

@@ -1,0 +1,49 @@
+---
+id: GOST-R-13678-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы обсадные, насосно-компрессорные, трубопроводные и элементы бурильных
+    колонн, для нефтяной и газовой промышленности. Оценка и испытание резьбовых смазок
+  type: main
+docidentifier:
+- content: GOST R 13678-2015
+  type: GOST
+  primary: true
+docnumber: '13678'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13678:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62175/
+  ics_code: 75.180.10
+  pages: '54'
+  designation_original: ГОСТ Р ИСО 13678-2015

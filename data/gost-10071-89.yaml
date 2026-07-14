@@ -1,0 +1,48 @@
+---
+id: GOST-10071-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Калибры для однозаходной трапецеидальной резьбы. Допуски
+  type: main
+docidentifier:
+- content: GOST 10071-89
+  type: GOST
+  primary: true
+docnumber: '10071'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10071:89
+  webpage: https://new-shop.ksm.kz/catalog/document/18265/
+  ics_code: 17.040.30
+  pages: '13'
+  designation_original: ГОСТ 10071-89

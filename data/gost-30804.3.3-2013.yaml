@@ -1,0 +1,52 @@
+---
+id: GOST-30804.3.3-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Совместимость технических средств электромагнитная. Ограничение изменений
+    напряжения, колебаний напряжения и фликера в низковольтных системах электроснабжения
+    общего назначения. Технические средства с потребляемым током не более 16 А (в
+    одной фазе), подключаемые к электрической сети при несоблюдении определенных условий
+    подключения. Нормы и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 30804.3.3-2013
+  type: GOST
+  primary: true
+docnumber: 30804.3.3
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30804.3.3:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/55639/
+  ics_code: 33.100.10
+  pages: '28'
+  designation_original: ГОСТ 30804.3.3-2013 (IEC 61000-3-3:2008)

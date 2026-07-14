@@ -1,0 +1,48 @@
+---
+id: GOST-2642.6-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Огнеупоры и огнеупорное сырье. Методы определения оксида титана (IV)
+  type: main
+docidentifier:
+- content: GOST 2642.6-97
+  type: GOST
+  primary: true
+docnumber: '2642.6'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2642.6:97
+  webpage: https://new-shop.ksm.kz/catalog/document/33738/
+  ics_code: '81.080'
+  pages: '8'
+  designation_original: ГОСТ 2642.6-97

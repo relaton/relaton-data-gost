@@ -1,0 +1,49 @@
+---
+id: GOST-20731-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ленты магнитные шириной 12,7 мм с 9-дорожечной записью плотностью 63 бит/мм
+    способом фaзового кодирования. Технические требования
+  type: main
+docidentifier:
+- content: GOST 20731-86
+  type: GOST
+  primary: true
+docnumber: '20731'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20731:86
+  webpage: https://new-shop.ksm.kz/catalog/document/24789/
+  ics_code: 33.160.30
+  pages: '14'
+  designation_original: ГОСТ 20731-86

@@ -1,0 +1,49 @@
+---
+id: GOST-R-58476-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Руководство по применению критериев классификации опасности химической
+    продукции по воздействию на организм. Сенсибилизирующее действие
+  type: main
+docidentifier:
+- content: GOST R 58476-2019
+  type: GOST
+  primary: true
+docnumber: '58476'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:58476:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/76150/
+  ics_code: 71.100.01
+  pages: '12'
+  designation_original: ГОСТ Р 58476-2019

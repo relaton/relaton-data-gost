@@ -1,0 +1,48 @@
+---
+id: GOST-17446-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроприборы бытовые. Надежность. Требования и методы контрольных испытаний
+  type: main
+docidentifier:
+- content: GOST 17446-96
+  type: GOST
+  primary: true
+docnumber: '17446'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17446:96
+  webpage: https://new-shop.ksm.kz/catalog/document/62551/
+  ics_code: '97.020'
+  pages: '19'
+  designation_original: ГОСТ 17446-96

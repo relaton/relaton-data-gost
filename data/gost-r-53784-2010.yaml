@@ -1,0 +1,49 @@
+---
+id: GOST-R-53784-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Элементы оптические для световых сигнальных приборов железнодорожного транспорта.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST R 53784-2010
+  type: GOST
+  primary: true
+docnumber: '53784'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53784:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/42999/
+  ics_code: '45.120'
+  pages: '28'
+  designation_original: ГОСТ Р 53784-2010

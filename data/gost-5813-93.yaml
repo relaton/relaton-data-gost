@@ -1,0 +1,49 @@
+---
+id: GOST-5813-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ремни вентиляторные клиновые и шкивы для двигателей автомобилей, тракторов
+    и комбайнов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5813-93
+  type: GOST
+  primary: true
+docnumber: '5813'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5813:93
+  webpage: https://new-shop.ksm.kz/catalog/document/25766/
+  ics_code: 83.140.99
+  pages: '47'
+  designation_original: ГОСТ 5813-93

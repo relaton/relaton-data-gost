@@ -1,0 +1,49 @@
+---
+id: GOST-22578-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гнезда и штепсели однополюсные. Основные параметры и размеры. Общие технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 22578-77
+  type: GOST
+  primary: true
+docnumber: '22578'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22578:77
+  webpage: https://new-shop.ksm.kz/catalog/document/24804/
+  ics_code: 33.050.10
+  pages: '9'
+  designation_original: ГОСТ 22578-77

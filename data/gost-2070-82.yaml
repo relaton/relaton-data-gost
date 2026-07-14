@@ -1,0 +1,49 @@
+---
+id: GOST-2070-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтепродукты светлые. Методы определения йодных чисел и содержания непредельных
+    углеводородов
+  type: main
+docidentifier:
+- content: GOST 2070-82
+  type: GOST
+  primary: true
+docnumber: '2070'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2070:82
+  webpage: https://new-shop.ksm.kz/catalog/document/31310/
+  ics_code: '75.080'
+  pages: '6'
+  designation_original: ГОСТ 2070-82

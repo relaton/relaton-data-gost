@@ -1,0 +1,49 @@
+---
+id: GOST-31325-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шум. Измерение шума строительного оборудования, работающего под открытым
+    небом. Метод установления соответствия нормам шума
+  type: main
+docidentifier:
+- content: GOST 31325-2006
+  type: GOST
+  primary: true
+docnumber: '31325'
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31325:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/18832/
+  ics_code: 17.140.20
+  pages: '20'
+  designation_original: ГОСТ 31325-2006

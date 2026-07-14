@@ -1,0 +1,49 @@
+---
+id: GOST-28246.2-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы и покрытия лакокрасочные. Термины и определения. Часть 2. Покрытия
+    лакокрасочные
+  type: main
+docidentifier:
+- content: GOST 28246.2-2025
+  type: GOST
+  primary: true
+docnumber: '28246.2'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28246.2:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77222/
+  ics_code: 01.040.87
+  pages: '33'
+  designation_original: ГОСТ 28246.2-2025

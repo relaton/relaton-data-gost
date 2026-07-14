@@ -1,0 +1,38 @@
+---
+id: GOST-6731
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко, сливки и сгущенное молоко без сахара. Определение общего содержания
+    сухих веществ (контрольный метод)
+  type: main
+docidentifier:
+- content: GOST 6731
+  type: GOST
+  primary: true
+docnumber: '6731'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6731
+  webpage: https://new-shop.ksm.kz/catalog/document/58672/
+  ics_code: 67.100.99
+  pages: '13'
+  designation_original: ГОСТ ISO 6731/IDF 21-2012

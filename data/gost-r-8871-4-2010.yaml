@@ -1,0 +1,49 @@
+---
+id: GOST-R-8871-4-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Эластомерные составляющие для парентеральных систем и изделий для фармацевтических
+    целей. Часть 4. Биологические требования и методы исследования
+  type: main
+docidentifier:
+- content: GOST R 8871-4-2010
+  type: GOST
+  primary: true
+docnumber: 8871-4
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8871-4:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/46852/
+  ics_code: 11.040.20
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 8871-4-2010

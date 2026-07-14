@@ -1,0 +1,49 @@
+---
+id: GOST-17480-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка. Доступная конструкция. Легкое открывание. Общие требования и
+    методы испытания
+  type: main
+docidentifier:
+- content: GOST 17480-2020
+  type: GOST
+  primary: true
+docnumber: '17480'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17480:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/71976/
+  ics_code: '55.020'
+  pages: '46'
+  designation_original: ГОСТ ISO 17480-2020

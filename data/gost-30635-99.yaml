@@ -1,0 +1,49 @@
+---
+id: GOST-30635-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Амортизаторы телескопические гидравлические и гидропневматические механических
+    транспортных средств и прицепов. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 30635-99
+  type: GOST
+  primary: true
+docnumber: '30635'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30635:99
+  webpage: https://new-shop.ksm.kz/catalog/document/39034/
+  ics_code: 43.040.50
+  pages: '15'
+  designation_original: ГОСТ 30635-99

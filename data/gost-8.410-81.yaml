@@ -1,0 +1,50 @@
+---
+id: GOST-8.410-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Государственная
+    поверочная схема для средств измерений температуры плазмы в диапазоне от 10000
+    до 15000 К по излучению в видимой и ультрафиолетовой областях спектра
+  type: main
+docidentifier:
+- content: GOST 8.410-81
+  type: GOST
+  primary: true
+docnumber: '8.410'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.410:81
+  webpage: https://new-shop.ksm.kz/catalog/document/18045/
+  ics_code: 17.200.20
+  pages: '6'
+  designation_original: ГОСТ 8.410-81

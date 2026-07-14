@@ -1,0 +1,48 @@
+---
+id: GOST-25064-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тара транспортная наполненная. Методы испытания на горизонтальный удар
+  type: main
+docidentifier:
+- content: GOST 25064-81
+  type: GOST
+  primary: true
+docnumber: '25064'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25064:81
+  webpage: https://new-shop.ksm.kz/catalog/document/26485/
+  ics_code: 55.180.40
+  pages: '8'
+  designation_original: ГОСТ 25064-81

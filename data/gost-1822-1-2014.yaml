@@ -1,0 +1,49 @@
+---
+id: GOST-1822-1-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фильтры воздушные высокоэффективные (EPA, HEPA и ULPA) Часть 1. Классификация,
+    методы испытаний, маркировка. (IDT EN 1822-1:2009)
+  type: main
+docidentifier:
+- content: GOST 1822-1-2014
+  type: GOST
+  primary: true
+docnumber: 1822-1
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1822-1:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/68023/
+  ics_code: '19.040'
+  pages: '19'
+  designation_original: ГОСТ EN 1822-1-2014

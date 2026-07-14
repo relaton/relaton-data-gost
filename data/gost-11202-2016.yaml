@@ -1,0 +1,50 @@
+---
+id: GOST-11202-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шум машин. Определение уровней звукового давления излучения на рабочем
+    месте и в других контрольных точках с приближенными коррекциями на свойства испытательного
+    пространства
+  type: main
+docidentifier:
+- content: GOST 11202-2016
+  type: GOST
+  primary: true
+docnumber: '11202'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11202:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67453/
+  ics_code: 17.140.20
+  pages: '40'
+  designation_original: ГОСТ ISO 11202-2016

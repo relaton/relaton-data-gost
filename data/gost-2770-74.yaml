@@ -1,0 +1,48 @@
+---
+id: GOST-2770-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло каменноугольное для пропитки древесины. Технические условия
+  type: main
+docidentifier:
+- content: GOST 2770-74
+  type: GOST
+  primary: true
+docnumber: '2770'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2770:74
+  webpage: https://new-shop.ksm.kz/catalog/document/29619/
+  ics_code: 71.100.50
+  pages: '11'
+  designation_original: ГОСТ 2770-74

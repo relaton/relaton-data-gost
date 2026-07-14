@@ -1,0 +1,49 @@
+---
+id: GOST-22512-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фланцы с шипом или пазом стальные на Py до 6,4 МПа (64 кгс/см кв.) и Dy
+    до 300 мм. Присоединительные размеры
+  type: main
+docidentifier:
+- content: GOST 22512-77
+  type: GOST
+  primary: true
+docnumber: '22512'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22512:77
+  webpage: https://new-shop.ksm.kz/catalog/document/20109/
+  ics_code: 23.040.60
+  pages: '9'
+  designation_original: ГОСТ 22512-77

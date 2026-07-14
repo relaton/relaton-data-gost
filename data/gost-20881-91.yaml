@@ -1,0 +1,48 @@
+---
+id: GOST-20881-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фигуры военнослужащих типовые. Шкалы размеров
+  type: main
+docidentifier:
+- content: GOST 20881-91
+  type: GOST
+  primary: true
+docnumber: '20881'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20881:91
+  webpage: https://new-shop.ksm.kz/catalog/document/27586/
+  ics_code: '61.020'
+  pages: '33'
+  designation_original: ГОСТ 20881-91

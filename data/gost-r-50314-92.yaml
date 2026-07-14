@@ -1,0 +1,48 @@
+---
+id: GOST-R-50314-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оптика. Предпочтительные длины волн
+  type: main
+docidentifier:
+- content: GOST R 50314-92
+  type: GOST
+  primary: true
+docnumber: '50314'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50314:92
+  webpage: https://new-shop.ksm.kz/catalog/document/18715/
+  ics_code: '17.180'
+  pages: '7'
+  designation_original: ГОСТ Р 50314-92

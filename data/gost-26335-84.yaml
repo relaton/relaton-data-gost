@@ -1,0 +1,48 @@
+---
+id: GOST-26335-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединения и изделия со стабильными изотопами. Марки
+  type: main
+docidentifier:
+- content: GOST 26335-84
+  type: GOST
+  primary: true
+docnumber: '26335'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26335:84
+  webpage: https://new-shop.ksm.kz/catalog/document/22960/
+  ics_code: 27.120.30
+  pages: '19'
+  designation_original: ГОСТ 26335-84

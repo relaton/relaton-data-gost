@@ -1,0 +1,48 @@
+---
+id: GOST-22354-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гайки высокопрочные класса точности В. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 22354-77
+  type: GOST
+  primary: true
+docnumber: '22354'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22354:77
+  webpage: https://new-shop.ksm.kz/catalog/document/19563/
+  ics_code: 21.060.20
+  pages: '4'
+  designation_original: ГОСТ 22354-77

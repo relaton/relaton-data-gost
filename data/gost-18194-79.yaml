@@ -1,0 +1,49 @@
+---
+id: GOST-18194-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Установки для нижнего слива (налива) нефти и нефтепродуктов  железнодорожных
+    вагонов-цистерн. Технические условия
+  type: main
+docidentifier:
+- content: GOST 18194-79
+  type: GOST
+  primary: true
+docnumber: '18194'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18194:79
+  webpage: https://new-shop.ksm.kz/catalog/document/25973/
+  ics_code: 45.060.20
+  pages: '12'
+  designation_original: ГОСТ 18194-79

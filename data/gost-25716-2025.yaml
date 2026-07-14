@@ -1,0 +1,48 @@
+---
+id: GOST-25716-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Волокно полиэфирное хлопкового типа. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 25716-2025
+  type: GOST
+  primary: true
+docnumber: '25716'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25716:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76396/
+  ics_code: 59.060.20
+  pages: '8'
+  designation_original: ГОСТ 25716-2025

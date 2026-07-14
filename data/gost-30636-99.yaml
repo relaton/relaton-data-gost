@@ -1,0 +1,48 @@
+---
+id: GOST-30636-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Багажники велосипедные. Требования безопасности и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 30636-99
+  type: GOST
+  primary: true
+docnumber: '30636'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30636:99
+  webpage: https://new-shop.ksm.kz/catalog/document/25853/
+  ics_code: '43.150'
+  pages: '8'
+  designation_original: ГОСТ 30636-99

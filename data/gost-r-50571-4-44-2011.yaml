@@ -1,0 +1,49 @@
+---
+id: GOST-R-50571-4-44-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроустановки низковольтные. Часть 4-44. Требования по обеспечению безопасности.
+    Защита от отклонений напряжения и электромагнитных помех
+  type: main
+docidentifier:
+- content: GOST R 50571-4-44-2011
+  type: GOST
+  primary: true
+docnumber: 50571-4-44
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50571-4-44:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48852/
+  ics_code: 91.140.50
+  pages: '50'
+  designation_original: ГОСТ Р 50571-4-44-2011 (МЭК 60364-4-44:2007)

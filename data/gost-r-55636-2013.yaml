@@ -1,0 +1,50 @@
+---
+id: GOST-R-55636-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Протезирование. Испытание голеностопных узлов и узлов стоп. Руководство
+    по применению условий нагружения при испытаниях по ИСО 22675 и конструкции используемого
+    испытательного оборудования
+  type: main
+docidentifier:
+- content: GOST R 55636-2013
+  type: GOST
+  primary: true
+docnumber: '55636'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55636:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56758/
+  ics_code: 11.180.10
+  pages: '61'
+  designation_original: ГОСТ Р 55636-2013/ISO/TR 22676:2006

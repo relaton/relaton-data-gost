@@ -1,0 +1,49 @@
+---
+id: GOST-34491-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Переоборудование тракторов и машин сельскохозяйственных для работы на газомоторном
+    топливе. Требования безопасности.
+  type: main
+docidentifier:
+- content: GOST 34491-2018
+  type: GOST
+  primary: true
+docnumber: '34491'
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34491:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/71272/
+  ics_code: 65.060.10
+  pages: '11'
+  designation_original: ГОСТ 34491-2018

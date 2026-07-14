@@ -1,0 +1,49 @@
+---
+id: GOST-30163.2-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бытовые и аналогичные электрические приборы. Методы определения распространяющегося
+    в воздухе шума. Часть 2. Дополнительные требования к посудомоечным машинам
+  type: main
+docidentifier:
+- content: GOST 30163.2-96
+  type: GOST
+  primary: true
+docnumber: '30163.2'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30163.2:96
+  webpage: https://new-shop.ksm.kz/catalog/document/18644/
+  ics_code: 17.140.20
+  pages: '12'
+  designation_original: ГОСТ 30163.2-96

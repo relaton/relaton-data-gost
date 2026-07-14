@@ -1,0 +1,49 @@
+---
+id: GOST-34601-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автомобильные транспортные средства, работающие на сжиженном природном
+    газе. Криогенные системы питания.  Технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 34601-2019
+  type: GOST
+  primary: true
+docnumber: '34601'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34601:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71288/
+  ics_code: 43.060.40
+  pages: '32'
+  designation_original: ГОСТ 34601-2019

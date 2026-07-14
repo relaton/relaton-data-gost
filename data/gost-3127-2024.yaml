@@ -1,0 +1,49 @@
+---
+id: GOST-3127-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы из термопластов. Определение ударной прочности. Метод нанесения ударов
+    по периметру сечения с поворотом трубы
+  type: main
+docidentifier:
+- content: GOST 3127-2024
+  type: GOST
+  primary: true
+docnumber: '3127'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3127:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75728/
+  ics_code: '23.040'
+  pages: '16'
+  designation_original: ГОСТ ISO 3127-2024

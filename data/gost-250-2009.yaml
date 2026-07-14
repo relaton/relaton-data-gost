@@ -1,0 +1,49 @@
+---
+id: GOST-250-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Средства индивидуальной защиты органов дыхания. Автономные резервуарные
+    подводные дыхательные аппараты на сжатом воздухе. Требования, испытания, маркировка
+  type: main
+docidentifier:
+- content: GOST 250-2009
+  type: GOST
+  primary: true
+docnumber: '250'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:250:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42383/
+  ics_code: 13.340.30
+  pages: '13'
+  designation_original: ГОСТ ЕН 250-2009

@@ -1,0 +1,48 @@
+---
+id: GOST-18353-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контроль неразрушающий. Классификация видов и методов
+  type: main
+docidentifier:
+- content: GOST 18353-79
+  type: GOST
+  primary: true
+docnumber: '18353'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18353:79
+  webpage: https://new-shop.ksm.kz/catalog/document/18962/
+  ics_code: '19.100'
+  pages: '12'
+  designation_original: ГОСТ 18353-79

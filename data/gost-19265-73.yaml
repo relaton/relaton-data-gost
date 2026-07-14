@@ -1,0 +1,48 @@
+---
+id: GOST-19265-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Прутки и полосы из быстрорежущей стали. Технические условия
+  type: main
+docidentifier:
+- content: GOST 19265-73
+  type: GOST
+  primary: true
+docnumber: '19265'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19265:73
+  webpage: https://new-shop.ksm.kz/catalog/document/32832/
+  ics_code: 77.140.60
+  pages: '22'
+  designation_original: ГОСТ 19265-73

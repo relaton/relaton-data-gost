@@ -1,0 +1,49 @@
+---
+id: GOST-8709-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Щитки осветительные для промышленных и общественных зданий. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 8709-82
+  type: GOST
+  primary: true
+docnumber: '8709'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8709:82
+  webpage: https://new-shop.ksm.kz/catalog/document/40658/
+  ics_code: 91.140.50
+  pages: '20'
+  designation_original: ГОСТ 8709-82

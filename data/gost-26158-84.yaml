@@ -1,0 +1,49 @@
+---
+id: GOST-26158-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сосуды и аппараты из цветных металлов. Нормы и методы расчета на прочность.
+    Общие требования
+  type: main
+docidentifier:
+- content: GOST 26158-84
+  type: GOST
+  primary: true
+docnumber: '26158'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26158:84
+  webpage: https://new-shop.ksm.kz/catalog/document/30369/
+  ics_code: 71.120.01
+  pages: '11'
+  designation_original: ГОСТ 26158-84

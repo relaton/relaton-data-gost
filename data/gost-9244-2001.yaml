@@ -1,0 +1,49 @@
+---
+id: GOST-9244-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Знаки безопасности и символические изображения опасности.
+    Основные принципы
+  type: main
+docidentifier:
+- content: GOST 9244-2001
+  type: GOST
+  primary: true
+docnumber: '9244'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9244:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/38938/
+  ics_code: '53.100'
+  pages: '36'
+  designation_original: ГОСТ ИСО 9244-2001

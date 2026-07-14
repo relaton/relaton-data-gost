@@ -1,0 +1,49 @@
+---
+id: GOST-60702-1-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели с минеральной изоляцией и концевые заделки к ним на номинальное
+    напряжение не более 750 В. Часть 1. Кабели
+  type: main
+docidentifier:
+- content: GOST 60702-1-2017
+  type: GOST
+  primary: true
+docnumber: 60702-1
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60702-1:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/74404/
+  ics_code: 29.060.10
+  pages: '23'
+  designation_original: ГОСТ IEC 60702-1-2017

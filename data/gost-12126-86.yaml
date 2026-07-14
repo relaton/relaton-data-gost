@@ -1,0 +1,48 @@
+---
+id: GOST-12126-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины электрические малой мощности. Установочные и присоединительные размеры
+  type: main
+docidentifier:
+- content: GOST 12126-86
+  type: GOST
+  primary: true
+docnumber: '12126'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12126:86
+  webpage: https://new-shop.ksm.kz/catalog/document/23302/
+  ics_code: 29.160.01
+  pages: '50'
+  designation_original: ГОСТ 12126-86

@@ -1,0 +1,48 @@
+---
+id: GOST-6310-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Накладки тормозные. Методы испытания на деформацию при сжатии
+  type: main
+docidentifier:
+- content: GOST 6310-2014
+  type: GOST
+  primary: true
+docnumber: '6310'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6310:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61869/
+  ics_code: 83.140.01
+  pages: '20'
+  designation_original: ГОСТ ISO 6310-2014

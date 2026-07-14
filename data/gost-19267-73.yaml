@@ -1,0 +1,49 @@
+---
+id: GOST-19267-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Развертки машинные цилиндрические с цилиндрическим хвостовиком для обработки
+    деталей из легких сплавов. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 19267-73
+  type: GOST
+  primary: true
+docnumber: '19267'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19267:73
+  webpage: https://new-shop.ksm.kz/catalog/document/21374/
+  ics_code: 25.100.30
+  pages: '6'
+  designation_original: ГОСТ 19267-73

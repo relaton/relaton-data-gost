@@ -1,0 +1,49 @@
+---
+id: GOST-26126-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контроль неразрушающий. Соединения паяные. Ультразвуковые методы контроля
+    качества
+  type: main
+docidentifier:
+- content: GOST 26126-84
+  type: GOST
+  primary: true
+docnumber: '26126'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26126:84
+  webpage: https://new-shop.ksm.kz/catalog/document/21871/
+  ics_code: 77.040.20
+  pages: '9'
+  designation_original: ГОСТ 26126-84

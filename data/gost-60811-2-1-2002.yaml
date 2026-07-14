@@ -1,0 +1,50 @@
+---
+id: GOST-60811-2-1-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Специальные методы испытаний эластомерных композиций изоляции и оболочек
+    электрических и оптических кабелей. Испытание на озоностойкость, тепловую деформацию
+    и маслостойкость
+  type: main
+docidentifier:
+- content: GOST 60811-2-1-2002
+  type: GOST
+  primary: true
+docnumber: 60811-2-1
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60811-2-1:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38831/
+  ics_code: 29.035.20
+  pages: '10'
+  designation_original: ГОСТ МЭК 60811-2-1-2002

@@ -1,0 +1,48 @@
+---
+id: GOST-12307-1-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подшипники скольжения. Свертные втулки. Контроль наружного диаметра
+  type: main
+docidentifier:
+- content: GOST 12307-1-96
+  type: GOST
+  primary: true
+docnumber: 12307-1
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12307-1:96
+  webpage: https://new-shop.ksm.kz/catalog/document/19712/
+  ics_code: 21.100.10
+  pages: '23'
+  designation_original: ГОСТ ИСО 12307-1-96

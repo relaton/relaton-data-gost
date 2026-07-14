@@ -1,0 +1,49 @@
+---
+id: GOST-16518-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тиски станочные с ручным и механизированным приводами. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 16518-96
+  type: GOST
+  primary: true
+docnumber: '16518'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16518:96
+  webpage: https://new-shop.ksm.kz/catalog/document/22290/
+  ics_code: 25.060.20
+  pages: '25'
+  designation_original: ГОСТ 16518-96

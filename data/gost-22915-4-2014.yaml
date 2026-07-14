@@ -1,0 +1,50 @@
+---
+id: GOST-22915-4-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автопогрузчики промышленные. Проверка устойчивости. Часть 4. Штабелеры
+    для поддонов с грузом, сдвоенные штабелеры и комплектующие заказ автопогрузчики
+    с позицией оператора до 1200 мм включительно
+  type: main
+docidentifier:
+- content: GOST 22915-4-2014
+  type: GOST
+  primary: true
+docnumber: 22915-4
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22915-4:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62287/
+  ics_code: '53.060'
+  pages: '16'
+  designation_original: ГОСТ ISO 22915-4-2014

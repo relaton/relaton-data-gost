@@ -1,0 +1,49 @@
+---
+id: GOST-4680-49
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Методы пересчета массы гигроскопических материалов и продуктов при отклонении
+    их влажности от нормированной
+  type: main
+docidentifier:
+- content: GOST 4680-49
+  type: GOST
+  primary: true
+docnumber: '4680'
+date:
+- type: published
+  from: '1949-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1949'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4680:49
+  webpage: https://new-shop.ksm.kz/catalog/document/18196/
+  ics_code: '17.060'
+  pages: '15'
+  designation_original: ГОСТ 4680-49

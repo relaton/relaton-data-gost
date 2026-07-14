@@ -1,0 +1,49 @@
+---
+id: GOST-10220-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кокс.  Методы определения действительной относительной и кажущейся относительной
+    плотности и пористости
+  type: main
+docidentifier:
+- content: GOST 10220-82
+  type: GOST
+  primary: true
+docnumber: '10220'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10220:82
+  webpage: https://new-shop.ksm.kz/catalog/document/31461/
+  ics_code: 75.160.10
+  pages: '23'
+  designation_original: ГОСТ 10220-82

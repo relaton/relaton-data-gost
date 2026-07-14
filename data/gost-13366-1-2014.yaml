@@ -1,0 +1,49 @@
+---
+id: GOST-13366-1-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко. Подсчет соматических клеток. Часть 1. Метод с применением микроскопа
+    (контрольный метод)
+  type: main
+docidentifier:
+- content: GOST 13366-1-2014
+  type: GOST
+  primary: true
+docnumber: 13366-1
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13366-1:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/65742/
+  ics_code: 67.100.10
+  pages: '20'
+  designation_original: ГОСТ ISO 13366-1-2014

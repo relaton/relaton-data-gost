@@ -1,0 +1,49 @@
+---
+id: GOST-8675-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гайки шестигранные низкие с фаской (тип 0) с мелким шагом резьбы. Классы
+    точности А и В
+  type: main
+docidentifier:
+- content: GOST 8675-2014
+  type: GOST
+  primary: true
+docnumber: '8675'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8675:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62282/
+  ics_code: 21.060.20
+  pages: '12'
+  designation_original: ГОСТ ISO 8675-2014

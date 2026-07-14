@@ -1,0 +1,49 @@
+---
+id: GOST-26382-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двигатели газотурбинные гражданской авиации. Допустимые уровни вибрации
+    и общие требования к контролю вибрации
+  type: main
+docidentifier:
+- content: GOST 26382-84
+  type: GOST
+  primary: true
+docnumber: '26382'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26382:84
+  webpage: https://new-shop.ksm.kz/catalog/document/17373/
+  ics_code: '49.050'
+  pages: '15'
+  designation_original: ГОСТ 26382-84

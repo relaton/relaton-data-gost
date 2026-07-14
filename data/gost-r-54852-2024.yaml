@@ -1,0 +1,49 @@
+---
+id: GOST-R-54852-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Здания и сооружения. Методы определения показателей теплозащитной оболочки
+    на базе тепловизионного обследования и натурных измерений
+  type: main
+docidentifier:
+- content: GOST R 54852-2024
+  type: GOST
+  primary: true
+docnumber: '54852'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54852:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76179/
+  ics_code: 91.120.10
+  pages: '40'
+  designation_original: ГОСТ Р 54852-2024

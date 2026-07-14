@@ -1,0 +1,48 @@
+---
+id: GOST-851.6-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Магний первичный. Метод определения марганца
+  type: main
+docidentifier:
+- content: GOST 851.6-93
+  type: GOST
+  primary: true
+docnumber: '851.6'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:851.6:93
+  webpage: https://new-shop.ksm.kz/catalog/document/31859/
+  ics_code: 77.120.20
+  pages: '9'
+  designation_original: ГОСТ 851.6-93

@@ -1,0 +1,50 @@
+---
+id: GOST-R-19785-2-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автоматическая идентификация. Идентификация биометрическая. Единая структура
+    форматов обмена биометрическими данными. Часть 2. Процедуры действий регистрационного
+    органа в области биометрии
+  type: main
+docidentifier:
+- content: GOST R 19785-2-2008
+  type: GOST
+  primary: true
+docnumber: 19785-2
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:19785-2:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41412/
+  ics_code: '35.040'
+  pages: '20'
+  designation_original: ГОСТ Р ИСО/МЭК 19785-2-2008

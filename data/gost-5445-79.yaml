@@ -1,0 +1,48 @@
+---
+id: GOST-5445-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты коксования химические. Правила приемки и методы отбора проб
+  type: main
+docidentifier:
+- content: GOST 5445-79
+  type: GOST
+  primary: true
+docnumber: '5445'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5445:79
+  webpage: https://new-shop.ksm.kz/catalog/document/31355/
+  ics_code: 75.160.10
+  pages: '14'
+  designation_original: ГОСТ 5445-79

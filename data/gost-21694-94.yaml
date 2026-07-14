@@ -1,0 +1,48 @@
+---
+id: GOST-21694-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование сварочное механическое. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 21694-94
+  type: GOST
+  primary: true
+docnumber: '21694'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21694:94
+  webpage: https://new-shop.ksm.kz/catalog/document/21673/
+  ics_code: 25.160.30
+  pages: '16'
+  designation_original: ГОСТ 21694-94

@@ -1,0 +1,49 @@
+---
+id: GOST-8851-3-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло сливочное. Определение содержания влаги, обезжиренного сухого вещества
+    и жира (стандартные методы). Часть 3. Расчет содержания жира
+  type: main
+docidentifier:
+- content: GOST 8851-3-2024
+  type: GOST
+  primary: true
+docnumber: 8851-3
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8851-3:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76062/
+  ics_code: 67.100.20
+  pages: '11'
+  designation_original: ГОСТ ISO 8851-3-2024

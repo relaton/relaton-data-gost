@@ -1,0 +1,49 @@
+---
+id: GOST-R-55607-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрооборудование и электроустановки для систем электроснабжения машин
+    и механизмов открытых горных работ. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 55607-2013
+  type: GOST
+  primary: true
+docnumber: '55607'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55607:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57430/
+  ics_code: 29.260.01
+  pages: '20'
+  designation_original: ГОСТ Р 55607-2013

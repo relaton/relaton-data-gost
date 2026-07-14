@@ -1,0 +1,48 @@
+---
+id: GOST-28583-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефтепродукты. Определение содержания золы
+  type: main
+docidentifier:
+- content: GOST 28583-90
+  type: GOST
+  primary: true
+docnumber: '28583'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28583:90
+  webpage: https://new-shop.ksm.kz/catalog/document/31724/
+  ics_code: '75.080'
+  pages: '3'
+  designation_original: ГОСТ 28583-90

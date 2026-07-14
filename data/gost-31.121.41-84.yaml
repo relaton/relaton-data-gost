@@ -1,0 +1,49 @@
+---
+id: GOST-31.121.41-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Детали и сборочные единицы универсально-сборочной переналаживаемой оснастки
+    к металлорежущим станкам. Конструктивные элементы. Основные параметры. Нормы точности
+  type: main
+docidentifier:
+- content: GOST 31.121.41-84
+  type: GOST
+  primary: true
+docnumber: 31.121.41
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31.121.41:84
+  webpage: https://new-shop.ksm.kz/catalog/document/20417/
+  ics_code: 25.060.01
+  pages: '11'
+  designation_original: ГОСТ 31.121.41-84

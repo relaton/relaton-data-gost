@@ -1,0 +1,48 @@
+---
+id: GOST-1510-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть и нефтепродукты. Маркировка, упаковка, транспортирование и хранение
+  type: main
+docidentifier:
+- content: GOST 1510-84
+  type: GOST
+  primary: true
+docnumber: '1510'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1510:84
+  webpage: https://new-shop.ksm.kz/catalog/document/31298/
+  ics_code: '75.080'
+  pages: '35'
+  designation_original: ГОСТ 1510-84

@@ -1,0 +1,49 @@
+---
+id: GOST-R-25645.167-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Космическая среда (естественная и искусственная). Модель пространственно-временного
+    распределения плотности потоков техногенного вещества в космическом пространстве
+  type: main
+docidentifier:
+- content: GOST R 25645.167-2005
+  type: GOST
+  primary: true
+docnumber: '25645.167'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:25645.167:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/16311/
+  ics_code: '07.040'
+  pages: '45'
+  designation_original: ГОСТ Р 25645.167-2005

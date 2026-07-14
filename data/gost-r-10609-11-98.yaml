@@ -1,0 +1,51 @@
+---
+id: GOST-R-10609-11-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Функциональный стандарт. Профили ТВ, ТС, ТD
+    и ТЕ. Услуги транспортного уровня в режиме с установлением соединения с использованием
+    услуг сетевого уровня в режиме с установлением соединения. Часть 11. Требования(см.
+    описание...)
+  type: main
+docidentifier:
+- content: GOST R 10609-11-98
+  type: GOST
+  primary: true
+docnumber: 10609-11
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10609-11:98
+  webpage: https://new-shop.ksm.kz/catalog/document/25476/
+  ics_code: 35.100.05
+  pages: '8'
+  designation_original: ГОСТ Р ИСО/МЭК МФС 10609-11-98

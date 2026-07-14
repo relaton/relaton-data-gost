@@ -1,0 +1,49 @@
+---
+id: GOST-6039-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоты ковочные и штамповочные. Размеры элементов крепления штампов и бойков
+    в бабе и подушке
+  type: main
+docidentifier:
+- content: GOST 6039-82
+  type: GOST
+  primary: true
+docnumber: '6039'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6039:82
+  webpage: https://new-shop.ksm.kz/catalog/document/20545/
+  ics_code: 25.120.10
+  pages: '16'
+  designation_original: ГОСТ 6039-82

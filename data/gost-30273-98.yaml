@@ -1,0 +1,48 @@
+---
+id: GOST-30273-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты круглые и прямоугольные электромагнитные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 30273-98
+  type: GOST
+  primary: true
+docnumber: '30273'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30273:98
+  webpage: https://new-shop.ksm.kz/catalog/document/22793/
+  ics_code: 25.060.20
+  pages: '19'
+  designation_original: ГОСТ 30273-98

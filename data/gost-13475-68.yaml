@@ -1,0 +1,49 @@
+---
+id: GOST-13475-68
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединение для закрытой заправки топливом самолетов и вертолетов. Размеры
+    и технические требования
+  type: main
+docidentifier:
+- content: GOST 13475-68
+  type: GOST
+  primary: true
+docnumber: '13475'
+date:
+- type: published
+  from: '1968-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1968'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13475:68
+  webpage: https://new-shop.ksm.kz/catalog/document/611/
+  ics_code: '49.100'
+  pages: '6'
+  designation_original: ГОСТ 13475-68

@@ -1,0 +1,50 @@
+---
+id: GOST-12925-1-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Смазки, индустриальные масла и родственные продукты (класс L). Семейство
+    С (зубчатые передачи). Часть 1. Технические требования к смазкам для закрытых
+    зубчатых передач
+  type: main
+docidentifier:
+- content: GOST 12925-1-2013
+  type: GOST
+  primary: true
+docnumber: 12925-1
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12925-1:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57211/
+  ics_code: '75.080'
+  pages: '16'
+  designation_original: ГОСТ ISO 12925-1-2013

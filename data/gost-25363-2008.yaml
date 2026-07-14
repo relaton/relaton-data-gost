@@ -1,0 +1,49 @@
+---
+id: GOST-25363-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Концентраты цинковые. Атомно-абсорбционные методы определения золота и
+    серебра
+  type: main
+docidentifier:
+- content: GOST 25363-2008
+  type: GOST
+  primary: true
+docnumber: '25363'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25363:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/38218/
+  ics_code: 73.060.99
+  pages: '24'
+  designation_original: ГОСТ 25363-2008

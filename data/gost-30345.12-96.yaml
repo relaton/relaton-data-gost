@@ -1,0 +1,49 @@
+---
+id: GOST-30345.12-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность бытовых и аналогичных электрических приборов. Дополнительные
+    требования к электрическим утюгам
+  type: main
+docidentifier:
+- content: GOST 30345.12-96
+  type: GOST
+  primary: true
+docnumber: '30345.12'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30345.12:96
+  webpage: https://new-shop.ksm.kz/catalog/document/37995/
+  ics_code: '97.060'
+  pages: '15'
+  designation_original: ГОСТ 30345.12-96

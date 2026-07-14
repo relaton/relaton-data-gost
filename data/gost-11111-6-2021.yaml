@@ -1,0 +1,48 @@
+---
+id: GOST-11111-6-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины текстильные. Требования безопасности. Часть 6. Ткацкое оборудование
+  type: main
+docidentifier:
+- content: GOST 11111-6-2021
+  type: GOST
+  primary: true
+docnumber: 11111-6
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11111-6:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/74664/
+  ics_code: 59.120.01
+  pages: '28'
+  designation_original: ГОСТ ISO 11111-6-2021

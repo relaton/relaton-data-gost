@@ -1,0 +1,48 @@
+---
+id: GOST-26597-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Подсолнечник. Метод определения кислотного числа масла с применением pН-метрии
+  type: main
+docidentifier:
+- content: GOST 26597-89
+  type: GOST
+  primary: true
+docnumber: '26597'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26597:89
+  webpage: https://new-shop.ksm.kz/catalog/document/28990/
+  ics_code: 67.200.20
+  pages: '12'
+  designation_original: ГОСТ 26597-89

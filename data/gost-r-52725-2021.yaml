@@ -1,0 +1,49 @@
+---
+id: GOST-R-52725-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ограничители перенапряжений нелинейные для электроустановок переменного
+    тока напряжением от 3 до 750 кВ. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 52725-2021
+  type: GOST
+  primary: true
+docnumber: '52725'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52725:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/76054/
+  ics_code: 29.120.50
+  pages: '48'
+  designation_original: ГОСТ Р 52725-2021

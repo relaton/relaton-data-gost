@@ -1,0 +1,48 @@
+---
+id: GOST-29148-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кофе натуральный растворимый. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 29148-2003
+  type: GOST
+  primary: true
+docnumber: '29148'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29148:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/38386/
+  ics_code: '67.140'
+  pages: '17'
+  designation_original: ГОСТ 29148-2003

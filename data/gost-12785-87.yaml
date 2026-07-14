@@ -1,0 +1,48 @@
+---
+id: GOST-12785-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бумага для электролитических конденсаторов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 12785-87
+  type: GOST
+  primary: true
+docnumber: '12785'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12785:87
+  webpage: https://new-shop.ksm.kz/catalog/document/23331/
+  ics_code: 29.035.10
+  pages: '12'
+  designation_original: ГОСТ 12785-87

@@ -1,0 +1,50 @@
+---
+id: GOST-32430-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Воздухонагреватели смесительные передвижные и переносные небытового назначения
+    с принудительной конвекцией, работающие на сжиженных углеводородных газах. Общие
+    технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 32430-2013
+  type: GOST
+  primary: true
+docnumber: '32430'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32430:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56549/
+  ics_code: 97.100.20
+  pages: '40'
+  designation_original: ГОСТ 32430-2013 (EN 1596:1998)

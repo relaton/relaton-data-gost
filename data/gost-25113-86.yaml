@@ -1,0 +1,49 @@
+---
+id: GOST-25113-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контроль неразрушающий. Аппараты рентгеновские для промышленной дефектоскопии.
+    Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 25113-86
+  type: GOST
+  primary: true
+docnumber: '25113'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25113:86
+  webpage: https://new-shop.ksm.kz/catalog/document/18996/
+  ics_code: '19.100'
+  pages: '31'
+  designation_original: ГОСТ 25113-86

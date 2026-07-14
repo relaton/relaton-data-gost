@@ -1,0 +1,48 @@
+---
+id: GOST-31948-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лампы разрядные (кроме люминесцентных ламп). Требования безопасности
+  type: main
+docidentifier:
+- content: GOST 31948-2012
+  type: GOST
+  primary: true
+docnumber: '31948'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31948:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/55018/
+  ics_code: 29.140.30
+  pages: '28'
+  designation_original: ГОСТ 31948-2012 (IEC 62035:1999)

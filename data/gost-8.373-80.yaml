@@ -1,0 +1,51 @@
+---
+id: GOST-8.373-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Государственный
+    специальный эталон и общесоюзная поверочная схема для средств измерений объемного
+    расхода нефтепродуктов в диапазоне от 2,8х10 в ст. минус 6 до 2,8х10 в ст. минус
+    2 м куб./с
+  type: main
+docidentifier:
+- content: GOST 8.373-80
+  type: GOST
+  primary: true
+docnumber: '8.373'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.373:80
+  webpage: https://new-shop.ksm.kz/catalog/document/18026/
+  ics_code: '17.120'
+  pages: '7'
+  designation_original: ГОСТ 8.373-80

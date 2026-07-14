@@ -1,0 +1,48 @@
+---
+id: GOST-19700-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ткани смешанные технические для конвейерных лент. Технические условия
+  type: main
+docidentifier:
+- content: GOST 19700-91
+  type: GOST
+  primary: true
+docnumber: '19700'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19700:91
+  webpage: https://new-shop.ksm.kz/catalog/document/27057/
+  ics_code: 59.080.40
+  pages: '11'
+  designation_original: ГОСТ 19700-91

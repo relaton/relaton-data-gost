@@ -1,0 +1,49 @@
+---
+id: GOST-30-1-4-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: 'Плиты газовые бытовые. Часть 1-4: Требования безопасности. Приборы с одной
+    или более горелками с системой автоматического управления'
+  type: main
+docidentifier:
+- content: GOST 30-1-4-2009
+  type: GOST
+  primary: true
+docnumber: 30-1-4
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30-1-4:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42427/
+  ics_code: 97.040.20
+  pages: '97'
+  designation_original: ГОСТ ЕН 30-1-4-2009

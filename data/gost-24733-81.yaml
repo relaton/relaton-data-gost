@@ -1,0 +1,49 @@
+---
+id: GOST-24733-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гнезда и штепсели однополюсные с диаметром контактов 1,6 и 4,0 мм. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 24733-81
+  type: GOST
+  primary: true
+docnumber: '24733'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24733:81
+  webpage: https://new-shop.ksm.kz/catalog/document/24824/
+  ics_code: 33.050.10
+  pages: '28'
+  designation_original: ГОСТ 24733-81

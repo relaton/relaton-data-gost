@@ -1,0 +1,49 @@
+---
+id: GOST-R-51053-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Замки сейфовые. Требования и методы испытаний на устойчивость к несанкционированному
+    открыванию
+  type: main
+docidentifier:
+- content: GOST R 51053-2012
+  type: GOST
+  primary: true
+docnumber: '51053'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51053:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58685/
+  ics_code: '13.310'
+  pages: '41'
+  designation_original: ГОСТ Р 51053-2012 (ЕН 1300:2004)

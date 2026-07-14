@@ -1,0 +1,49 @@
+---
+id: GOST-R-21748-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Статистические методы. Руководство по использованию оценок повторяемости,
+    воспроизводимости и правильности при оценке неопределенности измерений
+  type: main
+docidentifier:
+- content: GOST R 21748-2021
+  type: GOST
+  primary: true
+docnumber: '21748'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:21748:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/74360/
+  ics_code: 03.120.30
+  pages: '36'
+  designation_original: ГОСТ Р ИСО 21748-2021

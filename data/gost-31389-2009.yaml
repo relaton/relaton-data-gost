@@ -1,0 +1,49 @@
+---
+id: GOST-31389-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масла смазочные и присадки. Методы определения бария, кальция, фосфора,
+    серы, цинка рентгенофлуоресцентной спектроскопией с волновой дисперсией
+  type: main
+docidentifier:
+- content: GOST 31389-2009
+  type: GOST
+  primary: true
+docnumber: '31389'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31389:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/41445/
+  ics_code: 75.160.20
+  pages: '75'
+  designation_original: ГОСТ 31389-2009

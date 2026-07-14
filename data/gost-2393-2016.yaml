@@ -1,0 +1,49 @@
+---
+id: GOST-2393-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Смеси резиновые для испытаний. Приготовление, смешение и вулканизация.
+    Оборудование и процедуры
+  type: main
+docidentifier:
+- content: GOST 2393-2016
+  type: GOST
+  primary: true
+docnumber: '2393'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2393:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67686/
+  ics_code: '83.060'
+  pages: '28'
+  designation_original: ГОСТ ISO 2393-2016

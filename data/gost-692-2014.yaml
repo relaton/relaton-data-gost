@@ -1,0 +1,48 @@
+---
+id: GOST-692-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность металлообрабатывающих станков. Прессы механические
+  type: main
+docidentifier:
+- content: GOST 692-2014
+  type: GOST
+  primary: true
+docnumber: '692'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:692:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/62072/
+  ics_code: '13.110'
+  pages: '62'
+  designation_original: ГОСТ EN 692-2014

@@ -1,0 +1,49 @@
+---
+id: GOST-28640-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масла минеральные электроизоляционные. Метод определения ароматических
+    углеводородов
+  type: main
+docidentifier:
+- content: GOST 28640-90
+  type: GOST
+  primary: true
+docnumber: '28640'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28640:90
+  webpage: https://new-shop.ksm.kz/catalog/document/23949/
+  ics_code: 29.040.10
+  pages: '7'
+  designation_original: ГОСТ 28640-90

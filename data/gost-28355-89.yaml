@@ -1,0 +1,49 @@
+---
+id: GOST-28355-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гибкие производственные системы. Гибкие производственные модули окрасочные.
+    Нормы надежности и общие требования к методам их контроля
+  type: main
+docidentifier:
+- content: GOST 28355-89
+  type: GOST
+  primary: true
+docnumber: '28355'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28355:89
+  webpage: https://new-shop.ksm.kz/catalog/document/16044/
+  ics_code: 03.120.10
+  pages: '4'
+  designation_original: ГОСТ 28355-89

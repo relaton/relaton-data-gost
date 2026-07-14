@@ -1,0 +1,49 @@
+---
+id: GOST-28055-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Саженцы деревьев и кустарников. Садовые и архитектурные формы. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 28055-89
+  type: GOST
+  primary: true
+docnumber: '28055'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28055:89
+  webpage: https://new-shop.ksm.kz/catalog/document/28089/
+  ics_code: 65.020.40
+  pages: '19'
+  designation_original: ГОСТ 28055-89

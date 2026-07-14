@@ -1,0 +1,49 @@
+---
+id: GOST-2.422-70
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система конструкторской документации. Правила выполнения рабочих
+    чертежей, цилиндрических зубчатых колес, передач Новикова с двумя линиями зацепления
+  type: main
+docidentifier:
+- content: GOST 2.422-70
+  type: GOST
+  primary: true
+docnumber: '2.422'
+date:
+- type: published
+  from: '1970-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1970'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2.422:70
+  webpage: https://new-shop.ksm.kz/catalog/document/14536/
+  ics_code: 01.100.20
+  pages: '2'
+  designation_original: ГОСТ 2.422-70

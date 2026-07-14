@@ -1,0 +1,49 @@
+---
+id: GOST-21106.2-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лампы генераторные, мощностью рассеиваемой анодом, свыше 25 Вт. Метод измерения
+    относительного уровня комбинационных составляющих
+  type: main
+docidentifier:
+- content: GOST 21106.2-75
+  type: GOST
+  primary: true
+docnumber: '21106.2'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21106.2:75
+  webpage: https://new-shop.ksm.kz/catalog/document/24362/
+  ics_code: '31.100'
+  pages: '21'
+  designation_original: ГОСТ 21106.2-75

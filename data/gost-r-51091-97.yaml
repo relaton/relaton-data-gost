@@ -1,0 +1,48 @@
+---
+id: GOST-R-51091-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Установки порошкового пожаротушения автоматические. Типы и основные параметры
+  type: main
+docidentifier:
+- content: GOST R 51091-97
+  type: GOST
+  primary: true
+docnumber: '51091'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51091:97
+  webpage: https://new-shop.ksm.kz/catalog/document/17633/
+  ics_code: 13.220.10
+  pages: '15'
+  designation_original: ГОСТ Р 51091-97

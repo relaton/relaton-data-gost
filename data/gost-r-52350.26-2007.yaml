@@ -1,0 +1,49 @@
+---
+id: GOST-R-52350.26-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Взрывоопасные среды. Часть 26. Оборудование с уровнем взрывозащиты оборудования
+    Gа
+  type: main
+docidentifier:
+- content: GOST R 52350.26-2007
+  type: GOST
+  primary: true
+docnumber: '52350.26'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52350.26:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/40716/
+  ics_code: 29.260.20
+  pages: '20'
+  designation_original: ГОСТ Р 52350.26-2007

@@ -1,0 +1,49 @@
+---
+id: GOST-R-57064-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ресурсосбережение. Обращение с отходами. Система статистического наблюдения
+    на этапах технологического цикла отходов
+  type: main
+docidentifier:
+- content: GOST R 57064-2016
+  type: GOST
+  primary: true
+docnumber: '57064'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57064:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65488/
+  ics_code: 13.030.01
+  pages: '16'
+  designation_original: ГОСТ Р 57064-2016

@@ -1,0 +1,49 @@
+---
+id: GOST-19434-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Грузовые единицы, транспортные средства и склады. Основные присоединительные
+    размеры
+  type: main
+docidentifier:
+- content: GOST 19434-74
+  type: GOST
+  primary: true
+docnumber: '19434'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19434:74
+  webpage: https://new-shop.ksm.kz/catalog/document/26426/
+  ics_code: '55.020'
+  pages: '4'
+  designation_original: ГОСТ 19434-74

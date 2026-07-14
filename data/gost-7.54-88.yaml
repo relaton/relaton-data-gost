@@ -1,0 +1,50 @@
+---
+id: GOST-7.54-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов по информации, библиотечному и издательскому делу. Представление
+    численных данных о свойствах веществ и материалов в научно-технических документах.
+    Общие требования
+  type: main
+docidentifier:
+- content: GOST 7.54-88
+  type: GOST
+  primary: true
+docnumber: '7.54'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7.54:88
+  webpage: https://new-shop.ksm.kz/catalog/document/14670/
+  ics_code: 01.140.20
+  pages: '10'
+  designation_original: ГОСТ 7.54-88

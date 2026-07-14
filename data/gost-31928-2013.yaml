@@ -1,0 +1,49 @@
+---
+id: GOST-31928-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Средства лекарственные для ветеринарного применения пробиотические. Методы
+    определения пробиотических микроорганизмов
+  type: main
+docidentifier:
+- content: GOST 31928-2013
+  type: GOST
+  primary: true
+docnumber: '31928'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31928:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/55655/
+  ics_code: 07.100.30
+  pages: '24'
+  designation_original: ГОСТ 31928-2013

@@ -1,0 +1,48 @@
+---
+id: GOST-1164-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Головные уборы и шарфы трикотажные. Определение сортности
+  type: main
+docidentifier:
+- content: GOST 1164-86
+  type: GOST
+  primary: true
+docnumber: '1164'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1164:86
+  webpage: https://new-shop.ksm.kz/catalog/document/27496/
+  ics_code: '61.040'
+  pages: '7'
+  designation_original: ГОСТ 1164-86

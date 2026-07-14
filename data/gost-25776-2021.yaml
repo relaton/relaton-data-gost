@@ -1,0 +1,49 @@
+---
+id: GOST-25776-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка. Упаковывание сгруппированных единиц продукции в термоусадочную
+    пленку
+  type: main
+docidentifier:
+- content: GOST 25776-2021
+  type: GOST
+  primary: true
+docnumber: '25776'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25776:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/74160/
+  ics_code: '55.020'
+  pages: '12'
+  designation_original: ГОСТ 25776-2021

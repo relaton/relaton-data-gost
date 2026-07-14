@@ -1,0 +1,48 @@
+---
+id: GOST-28125-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Элементы и батареи первичные. Основные параметры и размеры
+  type: main
+docidentifier:
+- content: GOST 28125-89
+  type: GOST
+  primary: true
+docnumber: '28125'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28125:89
+  webpage: https://new-shop.ksm.kz/catalog/document/23676/
+  ics_code: 29.220.10
+  pages: '80'
+  designation_original: ГОСТ 28125-89

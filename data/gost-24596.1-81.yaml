@@ -1,0 +1,48 @@
+---
+id: GOST-24596.1-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фосфаты кормовые. Методы отбора и подготовки проб для анализа
+  type: main
+docidentifier:
+- content: GOST 24596.1-81
+  type: GOST
+  primary: true
+docnumber: '24596.1'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24596.1:81
+  webpage: https://new-shop.ksm.kz/catalog/document/27969/
+  ics_code: '65.120'
+  pages: '2'
+  designation_original: ГОСТ 24596.1-81

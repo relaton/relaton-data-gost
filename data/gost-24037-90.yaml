@@ -1,0 +1,49 @@
+---
+id: GOST-24037-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы асбестополимерные листовые уплотнительные. Метод определения
+    стойкости к воздействию жидкостей
+  type: main
+docidentifier:
+- content: GOST 24037-90
+  type: GOST
+  primary: true
+docnumber: '24037'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24037:90
+  webpage: https://new-shop.ksm.kz/catalog/document/19577/
+  ics_code: '21.140'
+  pages: '7'
+  designation_original: ГОСТ 24037-90

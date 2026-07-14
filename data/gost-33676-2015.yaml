@@ -1,0 +1,49 @@
+---
+id: GOST-33676-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы и изделия из пеностекла теплоизоляционные для зданий и сооружений.
+    Классификация. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 33676-2015
+  type: GOST
+  primary: true
+docnumber: '33676'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33676:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63847/
+  ics_code: 01.040.87
+  pages: '9'
+  designation_original: ГОСТ 33676-2015

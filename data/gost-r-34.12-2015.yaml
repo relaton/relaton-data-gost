@@ -3,8 +3,9 @@ id: GOST-R-34.12-2015
 schema_version: v1.5.6
 type: standard
 title:
-- language: eng
-  content: Information technology — Cryptographic data security — Block cipher
+- language: rus
+  content: Информационная технология. Криптографическая защита информации. Блочные
+    шифры
   type: main
 docidentifier:
 - content: GOST R 34.12-2015
@@ -23,12 +24,12 @@ contributor:
     abbreviation:
       content: GOST
 language:
-- eng
+- rus
 script:
-- Latn
+- Cyrl
 status:
   stage:
-    content: in-force
+    content: active
 copyright:
 - from: '2015'
   owner:
@@ -42,4 +43,6 @@ ext:
     content: national
   flavor: gost
   urn: urn:gost:std:r:34.12:2015
-  webpage: https://www.gost.ru/portal/gost/home/standarts/catalognational
+  webpage: https://new-shop.ksm.kz/catalog/document/64262/
+  pages: '16'
+  designation_original: ГОСТ Р 34.12-2015

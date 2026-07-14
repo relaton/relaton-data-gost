@@ -1,0 +1,49 @@
+---
+id: GOST-15070-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оправки с поддерживающей втулкой и хвостовиком конус Морзе для горизонтально-фрезерных
+    станков. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 15070-75
+  type: GOST
+  primary: true
+docnumber: '15070'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15070:75
+  webpage: https://new-shop.ksm.kz/catalog/document/21007/
+  ics_code: 25.060.20
+  pages: '9'
+  designation_original: ГОСТ 15070-75

@@ -1,0 +1,49 @@
+---
+id: GOST-1672-2-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование для обработки пищевых продуктов. Основные принципы. Часть
+    2. Гигиенические требования
+  type: main
+docidentifier:
+- content: GOST 1672-2-2012
+  type: GOST
+  primary: true
+docnumber: 1672-2
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1672-2:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/59423/
+  ics_code: '67.260'
+  pages: '40'
+  designation_original: ГОСТ EN 1672-2-2012

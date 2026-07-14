@@ -1,0 +1,49 @@
+---
+id: GOST-61000-1-6-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электромагнитная совместимость (ЭМС). Часть 1-6. Общие положения. Руководство
+    по оценке неопределенности измерений
+  type: main
+docidentifier:
+- content: GOST 61000-1-6-2014
+  type: GOST
+  primary: true
+docnumber: 61000-1-6
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61000-1-6:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60506/
+  ics_code: '33.100'
+  pages: '72'
+  designation_original: ГОСТ IEC/TR 61000-1-6-2014

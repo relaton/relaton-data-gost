@@ -1,0 +1,48 @@
+---
+id: GOST-17356-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Горелки на газообразном и жидком топливах. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 17356-89
+  type: GOST
+  primary: true
+docnumber: '17356'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17356:89
+  webpage: https://new-shop.ksm.kz/catalog/document/15617/
+  ics_code: 01.040.27
+  pages: '33'
+  designation_original: ГОСТ 17356-89

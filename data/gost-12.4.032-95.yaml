@@ -1,0 +1,49 @@
+---
+id: GOST-12.4.032-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Обувь специальная с кожаным верхом для защиты от действия повышенных температур.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 12.4.032-95
+  type: GOST
+  primary: true
+docnumber: 12.4.032
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.4.032:95
+  webpage: https://new-shop.ksm.kz/catalog/document/39576/
+  ics_code: 13.340.50
+  pages: '15'
+  designation_original: ГОСТ 12.4.032-95

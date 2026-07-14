@@ -1,0 +1,49 @@
+---
+id: GOST-8.220-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Колонки маслораздаточные.
+    Методы и средства поверки
+  type: main
+docidentifier:
+- content: GOST 8.220-76
+  type: GOST
+  primary: true
+docnumber: '8.220'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.220:76
+  webpage: https://new-shop.ksm.kz/catalog/document/17944/
+  ics_code: '17.120'
+  pages: '25'
+  designation_original: ГОСТ 8.220-76

@@ -1,0 +1,49 @@
+---
+id: GOST-21831-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Концентраты пищевые, сухие продукты детского и диетического питания, поставляемые
+    для экспорта. Технические требования
+  type: main
+docidentifier:
+- content: GOST 21831-76
+  type: GOST
+  primary: true
+docnumber: '21831'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21831:76
+  webpage: https://new-shop.ksm.kz/catalog/document/28893/
+  ics_code: '67.230'
+  pages: '5'
+  designation_original: ГОСТ 21831-76

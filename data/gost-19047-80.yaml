@@ -1,0 +1,49 @@
+---
+id: GOST-19047-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластины режущие сменные многогранные твердосплавные шестигранной формы
+    с углом 80 град. и отверстием. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 19047-80
+  type: GOST
+  primary: true
+docnumber: '19047'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19047:80
+  webpage: https://new-shop.ksm.kz/catalog/document/22404/
+  ics_code: '25.100'
+  pages: '4'
+  designation_original: ГОСТ 19047-80

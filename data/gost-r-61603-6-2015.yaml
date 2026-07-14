@@ -1,0 +1,49 @@
+---
+id: GOST-R-61603-6-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Передача аудио- и/или видео- и сопутствующих сигналов с использованием
+    инфракрасного излучения. Часть 6. Видео- и аудиовизуальные сигналы
+  type: main
+docidentifier:
+- content: GOST R 61603-6-2015
+  type: GOST
+  primary: true
+docnumber: 61603-6
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:61603-6:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62167/
+  ics_code: 33.160.01
+  pages: '16'
+  designation_original: ГОСТ Р МЭК 61603-6-2015

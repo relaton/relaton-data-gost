@@ -1,0 +1,49 @@
+---
+id: GOST-506-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Концентрат натурального каучукового латекса. Метод определения числа летучих
+    жирных кислот
+  type: main
+docidentifier:
+- content: GOST 506-2019
+  type: GOST
+  primary: true
+docnumber: '506'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:506:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71507/
+  ics_code: 83.040.10
+  pages: '10'
+  designation_original: ГОСТ ISO 506-2019

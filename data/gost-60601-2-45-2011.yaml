@@ -1,0 +1,50 @@
+---
+id: GOST-60601-2-45-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 2-45. Частные требования безопасности
+    к маммографическим рентгеновским аппаратам и маммографическим устройствам для
+    стереотаксиса
+  type: main
+docidentifier:
+- content: GOST 60601-2-45-2011
+  type: GOST
+  primary: true
+docnumber: 60601-2-45
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60601-2-45:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52600/
+  ics_code: 11.040.50
+  pages: '36'
+  designation_original: ГОСТ IEC 60601-2-45-2011

@@ -1,0 +1,48 @@
+---
+id: GOST-20332-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тиристоры. Термины, определения и буквенные обозначения параметров
+  type: main
+docidentifier:
+- content: GOST 20332-84
+  type: GOST
+  primary: true
+docnumber: '20332'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20332:84
+  webpage: https://new-shop.ksm.kz/catalog/document/15013/
+  ics_code: 01.040.31
+  pages: '29'
+  designation_original: ГОСТ 20332-84

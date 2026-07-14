@@ -1,0 +1,50 @@
+---
+id: GOST-16436-1-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рукава резиновые и пластмассовые, гибкие трубы и трубные соединения для
+    использования со сжиженным углеводородным и природным газом. Часть 1. Рукава и
+    гибкие трубы
+  type: main
+docidentifier:
+- content: GOST 16436-1-2023
+  type: GOST
+  primary: true
+docnumber: 16436-1
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16436-1:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/74586/
+  ics_code: 23.040.70
+  pages: '19'
+  designation_original: ГОСТ EN 16436-1-2023

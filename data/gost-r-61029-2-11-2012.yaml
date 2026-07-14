@@ -1,0 +1,49 @@
+---
+id: GOST-R-61029-2-11-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины переносные электрические. Часть 2-11. Частные требования безопасности
+    и методы испытаний комбинированных дисковых пил
+  type: main
+docidentifier:
+- content: GOST R 61029-2-11-2012
+  type: GOST
+  primary: true
+docnumber: 61029-2-11
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:61029-2-11:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/56393/
+  ics_code: 25.140.20
+  pages: '16'
+  designation_original: ГОСТ Р МЭК 61029-2-11-2012

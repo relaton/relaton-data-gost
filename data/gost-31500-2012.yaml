@@ -1,0 +1,49 @@
+---
+id: GOST-31500-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мясо и мясные продукты. Гистологический метод определения растительных
+    углеводных добавок
+  type: main
+docidentifier:
+- content: GOST 31500-2012
+  type: GOST
+  primary: true
+docnumber: '31500'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31500:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/52933/
+  ics_code: 67.120.10
+  pages: '15'
+  designation_original: ГОСТ 31500-2012

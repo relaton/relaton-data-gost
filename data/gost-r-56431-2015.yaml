@@ -1,0 +1,49 @@
+---
+id: GOST-R-56431-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Cистема менеджмента качества. Изделия медицинские. Руководство по валидации
+    процессов
+  type: main
+docidentifier:
+- content: GOST R 56431-2015
+  type: GOST
+  primary: true
+docnumber: '56431'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56431:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62901/
+  ics_code: 03.120.10
+  pages: '32'
+  designation_original: ГОСТ Р 56431-2015/GHTF/SG3/N99-10:2004

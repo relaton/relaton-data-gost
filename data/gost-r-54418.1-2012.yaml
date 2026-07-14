@@ -1,0 +1,49 @@
+---
+id: GOST-R-54418.1-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Возобновляемая энергетика. Ветроэнергетика. Установки ветроэнергетические.
+    Часть 1. Технические требования
+  type: main
+docidentifier:
+- content: GOST R 54418.1-2012
+  type: GOST
+  primary: true
+docnumber: '54418.1'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54418.1:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/62893/
+  ics_code: '27.180'
+  pages: '91'
+  designation_original: ГОСТ Р 54418.1-2012 (МЭК 61400-1:2005)

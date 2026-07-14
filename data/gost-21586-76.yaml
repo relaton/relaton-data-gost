@@ -1,0 +1,49 @@
+---
+id: GOST-21586-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Зенкеры для обработки отверстий диаметром от 3 до 80 мм в деталях из легких
+    сплавов. Допуски на диаметр
+  type: main
+docidentifier:
+- content: GOST 21586-76
+  type: GOST
+  primary: true
+docnumber: '21586'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21586:76
+  webpage: https://new-shop.ksm.kz/catalog/document/21669/
+  ics_code: 25.100.30
+  pages: '5'
+  designation_original: ГОСТ 21586-76

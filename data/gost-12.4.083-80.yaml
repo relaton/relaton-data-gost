@@ -1,0 +1,49 @@
+---
+id: GOST-12.4.083-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Материалы для низа специальной обуви.
+    Метод определения коэффициента трения скольжения
+  type: main
+docidentifier:
+- content: GOST 12.4.083-80
+  type: GOST
+  primary: true
+docnumber: 12.4.083
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.4.083:80
+  webpage: https://new-shop.ksm.kz/catalog/document/17080/
+  ics_code: 13.340.50
+  pages: '10'
+  designation_original: ГОСТ 12.4.083-80

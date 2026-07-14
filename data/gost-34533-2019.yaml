@@ -1,0 +1,50 @@
+---
+id: GOST-34533-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты пищевые, продовольственное сырье. Метод определения остаточного
+    содержания сульфаниламидов, нитроимидазолов, пенициллинов, амфениколов с помощью  высокоэффективной
+    жидкостной  хроматографии с массспектрометрическим детектором
+  type: main
+docidentifier:
+- content: GOST 34533-2019
+  type: GOST
+  primary: true
+docnumber: '34533'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34533:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/73279/
+  ics_code: '67.050'
+  pages: '25'
+  designation_original: ГОСТ 34533-2019

@@ -1,0 +1,50 @@
+---
+id: GOST-3727-2-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло сливочное. Определение содержания влаги, сухих обезжиренных веществ
+    и жира. Часть 2. Определение содержания обезжиренных сухих веществ (контрольный
+    метод)
+  type: main
+docidentifier:
+- content: GOST 3727-2-2024
+  type: GOST
+  primary: true
+docnumber: 3727-2
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3727-2:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75810/
+  ics_code: 67.100.20
+  pages: '12'
+  designation_original: ГОСТ ISO 3727-2-2024

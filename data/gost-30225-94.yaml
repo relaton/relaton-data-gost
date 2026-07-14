@@ -1,0 +1,49 @@
+---
+id: GOST-30225-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шины (серии с маркировкой нормы слойности) и ободья для сельскохозяйственных
+    тракторов и машин. Шины трелевочных тракторов
+  type: main
+docidentifier:
+- content: GOST 30225-94
+  type: GOST
+  primary: true
+docnumber: '30225'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30225:94
+  webpage: https://new-shop.ksm.kz/catalog/document/34470/
+  ics_code: 83.160.30
+  pages: '7'
+  designation_original: ГОСТ 30225-94

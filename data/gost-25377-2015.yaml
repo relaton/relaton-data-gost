@@ -1,0 +1,48 @@
+---
+id: GOST-25377-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Иглы инъекционные многократного применения. Технические условия
+  type: main
+docidentifier:
+- content: GOST 25377-2015
+  type: GOST
+  primary: true
+docnumber: '25377'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25377:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63252/
+  ics_code: 11.040.55
+  pages: '16'
+  designation_original: ГОСТ 25377-2015

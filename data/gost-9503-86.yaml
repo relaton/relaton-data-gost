@@ -1,0 +1,48 @@
+---
+id: GOST-9503-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рассеиватели и защитные стекла для светильников. Присоединительные размеры
+  type: main
+docidentifier:
+- content: GOST 9503-86
+  type: GOST
+  primary: true
+docnumber: '9503'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9503:86
+  webpage: https://new-shop.ksm.kz/catalog/document/23169/
+  ics_code: 29.140.40
+  pages: '21'
+  designation_original: ГОСТ 9503-86

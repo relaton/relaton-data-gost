@@ -1,0 +1,48 @@
+---
+id: GOST-25855-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Уровень и расход поверхностных вод. Общие требования к измерению
+  type: main
+docidentifier:
+- content: GOST 25855-83
+  type: GOST
+  primary: true
+docnumber: '25855'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25855:83
+  webpage: https://new-shop.ksm.kz/catalog/document/18806/
+  ics_code: '17.120'
+  pages: '6'
+  designation_original: ГОСТ 25855-83

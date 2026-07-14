@@ -1,0 +1,50 @@
+---
+id: GOST-33229-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы для котельного и теплообменного оборудования. Технические условия.
+    Часть 1. Трубы стальные бесшовные для работы под давлением не более 6,4 МПа и
+    при температуре не выше 400 °С
+  type: main
+docidentifier:
+- content: GOST 33229-2015
+  type: GOST
+  primary: true
+docnumber: '33229'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33229:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63296/
+  ics_code: 77.140.75
+  pages: '29'
+  designation_original: ГОСТ 33229-2015

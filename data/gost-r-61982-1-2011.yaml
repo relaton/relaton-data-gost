@@ -1,0 +1,49 @@
+---
+id: GOST-R-61982-1-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Батареи аккумуляторные для использования на электрических дорожных транспортных
+    средствах. Часть 1. Параметры испытаний
+  type: main
+docidentifier:
+- content: GOST R 61982-1-2011
+  type: GOST
+  primary: true
+docnumber: 61982-1
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:61982-1:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52764/
+  ics_code: 29.220.20
+  pages: '12'
+  designation_original: ГОСТ Р МЭК 61982-1-2011

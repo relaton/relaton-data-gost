@@ -1,0 +1,49 @@
+---
+id: GOST-23509-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Резина. Метод определения сопротивления истиранию при скольжении по возобновляемой
+    поверхности
+  type: main
+docidentifier:
+- content: GOST 23509-79
+  type: GOST
+  primary: true
+docnumber: '23509'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23509:79
+  webpage: https://new-shop.ksm.kz/catalog/document/34261/
+  ics_code: '83.060'
+  pages: '11'
+  designation_original: ГОСТ 23509-79

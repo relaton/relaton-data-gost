@@ -1,0 +1,49 @@
+---
+id: GOST-R-56290-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы газораспределительные. Требования к сетям газораспределения. Часть
+    3. Реконструкция
+  type: main
+docidentifier:
+- content: GOST R 56290-2014
+  type: GOST
+  primary: true
+docnumber: '56290'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56290:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/59750/
+  ics_code: '75.200'
+  pages: '29'
+  designation_original: ГОСТ Р 56290-2014

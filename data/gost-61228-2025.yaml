@@ -1,0 +1,49 @@
+---
+id: GOST-61228-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лампы люминесцентные ультрафиолетовые, применяемые в приборах для загара.
+    Метод определения энергетической освещенности и требования к маркировке
+  type: main
+docidentifier:
+- content: GOST 61228-2025
+  type: GOST
+  primary: true
+docnumber: '61228'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61228:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77045/
+  ics_code: '17.240'
+  pages: '24'
+  designation_original: ГОСТ IEC 61228-2025

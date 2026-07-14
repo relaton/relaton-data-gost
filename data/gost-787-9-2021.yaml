@@ -1,0 +1,49 @@
+---
+id: GOST-787-9-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пигменты и наполнители для лакокрасочных материалов. Общие методы испытаний.
+    Часть 9. Определение значения pН водной суспензии
+  type: main
+docidentifier:
+- content: GOST 787-9-2021
+  type: GOST
+  primary: true
+docnumber: 787-9
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:787-9:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/74726/
+  ics_code: 87.060.10
+  pages: '10'
+  designation_original: ГОСТ ISO 787-9-2021

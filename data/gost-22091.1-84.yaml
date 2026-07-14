@@ -1,0 +1,48 @@
+---
+id: GOST-22091.1-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Приборы рентгеновские. Методы измерения тока и напряжения накала
+  type: main
+docidentifier:
+- content: GOST 22091.1-84
+  type: GOST
+  primary: true
+docnumber: '22091.1'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22091.1:84
+  webpage: https://new-shop.ksm.kz/catalog/document/18970/
+  ics_code: '19.100'
+  pages: '3'
+  designation_original: ГОСТ 22091.1-84

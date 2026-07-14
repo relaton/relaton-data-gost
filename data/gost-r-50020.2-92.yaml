@@ -1,0 +1,49 @@
+---
+id: GOST-R-50020.2-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроустановки для открытых площадок при тяжелых условиях эксплуатации
+    (включая открытые горные разработки и карьеры). Часть 2. Общие требования к защите
+  type: main
+docidentifier:
+- content: GOST R 50020.2-92
+  type: GOST
+  primary: true
+docnumber: '50020.2'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50020.2:92
+  webpage: https://new-shop.ksm.kz/catalog/document/23977/
+  ics_code: 29.260.99
+  pages: '38'
+  designation_original: ГОСТ Р 50020.2-92

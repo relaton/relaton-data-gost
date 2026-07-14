@@ -1,0 +1,49 @@
+---
+id: GOST-24789-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Каналы измерительные системы внутриреакторного контроля ядерных энергетических
+    корпусных реакторов с водой под давлением. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST 24789-81
+  type: GOST
+  primary: true
+docnumber: '24789'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24789:81
+  webpage: https://new-shop.ksm.kz/catalog/document/22935/
+  ics_code: 27.120.10
+  pages: '8'
+  designation_original: ГОСТ 24789-81

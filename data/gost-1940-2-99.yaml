@@ -1,0 +1,49 @@
+---
+id: GOST-1940-2-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Требования к качеству балансировки жестких роторов. Часть 2.
+    Учет погрешностей оценки остаточного дисбаланса
+  type: main
+docidentifier:
+- content: GOST 1940-2-99
+  type: GOST
+  primary: true
+docnumber: 1940-2
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1940-2:99
+  webpage: https://new-shop.ksm.kz/catalog/document/19696/
+  ics_code: 21.120.40
+  pages: '16'
+  designation_original: ГОСТ ИСО 1940-2-99

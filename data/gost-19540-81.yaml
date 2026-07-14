@@ -1,0 +1,49 @@
+---
+id: GOST-19540-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Красители органические. Кубовый золотисто-желтый ЖХП и кубовый золотисто-желтый
+    КХП. Технические условия
+  type: main
+docidentifier:
+- content: GOST 19540-81
+  type: GOST
+  primary: true
+docnumber: '19540'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19540:81
+  webpage: https://new-shop.ksm.kz/catalog/document/27053/
+  ics_code: '59.040'
+  pages: '7'
+  designation_original: ГОСТ 19540-81

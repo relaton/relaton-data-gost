@@ -1,0 +1,48 @@
+---
+id: GOST-26499-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины бытовые кухонные электрические. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 26499-95
+  type: GOST
+  primary: true
+docnumber: '26499'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26499:95
+  webpage: https://new-shop.ksm.kz/catalog/document/39630/
+  ics_code: '97.040'
+  pages: '54'
+  designation_original: ГОСТ 26499-95

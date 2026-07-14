@@ -1,0 +1,48 @@
+---
+id: GOST-11037-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Органолептический анализ. Руководство по оценке цвета пищевых продуктов
+  type: main
+docidentifier:
+- content: GOST 11037-2013
+  type: GOST
+  primary: true
+docnumber: '11037'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11037:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58966/
+  ics_code: '67.240'
+  pages: '24'
+  designation_original: ГОСТ ISO 11037-2013

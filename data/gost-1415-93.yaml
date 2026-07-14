@@ -1,0 +1,48 @@
+---
+id: GOST-1415-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ферросилиций. Технические требования и условия поставки
+  type: main
+docidentifier:
+- content: GOST 1415-93
+  type: GOST
+  primary: true
+docnumber: '1415'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1415:93
+  webpage: https://new-shop.ksm.kz/catalog/document/31923/
+  ics_code: '77.100'
+  pages: '11'
+  designation_original: ГОСТ 1415-93

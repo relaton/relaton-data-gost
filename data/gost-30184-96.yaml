@@ -1,0 +1,49 @@
+---
+id: GOST-30184-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фонограммы магнитные в кассетах. Параметры. Технические требования. Методы
+    измерений
+  type: main
+docidentifier:
+- content: GOST 30184-96
+  type: GOST
+  primary: true
+docnumber: '30184'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30184:96
+  webpage: https://new-shop.ksm.kz/catalog/document/39415/
+  ics_code: 33.160.30
+  pages: '19'
+  designation_original: ГОСТ 30184-96

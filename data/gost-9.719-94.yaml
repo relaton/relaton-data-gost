@@ -1,0 +1,49 @@
+---
+id: GOST-9.719-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система защиты от коррозии и старения. Материалы полимерные. Методы
+    испытаний на старение при воздействии влажного тепла, водяного и соляного тумана
+  type: main
+docidentifier:
+- content: GOST 9.719-94
+  type: GOST
+  primary: true
+docnumber: '9.719'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9.719:94
+  webpage: https://new-shop.ksm.kz/catalog/document/18935/
+  ics_code: '19.040'
+  pages: '16'
+  designation_original: ГОСТ 9.719-94

@@ -1,0 +1,49 @@
+---
+id: GOST-R-50056-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Основные нормы взаимозаменяемости. Зависимые допуски формы, расположения
+    и координирующих размеров. Основные положения по применению
+  type: main
+docidentifier:
+- content: GOST R 50056-92
+  type: GOST
+  primary: true
+docnumber: '50056'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50056:92
+  webpage: https://new-shop.ksm.kz/catalog/document/18871/
+  ics_code: '21.020'
+  pages: '22'
+  designation_original: ГОСТ Р 50056-92

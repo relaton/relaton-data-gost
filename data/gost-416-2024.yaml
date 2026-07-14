@@ -1,0 +1,49 @@
+---
+id: GOST-416-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нагреватели трубчатые излучающие газовые потолочные с одной горелкой, не
+    предназначенные для бытового применения. Безопасность и энергоэффективность
+  type: main
+docidentifier:
+- content: GOST 416-2024
+  type: GOST
+  primary: true
+docnumber: '416'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:416:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75799/
+  ics_code: 97.100.20
+  pages: '165'
+  designation_original: ГОСТ EN 416-2024

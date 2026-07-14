@@ -1,0 +1,48 @@
+---
+id: GOST-21153.1-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Породы горные. Метод определения коэффициента крепости по Протодьяконову
+  type: main
+docidentifier:
+- content: GOST 21153.1-75
+  type: GOST
+  primary: true
+docnumber: '21153.1'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21153.1:75
+  webpage: https://new-shop.ksm.kz/catalog/document/30962/
+  ics_code: '73.020'
+  pages: '3'
+  designation_original: ГОСТ 21153.1-75

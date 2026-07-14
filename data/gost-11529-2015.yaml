@@ -1,0 +1,49 @@
+---
+id: GOST-11529-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фрезы концевые и насадные цельные или с режущими пластинами, или со сменными
+    режущими пластинами. Обозначение
+  type: main
+docidentifier:
+- content: GOST 11529-2015
+  type: GOST
+  primary: true
+docnumber: '11529'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11529:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64788/
+  ics_code: 25.100.20
+  pages: '20'
+  designation_original: ГОСТ ISO 11529-2015

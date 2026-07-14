@@ -1,0 +1,49 @@
+---
+id: GOST-R-8.571-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Термометры сопротивления
+    платиновые эталонные 1-го и 2-го разрядов. Методика поверки
+  type: main
+docidentifier:
+- content: GOST R 8.571-98
+  type: GOST
+  primary: true
+docnumber: '8.571'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8.571:98
+  webpage: https://new-shop.ksm.kz/catalog/document/18682/
+  ics_code: '17.020'
+  pages: '21'
+  designation_original: ГОСТ Р 8.571-98

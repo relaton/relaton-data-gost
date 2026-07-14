@@ -1,0 +1,50 @@
+---
+id: GOST-27053-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станки металлорежущие с числовым программным управлением. Втулки переходные
+    регулируемые с внутренним конусом Морзе и цилиндрическим хвостовиком. Основные
+    размеры и технические требования
+  type: main
+docidentifier:
+- content: GOST 27053-86
+  type: GOST
+  primary: true
+docnumber: '27053'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27053:86
+  webpage: https://new-shop.ksm.kz/catalog/document/22680/
+  ics_code: 25.060.20
+  pages: '8'
+  designation_original: ГОСТ 27053-86

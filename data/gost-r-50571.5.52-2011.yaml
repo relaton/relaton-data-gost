@@ -1,0 +1,49 @@
+---
+id: GOST-R-50571.5.52-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроустановки низковольтные. Часть 5-52. Выбор и монтаж электрооборудования.
+    Электропроводки
+  type: main
+docidentifier:
+- content: GOST R 50571.5.52-2011
+  type: GOST
+  primary: true
+docnumber: 50571.5.52
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50571.5.52:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/35497/
+  ics_code: '13.260'
+  pages: '71'
+  designation_original: ГОСТ Р 50571.5.52-2011/МЭК 60364-5-52:2009

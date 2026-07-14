@@ -1,0 +1,49 @@
+---
+id: GOST-32452-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Горелки пеллетные для котлов отопительных тепловой мощностью до 100 кВт.
+    Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 32452-2013
+  type: GOST
+  primary: true
+docnumber: '32452'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32452:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59175/
+  ics_code: 27.060.10
+  pages: '40'
+  designation_original: ГОСТ 32452-2013 (EN 15270:2007)

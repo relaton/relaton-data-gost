@@ -1,0 +1,48 @@
+---
+id: GOST-4250-2-2004
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шины и ободья для землеройных машин. Часть 2. Нагрузки и внутренние давления
+  type: main
+docidentifier:
+- content: GOST 4250-2-2004
+  type: GOST
+  primary: true
+docnumber: 4250-2
+date:
+- type: published
+  from: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4250-2:2004
+  webpage: https://new-shop.ksm.kz/catalog/document/37955/
+  ics_code: 83.160.99
+  pages: '26'
+  designation_original: ГОСТ ИСО 4250-2-2004

@@ -1,0 +1,48 @@
+---
+id: GOST-R-54071-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Весы неавтоматического действия. Часть 2. Формы протоколов испытаний
+  type: main
+docidentifier:
+- content: GOST R 54071-2010
+  type: GOST
+  primary: true
+docnumber: '54071'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54071:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/46018/
+  ics_code: '17.020'
+  pages: '75'
+  designation_original: ГОСТ Р 54071-2010/Рекомендация OIML R 76-2:2007

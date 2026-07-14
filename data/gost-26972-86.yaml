@@ -1,0 +1,49 @@
+---
+id: GOST-26972-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Зерно, крупа, мука, толокно для продуктов детского питания. Методы микробиологического
+    анализа
+  type: main
+docidentifier:
+- content: GOST 26972-86
+  type: GOST
+  primary: true
+docnumber: '26972'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26972:86
+  webpage: https://new-shop.ksm.kz/catalog/document/16284/
+  ics_code: 07.100.30
+  pages: '16'
+  designation_original: ГОСТ 26972-86

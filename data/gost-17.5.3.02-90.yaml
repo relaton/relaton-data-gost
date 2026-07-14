@@ -1,0 +1,49 @@
+---
+id: GOST-17.5.3.02-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Охрана природы. Земли. Нормы выделения на землях государственного лесного
+    фонда защитных полос лесов вдоль железных и автомобильных дорог
+  type: main
+docidentifier:
+- content: GOST 17.5.3.02-90
+  type: GOST
+  primary: true
+docnumber: 17.5.3.02
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17.5.3.02:90
+  webpage: https://new-shop.ksm.kz/catalog/document/17214/
+  ics_code: '13.080'
+  pages: '6'
+  designation_original: ГОСТ 17.5.3.02-90

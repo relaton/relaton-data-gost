@@ -1,0 +1,49 @@
+---
+id: GOST-31217-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Безопасность машин. Снижение риска для здоровья от вредных веществ, выделяющихся
+    при эксплуатации машин. Часть 1. Основные положения для изготовителей машин
+  type: main
+docidentifier:
+- content: GOST 31217-2003
+  type: GOST
+  primary: true
+docnumber: '31217'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31217:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/38414/
+  ics_code: '13.110'
+  pages: '13'
+  designation_original: ГОСТ 31217-2003

@@ -1,0 +1,49 @@
+---
+id: GOST-R-60227-3-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели с поливинилхлоридной изоляцией на номинальное напряжение до 450/750
+    В включительно. Кабели без оболочки для стационарной прокладки
+  type: main
+docidentifier:
+- content: GOST R 60227-3-2002
+  type: GOST
+  primary: true
+docnumber: 60227-3
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60227-3:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/24076/
+  ics_code: 29.060.20
+  pages: '15'
+  designation_original: ГОСТ Р МЭК 60227-3-2002

@@ -1,0 +1,48 @@
+---
+id: GOST-8618-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Картон для стереотипных матриц. Технические условия
+  type: main
+docidentifier:
+- content: GOST 8618-86
+  type: GOST
+  primary: true
+docnumber: '8618'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8618:86
+  webpage: https://new-shop.ksm.kz/catalog/document/34582/
+  ics_code: '85.060'
+  pages: '4'
+  designation_original: ГОСТ 8618-86

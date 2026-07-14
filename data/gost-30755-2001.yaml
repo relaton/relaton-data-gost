@@ -1,0 +1,49 @@
+---
+id: GOST-30755-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трибофатика. Машины для износоусталостных испытаний. Общие технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 30755-2001
+  type: GOST
+  primary: true
+docnumber: '30755'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30755:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/38915/
+  ics_code: '19.060'
+  pages: '12'
+  designation_original: ГОСТ 30755-2001

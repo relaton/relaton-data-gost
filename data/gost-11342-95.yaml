@@ -1,0 +1,48 @@
+---
+id: GOST-11342-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Методы и критерии балансировки гибких роторов
+  type: main
+docidentifier:
+- content: GOST 11342-95
+  type: GOST
+  primary: true
+docnumber: '11342'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11342:95
+  webpage: https://new-shop.ksm.kz/catalog/document/18674/
+  ics_code: '17.160'
+  pages: '45'
+  designation_original: ГОСТ ИСО 11342-95

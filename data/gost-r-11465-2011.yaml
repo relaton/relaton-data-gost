@@ -1,0 +1,49 @@
+---
+id: GOST-R-11465-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество почвы. Определение массовой доли сухого вещества и массового отношения
+    влаги гравиметрическим методом
+  type: main
+docidentifier:
+- content: GOST R 11465-2011
+  type: GOST
+  primary: true
+docnumber: '11465'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:11465:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52225/
+  ics_code: 13.080.20
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 11465-2011

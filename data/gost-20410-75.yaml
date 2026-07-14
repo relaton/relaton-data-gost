@@ -1,0 +1,48 @@
+---
+id: GOST-20410-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Железы шишковидные крупного рогатого скота замороженные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 20410-75
+  type: GOST
+  primary: true
+docnumber: '20410'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20410:75
+  webpage: https://new-shop.ksm.kz/catalog/document/28869/
+  ics_code: 67.120.10
+  pages: '10'
+  designation_original: ГОСТ 20410-75

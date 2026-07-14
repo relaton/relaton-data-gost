@@ -1,0 +1,48 @@
+---
+id: GOST-26263-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Грунты. Метод лабораторного определения теплопроводности мерзлых грунтов
+  type: main
+docidentifier:
+- content: GOST 26263-84
+  type: GOST
+  primary: true
+docnumber: '26263'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26263:84
+  webpage: https://new-shop.ksm.kz/catalog/document/17370/
+  ics_code: '93.020'
+  pages: '11'
+  designation_original: ГОСТ 26263-84

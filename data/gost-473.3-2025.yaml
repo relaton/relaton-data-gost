@@ -1,0 +1,49 @@
+---
+id: GOST-473.3-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия химически стойкие и термостойкие керамические. Метод определения
+    водопоглощения
+  type: main
+docidentifier:
+- content: GOST 473.3-2025
+  type: GOST
+  primary: true
+docnumber: '473.3'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:473.3:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76370/
+  ics_code: 81.060.20
+  pages: '9'
+  designation_original: ГОСТ 473.3-2025

@@ -1,0 +1,48 @@
+---
+id: GOST-30019.1-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Застежка текстильная. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 30019.1-93
+  type: GOST
+  primary: true
+docnumber: '30019.1'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30019.1:93
+  webpage: https://new-shop.ksm.kz/catalog/document/27675/
+  ics_code: '61.040'
+  pages: '11'
+  designation_original: ГОСТ 30019.1-93

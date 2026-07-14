@@ -1,0 +1,52 @@
+---
+id: GOST-8.030-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Государственный
+    первичный эталон и государственная поверочная схема для средств измерений магнитной
+    индукции постоянного поля в диапазоне от 1·10 в ст. минус 12 до 5·10 в ст. минус
+    2 Тл, постоянного магнитного потока, магнитной индукции и магнитного момента в
+    интервале частот от 0 до 20000 Гц
+  type: main
+docidentifier:
+- content: GOST 8.030-91
+  type: GOST
+  primary: true
+docnumber: '8.030'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.030:91
+  webpage: https://new-shop.ksm.kz/catalog/document/56072/
+  ics_code: 17.220.20
+  pages: '12'
+  designation_original: ГОСТ 8.030-91

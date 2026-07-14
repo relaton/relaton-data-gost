@@ -1,0 +1,49 @@
+---
+id: GOST-2.761-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая система конструкторской документации. Обозначения условные графические
+    в схемах. Компоненты волоконно-оптических систем передачи
+  type: main
+docidentifier:
+- content: GOST 2.761-84
+  type: GOST
+  primary: true
+docnumber: '2.761'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2.761:84
+  webpage: https://new-shop.ksm.kz/catalog/document/14583/
+  ics_code: 01.080.50
+  pages: '8'
+  designation_original: ГОСТ 2.761-84

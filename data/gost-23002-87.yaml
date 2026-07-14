@@ -1,0 +1,49 @@
+---
+id: GOST-23002-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единая контейнерная транспортная система. Спредеры для контейнеров серии
+    1. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST 23002-87
+  type: GOST
+  primary: true
+docnumber: '23002'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23002:87
+  webpage: https://new-shop.ksm.kz/catalog/document/26466/
+  ics_code: 55.180.10
+  pages: '4'
+  designation_original: ГОСТ 23002-87

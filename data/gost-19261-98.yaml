@@ -1,0 +1,48 @@
+---
+id: GOST-19261-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Иллюминаторы судовые круглые. Технические условия
+  type: main
+docidentifier:
+- content: GOST 19261-98
+  type: GOST
+  primary: true
+docnumber: '19261'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19261:98
+  webpage: https://new-shop.ksm.kz/catalog/document/26077/
+  ics_code: 47.020.05
+  pages: '23'
+  designation_original: ГОСТ 19261-98

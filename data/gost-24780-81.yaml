@@ -1,0 +1,49 @@
+---
+id: GOST-24780-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Обувь армейская. Статистический приемочный контроль качества обуви по альтернативному
+    признаку
+  type: main
+docidentifier:
+- content: GOST 24780-81
+  type: GOST
+  primary: true
+docnumber: '24780'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24780:81
+  webpage: https://new-shop.ksm.kz/catalog/document/16029/
+  ics_code: 03.120.30
+  pages: '11'
+  designation_original: ГОСТ 24780-81

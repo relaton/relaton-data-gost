@@ -1,0 +1,50 @@
+---
+id: GOST-11806-2-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины для сельскохозяйственных работ и лесоводства. Требования безопасности
+    и испытание переносных ручных механизированных кусторезов и газонокосилок. Часть
+    2. Машины с ранцевым источником питания
+  type: main
+docidentifier:
+- content: GOST 11806-2-2023
+  type: GOST
+  primary: true
+docnumber: 11806-2
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11806-2:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/75484/
+  ics_code: 65.060.80
+  pages: '18'
+  designation_original: ГОСТ ISO 11806-2-2023

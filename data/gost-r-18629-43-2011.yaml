@@ -1,0 +1,49 @@
+---
+id: GOST-R-18629-43-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: 'Системы промышленной автоматизации и интеграция. Язык спецификаций процесса.
+    Часть 43. Дефинициональные расширения: упорядочивание действий и расширение продолжительности'
+  type: main
+docidentifier:
+- content: GOST R 18629-43-2011
+  type: GOST
+  primary: true
+docnumber: 18629-43
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:18629-43:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/56947/
+  ics_code: 25.040.40
+  pages: '40'
+  designation_original: ГОСТ Р ИСО 18629-43-2011

@@ -1,0 +1,50 @@
+---
+id: GOST-21395.3-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Резисторы переменные. Методы проверки плавности хода, момента вращения
+    (усилия перемещения), момента (усилия) трогания подвижной системы резистора, момента
+    (усилия) срабатывания выключателя резистора
+  type: main
+docidentifier:
+- content: GOST 21395.3-75
+  type: GOST
+  primary: true
+docnumber: '21395.3'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21395.3:75
+  webpage: https://new-shop.ksm.kz/catalog/document/24424/
+  ics_code: 31.040.20
+  pages: '7'
+  designation_original: ГОСТ 21395.3-75

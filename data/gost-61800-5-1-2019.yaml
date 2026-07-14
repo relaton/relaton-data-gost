@@ -1,0 +1,49 @@
+---
+id: GOST-61800-5-1-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы силовых электрических приводов с регулируемой скоростью. Часть
+    5-1. Требования безопасности. Электро-, тепло- и энергобезопасность
+  type: main
+docidentifier:
+- content: GOST 61800-5-1-2019
+  type: GOST
+  primary: true
+docnumber: 61800-5-1
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61800-5-1:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/74453/
+  ics_code: '29.130'
+  pages: '106'
+  designation_original: ГОСТ IEC 61800-5-1-2019

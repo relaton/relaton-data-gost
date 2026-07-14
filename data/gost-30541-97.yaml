@@ -1,0 +1,48 @@
+---
+id: GOST-30541-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы смазочные. Нагнетатели. Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 30541-97
+  type: GOST
+  primary: true
+docnumber: '30541'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30541:97
+  webpage: https://new-shop.ksm.kz/catalog/document/19693/
+  ics_code: '21.260'
+  pages: '8'
+  designation_original: ГОСТ 30541-97

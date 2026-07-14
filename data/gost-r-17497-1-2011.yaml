@@ -1,0 +1,49 @@
+---
+id: GOST-R-17497-1-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Акустика. Звукорассеивающие свойства поверхностей. Часть 1. Измерение коэффициента
+    рассеяния при случайных углах падения звуковой волны в реверберационной камере
+  type: main
+docidentifier:
+- content: GOST R 17497-1-2011
+  type: GOST
+  primary: true
+docnumber: 17497-1
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:17497-1:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52272/
+  ics_code: 91.120.20
+  pages: '16'
+  designation_original: ГОСТ Р ИСО 17497-1-2011

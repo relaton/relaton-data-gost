@@ -1,0 +1,49 @@
+---
+id: GOST-26585-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шины пневматические крупногабаритные и сверхкрупногабаритные для внедорожных
+    карьерных автомобилей. Технические условия
+  type: main
+docidentifier:
+- content: GOST 26585-2003
+  type: GOST
+  primary: true
+docnumber: '26585'
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26585:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/34387/
+  ics_code: 83.160.10
+  pages: '16'
+  designation_original: ГОСТ 26585-2003

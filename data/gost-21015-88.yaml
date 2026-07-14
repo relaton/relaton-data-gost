@@ -1,0 +1,49 @@
+---
+id: GOST-21015-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Места крепления ремней безопасности легковых, грузовых автомобилей и автобусов.
+    Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 21015-88
+  type: GOST
+  primary: true
+docnumber: '21015'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21015:88
+  webpage: https://new-shop.ksm.kz/catalog/document/25806/
+  ics_code: 43.040.60
+  pages: '15'
+  designation_original: ГОСТ 21015-88

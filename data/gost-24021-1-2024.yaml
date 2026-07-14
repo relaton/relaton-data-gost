@@ -1,0 +1,49 @@
+---
+id: GOST-24021-1-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контейнеры металлические легкие. Термины и определения. Классификация.
+    Часть 1. Банки, открываемые сверху, и крышки
+  type: main
+docidentifier:
+- content: GOST 24021-1-2024
+  type: GOST
+  primary: true
+docnumber: 24021-1
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24021-1:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75824/
+  ics_code: '55.120'
+  pages: '33'
+  designation_original: ГОСТ ISO 24021-1-2024

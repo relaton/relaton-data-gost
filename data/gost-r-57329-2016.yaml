@@ -1,0 +1,49 @@
+---
+id: GOST-R-57329-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы промышленной автоматизации и интеграция. Системы технического обслуживания
+    и ремонта. Термины и определения
+  type: main
+docidentifier:
+- content: GOST R 57329-2016
+  type: GOST
+  primary: true
+docnumber: '57329'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57329:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/66735/
+  ics_code: 01.040.03
+  pages: '24'
+  designation_original: ГОСТ Р 57329-2016/EN 13306:2010

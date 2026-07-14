@@ -1,0 +1,49 @@
+---
+id: GOST-17386-72
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Колонки направляющие ступенчатые пресс-форм и форм для литья под давлением.
+    Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 17386-72
+  type: GOST
+  primary: true
+docnumber: '17386'
+date:
+- type: published
+  from: '1972-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17386:72
+  webpage: https://new-shop.ksm.kz/catalog/document/21195/
+  ics_code: 25.120.30
+  pages: '8'
+  designation_original: ГОСТ 17386-72

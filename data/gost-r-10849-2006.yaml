@@ -1,0 +1,49 @@
+---
+id: GOST-R-10849-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Выбросы стационарных источников. Определение массовой концентрации оксидов
+    азота. Характеристики автоматических измерительных систем в условиях применения
+  type: main
+docidentifier:
+- content: GOST R 10849-2006
+  type: GOST
+  primary: true
+docnumber: '10849'
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10849:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/17801/
+  ics_code: '13.040'
+  pages: '24'
+  designation_original: ГОСТ Р ИСО 10849-2006

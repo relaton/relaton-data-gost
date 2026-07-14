@@ -1,0 +1,48 @@
+---
+id: GOST-30179-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Теплоутилизаторы. Типы и основные параметры
+  type: main
+docidentifier:
+- content: GOST 30179-94
+  type: GOST
+  primary: true
+docnumber: '30179'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30179:94
+  webpage: https://new-shop.ksm.kz/catalog/document/39411/
+  ics_code: '91.220'
+  pages: '91'
+  designation_original: ГОСТ 30179-94

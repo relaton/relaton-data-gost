@@ -1,0 +1,50 @@
+---
+id: GOST-R-54614-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Воздушный транспорт. Средства сигнальные, облегчающие обнаружение потерпевших
+    бедствие воздушных судов гражданской авиации в дневных и ночных условиях (пиротехнические,
+    радио-, светоотражающие, стробоскопические лампы, стримеры). Общие требования
+  type: main
+docidentifier:
+- content: GOST R 54614-2011
+  type: GOST
+  primary: true
+docnumber: '54614'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54614:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51834/
+  ics_code: 03.220.50
+  pages: '12'
+  designation_original: ГОСТ Р 54614-2011

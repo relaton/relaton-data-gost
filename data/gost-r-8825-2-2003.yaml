@@ -1,0 +1,49 @@
+---
+id: GOST-R-8825-2-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Правила кодирования ACH.1. Часть 2. Спецификация
+    правил уплотненного кодирования (PER)
+  type: main
+docidentifier:
+- content: GOST R 8825-2-2003
+  type: GOST
+  primary: true
+docnumber: 8825-2
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8825-2:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/25420/
+  ics_code: 35.100.60
+  pages: '47'
+  designation_original: ГОСТ Р ИСО/МЭК 8825-2-2003

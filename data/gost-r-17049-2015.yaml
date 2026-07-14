@@ -1,0 +1,49 @@
+---
+id: GOST-R-17049-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Доступный дизайн. Применение шрифта Брайля на указателях, оборудовании
+    и аппаратах
+  type: main
+docidentifier:
+- content: GOST R 17049-2015
+  type: GOST
+  primary: true
+docnumber: '17049'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:17049:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63165/
+  ics_code: 11.180.10
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 17049-2015

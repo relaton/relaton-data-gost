@@ -1,0 +1,49 @@
+---
+id: GOST-13355-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка транспортная наполненная. Испытание на случайную вертикальную
+    вибрацию
+  type: main
+docidentifier:
+- content: GOST 13355-2024
+  type: GOST
+  primary: true
+docnumber: '13355'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13355:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75709/
+  ics_code: 55.180.40
+  pages: '17'
+  designation_original: ГОСТ ISO 13355-2024

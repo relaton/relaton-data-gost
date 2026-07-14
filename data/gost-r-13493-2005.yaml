@@ -1,0 +1,49 @@
+---
+id: GOST-R-13493-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мясо и мясные продукты. Метод определения содержания хлорамфеникола (левомицетина)
+    с помощью жидкостной хроматографии
+  type: main
+docidentifier:
+- content: GOST R 13493-2005
+  type: GOST
+  primary: true
+docnumber: '13493'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13493:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/29530/
+  ics_code: 67.120.10
+  pages: '8'
+  designation_original: ГОСТ Р ИСО 13493-2005

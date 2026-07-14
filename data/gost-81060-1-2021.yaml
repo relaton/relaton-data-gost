@@ -1,0 +1,49 @@
+---
+id: GOST-81060-1-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сфигмоманометры (измерители артериального давления) неинвазивные. Часть
+    1. Требования и методы испытаний моделей с неавтоматическим типом измерения
+  type: main
+docidentifier:
+- content: GOST 81060-1-2021
+  type: GOST
+  primary: true
+docnumber: 81060-1
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:81060-1:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/75570/
+  ics_code: 11.040.55
+  pages: '39'
+  designation_original: ГОСТ ISO 81060-1-2021

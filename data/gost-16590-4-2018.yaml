@@ -1,0 +1,50 @@
+---
+id: GOST-16590-4-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тракторы и машины для сельского и лесного хозяйства. Элементы систем управления,
+    связанные с безопасностью. Часть 4. Производство, эксплуатация, модификация и
+    вспомогательные процессы
+  type: main
+docidentifier:
+- content: GOST 16590-4-2018
+  type: GOST
+  primary: true
+docnumber: 16590-4
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16590-4:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/71921/
+  ics_code: 35.240.99
+  pages: '26'
+  designation_original: ГОСТ EN 16590-4-2018

@@ -1,0 +1,49 @@
+---
+id: GOST-12.4.235-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ССБТ. Средства индивидуальной защиты органов дыхания. Фильтры противогазовые
+    и комбинированные. Общие технические требования. Методы испытаний. Маркировка
+  type: main
+docidentifier:
+- content: GOST 12.4.235-2019
+  type: GOST
+  primary: true
+docnumber: 12.4.235
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.4.235:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71931/
+  ics_code: 13.340.30
+  pages: '24'
+  designation_original: ГОСТ 12.4.235-2019

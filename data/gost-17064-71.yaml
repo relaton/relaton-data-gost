@@ -1,0 +1,49 @@
+---
+id: GOST-17064-71
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Основные функциональные узлы, принадлежности и вспомогательные устройства
+    гамма-аппаратов. Термины и определения
+  type: main
+docidentifier:
+- content: GOST 17064-71
+  type: GOST
+  primary: true
+docnumber: '17064'
+date:
+- type: published
+  from: '1971-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1971'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17064:71
+  webpage: https://new-shop.ksm.kz/catalog/document/14901/
+  ics_code: 01.040.19
+  pages: '5'
+  designation_original: ГОСТ 17064-71

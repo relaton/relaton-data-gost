@@ -1,0 +1,50 @@
+---
+id: GOST-15426-2-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии  Технологии автоматической идентификации и сбора
+    данных.  Спецификация соответствия верификатора символов штрихового кода  Часть
+    2  Верификатор двумерных символов
+  type: main
+docidentifier:
+- content: GOST 15426-2-2025
+  type: GOST
+  primary: true
+docnumber: 15426-2
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15426-2:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76705/
+  ics_code: '35.040'
+  pages: '24'
+  designation_original: ГОСТ ISO/IEC 15426-2-2025

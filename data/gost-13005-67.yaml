@@ -1,0 +1,49 @@
+---
+id: GOST-13005-67
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Интерферометры для определения концентрации жидкостей и газов. Методы и
+    средства поверки
+  type: main
+docidentifier:
+- content: GOST 13005-67
+  type: GOST
+  primary: true
+docnumber: '13005'
+date:
+- type: published
+  from: '1967-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1967'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13005:67
+  webpage: https://new-shop.ksm.kz/catalog/document/18302/
+  ics_code: '17.060'
+  pages: '12'
+  designation_original: ГОСТ 13005-67

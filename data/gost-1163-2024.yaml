@@ -1,0 +1,48 @@
+---
+id: GOST-1163-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Перо и пух. Методы испытаний. Определение содержания масла и жира
+  type: main
+docidentifier:
+- content: GOST 1163-2024
+  type: GOST
+  primary: true
+docnumber: '1163'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1163:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/76210/
+  ics_code: '59.040'
+  pages: '8'
+  designation_original: ГОСТ EN 1163-2024

@@ -1,0 +1,49 @@
+---
+id: GOST-26805-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Заклепка трубчатая для односторонней клепки тонколистовых строительных
+    металлоконструкций. Технические условия
+  type: main
+docidentifier:
+- content: GOST 26805-2020
+  type: GOST
+  primary: true
+docnumber: '26805'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26805:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/72199/
+  ics_code: 21.060.40
+  pages: '12'
+  designation_original: ГОСТ 26805-2020

@@ -1,0 +1,48 @@
+---
+id: GOST-9601-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Выключатели (переключатели) путевые силовые. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 9601-84
+  type: GOST
+  primary: true
+docnumber: '9601'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9601:84
+  webpage: https://new-shop.ksm.kz/catalog/document/48548/
+  ics_code: 29.120.40
+  pages: '31'
+  designation_original: ГОСТ 9601-84

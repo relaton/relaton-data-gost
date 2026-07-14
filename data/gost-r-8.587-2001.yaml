@@ -1,0 +1,49 @@
+---
+id: GOST-R-8.587-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Средства измерений
+    характеристик оптического излучения солнечных имитаторов. Методика поверки
+  type: main
+docidentifier:
+- content: GOST R 8.587-2001
+  type: GOST
+  primary: true
+docnumber: '8.587'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8.587:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/18689/
+  ics_code: '17.020'
+  pages: '19'
+  designation_original: ГОСТ Р 8.587-2001

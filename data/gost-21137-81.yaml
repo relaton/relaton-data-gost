@@ -1,0 +1,49 @@
+---
+id: GOST-21137-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппараты телеграфные буквопечатающие стартстопные пятиэлементного кода.
+    Методы измерения электрических параметров
+  type: main
+docidentifier:
+- content: GOST 21137-81
+  type: GOST
+  primary: true
+docnumber: '21137'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21137:81
+  webpage: https://new-shop.ksm.kz/catalog/document/24792/
+  ics_code: 33.050.99
+  pages: '15'
+  designation_original: ГОСТ 21137-81

@@ -1,0 +1,49 @@
+---
+id: GOST-17075-2-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа. Химическое определение содержания хрома (VI) в коже. Часть 2. Хроматографический
+    метод
+  type: main
+docidentifier:
+- content: GOST 17075-2-2021
+  type: GOST
+  primary: true
+docnumber: 17075-2
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17075-2:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/76830/
+  ics_code: 59.140.30
+  pages: '18'
+  designation_original: ГОСТ ISO 17075-2-2021

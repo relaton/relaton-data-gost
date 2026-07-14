@@ -1,0 +1,50 @@
+---
+id: GOST-14116-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Одежда специальная и материалы для
+    защиты от пламени. Требования к ограниченному распространению пламени материалов,
+    пакетов материалов и одежды
+  type: main
+docidentifier:
+- content: GOST 14116-2022
+  type: GOST
+  primary: true
+docnumber: '14116'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14116:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/74923/
+  ics_code: 13.340.10
+  pages: '20'
+  designation_original: ГОСТ ISO 14116-2022

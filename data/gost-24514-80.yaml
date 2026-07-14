@@ -1,0 +1,49 @@
+---
+id: GOST-24514-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пакеты быстросменные с коническим разъемом пресс-форм для изготовления
+    резиновых колец круглого сечения. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 24514-80
+  type: GOST
+  primary: true
+docnumber: '24514'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24514:80
+  webpage: https://new-shop.ksm.kz/catalog/document/34294/
+  ics_code: '83.200'
+  pages: '73'
+  designation_original: ГОСТ 24514-80

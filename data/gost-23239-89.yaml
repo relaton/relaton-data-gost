@@ -1,0 +1,49 @@
+---
+id: GOST-23239-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кислоты жирные синтетические фракций С5-С6, С7-С9, С5-С9, С10-С13, С10-С16,
+    С17-С20. Технические условия
+  type: main
+docidentifier:
+- content: GOST 23239-89
+  type: GOST
+  primary: true
+docnumber: '23239'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23239:89
+  webpage: https://new-shop.ksm.kz/catalog/document/30248/
+  ics_code: 71.080.40
+  pages: '7'
+  designation_original: ГОСТ 23239-89

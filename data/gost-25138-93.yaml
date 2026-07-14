@@ -1,0 +1,49 @@
+---
+id: GOST-25138-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы. Поливинилхлоридные смолы. Определение примесей и инородных
+    частиц
+  type: main
+docidentifier:
+- content: GOST 25138-93
+  type: GOST
+  primary: true
+docnumber: '25138'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25138:93
+  webpage: https://new-shop.ksm.kz/catalog/document/34327/
+  ics_code: 83.080.20
+  pages: '8'
+  designation_original: ГОСТ 25138-93

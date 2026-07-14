@@ -1,0 +1,51 @@
+---
+id: GOST-R-51317.3.5-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Совместимость технических средств электромагнитная. Ограничение колебаний
+    напряжения и фликера, вызываемых техническими средствами с потребляемым током
+    более 16 А, подключаемыми к низковольтным системам электроснабжения. Нормы и методы
+    испытаний
+  type: main
+docidentifier:
+- content: GOST R 51317.3.5-2006
+  type: GOST
+  primary: true
+docnumber: 51317.3.5
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51317.3.5:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/24972/
+  ics_code: '33.100'
+  pages: '16'
+  designation_original: ГОСТ Р 51317.3.5-2006

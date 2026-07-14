@@ -1,0 +1,49 @@
+---
+id: GOST-R-22675-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Протезирование. Испытание голеностопных узлов и узлов стоп протезов нижних
+    конечностей. Требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 22675-2009
+  type: GOST
+  primary: true
+docnumber: '22675'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:22675:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/45225/
+  ics_code: 11.180.10
+  pages: '83'
+  designation_original: ГОСТ Р ИСО 22675-2009

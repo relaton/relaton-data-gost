@@ -1,0 +1,49 @@
+---
+id: GOST-R-7498-3-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Взаимосвязь открытых систем. Базовая эталонная
+    модель. Часть 3. Присвоение имен и адресация
+  type: main
+docidentifier:
+- content: GOST R 7498-3-97
+  type: GOST
+  primary: true
+docnumber: 7498-3
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:7498-3:97
+  webpage: https://new-shop.ksm.kz/catalog/document/25236/
+  ics_code: '35.100'
+  pages: '50'
+  designation_original: ГОСТ Р ИСО 7498-3-97

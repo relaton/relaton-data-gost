@@ -1,0 +1,49 @@
+---
+id: GOST-18355-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Калибры-скобы одностороние двупредельные для длин свыше 10 до 360 мм. Конструкция
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 18355-73
+  type: GOST
+  primary: true
+docnumber: '18355'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18355:73
+  webpage: https://new-shop.ksm.kz/catalog/document/18429/
+  ics_code: 17.040.30
+  pages: '7'
+  designation_original: ГОСТ 18355-73

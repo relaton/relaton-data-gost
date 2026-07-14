@@ -1,0 +1,49 @@
+---
+id: GOST-R-13937-1-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы текстильные. Прочность ткани на раздирание. Часть 1. Определение
+    усилия раздирания с применением метода баллистического маятника (метод Эльмендорфа)
+  type: main
+docidentifier:
+- content: GOST R 13937-1-2012
+  type: GOST
+  primary: true
+docnumber: 13937-1
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13937-1:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/57546/
+  ics_code: 59.080.30
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 13937-1-2012

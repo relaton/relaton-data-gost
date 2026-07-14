@@ -1,0 +1,49 @@
+---
+id: GOST-8519-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Топливопроводы высокого давления дизелей и их соединения. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 8519-93
+  type: GOST
+  primary: true
+docnumber: '8519'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8519:93
+  webpage: https://new-shop.ksm.kz/catalog/document/22894/
+  ics_code: '27.020'
+  pages: '20'
+  designation_original: ГОСТ 8519-93

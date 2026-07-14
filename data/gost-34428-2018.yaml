@@ -1,0 +1,48 @@
+---
+id: GOST-34428-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы эвакуационные фотолюминесцентные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 34428-2018
+  type: GOST
+  primary: true
+docnumber: '34428'
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34428:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/75079/
+  ics_code: '13.100'
+  pages: '55'
+  designation_original: ГОСТ 34428-2018

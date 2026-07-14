@@ -1,0 +1,50 @@
+---
+id: GOST-R-50030.4.2-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура распределения и управления низковольтная. Часть 4. Контакторы
+    и пускатели. Раздел 2. Полупроводниковые контроллеры и пускатели для цепей переменного
+    тока
+  type: main
+docidentifier:
+- content: GOST R 50030.4.2-2012
+  type: GOST
+  primary: true
+docnumber: 50030.4.2
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50030.4.2:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/57285/
+  ics_code: 29.130.20
+  pages: '79'
+  designation_original: ГОСТ Р 50030.4.2-2012 (МЭК 60947-4-2:2007)

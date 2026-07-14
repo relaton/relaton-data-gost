@@ -1,0 +1,50 @@
+---
+id: GOST-61000-2-4-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электромагнитная совместимость (ЭМС). Часть 2-4. Условия окружающей среды.
+    Уровни совместимости в промышленных установках для низкочастотных кондуктивных
+    помех
+  type: main
+docidentifier:
+- content: GOST 61000-2-4-2014
+  type: GOST
+  primary: true
+docnumber: 61000-2-4
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61000-2-4:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/68748/
+  ics_code: 33.100.10
+  pages: '31'
+  designation_original: ГОСТ IEC 61000-2-4-2014

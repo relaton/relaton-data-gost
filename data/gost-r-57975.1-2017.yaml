@@ -1,0 +1,51 @@
+---
+id: GOST-R-57975.1-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Газ нефтяной попутный. Определение состава методом газовой хроматографии.
+    Часть 1. Определение содержания углеводородов С с индексом1 - С с индексом 8+
+    и неорганических газов с использованием пламенно-ионизационного детектора и детектора
+    по теплопроводности
+  type: main
+docidentifier:
+- content: GOST R 57975.1-2017
+  type: GOST
+  primary: true
+docnumber: '57975.1'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57975.1:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/76923/
+  ics_code: '75.060'
+  pages: '50'
+  designation_original: ГОСТ Р 57975.1—2017

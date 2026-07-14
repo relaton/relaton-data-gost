@@ -1,0 +1,49 @@
+---
+id: GOST-34373-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы. Верификация маятникового копра для испытания на удар. Испытание
+    на ударную вязкость по Шарпи, Изоду и при ударном растяжении
+  type: main
+docidentifier:
+- content: GOST 34373-2017
+  type: GOST
+  primary: true
+docnumber: '34373'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34373:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/68569/
+  ics_code: '83.200'
+  pages: '31'
+  designation_original: ГОСТ 34373-2017 (ISO 13802:2015)

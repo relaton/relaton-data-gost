@@ -1,0 +1,49 @@
+---
+id: GOST-R-8825-5-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Правила кодирования AСН.1. Часть 5. Отображение
+    определений W3C схемы XML в AСН.1
+  type: main
+docidentifier:
+- content: GOST R 8825-5-2013
+  type: GOST
+  primary: true
+docnumber: 8825-5
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8825-5:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/61249/
+  ics_code: 35.100.60
+  pages: '78'
+  designation_original: ГОСТ Р ИСО/МЭК 8825-5-2013

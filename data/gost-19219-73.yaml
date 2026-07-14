@@ -1,0 +1,48 @@
+---
+id: GOST-19219-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мел природный обогащенный. Метод определения содержания влаги
+  type: main
+docidentifier:
+- content: GOST 19219-73
+  type: GOST
+  primary: true
+docnumber: '19219'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19219:73
+  webpage: https://new-shop.ksm.kz/catalog/document/30879/
+  ics_code: '73.080'
+  pages: '3'
+  designation_original: ГОСТ 19219-73

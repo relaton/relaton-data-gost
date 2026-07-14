@@ -1,0 +1,49 @@
+---
+id: GOST-60072-1-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины электрические вращающиеся. Размеры и ряды выходных мощностей. Часть
+    1. Габаритные номера от 56 до 400 и номера фланцев от 55 до 1080
+  type: main
+docidentifier:
+- content: GOST 60072-1-2024
+  type: GOST
+  primary: true
+docnumber: 60072-1
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60072-1:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75942/
+  ics_code: 29.160.01
+  pages: '28'
+  designation_original: ГОСТ IEC 60072-1-2024

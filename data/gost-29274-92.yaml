@@ -1,0 +1,49 @@
+---
+id: GOST-29274-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Деревообрабатывающее оборудование. Станки для изготовления среднего слоя
+    панелей из реек. Терминология
+  type: main
+docidentifier:
+- content: GOST 29274-92
+  type: GOST
+  primary: true
+docnumber: '29274'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29274:92
+  webpage: https://new-shop.ksm.kz/catalog/document/15456/
+  ics_code: 01.040.79
+  pages: '6'
+  designation_original: ГОСТ 29274-92

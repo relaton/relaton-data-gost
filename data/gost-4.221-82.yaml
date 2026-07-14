@@ -1,0 +1,49 @@
+---
+id: GOST-4.221-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система показателей качества продукции. Строительство. Строительные конструкции
+    и изделия из алюминиевых сплавов. Номенклатура показателей
+  type: main
+docidentifier:
+- content: GOST 4.221-82
+  type: GOST
+  primary: true
+docnumber: '4.221'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4.221:82
+  webpage: https://new-shop.ksm.kz/catalog/document/35025/
+  ics_code: 91.080.10
+  pages: '4'
+  designation_original: ГОСТ 4.221-82

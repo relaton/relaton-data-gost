@@ -1,0 +1,51 @@
+---
+id: GOST-34726-2021
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Методы исследования воздействия химических веществ на организм человека.
+    Краткосрочная экспозиция. Метод испытания IN VITRO для идентификации. Химические
+    вещества, вызывающие серьезное повреждение глаз, и химические вещества, не требующие
+    классификации, для раздражения глаз или серьезного повреждения глаз
+  type: main
+docidentifier:
+- content: GOST 34726-2021
+  type: GOST
+  primary: true
+docnumber: '34726'
+date:
+- type: published
+  from: '2021-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2021'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34726:2021
+  webpage: https://new-shop.ksm.kz/catalog/document/73695/
+  ics_code: 71.040.10
+  pages: '23'
+  designation_original: ГОСТ 34726-2021

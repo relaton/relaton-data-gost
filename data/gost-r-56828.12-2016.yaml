@@ -1,0 +1,49 @@
+---
+id: GOST-R-56828.12-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Наилучшие доступные технологии. Классификация водных объектов для технологического
+    нормирования сбросов сточных вод централизованных систем водоотведения поселений
+  type: main
+docidentifier:
+- content: GOST R 56828.12-2016
+  type: GOST
+  primary: true
+docnumber: '56828.12'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:56828.12:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65925/
+  ics_code: 13.020.01
+  pages: '8'
+  designation_original: ГОСТ Р 56828.12-2016

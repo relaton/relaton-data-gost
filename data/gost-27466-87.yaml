@@ -1,0 +1,49 @@
+---
+id: GOST-27466-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система обработки информации. Наборы символов в 7-и 8-битных кодах. Методы
+    расширения кодов
+  type: main
+docidentifier:
+- content: GOST 27466-87
+  type: GOST
+  primary: true
+docnumber: '27466'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27466:87
+  webpage: https://new-shop.ksm.kz/catalog/document/25175/
+  ics_code: '35.040'
+  pages: '51'
+  designation_original: ГОСТ 27466-87

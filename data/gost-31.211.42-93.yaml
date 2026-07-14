@@ -1,0 +1,50 @@
+---
+id: GOST-31.211.42-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Детали и сборочные единицы сборно-разборных приспособлений для сборочно-сварочных
+    работ. Технические требования. Правила приемки. Методы контроля. Маркировка, упаковка,
+    транспортирование и хранение
+  type: main
+docidentifier:
+- content: GOST 31.211.42-93
+  type: GOST
+  primary: true
+docnumber: 31.211.42
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31.211.42:93
+  webpage: https://new-shop.ksm.kz/catalog/document/22035/
+  ics_code: 25.160.30
+  pages: '10'
+  designation_original: ГОСТ 31.211.42-93

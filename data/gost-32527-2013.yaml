@@ -1,0 +1,49 @@
+---
+id: GOST-32527-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Минеральные азотсодержащие вещества. Определение содержания в воздушной
+    и водной средах
+  type: main
+docidentifier:
+- content: GOST 32527-2013
+  type: GOST
+  primary: true
+docnumber: '32527'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32527:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56624/
+  ics_code: '13.040'
+  pages: '12'
+  designation_original: ГОСТ 32527-2013

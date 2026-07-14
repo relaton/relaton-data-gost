@@ -1,0 +1,51 @@
+---
+id: GOST-10867-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нанотехнологии. Одностенные углеродные нанотрубки. Определение характеристик
+    методом фотолюминесцентной спектроскопии в ближней инфракрасном области спектра"
+    Нанотехнологии. Одностенные углеродные нанотрубки. Определение характери-стик
+    методом фотолюминесцентной спектроскопии в ближней инфракрасной об-ласти спектра
+  type: main
+docidentifier:
+- content: GOST 10867-2017
+  type: GOST
+  primary: true
+docnumber: '10867'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10867:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/68735/
+  ics_code: '07.030'
+  pages: '22'
+  designation_original: ГОСТ ISO/TS 10867-2017

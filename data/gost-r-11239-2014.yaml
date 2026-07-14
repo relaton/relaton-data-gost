@@ -1,0 +1,50 @@
+---
+id: GOST-R-11239-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информатизация здоровья. Идентификация лекарственных средств. Элементы
+    данных и структуры для уникальной идентификации и обмена информацией о регистрируемых
+    формах дозировки, единицах представления, путях введения и упаковке
+  type: main
+docidentifier:
+- content: GOST R 11239-2014
+  type: GOST
+  primary: true
+docnumber: '11239'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:11239:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61090/
+  ics_code: 35.240.80
+  pages: '32'
+  designation_original: ГОСТ Р ИСО 11239-2014

@@ -1,0 +1,48 @@
+---
+id: GOST-R-55326-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Концентрат чайный жидкий. Отбор проб для анализа
+  type: main
+docidentifier:
+- content: GOST R 55326-2012
+  type: GOST
+  primary: true
+docnumber: '55326'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55326:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/55546/
+  ics_code: 67.140.10
+  pages: '8'
+  designation_original: ГОСТ Р 55326-2012

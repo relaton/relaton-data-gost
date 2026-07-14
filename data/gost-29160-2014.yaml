@@ -1,0 +1,49 @@
+---
+id: GOST-29160-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии. Идентификация радиочастотная для управления
+    предметами. Эмблема радиочастотной идентификации
+  type: main
+docidentifier:
+- content: GOST 29160-2014
+  type: GOST
+  primary: true
+docnumber: '29160'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29160:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60576/
+  ics_code: 35.240.60
+  pages: '32'
+  designation_original: ГОСТ ISO/IEC 29160-2014

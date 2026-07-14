@@ -1,0 +1,48 @@
+---
+id: GOST-10280-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пылесосы электрические бытовые. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 10280-83
+  type: GOST
+  primary: true
+docnumber: '10280'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10280:83
+  webpage: https://new-shop.ksm.kz/catalog/document/35583/
+  ics_code: '97.080'
+  pages: '20'
+  designation_original: ГОСТ 10280-83

@@ -1,0 +1,49 @@
+---
+id: GOST-R-20000-2-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Менеджмент услуг. Часть 2. Кодекс практической
+    деятельности
+  type: main
+docidentifier:
+- content: GOST R 20000-2-2010
+  type: GOST
+  primary: true
+docnumber: 20000-2
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:20000-2:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/46089/
+  ics_code: '35.020'
+  pages: '36'
+  designation_original: ГОСТ Р ИСО/МЭК 20000-2-2010

@@ -1,0 +1,49 @@
+---
+id: GOST-16647-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Матрицы с удлиненно-продолговатым отверстием быстросменные. Конструкция
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 16647-80
+  type: GOST
+  primary: true
+docnumber: '16647'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16647:80
+  webpage: https://new-shop.ksm.kz/catalog/document/22296/
+  ics_code: 25.120.10
+  pages: '4'
+  designation_original: ГОСТ 16647-80

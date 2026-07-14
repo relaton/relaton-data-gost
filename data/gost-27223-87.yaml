@@ -1,0 +1,50 @@
+---
+id: GOST-27223-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины электрические вращающиеся. Двигатели синхронные и асинхронные. Определение
+    зависимого от времени превышения температуры при заторможенном роторе. Методы
+    испытаний
+  type: main
+docidentifier:
+- content: GOST 27223-87
+  type: GOST
+  primary: true
+docnumber: '27223'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27223:87
+  webpage: https://new-shop.ksm.kz/catalog/document/23632/
+  ics_code: 29.160.30
+  pages: '8'
+  designation_original: ГОСТ 27223-87

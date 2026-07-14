@@ -1,0 +1,49 @@
+---
+id: GOST-35287.1-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы лакокрасочные.  Покрытия и системы покрытий для наружных деревянных
+    поверхностей. Ч а с т ь 1. Классификация и выбор
+  type: main
+docidentifier:
+- content: GOST 35287.1-2025
+  type: GOST
+  primary: true
+docnumber: '35287.1'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35287.1:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77016/
+  ics_code: '87.040'
+  pages: '21'
+  designation_original: ГОСТ 35287.1-2025 (EN 927-1:2013)

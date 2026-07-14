@@ -1,0 +1,48 @@
+---
+id: GOST-896-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы лакокрасочные. Фотоэлектрический метод определения блеска
+  type: main
+docidentifier:
+- content: GOST 896-69
+  type: GOST
+  primary: true
+docnumber: '896'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:896:69
+  webpage: https://new-shop.ksm.kz/catalog/document/34761/
+  ics_code: '87.040'
+  pages: '4'
+  designation_original: ГОСТ 896-69

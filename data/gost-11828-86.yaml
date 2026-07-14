@@ -1,0 +1,48 @@
+---
+id: GOST-11828-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины электрические вращающиеся. Общие методы испытаний
+  type: main
+docidentifier:
+- content: GOST 11828-86
+  type: GOST
+  primary: true
+docnumber: '11828'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11828:86
+  webpage: https://new-shop.ksm.kz/catalog/document/23297/
+  ics_code: 29.160.01
+  pages: '32'
+  designation_original: ГОСТ 11828-86

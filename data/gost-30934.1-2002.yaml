@@ -1,0 +1,49 @@
+---
+id: GOST-30934.1-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Краны грузоподъемные. Руководство по эксплуатации крана. Часть 1. Общие
+    положения
+  type: main
+docidentifier:
+- content: GOST 30934.1-2002
+  type: GOST
+  primary: true
+docnumber: '30934.1'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30934.1:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38516/
+  ics_code: 53.020.20
+  pages: '10'
+  designation_original: ГОСТ 30934.1-2002

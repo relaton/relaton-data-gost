@@ -1,0 +1,49 @@
+---
+id: GOST-R-71039-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: СВАИ БУРОНАБИВНЫЕ И «СТЕНЫ В ГРУНТЕ» ТРАНШЕЙНОГО И СВАЙНОГО ТИПОВ Межскважинный
+    ультразвуковой метод контроля качества бетона
+  type: main
+docidentifier:
+- content: GOST R 71039-2023
+  type: GOST
+  primary: true
+docnumber: '71039'
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:71039:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/77202/
+  ics_code: 13.080.20
+  pages: '20'
+  designation_original: ГОСТ Р 71039— 2023

@@ -1,0 +1,48 @@
+---
+id: GOST-9385-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Этилбензол технический. Технические условия
+  type: main
+docidentifier:
+- content: GOST 9385-77
+  type: GOST
+  primary: true
+docnumber: '9385'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9385:77
+  webpage: https://new-shop.ksm.kz/catalog/document/29876/
+  ics_code: 71.080.15
+  pages: '35'
+  designation_original: ГОСТ 9385-77

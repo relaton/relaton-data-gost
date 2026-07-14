@@ -1,0 +1,48 @@
+---
+id: GOST-34470-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бетоны огнеупорные. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 34470-2018
+  type: GOST
+  primary: true
+docnumber: '34470'
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34470:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/72002/
+  ics_code: '81.080'
+  pages: '12'
+  designation_original: ГОСТ 34470-2018

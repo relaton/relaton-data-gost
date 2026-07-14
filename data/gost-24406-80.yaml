@@ -1,0 +1,50 @@
+---
+id: GOST-24406-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система технического обслуживания и ремонта строительных машин. Одноковшовые
+    экскаваторы и их составные части, сдаваемые в капитальный ремонт и выдаваемые
+    из капитального ремонта. Технические требования
+  type: main
+docidentifier:
+- content: GOST 24406-80
+  type: GOST
+  primary: true
+docnumber: '24406'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24406:80
+  webpage: https://new-shop.ksm.kz/catalog/document/16022/
+  ics_code: '53.100'
+  pages: '18'
+  designation_original: ГОСТ 24406-80

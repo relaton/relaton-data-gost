@@ -1,0 +1,49 @@
+---
+id: GOST-R-8615-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Неактивные хирургические имплантаты. Устройства, используемые для фиксации
+    бедренных костей взрослых пациентов. Технические требования
+  type: main
+docidentifier:
+- content: GOST R 8615-99
+  type: GOST
+  primary: true
+docnumber: '8615'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8615:99
+  webpage: https://new-shop.ksm.kz/catalog/document/16775/
+  ics_code: 11.040.40
+  pages: '16'
+  designation_original: ГОСТ Р ИСО 8615-99

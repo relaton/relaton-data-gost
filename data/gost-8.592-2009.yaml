@@ -1,0 +1,49 @@
+---
+id: GOST-8.592-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: ГСИ. Меры рельефные нанометрового диапазона из монокристаллического кремния.
+    Требования к геометрическим формам, линейным размерам и выбору материала для изготовления
+  type: main
+docidentifier:
+- content: GOST 8.592-2009
+  type: GOST
+  primary: true
+docnumber: '8.592'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.592:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42370/
+  ics_code: '17.020'
+  pages: '10'
+  designation_original: ГОСТ 8.592-2009

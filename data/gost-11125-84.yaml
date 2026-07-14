@@ -1,0 +1,48 @@
+---
+id: GOST-11125-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кислота азотная особой чистоты. Технические условия
+  type: main
+docidentifier:
+- content: GOST 11125-84
+  type: GOST
+  primary: true
+docnumber: '11125'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11125:84
+  webpage: https://new-shop.ksm.kz/catalog/document/29978/
+  ics_code: 71.040.30
+  pages: '28'
+  designation_original: ГОСТ 11125-84

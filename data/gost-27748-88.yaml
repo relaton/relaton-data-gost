@@ -1,0 +1,48 @@
+---
+id: GOST-27748-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Полиолефины. Методы определения содержания загрязнений
+  type: main
+docidentifier:
+- content: GOST 27748-88
+  type: GOST
+  primary: true
+docnumber: '27748'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27748:88
+  webpage: https://new-shop.ksm.kz/catalog/document/34416/
+  ics_code: 83.080.20
+  pages: '7'
+  designation_original: ГОСТ 27748-88

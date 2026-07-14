@@ -1,0 +1,48 @@
+---
+id: GOST-24040-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрооборудование судов. Правила и нормы проектирования и электромонтажа
+  type: main
+docidentifier:
+- content: GOST 24040-80
+  type: GOST
+  primary: true
+docnumber: '24040'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24040:80
+  webpage: https://new-shop.ksm.kz/catalog/document/26088/
+  ics_code: 47.020.60
+  pages: '27'
+  designation_original: ГОСТ 24040-80

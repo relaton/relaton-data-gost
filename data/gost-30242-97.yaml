@@ -1,0 +1,49 @@
+---
+id: GOST-30242-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Дефекты соединений при сварке металлов плавлением. Классификация, обозначение
+    и определения
+  type: main
+docidentifier:
+- content: GOST 30242-97
+  type: GOST
+  primary: true
+docnumber: '30242'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30242:97
+  webpage: https://new-shop.ksm.kz/catalog/document/21972/
+  ics_code: 25.160.40
+  pages: '11'
+  designation_original: ГОСТ 30242-97

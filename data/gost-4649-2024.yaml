@@ -1,0 +1,49 @@
+---
+id: GOST-4649-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Резина и термоэластопласты. Определение сопротивления истиранию с использованием
+    вращающегося цилиндрического барабанного устройства
+  type: main
+docidentifier:
+- content: GOST 4649-2024
+  type: GOST
+  primary: true
+docnumber: '4649'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4649:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75766/
+  ics_code: '83.060'
+  pages: '25'
+  designation_original: ГОСТ ISO 4649-2024

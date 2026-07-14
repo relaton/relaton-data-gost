@@ -1,0 +1,49 @@
+---
+id: GOST-3727-1-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло сливочное. Определение содержания влаги, обезжиренных сухих веществ
+    и жира. Часть 1. Определение содержания влаги (контрольный метод)
+  type: main
+docidentifier:
+- content: GOST 3727-1-2022
+  type: GOST
+  primary: true
+docnumber: 3727-1
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3727-1:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/75232/
+  ics_code: 67.100.20
+  pages: '12'
+  designation_original: ГОСТ ISO 3727-1-2022

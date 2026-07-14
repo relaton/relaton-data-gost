@@ -1,0 +1,49 @@
+---
+id: GOST-R-1066-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы дозиметрические термолюминесцентные для индивидуального контроля
+    и мониторинга окружающей среды. Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 1066-93
+  type: GOST
+  primary: true
+docnumber: '1066'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:1066:93
+  webpage: https://new-shop.ksm.kz/catalog/document/17838/
+  ics_code: '13.280'
+  pages: '59'
+  designation_original: ГОСТ Р МЭК 1066-93

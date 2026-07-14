@@ -1,0 +1,50 @@
+---
+id: GOST-34.402-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Обмен информацией на кассете с магнитной лентой
+    шириной 3,81 мм (0,15 дюйма) с плотностью записи 4 символа/мм (100 символов/дюйм)
+    способом фазового кодирования при 63 переходах потоков/мм (1600 переходов потока/дюйм)
+  type: main
+docidentifier:
+- content: GOST 34.402-91
+  type: GOST
+  primary: true
+docnumber: '34.402'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34.402:91
+  webpage: https://new-shop.ksm.kz/catalog/document/25109/
+  ics_code: 35.220.22
+  pages: '35'
+  designation_original: ГОСТ 34.402-91

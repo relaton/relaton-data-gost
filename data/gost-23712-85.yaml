@@ -1,0 +1,48 @@
+---
+id: GOST-23712-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Белье нательное для военнослужащих. Трусы и плавки. Технические условия
+  type: main
+docidentifier:
+- content: GOST 23712-85
+  type: GOST
+  primary: true
+docnumber: '23712'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23712:85
+  webpage: https://new-shop.ksm.kz/catalog/document/27598/
+  ics_code: '61.020'
+  pages: '24'
+  designation_original: ГОСТ 23712-85

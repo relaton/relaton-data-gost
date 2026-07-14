@@ -1,0 +1,49 @@
+---
+id: GOST-16936-71
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Столы поворотные круглые с ручным и механизированными приводами. Основные
+    размеры
+  type: main
+docidentifier:
+- content: GOST 16936-71
+  type: GOST
+  primary: true
+docnumber: '16936'
+date:
+- type: published
+  from: '1971-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1971'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16936:71
+  webpage: https://new-shop.ksm.kz/catalog/document/21153/
+  ics_code: 25.060.10
+  pages: '4'
+  designation_original: ГОСТ 16936-71

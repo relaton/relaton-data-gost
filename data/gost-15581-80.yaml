@@ -1,0 +1,49 @@
+---
+id: GOST-15581-80
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конденсаторы связи и отбора мощности для линий электропередач. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 15581-80
+  type: GOST
+  primary: true
+docnumber: '15581'
+date:
+- type: published
+  from: '1980-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1980'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15581:80
+  webpage: https://new-shop.ksm.kz/catalog/document/23377/
+  ics_code: 29.240.99
+  pages: '45'
+  designation_original: ГОСТ 15581-80

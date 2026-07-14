@@ -1,0 +1,48 @@
+---
+id: GOST-19116-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Обувь модельная. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 19116-2005
+  type: GOST
+  primary: true
+docnumber: '19116'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19116:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/27571/
+  ics_code: '61.060'
+  pages: '11'
+  designation_original: ГОСТ 19116-2005

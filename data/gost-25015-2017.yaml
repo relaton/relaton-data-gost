@@ -1,0 +1,48 @@
+---
+id: GOST-25015-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Пластмассы ячеистые и пенорезины. Метод измерения линейных размеров
+  type: main
+docidentifier:
+- content: GOST 25015-2017
+  type: GOST
+  primary: true
+docnumber: '25015'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25015:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/68522/
+  ics_code: '83.100'
+  pages: '37'
+  designation_original: ГОСТ 25015-2017 (ISO 1923:1981)

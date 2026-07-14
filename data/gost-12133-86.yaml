@@ -1,0 +1,48 @@
+---
+id: GOST-12133-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шкурки нутрии выделанные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 12133-86
+  type: GOST
+  primary: true
+docnumber: '12133'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12133:86
+  webpage: https://new-shop.ksm.kz/catalog/document/26921/
+  ics_code: 59.140.30
+  pages: '11'
+  designation_original: ГОСТ 12133-86

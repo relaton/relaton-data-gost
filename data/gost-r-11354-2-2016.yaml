@@ -1,0 +1,50 @@
+---
+id: GOST-R-11354-2-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Усовершенствованные автоматизированные технологии и их применение. Требования
+    к установлению интероперабельности процессов промышленных предприятий. Часть 2.
+    Модель зрелости для оценки интероперабельности предприятий
+  type: main
+docidentifier:
+- content: GOST R 11354-2-2016
+  type: GOST
+  primary: true
+docnumber: 11354-2
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:11354-2:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67430/
+  ics_code: 25.040.01
+  pages: '24'
+  designation_original: ГОСТ Р ИСО 11354-2-2016

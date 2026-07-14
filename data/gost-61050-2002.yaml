@@ -1,0 +1,50 @@
+---
+id: GOST-61050-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трансформаторы для трубчатых разрядных ламп с напряжением холостого хода,
+    превышающим 1000 В (прежнее название - "Неоновые трансформаторы"). Общие требования
+    и требования безопасности
+  type: main
+docidentifier:
+- content: GOST 61050-2002
+  type: GOST
+  primary: true
+docnumber: '61050'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61050:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38855/
+  ics_code: 29.140.30
+  pages: '29'
+  designation_original: ГОСТ МЭК 61050-2002

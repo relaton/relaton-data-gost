@@ -1,0 +1,49 @@
+---
+id: GOST-16001-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины землеройные. Системы обнаружения опасности и визуальной помощи.
+    Требования к рабочим характеристикам и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 16001-2013
+  type: GOST
+  primary: true
+docnumber: '16001'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16001:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58971/
+  ics_code: '53.100'
+  pages: '49'
+  designation_original: ГОСТ ISO 16001-2013

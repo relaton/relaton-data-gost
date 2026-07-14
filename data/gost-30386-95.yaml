@@ -1,0 +1,48 @@
+---
+id: GOST-30386-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы текстильные. Предельно допустимые концентрации свободного формальдегида
+  type: main
+docidentifier:
+- content: GOST 30386-95
+  type: GOST
+  primary: true
+docnumber: '30386'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30386:95
+  webpage: https://new-shop.ksm.kz/catalog/document/27383/
+  ics_code: 59.080.30
+  pages: '5'
+  designation_original: ГОСТ 30386-95

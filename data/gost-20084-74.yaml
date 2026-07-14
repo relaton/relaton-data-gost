@@ -1,0 +1,50 @@
+---
+id: GOST-20084-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты модельные чугунные для опок размерами в свету 400х300 мм, 450х350
+    мм, 500х400 мм на формовочные литейные машины без поворота полуформы с допрессовкой.
+    Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 20084-74
+  type: GOST
+  primary: true
+docnumber: '20084'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20084:74
+  webpage: https://new-shop.ksm.kz/catalog/document/21507/
+  ics_code: 25.120.30
+  pages: '10'
+  designation_original: ГОСТ 20084-74

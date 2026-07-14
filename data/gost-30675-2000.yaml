@@ -1,0 +1,49 @@
+---
+id: GOST-30675-2000
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрокартон листовой и рулонный. Технические требования. Часть 1. Термины
+    и определения. Общие требования
+  type: main
+docidentifier:
+- content: GOST 30675-2000
+  type: GOST
+  primary: true
+docnumber: '30675'
+date:
+- type: published
+  from: '2000-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2000'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30675:2000
+  webpage: https://new-shop.ksm.kz/catalog/document/15653/
+  ics_code: '85.060'
+  pages: '8'
+  designation_original: ГОСТ 30675-2000

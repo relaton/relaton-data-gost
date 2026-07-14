@@ -1,0 +1,48 @@
+---
+id: GOST-R-51777-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели для установок погружных электронасосов. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 51777-2001
+  type: GOST
+  primary: true
+docnumber: '51777'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51777:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/24004/
+  ics_code: 29.060.20
+  pages: '22'
+  designation_original: ГОСТ Р 51777-2001

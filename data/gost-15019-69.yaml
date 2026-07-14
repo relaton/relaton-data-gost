@@ -1,0 +1,48 @@
+---
+id: GOST-15019-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Втулки центрирующие и направляющие для литейных опок. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 15019-69
+  type: GOST
+  primary: true
+docnumber: '15019'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15019:69
+  webpage: https://new-shop.ksm.kz/catalog/document/21000/
+  ics_code: 25.120.30
+  pages: '5'
+  designation_original: ГОСТ 15019-69

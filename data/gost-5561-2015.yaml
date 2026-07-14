@@ -1,0 +1,48 @@
+---
+id: GOST-5561-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тмин черный и белый немолотый. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5561-2015
+  type: GOST
+  primary: true
+docnumber: '5561'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5561:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62821/
+  ics_code: 67.220.10
+  pages: '9'
+  designation_original: ГОСТ ISO 5561-2015

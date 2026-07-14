@@ -1,0 +1,49 @@
+---
+id: GOST-R-52642-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Имплантаты для хирургии. Метод определения радикалобразующей активности
+    частиц износа имплантируемых материалов
+  type: main
+docidentifier:
+- content: GOST R 52642-2006
+  type: GOST
+  primary: true
+docnumber: '52642'
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52642:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/16740/
+  ics_code: 11.040.40
+  pages: '11'
+  designation_original: ГОСТ Р 52642-2006

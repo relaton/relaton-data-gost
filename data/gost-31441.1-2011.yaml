@@ -1,0 +1,49 @@
+---
+id: GOST-31441.1-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование неэлектрическое, предназначенное для применения в потенциально
+    взрывоопасных средах. Часть 1. Общие требования
+  type: main
+docidentifier:
+- content: GOST 31441.1-2011
+  type: GOST
+  primary: true
+docnumber: '31441.1'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31441.1:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/48670/
+  ics_code: '13.230'
+  pages: '81'
+  designation_original: ГОСТ 31441.1-2011 (EN 13463-1:2001)

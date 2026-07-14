@@ -1,0 +1,49 @@
+---
+id: GOST-35096-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ранцы, рюкзаки и портфели ученические, кожгалантерейные изделия для детей
+    и подростков. Технические условия
+  type: main
+docidentifier:
+- content: GOST 35096-2024
+  type: GOST
+  primary: true
+docnumber: '35096'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35096:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75937/
+  ics_code: 59.140.35
+  pages: '17'
+  designation_original: ГОСТ 35096-2024

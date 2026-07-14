@@ -1,0 +1,50 @@
+---
+id: GOST-R-60287-2-2-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели электрические. Расчет номинальной токовой нагрузки. Часть 2-2. Тепловое
+    сопротивление. Метод расчета коэффициентов снижения допустимой токовой нагрузки
+    для групп кабелей, проложенных на воздухе и защищенных от прямого солнечного излучения
+  type: main
+docidentifier:
+- content: GOST R 60287-2-2-2009
+  type: GOST
+  primary: true
+docnumber: 60287-2-2
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60287-2-2:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/43111/
+  ics_code: 29.060.20
+  pages: '12'
+  designation_original: ГОСТ Р МЭК 60287-2-2-2009

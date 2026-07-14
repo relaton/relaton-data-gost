@@ -1,0 +1,51 @@
+---
+id: GOST-61326-3-1-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрическое оборудование для измерения, управления и лабораторного применения.
+    Требования ЭМС. Часть 3-1. Требования помехоустойчивости для систем, связанных
+    с безопасностью, и оборудования, предназначенного для выполнения функций, связанных
+    с безопасностью (функциональная безопасность). Общие промышленные применения
+  type: main
+docidentifier:
+- content: GOST 61326-3-1-2015
+  type: GOST
+  primary: true
+docnumber: 61326-3-1
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61326-3-1:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62796/
+  ics_code: 25.040.40
+  pages: '40'
+  designation_original: ГОСТ IEC 61326-3-1-2015

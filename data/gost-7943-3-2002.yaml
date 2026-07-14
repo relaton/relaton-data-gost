@@ -1,0 +1,49 @@
+---
+id: GOST-7943-3-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фотография. Графопроекторы. Рулонная пленка, сердечники и наматыватели.
+    Размеры
+  type: main
+docidentifier:
+- content: GOST 7943-3-2002
+  type: GOST
+  primary: true
+docnumber: 7943-3
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7943-3:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38704/
+  ics_code: 37.040.10
+  pages: '37'
+  designation_original: ГОСТ ИСО 7943-3-2002

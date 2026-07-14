@@ -1,0 +1,49 @@
+---
+id: GOST-7653-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Транспорт дорожный. Автомобили грузовые. Соединения вала отбора мощности
+    с вспомогательным оборудованием
+  type: main
+docidentifier:
+- content: GOST 7653-2008
+  type: GOST
+  primary: true
+docnumber: '7653'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7653:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/38244/
+  ics_code: 43.080.01
+  pages: '6'
+  designation_original: ГОСТ ИСО 7653-2008

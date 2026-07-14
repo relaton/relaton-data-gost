@@ -1,0 +1,49 @@
+---
+id: GOST-25297-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Установки компактные для очистки поверхностных вод на питьевые нужды. Типы,
+    основные параметры и размеры
+  type: main
+docidentifier:
+- content: GOST 25297-82
+  type: GOST
+  primary: true
+docnumber: '25297'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25297:82
+  webpage: https://new-shop.ksm.kz/catalog/document/35348/
+  ics_code: 91.140.80
+  pages: '3'
+  designation_original: ГОСТ 25297-82

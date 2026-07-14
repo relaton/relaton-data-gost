@@ -1,0 +1,48 @@
+---
+id: GOST-32335-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Смазки пластичные. Определение коррозионного воздействия на медную пластинку
+  type: main
+docidentifier:
+- content: GOST 32335-2013
+  type: GOST
+  primary: true
+docnumber: '32335'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32335:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56184/
+  ics_code: '75.080'
+  pages: '12'
+  designation_original: ГОСТ 32335-2013

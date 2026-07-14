@@ -1,0 +1,49 @@
+---
+id: GOST-R-53308-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конструкции строительные. Светопрозрачные ограждающие конструкции и заполнения
+    проемов. Метод испытаний на огнестойкость
+  type: main
+docidentifier:
+- content: GOST R 53308-2009
+  type: GOST
+  primary: true
+docnumber: '53308'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53308:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/58049/
+  ics_code: 13.220.50
+  pages: '32'
+  designation_original: ГОСТ Р 53308-2009

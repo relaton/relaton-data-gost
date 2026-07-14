@@ -1,0 +1,49 @@
+---
+id: GOST-3853-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Колесные транспортные средства. Сцепные устройства автомобилей-тягачей
+    для буксирования фургонов или легких прицепов. Испытание на механическую прочность
+  type: main
+docidentifier:
+- content: GOST 3853-2009
+  type: GOST
+  primary: true
+docnumber: '3853'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:3853:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42428/
+  ics_code: 43.040.70
+  pages: '20'
+  designation_original: ГОСТ ИСО 3853-2009

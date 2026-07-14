@@ -1,0 +1,50 @@
+---
+id: GOST-33469-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Глобальная навигационная спутниковая система. Система экстренного реагирования
+    при авариях. Методы испытаний устройства/системы вызова экстренных оперативных
+    служб на соответствие требованиям по определению момента аварии
+  type: main
+docidentifier:
+- content: GOST 33469-2015
+  type: GOST
+  primary: true
+docnumber: '33469'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33469:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/66644/
+  ics_code: 35.240.60
+  pages: '88'
+  designation_original: ГОСТ 33469-2015

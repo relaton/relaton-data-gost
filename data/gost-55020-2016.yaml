@@ -1,0 +1,50 @@
+---
+id: GOST-55020-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электромагнитная совместимость. Радиовещательные приемники, телевизоры
+    и связанное с ними оборудование. Характеристики помехоустойчивости. Нормы и методы
+    измерений
+  type: main
+docidentifier:
+- content: GOST 55020-2016
+  type: GOST
+  primary: true
+docnumber: '55020'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:55020:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/70499/
+  ics_code: 33.100.20
+  pages: '75'
+  designation_original: ГОСТ EN 55020-2016

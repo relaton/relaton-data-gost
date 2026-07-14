@@ -1,0 +1,49 @@
+---
+id: GOST-60598-2-12-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Светильники. Часть 2-12. Дополнительные требования к ночным светильникам
+    для крепления в штепсельной сетевой розетке
+  type: main
+docidentifier:
+- content: GOST 60598-2-12-2016
+  type: GOST
+  primary: true
+docnumber: 60598-2-12
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60598-2-12:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/74402/
+  ics_code: 29.140.40
+  pages: '11'
+  designation_original: ГОСТ IEC 60598-2-12-2016

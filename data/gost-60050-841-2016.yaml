@@ -1,0 +1,49 @@
+---
+id: GOST-60050-841-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: '"Международный электротехнический словарь. Ч а с т ь 841 Промышленный
+    электронагрев."'
+  type: main
+docidentifier:
+- content: GOST 60050-841-2016
+  type: GOST
+  primary: true
+docnumber: 60050-841
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60050-841:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/71173/
+  ics_code: 01.040.29
+  pages: '64'
+  designation_original: ГОСТ IEC 60050-841-2016

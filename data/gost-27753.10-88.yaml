@@ -1,0 +1,48 @@
+---
+id: GOST-27753.10-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Грунты тепличные. Метод определения органического вещества
+  type: main
+docidentifier:
+- content: GOST 27753.10-88
+  type: GOST
+  primary: true
+docnumber: '27753.10'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27753.10:88
+  webpage: https://new-shop.ksm.kz/catalog/document/17444/
+  ics_code: 13.080.10
+  pages: '4'
+  designation_original: ГОСТ 27753.10-88

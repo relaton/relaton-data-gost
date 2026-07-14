@@ -1,0 +1,49 @@
+---
+id: GOST-R-12945-2-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы текстильные. Определение стойкости текстильных полотен к образованию
+    ворсистости и пиллингу. Часть 2. Модифицированный метод Мартиндейла
+  type: main
+docidentifier:
+- content: GOST R 12945-2-2012
+  type: GOST
+  primary: true
+docnumber: 12945-2
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:12945-2:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/59048/
+  ics_code: '97.160'
+  pages: '16'
+  designation_original: ГОСТ Р ИСО 12945-2-2012

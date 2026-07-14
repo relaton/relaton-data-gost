@@ -1,0 +1,48 @@
+---
+id: GOST-12553.1-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сплавы платино-палладиевые. Метод определения палладия
+  type: main
+docidentifier:
+- content: GOST 12553.1-77
+  type: GOST
+  primary: true
+docnumber: '12553.1'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12553.1:77
+  webpage: https://new-shop.ksm.kz/catalog/document/32461/
+  ics_code: 77.120.99
+  pages: '4'
+  designation_original: ГОСТ 12553.1-77

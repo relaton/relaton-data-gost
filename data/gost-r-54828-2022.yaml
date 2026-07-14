@@ -1,0 +1,49 @@
+---
+id: GOST-R-54828-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: УСТРОЙСТВА КОМПЛЕКТНЫЕ РАСПРЕДЕЛИТЕЛЬНЫЕ В МЕТАЛЛИЧЕСКОЙ ОБОЛОЧКЕ С ГАЗОВОЙ
+    ИЗОЛЯЦИЕЙ (КРУЭ) НА НОМИНАЛЬНЫЕ НАПРЯЖЕНИЯ 110 кВ И ВЫШЕ Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 54828-2022
+  type: GOST
+  primary: true
+docnumber: '54828'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54828:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/77104/
+  ics_code: '29.130'
+  pages: '74'
+  designation_original: ГОСТ Р 54828-2022

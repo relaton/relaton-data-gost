@@ -1,0 +1,49 @@
+---
+id: GOST-R-22000-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы менеджмента безопасности пищевой продукции. Требования к организациям,
+    участвующим в цепи создания пищевой продукции
+  type: main
+docidentifier:
+- content: GOST R 22000-2007
+  type: GOST
+  primary: true
+docnumber: '22000'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:22000:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/28352/
+  ics_code: '65.120'
+  pages: '36'
+  designation_original: ГОСТ Р ИСО 22000-2007

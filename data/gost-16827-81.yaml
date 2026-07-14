@@ -1,0 +1,49 @@
+---
+id: GOST-16827-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: "Канат двойной свивки многопрядный малокрутящийся типа ЛК-РО конструкции
+    \r 12х36(1+7+7/7+14)+6х36(1+7+7/7+14)+1 о.с. Сортамент"
+  type: main
+docidentifier:
+- content: GOST 16827-81
+  type: GOST
+  primary: true
+docnumber: '16827'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16827:81
+  webpage: https://new-shop.ksm.kz/catalog/document/32741/
+  ics_code: 77.140.65
+  pages: '4'
+  designation_original: ГОСТ 16827-81

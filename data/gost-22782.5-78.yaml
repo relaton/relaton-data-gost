@@ -1,0 +1,49 @@
+---
+id: GOST-22782.5-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрооборудование взрывозащищенное с видом взрывозащиты "Искробезопасная
+    электрическая цепь". Технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 22782.5-78
+  type: GOST
+  primary: true
+docnumber: '22782.5'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22782.5:78
+  webpage: https://new-shop.ksm.kz/catalog/document/23520/
+  ics_code: 29.260.20
+  pages: '73'
+  designation_original: ГОСТ 22782.5-78

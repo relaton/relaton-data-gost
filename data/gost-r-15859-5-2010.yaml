@@ -1,0 +1,49 @@
+---
+id: GOST-R-15859-5-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы космические. Характеристики, отбор проб и методы анализа текучих
+    сред. Часть 5. Ракетное топливо на основе тетроксида азота
+  type: main
+docidentifier:
+- content: GOST R 15859-5-2010
+  type: GOST
+  primary: true
+docnumber: 15859-5
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:15859-5:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/47353/
+  ics_code: '49.140'
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 15859-5-2010

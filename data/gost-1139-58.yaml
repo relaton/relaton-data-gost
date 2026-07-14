@@ -1,0 +1,48 @@
+---
+id: GOST-1139-58
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединения зубчатые (шлицевые) прямобочные. Размеры, допуски и посадки
+  type: main
+docidentifier:
+- content: GOST 1139-58
+  type: GOST
+  primary: true
+docnumber: '1139'
+date:
+- type: published
+  from: '1958-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1958'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1139:58
+  webpage: https://new-shop.ksm.kz/catalog/document/19123/
+  ics_code: 21.120.30
+  pages: '16'
+  designation_original: ГОСТ 1139-58

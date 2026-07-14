@@ -1,0 +1,48 @@
+---
+id: GOST-35316-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло амарантовое нерафинированное. Технические условия
+  type: main
+docidentifier:
+- content: GOST 35316-2025
+  type: GOST
+  primary: true
+docnumber: '35316'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:35316:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77124/
+  ics_code: 67.200.10
+  pages: '18'
+  designation_original: ГОСТ 35316-2025

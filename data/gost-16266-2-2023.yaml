@@ -1,0 +1,49 @@
+---
+id: GOST-16266-2-2023
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество воды. Обнаружение и подсчет Pseudomonas aeruginosa. Часть 2. Метод
+    наиболее вероятного числа
+  type: main
+docidentifier:
+- content: GOST 16266-2-2023
+  type: GOST
+  primary: true
+docnumber: 16266-2
+date:
+- type: published
+  from: '2023-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2023'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16266-2:2023
+  webpage: https://new-shop.ksm.kz/catalog/document/76427/
+  ics_code: 13.060.70
+  pages: '126'
+  designation_original: ГОСТ ISO 16266-2-2023

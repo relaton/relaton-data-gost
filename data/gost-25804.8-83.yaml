@@ -1,0 +1,50 @@
+---
+id: GOST-25804.8-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура, приборы, устройства и оборудование систем управления технологическими
+    процессами атомных электростанций. Методы оценки соответствия общим конструктивно-техническим
+    требованиям
+  type: main
+docidentifier:
+- content: GOST 25804.8-83
+  type: GOST
+  primary: true
+docnumber: '25804.8'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25804.8:83
+  webpage: https://new-shop.ksm.kz/catalog/document/22952/
+  ics_code: 27.120.20
+  pages: '17'
+  designation_original: ГОСТ 25804.8-83

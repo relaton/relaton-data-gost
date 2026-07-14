@@ -1,0 +1,49 @@
+---
+id: GOST-R-54353-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соль поваренная пищевая. Определение массовой доли сульфат-иона гравиметрическим
+    методом
+  type: main
+docidentifier:
+- content: GOST R 54353-2011
+  type: GOST
+  primary: true
+docnumber: '54353'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54353:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51765/
+  ics_code: 67.220.20
+  pages: '12'
+  designation_original: ГОСТ Р 54353-2011

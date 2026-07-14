@@ -1,0 +1,50 @@
+---
+id: GOST-26239.9-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трихлорсилан. Метод определения хлористого метила, хлористого этила, бутана,
+    изобутана, хлористого метилена, хлороформа, четыреххлористого углерода, метилдихлорсилана,
+    метилтрихлорсилана, хлорметилметилсилана
+  type: main
+docidentifier:
+- content: GOST 26239.9-84
+  type: GOST
+  primary: true
+docnumber: '26239.9'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26239.9:84
+  webpage: https://new-shop.ksm.kz/catalog/document/23602/
+  ics_code: '29.045'
+  pages: '20'
+  designation_original: ГОСТ 26239.9-84

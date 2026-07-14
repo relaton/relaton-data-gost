@@ -1,0 +1,50 @@
+---
+id: GOST-30395.1-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Инструменты стоматологические для лечения и обработки канала корня зуба.
+    Часть 1. Корневые напильники, дрильборы, пульпоэкстракторы, рашпили, каналонаполнители,
+    зонды и ватные иглы
+  type: main
+docidentifier:
+- content: GOST 30395.1-95
+  type: GOST
+  primary: true
+docnumber: '30395.1'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30395.1:95
+  webpage: https://new-shop.ksm.kz/catalog/document/16571/
+  ics_code: 11.060.20
+  pages: '1'
+  designation_original: ГОСТ 30395.1-95

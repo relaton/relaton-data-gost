@@ -1,0 +1,50 @@
+---
+id: GOST-61008-1-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Выключатели автоматические, управляемые дифференциальным током, бытового
+    и аналогичного назначения без встроенной защиты от сверхтоков Часть 1 Общие требования
+    и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 61008-1-2020
+  type: GOST
+  primary: true
+docnumber: 61008-1
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61008-1:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/73293/
+  ics_code: 29.120.50
+  pages: '140'
+  designation_original: ГОСТ IEC 61008-1-2020

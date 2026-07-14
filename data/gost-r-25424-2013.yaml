@@ -1,0 +1,49 @@
+---
+id: GOST-R-25424-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стерилизация медицинских изделий. Стерилизация низкотемпературная пароформальдегидная.
+    Требования к разработке, валидации и рутинному контролю процесса стерилизации
+  type: main
+docidentifier:
+- content: GOST R 25424-2013
+  type: GOST
+  primary: true
+docnumber: '25424'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:25424:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59290/
+  ics_code: 11.080.01
+  pages: '40'
+  designation_original: ГОСТ Р ИСО 25424-2013

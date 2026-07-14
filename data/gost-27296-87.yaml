@@ -1,0 +1,49 @@
+---
+id: GOST-27296-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Защиты от шума в строительстве. Звукоизоляция ограждающих конструкций.
+    Методы измерений
+  type: main
+docidentifier:
+- content: GOST 27296-87
+  type: GOST
+  primary: true
+docnumber: '27296'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27296:87
+  webpage: https://new-shop.ksm.kz/catalog/document/35415/
+  ics_code: 91.120.20
+  pages: '22'
+  designation_original: ГОСТ 27296-87

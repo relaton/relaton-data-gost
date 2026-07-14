@@ -1,0 +1,48 @@
+---
+id: GOST-R-54593-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии. Свободное программное обеспечение. Общие положения
+  type: main
+docidentifier:
+- content: GOST R 54593-2011
+  type: GOST
+  primary: true
+docnumber: '54593'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54593:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51542/
+  ics_code: '35.080'
+  pages: '12'
+  designation_original: ГОСТ Р 54593-2011

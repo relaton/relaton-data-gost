@@ -1,0 +1,49 @@
+---
+id: GOST-5348-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Фрезы дисковые трехсторонние со вставными ножами, оснащенными твердым сплавом.
+    Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 5348-69
+  type: GOST
+  primary: true
+docnumber: '5348'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5348:69
+  webpage: https://new-shop.ksm.kz/catalog/document/20534/
+  ics_code: 25.100.20
+  pages: '19'
+  designation_original: ГОСТ 5348-69

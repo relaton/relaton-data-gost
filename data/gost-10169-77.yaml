@@ -1,0 +1,48 @@
+---
+id: GOST-10169-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины электрические трехфазные синхронные. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 10169-77
+  type: GOST
+  primary: true
+docnumber: '10169'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10169:77
+  webpage: https://new-shop.ksm.kz/catalog/document/23181/
+  ics_code: 29.160.01
+  pages: '85'
+  designation_original: ГОСТ 10169-77

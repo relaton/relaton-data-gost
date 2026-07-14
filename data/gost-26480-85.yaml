@@ -1,0 +1,49 @@
+---
+id: GOST-26480-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Протяжки для квадратных отверстий со стороной от 25 до 41 мм. Конструкция
+    и размеры
+  type: main
+docidentifier:
+- content: GOST 26480-85
+  type: GOST
+  primary: true
+docnumber: '26480'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26480:85
+  webpage: https://new-shop.ksm.kz/catalog/document/22669/
+  ics_code: 25.100.25
+  pages: '17'
+  designation_original: ГОСТ 26480-85

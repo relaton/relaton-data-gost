@@ -1,0 +1,48 @@
+---
+id: GOST-10363-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масло ЭШ для гидросистем высоконагруженных механизмов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 10363-78
+  type: GOST
+  primary: true
+docnumber: '10363'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10363:78
+  webpage: https://new-shop.ksm.kz/catalog/document/31465/
+  ics_code: '75.100'
+  pages: '3'
+  designation_original: ГОСТ 10363-78

@@ -1,0 +1,50 @@
+---
+id: GOST-R-11146-3-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лазеры и лазерные установки (системы). Методы измерений ширин, углов расходимости
+    и коэффициентов распространения лазерных пучков. Часть 3. Собственная и геометрическая
+    классификация лазерных пучков, специфика их распространения и методики измерений
+  type: main
+docidentifier:
+- content: GOST R 11146-3-2008
+  type: GOST
+  primary: true
+docnumber: 11146-3
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:11146-3:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/42657/
+  ics_code: '17.080'
+  pages: '24'
+  designation_original: ГОСТ Р ИСО/ТО 11146-3-2008

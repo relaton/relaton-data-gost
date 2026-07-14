@@ -1,0 +1,49 @@
+---
+id: GOST-10444.11-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Микробиология пищевых продуктов и кормов для животных. Методы выявления
+    и подсчета количества мезофильных молочнокислых микроорганизмов
+  type: main
+docidentifier:
+- content: GOST 10444.11-2013
+  type: GOST
+  primary: true
+docnumber: '10444.11'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10444.11:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58419/
+  ics_code: 07.100.30
+  pages: '21'
+  designation_original: ГОСТ 10444.11-2013 (ISO 15214:1998)

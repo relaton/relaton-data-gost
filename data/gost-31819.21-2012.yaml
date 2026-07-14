@@ -1,0 +1,50 @@
+---
+id: GOST-31819.21-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура для измерения электрической энергии переменного тока. Частные
+    требования. Часть 21. Статические счетчики активной энергии классов точности 1
+    и 2
+  type: main
+docidentifier:
+- content: GOST 31819.21-2012
+  type: GOST
+  primary: true
+docnumber: '31819.21'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31819.21:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/53076/
+  ics_code: '17.220'
+  pages: '23'
+  designation_original: ГОСТ 31819.21-2012 (IEC 62053-21:2003)

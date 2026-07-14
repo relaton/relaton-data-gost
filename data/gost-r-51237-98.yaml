@@ -1,0 +1,48 @@
+---
+id: GOST-R-51237-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нетрадиционная энергетика. Ветроэнергетика. Термины и определения
+  type: main
+docidentifier:
+- content: GOST R 51237-98
+  type: GOST
+  primary: true
+docnumber: '51237'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51237:98
+  webpage: https://new-shop.ksm.kz/catalog/document/15530/
+  ics_code: '27.180'
+  pages: '16'
+  designation_original: ГОСТ Р 51237-98

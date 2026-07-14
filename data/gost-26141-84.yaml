@@ -1,0 +1,49 @@
+---
+id: GOST-26141-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Усилители рентгеновского изображения медицинских рентгеновских аппаратов.
+    Общие технические требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST 26141-84
+  type: GOST
+  primary: true
+docnumber: '26141'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26141:84
+  webpage: https://new-shop.ksm.kz/catalog/document/16499/
+  ics_code: 11.040.50
+  pages: '20'
+  designation_original: ГОСТ 26141-84

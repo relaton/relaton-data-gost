@@ -1,0 +1,49 @@
+---
+id: GOST-R-15459-5-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Автоматическая идентификация. Идентификаторы уникальные международные.
+    Часть 5. Уникальные идентификаторы возвратных транспортных упаковочных средств
+  type: main
+docidentifier:
+- content: GOST R 15459-5-2008
+  type: GOST
+  primary: true
+docnumber: 15459-5
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:15459-5:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/40753/
+  ics_code: '35.040'
+  pages: '11'
+  designation_original: ГОСТ Р ИСО/МЭК 15459-5-2008

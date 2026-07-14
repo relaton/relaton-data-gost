@@ -1,0 +1,49 @@
+---
+id: GOST-34346.1-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тепловые насосы с водой в качестве источника тепла. Испытания и оценка
+    рабочих характеристик. Часть 1. Тепловые насосы "вода-воздух" и "рассол-воздух"
+  type: main
+docidentifier:
+- content: GOST 34346.1-2017
+  type: GOST
+  primary: true
+docnumber: '34346.1'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34346.1:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70382/
+  ics_code: '27.080'
+  pages: '46'
+  designation_original: ГОСТ 34346.1-2017

@@ -1,0 +1,48 @@
+---
+id: GOST-14748-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ручки круглые и шестигранные для калибров-пробок. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 14748-69
+  type: GOST
+  primary: true
+docnumber: '14748'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14748:69
+  webpage: https://new-shop.ksm.kz/catalog/document/18330/
+  ics_code: 17.040.30
+  pages: '6'
+  designation_original: ГОСТ 14748-69

@@ -1,0 +1,49 @@
+---
+id: GOST-16441-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели маслонаполненные на переменное напряжение 110-500 кВ. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 16441-78
+  type: GOST
+  primary: true
+docnumber: '16441'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16441:78
+  webpage: https://new-shop.ksm.kz/catalog/document/23401/
+  ics_code: 29.060.20
+  pages: '42'
+  designation_original: ГОСТ 16441-78

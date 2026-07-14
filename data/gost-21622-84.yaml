@@ -1,0 +1,49 @@
+---
+id: GOST-21622-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электровафельницы и электрогрили контактные бытовые. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 21622-84
+  type: GOST
+  primary: true
+docnumber: '21622'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21622:84
+  webpage: https://new-shop.ksm.kz/catalog/document/35658/
+  ics_code: 97.040.50
+  pages: '15'
+  designation_original: ГОСТ 21622-84

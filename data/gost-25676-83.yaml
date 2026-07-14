@@ -1,0 +1,49 @@
+---
+id: GOST-25676-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рукава резиновые для бурения. Основные параметры и размеры, технические
+    требования, методы испытаний, маркировка, упаковка, транспортирование и хранение
+  type: main
+docidentifier:
+- content: GOST 25676-83
+  type: GOST
+  primary: true
+docnumber: '25676'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25676:83
+  webpage: https://new-shop.ksm.kz/catalog/document/34350/
+  ics_code: 83.140.40
+  pages: '6'
+  designation_original: ГОСТ 25676-83

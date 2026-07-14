@@ -1,0 +1,49 @@
+---
+id: GOST-21573-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Муфты электромагнитные многодисковые с магнитопроводящими дисками. Основные
+    параметры и размеры
+  type: main
+docidentifier:
+- content: GOST 21573-76
+  type: GOST
+  primary: true
+docnumber: '21573'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21573:76
+  webpage: https://new-shop.ksm.kz/catalog/document/19543/
+  ics_code: 21.120.20
+  pages: '16'
+  designation_original: ГОСТ 21573-76

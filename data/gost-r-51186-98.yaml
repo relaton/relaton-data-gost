@@ -1,0 +1,49 @@
+---
+id: GOST-R-51186-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Извещатели охранные звуковые пассивные для блокировки остекленных конструкций
+    в закрытых помещениях. Общие технические требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 51186-98
+  type: GOST
+  primary: true
+docnumber: '51186'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51186:98
+  webpage: https://new-shop.ksm.kz/catalog/document/17641/
+  ics_code: '13.320'
+  pages: '21'
+  designation_original: ГОСТ Р 51186-98

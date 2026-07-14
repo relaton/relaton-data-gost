@@ -1,0 +1,49 @@
+---
+id: GOST-30247.1-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конструкции строительные. Методы испытаний на огнестойкость. Несущие и
+    ограждающие конструкции
+  type: main
+docidentifier:
+- content: GOST 30247.1-94
+  type: GOST
+  primary: true
+docnumber: '30247.1'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30247.1:94
+  webpage: https://new-shop.ksm.kz/catalog/document/17471/
+  ics_code: 13.220.50
+  pages: '11'
+  designation_original: ГОСТ 30247.1-94

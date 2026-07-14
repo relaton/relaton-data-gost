@@ -1,0 +1,48 @@
+---
+id: GOST-6206-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лист чайный (сортовой). Технические условия
+  type: main
+docidentifier:
+- content: GOST 6206-69
+  type: GOST
+  primary: true
+docnumber: '6206'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6206:69
+  webpage: https://new-shop.ksm.kz/catalog/document/27733/
+  ics_code: 67.140.10
+  pages: '6'
+  designation_original: ГОСТ 6206-69

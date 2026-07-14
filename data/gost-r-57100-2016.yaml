@@ -1,0 +1,48 @@
+---
+id: GOST-R-57100-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системная и программная инженерия. Описание архитектуры
+  type: main
+docidentifier:
+- content: GOST R 57100-2016
+  type: GOST
+  primary: true
+docnumber: '57100'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57100:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65798/
+  ics_code: '35.080'
+  pages: '36'
+  designation_original: ГОСТ Р 57100-2016/ISO/IEC/IEEE 42010:2011

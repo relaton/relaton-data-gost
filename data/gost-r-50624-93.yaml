@@ -1,0 +1,51 @@
+---
+id: GOST-R-50624-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материал электроизоляционный фольгированный нормированной горючести для
+    печатных плат на основе целлюлозной бумаги, пропитанной эпоксидным связующим (внутренние
+    слои), и стеклоткани, пропитанной эпоксидным связующим (наружные слои) (верт(см.
+    описание...)
+  type: main
+docidentifier:
+- content: GOST R 50624-93
+  type: GOST
+  primary: true
+docnumber: '50624'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50624:93
+  webpage: https://new-shop.ksm.kz/catalog/document/23990/
+  ics_code: 29.035.10
+  pages: '12'
+  designation_original: ГОСТ Р 50624-93

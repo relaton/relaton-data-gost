@@ -1,0 +1,49 @@
+---
+id: GOST-60335-2-53-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бытовые и аналогичные электрические приборы. Безопасность. Часть 2-53.
+    Частные требования к нагревательным приборам для саун и инфракрасным кабинам
+  type: main
+docidentifier:
+- content: GOST 60335-2-53-2014
+  type: GOST
+  primary: true
+docnumber: 60335-2-53
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60335-2-53:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60459/
+  ics_code: 97.100.10
+  pages: '24'
+  designation_original: ГОСТ IEC 60335-2-53-2014

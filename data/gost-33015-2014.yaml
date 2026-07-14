@@ -1,0 +1,49 @@
+---
+id: GOST-33015-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Котлы бытовые отопительные, работающие на твердом топливе номинальной тепловой
+    мощностью до 50 кВт. Требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 33015-2014
+  type: GOST
+  primary: true
+docnumber: '33015'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33015:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61825/
+  ics_code: 91.140.10
+  pages: '50'
+  designation_original: ГОСТ 33015-2014 (EN 12809:2005)

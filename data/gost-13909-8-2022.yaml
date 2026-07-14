@@ -1,0 +1,49 @@
+---
+id: GOST-13909-8-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Уголь каменный и кокс. Механический отбор проб. Часть 8. Методы определения
+    систематической погрешности
+  type: main
+docidentifier:
+- content: GOST 13909-8-2022
+  type: GOST
+  primary: true
+docnumber: 13909-8
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13909-8:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/75147/
+  ics_code: '73.040'
+  pages: '33'
+  designation_original: ГОСТ ISO 13909-8-2022

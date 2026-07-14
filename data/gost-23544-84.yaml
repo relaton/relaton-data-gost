@@ -1,0 +1,49 @@
+---
+id: GOST-23544-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жгуты проводов для автотракторного электрооборудования. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 23544-84
+  type: GOST
+  primary: true
+docnumber: '23544'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23544:84
+  webpage: https://new-shop.ksm.kz/catalog/document/23901/
+  ics_code: 29.060.10
+  pages: '19'
+  designation_original: ГОСТ 23544-84

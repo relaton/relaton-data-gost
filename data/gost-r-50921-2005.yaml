@@ -1,0 +1,49 @@
+---
+id: GOST-R-50921-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кокс каменноугольный с размером кусков 20 мм и более. Метод определения
+    прочности после реакции с двуокисью углерода
+  type: main
+docidentifier:
+- content: GOST R 50921-2005
+  type: GOST
+  primary: true
+docnumber: '50921'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50921:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/31762/
+  ics_code: 75.160.10
+  pages: '15'
+  designation_original: ГОСТ Р 50921-2005

@@ -1,0 +1,49 @@
+---
+id: GOST-14868-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Преобразователи частоты электромашинные мощностью до 200 кВт частотой до
+    20000 Гц. Основные параметры
+  type: main
+docidentifier:
+- content: GOST 14868-97
+  type: GOST
+  primary: true
+docnumber: '14868'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14868:97
+  webpage: https://new-shop.ksm.kz/catalog/document/23369/
+  ics_code: '29.200'
+  pages: '4'
+  designation_original: ГОСТ 14868-97

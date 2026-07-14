@@ -1,0 +1,49 @@
+---
+id: GOST-15516-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Секции конвейеров роликовых неприводных переносных общего назначения. Типы.
+    Основные параметры и размеры
+  type: main
+docidentifier:
+- content: GOST 15516-76
+  type: GOST
+  primary: true
+docnumber: '15516'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15516:76
+  webpage: https://new-shop.ksm.kz/catalog/document/26187/
+  ics_code: 53.040.10
+  pages: '8'
+  designation_original: ГОСТ 15516-76

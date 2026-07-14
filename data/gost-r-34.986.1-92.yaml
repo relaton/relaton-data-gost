@@ -1,0 +1,49 @@
+---
+id: GOST-R-34.986.1-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Взаимосвязь открытых систем. Протокол основного
+    класса виртуального терминала. Часть 1. Спецификация
+  type: main
+docidentifier:
+- content: GOST R 34.986.1-92
+  type: GOST
+  primary: true
+docnumber: 34.986.1
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:34.986.1:92
+  webpage: https://new-shop.ksm.kz/catalog/document/25212/
+  ics_code: 35.100.70
+  pages: '128'
+  designation_original: ГОСТ Р 34.986.1-92

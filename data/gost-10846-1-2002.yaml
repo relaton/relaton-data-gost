@@ -1,0 +1,50 @@
+---
+id: GOST-10846-1-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Измерения виброакустических передаточных характеристик упругих
+    элементов конструкций в лабораторных условиях. Часть1. Общие принципы измерений
+    и руководство по их проведению
+  type: main
+docidentifier:
+- content: GOST 10846-1-2002
+  type: GOST
+  primary: true
+docnumber: 10846-1
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10846-1:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/18844/
+  ics_code: '17.160'
+  pages: '23'
+  designation_original: ГОСТ ИСО 10846-1-2002

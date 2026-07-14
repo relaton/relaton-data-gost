@@ -1,0 +1,48 @@
+---
+id: GOST-20576-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шерсть натуральная сортированная. Правила приемки и методы отбора проб
+  type: main
+docidentifier:
+- content: GOST 20576-88
+  type: GOST
+  primary: true
+docnumber: '20576'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20576:88
+  webpage: https://new-shop.ksm.kz/catalog/document/27075/
+  ics_code: 59.060.10
+  pages: '6'
+  designation_original: ГОСТ 20576-88

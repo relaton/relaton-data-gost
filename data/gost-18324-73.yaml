@@ -1,0 +1,49 @@
+---
+id: GOST-18324-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Блоки источников ионизирующих излучений для релейных радиоизотопных приборов.
+    Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 18324-73
+  type: GOST
+  primary: true
+docnumber: '18324'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18324:73
+  webpage: https://new-shop.ksm.kz/catalog/document/22906/
+  ics_code: 27.120.10
+  pages: '18'
+  designation_original: ГОСТ 18324-73

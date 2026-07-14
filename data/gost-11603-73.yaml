@@ -1,0 +1,48 @@
+---
+id: GOST-11603-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Древесина. Метод определения остаточных напряжений
+  type: main
+docidentifier:
+- content: GOST 11603-73
+  type: GOST
+  primary: true
+docnumber: '11603'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11603:73
+  webpage: https://new-shop.ksm.kz/catalog/document/26906/
+  ics_code: '59.040'
+  pages: '11'
+  designation_original: ГОСТ 11603-73

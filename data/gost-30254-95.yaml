@@ -1,0 +1,49 @@
+---
+id: GOST-30254-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Агрегатные комплексы приборов и средств автоматизации. Соединители прямоугольные
+    РПП. Типы. Основные размеры. Технические условия
+  type: main
+docidentifier:
+- content: GOST 30254-95
+  type: GOST
+  primary: true
+docnumber: '30254'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30254:95
+  webpage: https://new-shop.ksm.kz/catalog/document/39255/
+  ics_code: 29.120.30
+  pages: '29'
+  designation_original: ГОСТ 30254-95

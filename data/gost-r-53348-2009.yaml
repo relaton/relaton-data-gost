@@ -1,0 +1,48 @@
+---
+id: GOST-R-53348-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Социальное обслуживание населения. Контроль качества социальных услуг инвалидам
+  type: main
+docidentifier:
+- content: GOST R 53348-2009
+  type: GOST
+  primary: true
+docnumber: '53348'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53348:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42722/
+  ics_code: 03.080.30
+  pages: '12'
+  designation_original: ГОСТ Р 53348-2009

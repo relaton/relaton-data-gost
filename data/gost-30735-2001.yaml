@@ -1,0 +1,49 @@
+---
+id: GOST-30735-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Котлы отопительные водогрейные теплопроизводительностью от 0,1 до 4,0 МВт.
+    Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 30735-2001
+  type: GOST
+  primary: true
+docnumber: '30735'
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30735:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/23004/
+  ics_code: 27.060.30
+  pages: '20'
+  designation_original: ГОСТ 30735-2001

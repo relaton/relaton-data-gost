@@ -1,0 +1,49 @@
+---
+id: GOST-13994-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Одежда специальная для защиты от жидких химических веществ. Определение
+    стойкости материалов специальной одежды к прониканию жидкостей под давлением
+  type: main
+docidentifier:
+- content: GOST 13994-2024
+  type: GOST
+  primary: true
+docnumber: '13994'
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13994:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75994/
+  ics_code: 13.340.10
+  pages: '24'
+  designation_original: ГОСТ ISO 13994-2024

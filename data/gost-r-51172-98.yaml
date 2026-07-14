@@ -1,0 +1,49 @@
+---
+id: GOST-R-51172-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Концентраты пищевые. Каши лечебно-профилактические для детского питания.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST R 51172-98
+  type: GOST
+  primary: true
+docnumber: '51172'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51172:98
+  webpage: https://new-shop.ksm.kz/catalog/document/29283/
+  ics_code: '67.060'
+  pages: '8'
+  designation_original: ГОСТ Р 51172-98

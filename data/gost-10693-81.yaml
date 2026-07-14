@@ -1,0 +1,49 @@
+---
+id: GOST-10693-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вводы конденсаторные герметичные на номинальные напряжения 11О кВ и выше.
+    Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 10693-81
+  type: GOST
+  primary: true
+docnumber: '10693'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10693:81
+  webpage: https://new-shop.ksm.kz/catalog/document/23195/
+  ics_code: 29.080.20
+  pages: '23'
+  designation_original: ГОСТ 10693-81

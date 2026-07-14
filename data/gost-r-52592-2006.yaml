@@ -1,0 +1,49 @@
+---
+id: GOST-R-52592-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тракт передачи сигналов цифрового вещательного телевидения. Звенья тракта
+    и измерительные сигналы. Общие требования
+  type: main
+docidentifier:
+- content: GOST R 52592-2006
+  type: GOST
+  primary: true
+docnumber: '52592'
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52592:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/25046/
+  ics_code: '33.170'
+  pages: '32'
+  designation_original: ГОСТ Р 52592-2006

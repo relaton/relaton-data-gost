@@ -1,0 +1,49 @@
+---
+id: GOST-721-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы электроснабжения, сети, источники, преобразователи и приемники
+    электрической энергии. Номинальные напряжения свыше 1000 В
+  type: main
+docidentifier:
+- content: GOST 721-77
+  type: GOST
+  primary: true
+docnumber: '721'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:721:77
+  webpage: https://new-shop.ksm.kz/catalog/document/23079/
+  ics_code: '29.020'
+  pages: '8'
+  designation_original: ГОСТ 721-77

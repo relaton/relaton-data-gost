@@ -1,0 +1,50 @@
+---
+id: GOST-416-2-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нагреватели трубчатые инфракрасного излучения газовые потолочные с одной
+    горелкой, не предназначенные для бытового применения. Часть 2. Рациональное использование
+    энергии.
+  type: main
+docidentifier:
+- content: GOST 416-2-2015
+  type: GOST
+  primary: true
+docnumber: 416-2
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:416-2:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/67960/
+  ics_code: 27.060.30
+  pages: '47'
+  designation_original: ГОСТ EN 416-2-2015

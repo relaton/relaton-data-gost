@@ -1,0 +1,48 @@
+---
+id: GOST-6267-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Смазка ЦИАТИМ-201. Технические условия
+  type: main
+docidentifier:
+- content: GOST 6267-74
+  type: GOST
+  primary: true
+docnumber: '6267'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6267:74
+  webpage: https://new-shop.ksm.kz/catalog/document/31374/
+  ics_code: '75.100'
+  pages: '3'
+  designation_original: ГОСТ 6267-74

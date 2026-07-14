@@ -1,0 +1,49 @@
+---
+id: GOST-R-57430-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы, соединительные части из высокопрочного чугуна с шаровидным графитом
+    и их соединения для промысловых нефтепроводов. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 57430-2017
+  type: GOST
+  primary: true
+docnumber: '57430'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57430:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/67616/
+  ics_code: 77.140.75
+  pages: '58'
+  designation_original: ГОСТ Р 57430-2017

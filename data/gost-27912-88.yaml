@@ -1,0 +1,49 @@
+---
+id: GOST-27912-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройство автоматического вызова для телеграфной связи. Требования к процедурам
+    взаимодействия с внешними устройствами и каналом связи
+  type: main
+docidentifier:
+- content: GOST 27912-88
+  type: GOST
+  primary: true
+docnumber: '27912'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27912:88
+  webpage: https://new-shop.ksm.kz/catalog/document/24875/
+  ics_code: 33.050.10
+  pages: '8'
+  designation_original: ГОСТ 27912-88

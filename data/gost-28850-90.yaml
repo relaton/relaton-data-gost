@@ -1,0 +1,49 @@
+---
+id: GOST-28850-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Корневища, клубни и другие вегетативные части растений цветочных культур.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 28850-90
+  type: GOST
+  primary: true
+docnumber: '28850'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28850:90
+  webpage: https://new-shop.ksm.kz/catalog/document/28141/
+  ics_code: 65.020.20
+  pages: '12'
+  designation_original: ГОСТ 28850-90

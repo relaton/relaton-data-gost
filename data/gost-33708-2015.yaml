@@ -1,0 +1,48 @@
+---
+id: GOST-33708-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия колбасные сырокопченые и сыровяленые. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 33708-2015
+  type: GOST
+  primary: true
+docnumber: '33708'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33708:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63852/
+  ics_code: 67.120.10
+  pages: '16'
+  designation_original: ГОСТ 33708-2015

@@ -1,0 +1,49 @@
+---
+id: GOST-R-55006-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стационарные дизельные и газопоршневые электростанции с двигателями внутреннего
+    сгорания. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 55006-2012
+  type: GOST
+  primary: true
+docnumber: '55006'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55006:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58059/
+  ics_code: '27.020'
+  pages: '24'
+  designation_original: ГОСТ Р 55006-2012

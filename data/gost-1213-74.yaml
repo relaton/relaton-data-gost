@@ -1,0 +1,48 @@
+---
+id: GOST-1213-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Свиньи для убоя. Технические условия
+  type: main
+docidentifier:
+- content: GOST 1213-74
+  type: GOST
+  primary: true
+docnumber: '1213'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1213:74
+  webpage: https://new-shop.ksm.kz/catalog/document/27705/
+  ics_code: 65.020.30
+  pages: '6'
+  designation_original: ГОСТ 1213-74

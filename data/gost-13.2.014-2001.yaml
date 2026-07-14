@@ -1,0 +1,49 @@
+---
+id: GOST-13.2.014-2001
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Репрография. Копирография. Метод испытания сухих тонеров для электрофотографических
+    аппаратов по качеству воспроизведения изображения на копиях
+  type: main
+docidentifier:
+- content: GOST 13.2.014-2001
+  type: GOST
+  primary: true
+docnumber: 13.2.014
+date:
+- type: published
+  from: '2001-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2001'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:13.2.014:2001
+  webpage: https://new-shop.ksm.kz/catalog/document/25559/
+  ics_code: '37.080'
+  pages: '8'
+  designation_original: ГОСТ 13.2.014-2001

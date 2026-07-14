@@ -1,0 +1,49 @@
+---
+id: GOST-15197-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы диагностические in vitro. Требования к системам мониторного наблюдения
+    за концентрацией глюкозы в крови для самоконтроля при лечении сахарного диабета
+  type: main
+docidentifier:
+- content: GOST 15197-2011
+  type: GOST
+  primary: true
+docnumber: '15197'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15197:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52687/
+  ics_code: 11.100.10
+  pages: '33'
+  designation_original: ГОСТ ISO 15197-2011

@@ -1,0 +1,48 @@
+---
+id: GOST-2477-65
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть и нефтепродукты. Метод определения содержания воды
+  type: main
+docidentifier:
+- content: GOST 2477-65
+  type: GOST
+  primary: true
+docnumber: '2477'
+date:
+- type: published
+  from: '1965-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1965'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2477:65
+  webpage: https://new-shop.ksm.kz/catalog/document/31319/
+  ics_code: '75.080'
+  pages: '6'
+  designation_original: ГОСТ 2477-65

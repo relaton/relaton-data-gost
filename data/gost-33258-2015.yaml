@@ -1,0 +1,49 @@
+---
+id: GOST-33258-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Арматура трубопроводная. Наплавка и контроль качества наплавленных поверхностей.
+    Технические требования
+  type: main
+docidentifier:
+- content: GOST 33258-2015
+  type: GOST
+  primary: true
+docnumber: '33258'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33258:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62616/
+  ics_code: 23.060.01
+  pages: '51'
+  designation_original: ГОСТ 33258-2015

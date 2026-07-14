@@ -1,0 +1,49 @@
+---
+id: GOST-818-7-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Цепи короткозвенные грузоподъемные. Требования безопасности. Часть 7. Цепи
+    калиброванные. Класс Т (типы Т, DAT и DT). (IDT EN 818-7:2002)
+  type: main
+docidentifier:
+- content: GOST 818-7-2010
+  type: GOST
+  primary: true
+docnumber: 818-7
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:818-7:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45124/
+  ics_code: 21.220.30
+  pages: '31'
+  designation_original: ГОСТ EN 818-7-2010

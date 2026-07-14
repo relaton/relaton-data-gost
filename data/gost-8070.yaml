@@ -1,0 +1,38 @@
+---
+id: GOST-8070
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко и молочные продукты. Определение содержания кальция, натрия, калия
+    и магния. Спектрометрический метод атомной абсорбции
+  type: main
+docidentifier:
+- content: GOST 8070
+  type: GOST
+  primary: true
+docnumber: '8070'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8070
+  webpage: https://new-shop.ksm.kz/catalog/document/65508/
+  ics_code: 07.100.30
+  pages: '19'
+  designation_original: ГОСТ ISO 8070/IDF 119-2014

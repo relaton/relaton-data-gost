@@ -1,0 +1,48 @@
+---
+id: GOST-26181-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты переработки плодов и овощей. Методы определения сорбиновой кислоты
+  type: main
+docidentifier:
+- content: GOST 26181-84
+  type: GOST
+  primary: true
+docnumber: '26181'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26181:84
+  webpage: https://new-shop.ksm.kz/catalog/document/28971/
+  ics_code: 67.080.01
+  pages: '5'
+  designation_original: ГОСТ 26181-84

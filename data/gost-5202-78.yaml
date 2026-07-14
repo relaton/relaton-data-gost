@@ -1,0 +1,48 @@
+---
+id: GOST-5202-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материал переплетный с крахмально-каолиновым покрытием. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5202-78
+  type: GOST
+  primary: true
+docnumber: '5202'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5202:78
+  webpage: https://new-shop.ksm.kz/catalog/document/25577/
+  ics_code: 59.080.40
+  pages: '8'
+  designation_original: ГОСТ 5202-78

@@ -1,0 +1,49 @@
+---
+id: GOST-R-51814.4-2004
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы менеджмента качества в автомобилестроении. Одобрение производства
+    автомобильных компонентов
+  type: main
+docidentifier:
+- content: GOST R 51814.4-2004
+  type: GOST
+  primary: true
+docnumber: '51814.4'
+date:
+- type: published
+  from: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51814.4:2004
+  webpage: https://new-shop.ksm.kz/catalog/document/16136/
+  ics_code: 03.120.30
+  pages: '36'
+  designation_original: ГОСТ Р 51814.4-2004

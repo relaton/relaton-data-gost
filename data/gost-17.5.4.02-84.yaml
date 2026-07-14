@@ -1,0 +1,49 @@
+---
+id: GOST-17.5.4.02-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Охрана природы. Рекультивация земель. Метод измерения и расчета суммы токсичных
+    солей во вскрышных и вмещающих породах
+  type: main
+docidentifier:
+- content: GOST 17.5.4.02-84
+  type: GOST
+  primary: true
+docnumber: 17.5.4.02
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17.5.4.02:84
+  webpage: https://new-shop.ksm.kz/catalog/document/17220/
+  ics_code: 13.080.10
+  pages: '11'
+  designation_original: ГОСТ 17.5.4.02-84

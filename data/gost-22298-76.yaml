@@ -1,0 +1,49 @@
+---
+id: GOST-22298-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бревна пиловочные хвойных пород, поставляемые для экспорта. Технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 22298-76
+  type: GOST
+  primary: true
+docnumber: '22298'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22298:76
+  webpage: https://new-shop.ksm.kz/catalog/document/33648/
+  ics_code: '79.040'
+  pages: '6'
+  designation_original: ГОСТ 22298-76

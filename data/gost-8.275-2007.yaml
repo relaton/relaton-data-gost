@@ -1,0 +1,50 @@
+---
+id: GOST-8.275-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Государственная
+    поверочная схема для средств измерений средней мощности лазерного излучения и
+    энергии импульсного лазерного излучения в диапазоне длин волн от 0,3 до 12,0 мкм
+  type: main
+docidentifier:
+- content: GOST 8.275-2007
+  type: GOST
+  primary: true
+docnumber: '8.275'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8.275:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/18782/
+  ics_code: '17.020'
+  pages: '8'
+  designation_original: ГОСТ 8.275-2007

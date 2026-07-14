@@ -1,0 +1,49 @@
+---
+id: GOST-14678-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Штампы для листовой штамповки. Сепараторы для шариковых направляющих узлов.
+    Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 14678-83
+  type: GOST
+  primary: true
+docnumber: '14678'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:14678:83
+  webpage: https://new-shop.ksm.kz/catalog/document/22224/
+  ics_code: 25.120.10
+  pages: '8'
+  designation_original: ГОСТ 14678-83

@@ -1,0 +1,48 @@
+---
+id: GOST-25599.3-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сплавы твердые спеченные. Методы определения титана
+  type: main
+docidentifier:
+- content: GOST 25599.3-83
+  type: GOST
+  primary: true
+docnumber: '25599.3'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25599.3:83
+  webpage: https://new-shop.ksm.kz/catalog/document/33164/
+  ics_code: '77.160'
+  pages: '6'
+  designation_original: ГОСТ 25599.3-83

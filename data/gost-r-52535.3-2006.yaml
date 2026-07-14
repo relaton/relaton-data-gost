@@ -1,0 +1,49 @@
+---
+id: GOST-R-52535.3-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Карты идентификационные. Машиносчитываемые дорожные документы. Часть 3.
+    Официальные машиносчитываемые проездные документы
+  type: main
+docidentifier:
+- content: GOST R 52535.3-2006
+  type: GOST
+  primary: true
+docnumber: '52535.3'
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52535.3:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/25393/
+  ics_code: 35.240.99
+  pages: '30'
+  designation_original: ГОСТ Р 52535.3-2006

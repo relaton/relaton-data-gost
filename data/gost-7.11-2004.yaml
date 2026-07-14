@@ -1,0 +1,49 @@
+---
+id: GOST-7.11-2004
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов по информации, библиотечному и издательскому делу. Библиографическая
+    запись. Сокращение слов и словосочетаний на иностранных европейских языках
+  type: main
+docidentifier:
+- content: GOST 7.11-2004
+  type: GOST
+  primary: true
+docnumber: '7.11'
+date:
+- type: published
+  from: '2004-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2004'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7.11:2004
+  webpage: https://new-shop.ksm.kz/catalog/document/15577/
+  ics_code: '01.140'
+  pages: '87'
+  designation_original: ГОСТ 7.11-2004

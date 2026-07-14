@@ -1,0 +1,50 @@
+---
+id: GOST-R-3747-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Акустика. Определение уровней звуковой мощности и звуковой энергии источников
+    шума по звуковому давлению. Технический/ориентировочный метод в реверберационном
+    звуковом поле на месте установки
+  type: main
+docidentifier:
+- content: GOST R 3747-2013
+  type: GOST
+  primary: true
+docnumber: '3747'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:3747:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/58721/
+  ics_code: 17.140.01
+  pages: '44'
+  designation_original: ГОСТ Р ИСО 3747-2013

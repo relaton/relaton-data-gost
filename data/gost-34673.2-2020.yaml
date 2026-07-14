@@ -1,0 +1,49 @@
+---
+id: GOST-34673.2-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тяговый подвижной состав железнодорожный. Часть 2. Методы испытаний по
+    защите при аварийных процессах и по измерению нагрева электрооборудования
+  type: main
+docidentifier:
+- content: GOST 34673.2-2020
+  type: GOST
+  primary: true
+docnumber: '34673.2'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34673.2:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/73138/
+  ics_code: 45.060.10
+  pages: '20'
+  designation_original: ГОСТ 34673.2-2020

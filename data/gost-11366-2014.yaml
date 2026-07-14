@@ -1,0 +1,49 @@
+---
+id: GOST-11366-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Нефть и связанные с ней продукты. Руководящие указания по внутреннему обслуживанию
+    смазочных масел для паровых, газовых турбин и турбин смешанного цикла
+  type: main
+docidentifier:
+- content: GOST 11366-2014
+  type: GOST
+  primary: true
+docnumber: '11366'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:11366:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/67825/
+  ics_code: '75.080'
+  pages: '42'
+  designation_original: ГОСТ ISO/TS 11366-2014

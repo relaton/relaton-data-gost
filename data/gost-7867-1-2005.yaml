@@ -1,0 +1,49 @@
+---
+id: GOST-7867-1-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шины и ободья (метрические серии) для сельскохозяйственных тракторов и
+    машин. Часть 1. Обозначение, размеры и маркировка шин, координирование шин и ободьев
+  type: main
+docidentifier:
+- content: GOST 7867-1-2005
+  type: GOST
+  primary: true
+docnumber: 7867-1
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7867-1:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/38313/
+  ics_code: 83.160.30
+  pages: '23'
+  designation_original: ГОСТ ИСО 7867-1-2005

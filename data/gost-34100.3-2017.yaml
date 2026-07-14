@@ -1,0 +1,49 @@
+---
+id: GOST-34100.3-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Неопределенность измерения. Часть 3. Руководство по выражению неопределенности
+    измерения
+  type: main
+docidentifier:
+- content: GOST 34100.3-2017
+  type: GOST
+  primary: true
+docnumber: '34100.3'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34100.3:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/68332/
+  ics_code: '17.020'
+  pages: '112'
+  designation_original: ГОСТ 34100.3-2017/ISO/IEC Guide 98-3:2008

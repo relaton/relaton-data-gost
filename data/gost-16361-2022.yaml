@@ -1,0 +1,50 @@
+---
+id: GOST-16361-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Двери с механическим приводом для пешеходов. Стандарт на продукцию, эксплуатационные
+    характеристики. Дверные блоки, кроме поворотных, изначально спроектированные для
+    установки с механическим приводом
+  type: main
+docidentifier:
+- content: GOST 16361-2022
+  type: GOST
+  primary: true
+docnumber: '16361'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16361:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/76358/
+  ics_code: 91.060.50
+  pages: '43'
+  designation_original: ГОСТ EN 16361-2022

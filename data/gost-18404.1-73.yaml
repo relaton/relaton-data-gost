@@ -1,0 +1,49 @@
+---
+id: GOST-18404.1-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели управления с фторопластовой изоляцией в усиленной резиновой оболочке.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 18404.1-73
+  type: GOST
+  primary: true
+docnumber: '18404.1'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18404.1:73
+  webpage: https://new-shop.ksm.kz/catalog/document/23439/
+  ics_code: 29.060.20
+  pages: '17'
+  designation_original: ГОСТ 18404.1-73

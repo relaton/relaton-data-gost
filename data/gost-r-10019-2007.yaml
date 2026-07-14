@@ -1,0 +1,49 @@
+---
+id: GOST-R-10019-2007
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Менеджмент организации. Руководство по выбору консультантов по системам
+    менеджмента качества и использованию их услуг
+  type: main
+docidentifier:
+- content: GOST R 10019-2007
+  type: GOST
+  primary: true
+docnumber: '10019'
+date:
+- type: published
+  from: '2007-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2007'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10019:2007
+  webpage: https://new-shop.ksm.kz/catalog/document/40750/
+  ics_code: 03.100.30
+  pages: '19'
+  designation_original: ГОСТ Р ИСО 10019-2007

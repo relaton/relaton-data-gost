@@ -1,0 +1,48 @@
+---
+id: GOST-4084-68
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Опоры регулируемые для станочных приспособлений. Конструкция
+  type: main
+docidentifier:
+- content: GOST 4084-68
+  type: GOST
+  primary: true
+docnumber: '4084'
+date:
+- type: published
+  from: '1968-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1968'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4084:68
+  webpage: https://new-shop.ksm.kz/catalog/document/20520/
+  ics_code: 25.060.99
+  pages: '12'
+  designation_original: ГОСТ 4084-68

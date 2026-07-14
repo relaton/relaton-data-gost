@@ -1,0 +1,48 @@
+---
+id: GOST-10760-76
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лак электроизоляционный ВЛ-941
+  type: main
+docidentifier:
+- content: GOST 10760-76
+  type: GOST
+  primary: true
+docnumber: '10760'
+date:
+- type: published
+  from: '1976-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1976'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10760:76
+  webpage: https://new-shop.ksm.kz/catalog/document/23197/
+  ics_code: '87.040'
+  pages: '6'
+  designation_original: ГОСТ 10760-76

@@ -1,0 +1,49 @@
+---
+id: GOST-30988.1-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединители электрические штепсельные бытового и аналогичного назначения
+    Часть 1 Общие требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 30988.1-2020
+  type: GOST
+  primary: true
+docnumber: '30988.1'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30988.1:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/73284/
+  ics_code: 29.120.30
+  pages: '121'
+  designation_original: ГОСТ 30988.1-2020

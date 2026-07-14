@@ -1,0 +1,47 @@
+---
+id: GOST-4042-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия крепежные. Электролитические покрытия
+  type: main
+docidentifier:
+- content: GOST 4042-2015
+  type: GOST
+  primary: true
+docnumber: '4042'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4042:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64520/
+  pages: '28'
+  designation_original: ГОСТ ISO 4042-2015

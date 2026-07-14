@@ -1,0 +1,49 @@
+---
+id: GOST-R-14949-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Имплантаты для хирургии. Эластомеры силиконовые двухкомпонентные, полученные
+    при отверждении в результате реакции присоединения
+  type: main
+docidentifier:
+- content: GOST R 14949-2014
+  type: GOST
+  primary: true
+docnumber: '14949'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:14949:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61130/
+  ics_code: 11.040.30
+  pages: '16'
+  designation_original: ГОСТ Р ИСО 14949-2014

@@ -1,0 +1,50 @@
+---
+id: GOST-50065-4-7-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Передача сигналов по низковольтным электрическим сетям в диапазонах частот
+    от 3 до 148,5 кГц и от 1,6 до 30 МГц. Часть 4-7. Переносные низковольтные развязывающие
+    фильтры. Требования безопасности
+  type: main
+docidentifier:
+- content: GOST 50065-4-7-2018
+  type: GOST
+  primary: true
+docnumber: 50065-4-7
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:50065-4-7:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/70495/
+  ics_code: '31.160'
+  pages: '45'
+  designation_original: ГОСТ EN 50065-4-7-2018

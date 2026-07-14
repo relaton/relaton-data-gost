@@ -1,0 +1,50 @@
+---
+id: GOST-29232-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Анионные и неинногенные поверхностно-активные вещества. Определение критической
+    концентрации мицеллообразования. Метод определения поверхностного натяжения с
+    помощью пластины, скобы или кольца
+  type: main
+docidentifier:
+- content: GOST 29232-91
+  type: GOST
+  primary: true
+docnumber: '29232'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29232:91
+  webpage: https://new-shop.ksm.kz/catalog/document/30471/
+  ics_code: 71.100.40
+  pages: '7'
+  designation_original: ГОСТ 29232-91

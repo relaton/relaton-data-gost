@@ -1,0 +1,49 @@
+---
+id: GOST-172-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Средства индивидуальной защиты глаз. Антибликовые фильтры промышленного
+    назначения
+  type: main
+docidentifier:
+- content: GOST 172-2010
+  type: GOST
+  primary: true
+docnumber: '172'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:172:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45461/
+  ics_code: 13.340.20
+  pages: '13'
+  designation_original: ГОСТ EN 172-2010

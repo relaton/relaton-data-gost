@@ -1,0 +1,49 @@
+---
+id: GOST-6803-72
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шкурки лисиц серебристо-черных, платиновых, снежных и черно-бурых выделанные.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 6803-72
+  type: GOST
+  primary: true
+docnumber: '6803'
+date:
+- type: published
+  from: '1972-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1972'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6803:72
+  webpage: https://new-shop.ksm.kz/catalog/document/26703/
+  ics_code: 59.140.30
+  pages: '8'
+  designation_original: ГОСТ 6803-72

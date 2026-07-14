@@ -1,0 +1,49 @@
+---
+id: GOST-2382-28-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Словарь. Часть 28. Искусственный интеллект.
+    Основные понятия и экспертные системы
+  type: main
+docidentifier:
+- content: GOST 2382-28-99
+  type: GOST
+  primary: true
+docnumber: 2382-28
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2382-28:99
+  webpage: https://new-shop.ksm.kz/catalog/document/39065/
+  ics_code: '35.020'
+  pages: '30'
+  designation_original: ГОСТ ИСО/МЭК 2382-28-99

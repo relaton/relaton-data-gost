@@ -1,0 +1,49 @@
+---
+id: GOST-15506-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Опоки литейные цельнолитые из алюминиевых и магниевых сплавов. Технические
+    требования
+  type: main
+docidentifier:
+- content: GOST 15506-91
+  type: GOST
+  primary: true
+docnumber: '15506'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15506:91
+  webpage: https://new-shop.ksm.kz/catalog/document/21018/
+  ics_code: 25.120.30
+  pages: '4'
+  designation_original: ГОСТ 15506-91

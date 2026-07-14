@@ -1,0 +1,49 @@
+---
+id: GOST-26528-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы металлические спеченные, исключая твердые сплавы. Метод испытания
+    на ударный изгиб
+  type: main
+docidentifier:
+- content: GOST 26528-98
+  type: GOST
+  primary: true
+docnumber: '26528'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26528:98
+  webpage: https://new-shop.ksm.kz/catalog/document/33196/
+  ics_code: '77.160'
+  pages: '8'
+  designation_original: ГОСТ 26528-98

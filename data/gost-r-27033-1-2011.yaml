@@ -1,0 +1,49 @@
+---
+id: GOST-R-27033-1-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Методы и средства обеспечения безопасности.
+    Безопасность сетей. Часть 1. Обзор и концепции
+  type: main
+docidentifier:
+- content: GOST R 27033-1-2011
+  type: GOST
+  primary: true
+docnumber: 27033-1
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:27033-1:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51991/
+  ics_code: '35.040'
+  pages: '73'
+  designation_original: ГОСТ Р ИСО/МЭК 27033-1-2011

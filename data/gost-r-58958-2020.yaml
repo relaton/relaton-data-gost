@@ -1,0 +1,50 @@
+---
+id: GOST-R-58958-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукция пищевая, сырье, корма и кормовые добавки, посевной материал.
+    Выявление ГМО методом скрининга с исследованием наборов генетических элементов
+    в зависимости от видов сельскохозяйственных растений
+  type: main
+docidentifier:
+- content: GOST R 58958-2020
+  type: GOST
+  primary: true
+docnumber: '58958'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:58958:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/76255/
+  ics_code: '67.120'
+  pages: '20'
+  designation_original: ГОСТ Р 58958-2020

@@ -1,0 +1,49 @@
+---
+id: GOST-26887-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Площадки и лестницы для строительно-монтажных работ. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 26887-86
+  type: GOST
+  primary: true
+docnumber: '26887'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26887:86
+  webpage: https://new-shop.ksm.kz/catalog/document/35405/
+  ics_code: 91.080.10
+  pages: '8'
+  designation_original: ГОСТ 26887-86

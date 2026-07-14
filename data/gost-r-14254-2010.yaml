@@ -1,0 +1,49 @@
+---
+id: GOST-R-14254-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские для диагностики in vitro. Одноразовые емкости для сбора
+    образцов у человека (кроме крови)
+  type: main
+docidentifier:
+- content: GOST R 14254-2010
+  type: GOST
+  primary: true
+docnumber: '14254'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:14254:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/54844/
+  ics_code: 11.100.10
+  pages: '20'
+  designation_original: ГОСТ Р ЕН 14254-2010

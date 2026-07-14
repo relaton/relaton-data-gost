@@ -1,0 +1,49 @@
+---
+id: GOST-10637-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Плиты древесностружечные. Метод определения удельного сопротивления выдергиванию
+    гвоздей и шурупов
+  type: main
+docidentifier:
+- content: GOST 10637-78
+  type: GOST
+  primary: true
+docnumber: '10637'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10637:78
+  webpage: https://new-shop.ksm.kz/catalog/document/33510/
+  ics_code: 79.060.20
+  pages: '3'
+  designation_original: ГОСТ 10637-78

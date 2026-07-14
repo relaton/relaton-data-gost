@@ -1,0 +1,49 @@
+---
+id: GOST-R-1029-2-6-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Машины переносные электрические. Частные требования безопасности и методы
+    испытаний машин для сверления алмазными сверлами с подачей воды
+  type: main
+docidentifier:
+- content: GOST R 1029-2-6-96
+  type: GOST
+  primary: true
+docnumber: '1029-2-6'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:1029-2-6:96
+  webpage: https://new-shop.ksm.kz/catalog/document/22879/
+  ics_code: 25.140.20
+  pages: '10'
+  designation_original: ГОСТ Р МЭК 1029-2-6-96

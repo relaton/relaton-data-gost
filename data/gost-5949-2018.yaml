@@ -1,0 +1,49 @@
+---
+id: GOST-5949-2018
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Металлопродукция из нержавеющих сталей и сплавов коррозионного стойких,
+    жаростойких и жаропрочных Технические условия
+  type: main
+docidentifier:
+- content: GOST 5949-2018
+  type: GOST
+  primary: true
+docnumber: '5949'
+date:
+- type: published
+  from: '2018-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2018'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5949:2018
+  webpage: https://new-shop.ksm.kz/catalog/document/73470/
+  ics_code: 77.140.20
+  pages: '35'
+  designation_original: ГОСТ 5949-2018

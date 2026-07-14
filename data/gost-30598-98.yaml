@@ -1,0 +1,49 @@
+---
+id: GOST-30598-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сплавы антифрикционные алюминиевые с порошковым наполнителем. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 30598-98
+  type: GOST
+  primary: true
+docnumber: '30598'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30598:98
+  webpage: https://new-shop.ksm.kz/catalog/document/39105/
+  ics_code: '77.140'
+  pages: '77'
+  designation_original: ГОСТ 30598-98

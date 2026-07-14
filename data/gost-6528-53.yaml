@@ -1,0 +1,48 @@
+---
+id: GOST-6528-53
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Калибры для шлицевых валов и отверстий с эвольвентным профилем. Допуски
+  type: main
+docidentifier:
+- content: GOST 6528-53
+  type: GOST
+  primary: true
+docnumber: '6528'
+date:
+- type: published
+  from: '1953-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1953'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6528:53
+  webpage: https://new-shop.ksm.kz/catalog/document/18209/
+  ics_code: 17.040.30
+  pages: '11'
+  designation_original: ГОСТ 6528-53

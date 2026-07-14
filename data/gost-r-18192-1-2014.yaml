@@ -1,0 +1,50 @@
+---
+id: GOST-R-18192-1-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Имплантаты для хирургии. Износ полных протезов межпозвонковых дисков. Часть
+    1. Параметры нагружения и смещения для аппаратов для испытания на износ и соответствующие
+    условия окружающей среды для испытаний
+  type: main
+docidentifier:
+- content: GOST R 18192-1-2014
+  type: GOST
+  primary: true
+docnumber: 18192-1
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:18192-1:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/61188/
+  ics_code: 11.040.40
+  pages: '24'
+  designation_original: ГОСТ Р ИСО 18192-1-2014

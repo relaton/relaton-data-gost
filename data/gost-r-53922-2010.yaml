@@ -1,0 +1,49 @@
+---
+id: GOST-R-53922-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Порошки алмазные и из кубического нитрида бора (эльбора). Зернистость и
+    зерновой состав шлифпорошков. Контроль зернового состава
+  type: main
+docidentifier:
+- content: GOST R 53922-2010
+  type: GOST
+  primary: true
+docnumber: '53922'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53922:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/45064/
+  ics_code: 25.100.70
+  pages: '12'
+  designation_original: ГОСТ Р 53922-2010 (ИСО 6106:2005)

@@ -1,0 +1,48 @@
+---
+id: GOST-16713-71
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Защитные средства для древесины. Методы испытаний на устойчивость к вымыванию
+  type: main
+docidentifier:
+- content: GOST 16713-71
+  type: GOST
+  primary: true
+docnumber: '16713'
+date:
+- type: published
+  from: '1971-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1971'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16713:71
+  webpage: https://new-shop.ksm.kz/catalog/document/30092/
+  ics_code: 71.100.50
+  pages: '10'
+  designation_original: ГОСТ 16713-71

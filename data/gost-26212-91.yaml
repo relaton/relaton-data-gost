@@ -1,0 +1,49 @@
+---
+id: GOST-26212-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Почвы. Определение гидролитической кислотности по методу Каппена в модификации
+    ЦИНАО
+  type: main
+docidentifier:
+- content: GOST 26212-91
+  type: GOST
+  primary: true
+docnumber: '26212'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26212:91
+  webpage: https://new-shop.ksm.kz/catalog/document/17365/
+  ics_code: 13.080.10
+  pages: '7'
+  designation_original: ГОСТ 26212-91

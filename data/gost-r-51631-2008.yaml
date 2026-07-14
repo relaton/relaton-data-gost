@@ -1,0 +1,49 @@
+---
+id: GOST-R-51631-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лифты пассажирские. Технические требования доступности, включая доступность
+    для инвалидов и других маломобильных групп населения
+  type: main
+docidentifier:
+- content: GOST R 51631-2008
+  type: GOST
+  primary: true
+docnumber: '51631'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51631:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41131/
+  ics_code: 91.140.90
+  pages: '23'
+  designation_original: ГОСТ Р 51631-2008

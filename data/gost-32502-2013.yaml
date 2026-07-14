@@ -1,0 +1,49 @@
+---
+id: GOST-32502-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Жидкости смазочные. Определение противозадирных свойств на четырехшариковой
+    машине
+  type: main
+docidentifier:
+- content: GOST 32502-2013
+  type: GOST
+  primary: true
+docnumber: '32502'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32502:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56597/
+  ics_code: '75.100'
+  pages: '20'
+  designation_original: ГОСТ 32502-2013

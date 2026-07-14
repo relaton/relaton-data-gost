@@ -1,0 +1,50 @@
+---
+id: GOST-R-19762-2-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационные технологии. Технологии автоматической идентификации и сбора
+    данных (АИСД). Гармонизированный словарь. Часть 2. Оптические носители данных
+    (ОНД)
+  type: main
+docidentifier:
+- content: GOST R 19762-2-2011
+  type: GOST
+  primary: true
+docnumber: 19762-2
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:19762-2:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51659/
+  ics_code: 01.040.35
+  pages: '24'
+  designation_original: ГОСТ Р ИСО/МЭК 19762-2-2011

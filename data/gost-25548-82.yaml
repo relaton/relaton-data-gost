@@ -1,0 +1,49 @@
+---
+id: GOST-25548-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Основные нормы взаимозаменяемости. Конусы и конические соединения. Термины
+    и определения
+  type: main
+docidentifier:
+- content: GOST 25548-82
+  type: GOST
+  primary: true
+docnumber: '25548'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25548:82
+  webpage: https://new-shop.ksm.kz/catalog/document/15263/
+  ics_code: 01.040.25
+  pages: '32'
+  designation_original: ГОСТ 25548-82

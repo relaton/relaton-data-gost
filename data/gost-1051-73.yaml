@@ -1,0 +1,48 @@
+---
+id: GOST-1051-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Прокат калиброванный. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 1051-73
+  type: GOST
+  primary: true
+docnumber: '1051'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:1051:73
+  webpage: https://new-shop.ksm.kz/catalog/document/31874/
+  ics_code: 77.140.60
+  pages: '7'
+  designation_original: ГОСТ 1051-73

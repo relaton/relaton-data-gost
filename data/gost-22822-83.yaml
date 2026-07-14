@@ -1,0 +1,49 @@
+---
+id: GOST-22822-83
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сборочные единицы и детали трубопроводов. Тройники переходные на Ру св.
+    10 до 100 МПа (св. 100 до 1000 кгс/см кв.). Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 22822-83
+  type: GOST
+  primary: true
+docnumber: '22822'
+date:
+- type: published
+  from: '1983-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1983'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22822:83
+  webpage: https://new-shop.ksm.kz/catalog/document/20147/
+  ics_code: 23.040.60
+  pages: '12'
+  designation_original: ГОСТ 22822-83

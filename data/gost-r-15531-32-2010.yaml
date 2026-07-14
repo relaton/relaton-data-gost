@@ -1,0 +1,50 @@
+---
+id: GOST-R-15531-32-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы промышленной автоматизации и интеграция. Управляющая информация
+    промышленным производством. Управление использованием ресурсов. Часть 32. Концептуальная
+    модель данных для управления использованием ресурсов
+  type: main
+docidentifier:
+- content: GOST R 15531-32-2010
+  type: GOST
+  primary: true
+docnumber: 15531-32
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:15531-32:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/51970/
+  ics_code: 25.040.40
+  pages: '32'
+  designation_original: ГОСТ Р ИСО 15531-32-2010

@@ -1,0 +1,48 @@
+---
+id: GOST-12.2.009-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станки металлообрабатывающие. Общие требования безопасности
+  type: main
+docidentifier:
+- content: GOST 12.2.009-99
+  type: GOST
+  primary: true
+docnumber: 12.2.009
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12.2.009:99
+  webpage: https://new-shop.ksm.kz/catalog/document/16923/
+  ics_code: '13.110'
+  pages: '37'
+  designation_original: ГОСТ 12.2.009-99

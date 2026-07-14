@@ -1,0 +1,48 @@
+---
+id: GOST-19792-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Мед натуральный. Технические условия
+  type: main
+docidentifier:
+- content: GOST 19792-2017
+  type: GOST
+  primary: true
+docnumber: '19792'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19792:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70317/
+  ics_code: 67.180.10
+  pages: '16'
+  designation_original: ГОСТ 19792-2017

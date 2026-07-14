@@ -1,0 +1,48 @@
+---
+id: GOST-10132-62
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Свечи накаливания двухпроводные для дизелей. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 10132-62
+  type: GOST
+  primary: true
+docnumber: '10132'
+date:
+- type: published
+  from: '1962-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1962'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10132:62
+  webpage: https://new-shop.ksm.kz/catalog/document/25781/
+  ics_code: 43.060.50
+  pages: '7'
+  designation_original: ГОСТ 10132-62

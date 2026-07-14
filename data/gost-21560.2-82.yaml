@@ -1,0 +1,48 @@
+---
+id: GOST-21560.2-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Удобрения минеральные. Метод определения статической прочности гранул
+  type: main
+docidentifier:
+- content: GOST 21560.2-82
+  type: GOST
+  primary: true
+docnumber: '21560.2'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:21560.2:82
+  webpage: https://new-shop.ksm.kz/catalog/document/27918/
+  ics_code: '65.080'
+  pages: '4'
+  designation_original: ГОСТ 21560.2-82

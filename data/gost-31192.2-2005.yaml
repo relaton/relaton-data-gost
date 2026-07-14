@@ -1,0 +1,49 @@
+---
+id: GOST-31192.2-2005
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Измерение локальной вибрации и оценка ее воздействия на человека.
+    Часть 2. Требования к проведению измерений на рабочем месте
+  type: main
+docidentifier:
+- content: GOST 31192.2-2005
+  type: GOST
+  primary: true
+docnumber: '31192.2'
+date:
+- type: published
+  from: '2005-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2005'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31192.2:2005
+  webpage: https://new-shop.ksm.kz/catalog/document/38270/
+  ics_code: '13.160'
+  pages: '37'
+  designation_original: ГОСТ 31192.2-2005

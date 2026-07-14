@@ -1,0 +1,49 @@
+---
+id: GOST-20081-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Семеноводческий процесс сельскохозяйственных культур. Основные понятия.
+    Термины и определения
+  type: main
+docidentifier:
+- content: GOST 20081-74
+  type: GOST
+  primary: true
+docnumber: '20081'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:20081:74
+  webpage: https://new-shop.ksm.kz/catalog/document/15009/
+  ics_code: 01.040.65
+  pages: '20'
+  designation_original: ГОСТ 20081-74

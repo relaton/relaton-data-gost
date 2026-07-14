@@ -1,0 +1,49 @@
+---
+id: GOST-26482-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Руды железные, концентраты, агломераты и окатыши предварительно восстановленные.
+    Метод определения металлического железа
+  type: main
+docidentifier:
+- content: GOST 26482-90
+  type: GOST
+  primary: true
+docnumber: '26482'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26482:90
+  webpage: https://new-shop.ksm.kz/catalog/document/31156/
+  ics_code: 73.060.10
+  pages: '7'
+  designation_original: ГОСТ 26482-90

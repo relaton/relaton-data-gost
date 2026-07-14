@@ -1,0 +1,49 @@
+---
+id: GOST-28132-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Свинцово-кислотные тяговые батареи. Часть 2. Размеры аккумуляторов и выводов
+    и маркировка полярности аккумуляторов
+  type: main
+docidentifier:
+- content: GOST 28132-95
+  type: GOST
+  primary: true
+docnumber: '28132'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28132:95
+  webpage: https://new-shop.ksm.kz/catalog/document/23677/
+  ics_code: 29.220.20
+  pages: '7'
+  designation_original: ГОСТ 28132-95

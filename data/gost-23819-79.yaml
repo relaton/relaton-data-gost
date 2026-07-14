@@ -1,0 +1,49 @@
+---
+id: GOST-23819-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства уплотнительные фторопластовые с гофрированными пружинами для
+    поршней. Пружины гофрированные. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 23819-79
+  type: GOST
+  primary: true
+docnumber: '23819'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:23819:79
+  webpage: https://new-shop.ksm.kz/catalog/document/20167/
+  ics_code: 23.040.80
+  pages: '3'
+  designation_original: ГОСТ 23819-79

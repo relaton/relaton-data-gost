@@ -1,0 +1,50 @@
+---
+id: GOST-50490-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Установки электрические для освещения и сигнальных маяков аэродромов. Технические
+    требования к системам наблюдения и управления авиационным наземным освещением.
+    Блоки выборочного переключения и наблюдения отдельных ламп.
+  type: main
+docidentifier:
+- content: GOST 50490-2015
+  type: GOST
+  primary: true
+docnumber: '50490'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:50490:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64147/
+  ics_code: '93.120'
+  pages: '15'
+  designation_original: ГОСТ EN 50490-2015

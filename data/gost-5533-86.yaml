@@ -1,0 +1,48 @@
+---
+id: GOST-5533-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стекло листовое узорчатое. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5533-86
+  type: GOST
+  primary: true
+docnumber: '5533'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5533:86
+  webpage: https://new-shop.ksm.kz/catalog/document/33767/
+  ics_code: 81.040.20
+  pages: '12'
+  designation_original: ГОСТ 5533-86

@@ -1,0 +1,49 @@
+---
+id: GOST-15623-84
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ящики деревянные для инструмента и приспособлений к станкам. Технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 15623-84
+  type: GOST
+  primary: true
+docnumber: '15623'
+date:
+- type: published
+  from: '1984-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1984'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15623:84
+  webpage: https://new-shop.ksm.kz/catalog/document/26389/
+  ics_code: '55.160'
+  pages: '6'
+  designation_original: ГОСТ 15623-84

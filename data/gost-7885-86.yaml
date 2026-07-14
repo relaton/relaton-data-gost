@@ -1,0 +1,48 @@
+---
+id: GOST-7885-86
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Углерод технический для производства резины. Технические условия
+  type: main
+docidentifier:
+- content: GOST 7885-86
+  type: GOST
+  primary: true
+docnumber: '7885'
+date:
+- type: published
+  from: '1986-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1986'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:7885:86
+  webpage: https://new-shop.ksm.kz/catalog/document/33987/
+  ics_code: 83.040.20
+  pages: '19'
+  designation_original: ГОСТ 7885-86

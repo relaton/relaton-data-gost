@@ -1,0 +1,49 @@
+---
+id: GOST-29030-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Продукты переработки плодов и овощей. Пикнометрический метод определения
+    относительной плотности и содержания растворимых сухих веществ
+  type: main
+docidentifier:
+- content: GOST 29030-91
+  type: GOST
+  primary: true
+docnumber: '29030'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29030:91
+  webpage: https://new-shop.ksm.kz/catalog/document/29125/
+  ics_code: 67.080.01
+  pages: '6'
+  designation_original: ГОСТ 29030-91

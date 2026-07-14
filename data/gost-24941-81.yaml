@@ -1,0 +1,49 @@
+---
+id: GOST-24941-81
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Породы горные. Методы определения механических свойств нагружением сферическими
+    инденторами
+  type: main
+docidentifier:
+- content: GOST 24941-81
+  type: GOST
+  primary: true
+docnumber: '24941'
+date:
+- type: published
+  from: '1981-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1981'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:24941:81
+  webpage: https://new-shop.ksm.kz/catalog/document/31079/
+  ics_code: '73.020'
+  pages: '16'
+  designation_original: ГОСТ 24941-81

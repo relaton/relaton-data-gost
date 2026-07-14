@@ -1,0 +1,49 @@
+---
+id: GOST-17717-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Выключатели нагрузки переменного тока на напряжение от 3 до 10 кВ. Общие
+    технические условия
+  type: main
+docidentifier:
+- content: GOST 17717-79
+  type: GOST
+  primary: true
+docnumber: '17717'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17717:79
+  webpage: https://new-shop.ksm.kz/catalog/document/23432/
+  ics_code: 29.120.40
+  pages: '61'
+  designation_original: ГОСТ 17717-79

@@ -1,0 +1,50 @@
+---
+id: GOST-R-10542-2-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы и устройства технические для инвалидов или людей с ограничениями
+    жизнедеятельности. Устройства крепления кресел-колясок и системы удержания пользователей.
+    Часть 2. Системы четырехточечного крепления ременного типа
+  type: main
+docidentifier:
+- content: GOST R 10542-2-2011
+  type: GOST
+  primary: true
+docnumber: 10542-2
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10542-2:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52751/
+  ics_code: 11.180.10
+  pages: '16'
+  designation_original: ГОСТ Р ИСО 10542-2-2011

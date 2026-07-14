@@ -1,0 +1,49 @@
+---
+id: GOST-R-51167-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество служебной информации. Графические модели технологических процессов
+    переработки данных
+  type: main
+docidentifier:
+- content: GOST R 51167-98
+  type: GOST
+  primary: true
+docnumber: '51167'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51167:98
+  webpage: https://new-shop.ksm.kz/catalog/document/25366/
+  ics_code: '35.020'
+  pages: '11'
+  designation_original: ГОСТ Р 51167-98

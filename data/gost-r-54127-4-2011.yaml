@@ -1,0 +1,51 @@
+---
+id: GOST-R-54127-4-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сети электрические распределительные низковольтные напряжением до 1000
+    В переменного тока и 1500 В постоянного тока. Электробезопасность. Аппаратура
+    для испытания, измерения или контроля средств защиты. Часть 4. Сопротивление заземления
+    и эквипотенциального соединения
+  type: main
+docidentifier:
+- content: GOST R 54127-4-2011
+  type: GOST
+  primary: true
+docnumber: 54127-4
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54127-4:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/46807/
+  ics_code: '17.220'
+  pages: '8'
+  designation_original: ГОСТ Р 54127-4-2011 (МЭК 61557-4:2007)

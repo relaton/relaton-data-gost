@@ -1,0 +1,49 @@
+---
+id: GOST-5.2019-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Насос одноступенчатый моноблочный ГНОМ-10-10. Требования к качеству аттестованной
+    продукции
+  type: main
+docidentifier:
+- content: GOST 5.2019-73
+  type: GOST
+  primary: true
+docnumber: '5.2019'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5.2019:73
+  webpage: https://new-shop.ksm.kz/catalog/document/19782/
+  ics_code: '23.080'
+  pages: '6'
+  designation_original: ГОСТ 5.2019-73

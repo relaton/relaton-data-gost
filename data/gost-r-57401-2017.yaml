@@ -1,0 +1,49 @@
+---
+id: GOST-R-57401-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Материалы на основе силоксанового каучука низкотемпературной вулканизации
+    с низким выделением газов. Технические требования
+  type: main
+docidentifier:
+- content: GOST R 57401-2017
+  type: GOST
+  primary: true
+docnumber: '57401'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57401:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/67473/
+  ics_code: 83.080.20
+  pages: '12'
+  designation_original: ГОСТ Р 57401-2017

@@ -1,0 +1,49 @@
+---
+id: GOST-18267-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Рельсы железнодорожные типов Р50, Р65 и Р75 широкой колеи, термообработанные
+    путем объемной закалки в масле. Технические условия
+  type: main
+docidentifier:
+- content: GOST 18267-82
+  type: GOST
+  primary: true
+docnumber: '18267'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:18267:82
+  webpage: https://new-shop.ksm.kz/catalog/document/37641/
+  ics_code: '45.080'
+  pages: '16'
+  designation_original: ГОСТ 18267-82

@@ -1,0 +1,49 @@
+---
+id: GOST-31185-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вибрация. Измерения вибрации внутри железнодорожных туннелей при прохождении
+    поездов
+  type: main
+docidentifier:
+- content: GOST 31185-2002
+  type: GOST
+  primary: true
+docnumber: '31185'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31185:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/18816/
+  ics_code: '17.160'
+  pages: '12'
+  designation_original: ГОСТ 31185-2002

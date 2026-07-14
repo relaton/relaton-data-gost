@@ -1,0 +1,49 @@
+---
+id: GOST-33441-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Масла растительные. Определение показателей качества и безопасности методом
+    спектроскопии в ближней инфракрасной области
+  type: main
+docidentifier:
+- content: GOST 33441-2015
+  type: GOST
+  primary: true
+docnumber: '33441'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33441:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63339/
+  ics_code: 67.200.10
+  pages: '13'
+  designation_original: ГОСТ 33441-2015

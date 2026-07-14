@@ -1,0 +1,49 @@
+---
+id: GOST-34828-2022
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество воздуха. Фотометрический метод определения содержания массовой
+    концентрации паров сероуглерода в воздухе рабочей зоны
+  type: main
+docidentifier:
+- content: GOST 34828-2022
+  type: GOST
+  primary: true
+docnumber: '34828'
+date:
+- type: published
+  from: '2022-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2022'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34828:2022
+  webpage: https://new-shop.ksm.kz/catalog/document/74932/
+  ics_code: '13.040'
+  pages: '16'
+  designation_original: ГОСТ 34828-2022

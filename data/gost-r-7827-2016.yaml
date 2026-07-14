@@ -1,0 +1,50 @@
+---
+id: GOST-R-7827-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Качество воды. Оценка способности органических соединений к быстрому и
+    полному аэробному биоразложению в водной среде. Метод с применением анализа растворенного
+    органического углерода (DOC)
+  type: main
+docidentifier:
+- content: GOST R 7827-2016
+  type: GOST
+  primary: true
+docnumber: '7827'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:7827:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65281/
+  ics_code: 13.060.70
+  pages: '16'
+  designation_original: ГОСТ Р ИСО 7827-2016

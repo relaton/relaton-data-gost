@@ -1,0 +1,50 @@
+---
+id: GOST-R-54108-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование вакуумное. Насосы вакуумные пароструйные. Измерение рабочих
+    характеристик. Часть 2. Измерение предельного остаточного и наибольшего выпускного
+    давлений
+  type: main
+docidentifier:
+- content: GOST R 54108-2010
+  type: GOST
+  primary: true
+docnumber: '54108'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54108:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/46045/
+  ics_code: '23.160'
+  pages: '8'
+  designation_original: ГОСТ Р 54108-2010 (ИСО 1608-2:1989)

@@ -1,0 +1,48 @@
+---
+id: GOST-9624-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Древесина слоистая клееная. Метод определения предела прочности при скалывании
+  type: main
+docidentifier:
+- content: GOST 9624-93
+  type: GOST
+  primary: true
+docnumber: '9624'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9624:93
+  webpage: https://new-shop.ksm.kz/catalog/document/33493/
+  ics_code: 79.060.10
+  pages: '12'
+  designation_original: ГОСТ 9624-93

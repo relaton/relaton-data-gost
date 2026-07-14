@@ -1,0 +1,49 @@
+---
+id: GOST-31947-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Провода и кабели для электрических установок на номинальное напряжение
+    до 450/750 В включительно. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST 31947-2012
+  type: GOST
+  primary: true
+docnumber: '31947'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31947:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/55017/
+  ics_code: 29.060.10
+  pages: '27'
+  designation_original: ГОСТ 31947-2012

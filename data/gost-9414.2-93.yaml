@@ -1,0 +1,49 @@
+---
+id: GOST-9414.2-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Уголь каменный и антрацит. Методы петрографического анализа. Часть 2. Метод
+    подготовки образцов угля
+  type: main
+docidentifier:
+- content: GOST 9414.2-93
+  type: GOST
+  primary: true
+docnumber: '9414.2'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:9414.2:93
+  webpage: https://new-shop.ksm.kz/catalog/document/30692/
+  ics_code: '73.040'
+  pages: '18'
+  designation_original: ГОСТ 9414.2-93

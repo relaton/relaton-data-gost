@@ -1,0 +1,49 @@
+---
+id: GOST-R-22514-3-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Статистические методы. Управление процессами. Часть 3. Анализ пригодности
+    машин на основе данных измерений единиц продукции
+  type: main
+docidentifier:
+- content: GOST R 22514-3-2015
+  type: GOST
+  primary: true
+docnumber: 22514-3
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:22514-3:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/63669/
+  ics_code: 03.120.30
+  pages: '32'
+  designation_original: ГОСТ Р ИСО 22514-3-2015

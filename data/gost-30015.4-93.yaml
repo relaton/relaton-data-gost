@@ -1,0 +1,49 @@
+---
+id: GOST-30015.4-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гидроприводы объемные. Насосы объемные и гидромоторы. Фланцы крепежные
+    многоугольные (в том числе круглые) и концы валов. Размеры и условные обозначения
+  type: main
+docidentifier:
+- content: GOST 30015.4-93
+  type: GOST
+  primary: true
+docnumber: '30015.4'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30015.4:93
+  webpage: https://new-shop.ksm.kz/catalog/document/40085/
+  ics_code: 23.100.20
+  pages: '23'
+  designation_original: ГОСТ 30015.4-93

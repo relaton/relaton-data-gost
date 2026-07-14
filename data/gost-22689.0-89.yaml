@@ -1,0 +1,49 @@
+---
+id: GOST-22689.0-89
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Трубы полиэтиленовые канализационные и фасонные части к ним. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 22689.0-89
+  type: GOST
+  primary: true
+docnumber: '22689.0'
+date:
+- type: published
+  from: '1989-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1989'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22689.0:89
+  webpage: https://new-shop.ksm.kz/catalog/document/35264/
+  ics_code: 91.140.80
+  pages: '11'
+  designation_original: ГОСТ 22689.0-89

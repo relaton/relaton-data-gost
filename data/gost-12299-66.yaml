@@ -1,0 +1,48 @@
+---
+id: GOST-12299-66
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Меха, скрои и полосы из меховых шкурок различных видов. Технические условия
+  type: main
+docidentifier:
+- content: GOST 12299-66
+  type: GOST
+  primary: true
+docnumber: '12299'
+date:
+- type: published
+  from: '1966-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1966'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12299:66
+  webpage: https://new-shop.ksm.kz/catalog/document/26925/
+  ics_code: 59.140.30
+  pages: '36'
+  designation_original: ГОСТ 12299-66

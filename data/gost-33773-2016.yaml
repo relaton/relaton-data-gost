@@ -1,0 +1,47 @@
+---
+id: GOST-33773-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Добавки пищевые. Калия полифосфат Е452(ii). Технические условия
+  type: main
+docidentifier:
+- content: GOST 33773-2016
+  type: GOST
+  primary: true
+docnumber: '33773'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33773:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/64493/
+  pages: '28'
+  designation_original: ГОСТ 33773-2016

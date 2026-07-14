@@ -1,0 +1,48 @@
+---
+id: GOST-16402-70
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кишки свиные обработанные. Черевы свиные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 16402-70
+  type: GOST
+  primary: true
+docnumber: '16402'
+date:
+- type: published
+  from: '1970-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1970'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16402:70
+  webpage: https://new-shop.ksm.kz/catalog/document/42470/
+  ics_code: 67.120.10
+  pages: '67'
+  designation_original: ГОСТ 16402-70

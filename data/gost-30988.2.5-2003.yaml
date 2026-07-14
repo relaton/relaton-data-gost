@@ -1,0 +1,49 @@
+---
+id: GOST-30988.2.5-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединители электрические штепселные бытового и аналогичного назначения.
+    Часть 2. Дополнительные требования к переходникам (адаптерам) и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 30988.2.5-2003
+  type: GOST
+  primary: true
+docnumber: 30988.2.5
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30988.2.5:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/37877/
+  ics_code: 29.120.20
+  pages: '16'
+  designation_original: ГОСТ 30988.2.5-2003 (МЭК 60884-2-5:1995)

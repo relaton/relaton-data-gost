@@ -1,0 +1,49 @@
+---
+id: GOST-34509-2019
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Транспорт железнодорожный. Магнитопорошковый метод неразрушающего контроля
+    деталей вагонов.
+  type: main
+docidentifier:
+- content: GOST 34509-2019
+  type: GOST
+  primary: true
+docnumber: '34509'
+date:
+- type: published
+  from: '2019-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2019'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34509:2019
+  webpage: https://new-shop.ksm.kz/catalog/document/71878/
+  ics_code: '19.100'
+  pages: '86'
+  designation_original: ГОСТ 34509-2019

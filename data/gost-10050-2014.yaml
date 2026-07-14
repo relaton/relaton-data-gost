@@ -1,0 +1,50 @@
+---
+id: GOST-10050-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Смазочные материалы, индустриальные масла и родственные продукты (класс
+    L). Группа Т (Турбины). Спецификация для жидкостей на основе триарилового эфира
+    фосфорной кислоты для регулировки турбин (категория ISO-L-TCD)
+  type: main
+docidentifier:
+- content: GOST 10050-2014
+  type: GOST
+  primary: true
+docnumber: '10050'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:10050:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/67827/
+  ics_code: '75.080'
+  pages: '14'
+  designation_original: ГОСТ ISO 10050-2014

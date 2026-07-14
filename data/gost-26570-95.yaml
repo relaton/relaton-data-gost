@@ -1,0 +1,48 @@
+---
+id: GOST-26570-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Корма, комбикорма, комбикормовое сырье. Методы определения кальция
+  type: main
+docidentifier:
+- content: GOST 26570-95
+  type: GOST
+  primary: true
+docnumber: '26570'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:26570:95
+  webpage: https://new-shop.ksm.kz/catalog/document/28036/
+  ics_code: '65.120'
+  pages: '16'
+  designation_original: ГОСТ 26570-95

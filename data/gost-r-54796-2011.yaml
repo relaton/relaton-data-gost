@@ -1,0 +1,49 @@
+---
+id: GOST-R-54796-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Устройства весоизмерительные автоматические. Часть 1. Метрологические и
+    технические требования. Методы испытаний
+  type: main
+docidentifier:
+- content: GOST R 54796-2011
+  type: GOST
+  primary: true
+docnumber: '54796'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54796:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/55808/
+  ics_code: '17.060'
+  pages: '64'
+  designation_original: ГОСТ Р 54796-2011

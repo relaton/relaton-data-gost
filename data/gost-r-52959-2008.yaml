@@ -1,0 +1,48 @@
+---
+id: GOST-R-52959-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шкурки меховые и овчины выделанные. Метод определения температуры сваривания
+  type: main
+docidentifier:
+- content: GOST R 52959-2008
+  type: GOST
+  primary: true
+docnumber: '52959'
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:52959:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41199/
+  ics_code: 59.140.30
+  pages: '7'
+  designation_original: ГОСТ Р 52959-2008

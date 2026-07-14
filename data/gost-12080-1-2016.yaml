@@ -1,0 +1,49 @@
+---
+id: GOST-12080-1-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко обезжиренное сухое. Определение содержания витамина А. Часть 1.
+    Колориметрический метод
+  type: main
+docidentifier:
+- content: GOST 12080-1-2016
+  type: GOST
+  primary: true
+docnumber: 12080-1
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:12080-1:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/71802/
+  ics_code: 67.100.10
+  pages: '11'
+  designation_original: ГОСТ ISO 12080-1-2016

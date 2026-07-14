@@ -1,0 +1,51 @@
+---
+id: GOST-60931-1-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Конденсаторы шунтирующие силовые несамовосстанавливающегося типа для систем
+    переменного тока на номинальное напряжение до 1000 В включительно. Часть 1. Общие
+    положения. Рабочие характеристики, испытания и номинальные параметры. Требования
+    техники безопасности. Руководство по установке и эксплуатации
+  type: main
+docidentifier:
+- content: GOST 60931-1-2013
+  type: GOST
+  primary: true
+docnumber: 60931-1
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60931-1:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/59938/
+  ics_code: 29.120.99
+  pages: '28'
+  designation_original: ГОСТ IEC 60931-1-2013

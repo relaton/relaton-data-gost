@@ -1,0 +1,49 @@
+---
+id: GOST-R-57305-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информатизация здоровья. Требования к международному машиночитаемому кодированию
+    идентификаторов упаковок лекарственных средств
+  type: main
+docidentifier:
+- content: GOST R 57305-2016
+  type: GOST
+  primary: true
+docnumber: '57305'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:57305:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/66718/
+  ics_code: 35.240.80
+  pages: '28'
+  designation_original: ГОСТ Р 57305-2016/ISO/TS 16791:2014

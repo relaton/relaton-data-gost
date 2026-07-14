@@ -1,0 +1,49 @@
+---
+id: GOST-4013-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Камень гипсовый и гипсоангидритовый для производства вяжущих материалов.
+    Технические условия
+  type: main
+docidentifier:
+- content: GOST 4013-82
+  type: GOST
+  primary: true
+docnumber: '4013'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:4013:82
+  webpage: https://new-shop.ksm.kz/catalog/document/35068/
+  ics_code: 91.100.10
+  pages: '9'
+  designation_original: ГОСТ 4013-82

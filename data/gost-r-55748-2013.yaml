@@ -1,0 +1,50 @@
+---
+id: GOST-R-55748-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Руководство по аудиту систем менеджмента качества изготовителей медицинских
+    изделий на соответствие регулирующим требованиям. Часть 4. Аудит нескольких производственных
+    площадок
+  type: main
+docidentifier:
+- content: GOST R 55748-2013
+  type: GOST
+  primary: true
+docnumber: '55748'
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:55748:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/56803/
+  ics_code: '11.020'
+  pages: '20'
+  designation_original: ГОСТ Р 55748-2013 (GHTF/SG4/N83:2010)

@@ -1,0 +1,50 @@
+---
+id: GOST-R-8.742-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Государственная система обеспечения единства измерений. Установки измерительные
+    эталонные 1 разряда массовой доли влаги в твердых веществах и материалах. Методика
+    поверки
+  type: main
+docidentifier:
+- content: GOST R 8.742-2011
+  type: GOST
+  primary: true
+docnumber: '8.742'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8.742:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52740/
+  ics_code: '17.020'
+  pages: '16'
+  designation_original: ГОСТ Р 8.742-2011

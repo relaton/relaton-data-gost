@@ -1,0 +1,48 @@
+---
+id: GOST-19256-73
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стержни под накатывание метрической резьбы. Диаметры
+  type: main
+docidentifier:
+- content: GOST 19256-73
+  type: GOST
+  primary: true
+docnumber: '19256'
+date:
+- type: published
+  from: '1973-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1973'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19256:73
+  webpage: https://new-shop.ksm.kz/catalog/document/22421/
+  ics_code: 25.100.50
+  pages: '14'
+  designation_original: ГОСТ 19256-73

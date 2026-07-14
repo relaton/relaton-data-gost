@@ -1,0 +1,49 @@
+---
+id: GOST-29210-91
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Приборы полупроводниковые. Дискретные приборы и интегральные схемы. Часть
+    3. Сигнальные диоды (включая переключательные) и диоды-регуляторы тока и напряжения
+  type: main
+docidentifier:
+- content: GOST 29210-91
+  type: GOST
+  primary: true
+docnumber: '29210'
+date:
+- type: published
+  from: '1991-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1991'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29210:91
+  webpage: https://new-shop.ksm.kz/catalog/document/24661/
+  ics_code: 31.080.10
+  pages: '36'
+  designation_original: ГОСТ 29210-91

@@ -1,0 +1,50 @@
+---
+id: GOST-R-54309-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аудиовизуальная информационная система реального времени (РАВИС). Процессы
+    формирования кадровой структуры, канального кодирования и модуляции для системы
+    цифрового наземного узкополосного радиовещания в ОВЧ диапазоне. Технические условия
+  type: main
+docidentifier:
+- content: GOST R 54309-2011
+  type: GOST
+  primary: true
+docnumber: '54309'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54309:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52443/
+  ics_code: '33.170'
+  pages: '43'
+  designation_original: ГОСТ Р 54309-2011

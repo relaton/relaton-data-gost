@@ -1,0 +1,49 @@
+---
+id: GOST-27082-2014
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Консервы и пресервы из рыбы, водных беспозвоночных, водных млекопитающих
+    и водорослей. Методы определения общей кислотности
+  type: main
+docidentifier:
+- content: GOST 27082-2014
+  type: GOST
+  primary: true
+docnumber: '27082'
+date:
+- type: published
+  from: '2014-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2014'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27082:2014
+  webpage: https://new-shop.ksm.kz/catalog/document/60166/
+  ics_code: 67.120.30
+  pages: '8'
+  designation_original: ГОСТ 27082-2014

@@ -1,0 +1,49 @@
+---
+id: GOST-R-8824-3-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Абстрактная синтаксическая нотация версии один
+    (AСН.1). Часть 3. Спецификация ограничения
+  type: main
+docidentifier:
+- content: GOST R 8824-3-2002
+  type: GOST
+  primary: true
+docnumber: 8824-3
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:8824-3:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/25417/
+  ics_code: 35.100.70
+  pages: '15'
+  designation_original: ГОСТ Р ИСО/МЭК 8824-3-2002

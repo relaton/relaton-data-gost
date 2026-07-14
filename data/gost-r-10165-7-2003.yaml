@@ -1,0 +1,49 @@
+---
+id: GOST-R-10165-7-2003
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Информационная технология. Взаимосвязь открытых систем. Структура информации
+    административного управления. Часть 7. Общая модель взаимосвязи
+  type: main
+docidentifier:
+- content: GOST R 10165-7-2003
+  type: GOST
+  primary: true
+docnumber: 10165-7
+date:
+- type: published
+  from: '2003-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2003'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:10165-7:2003
+  webpage: https://new-shop.ksm.kz/catalog/document/25442/
+  ics_code: 35.100.70
+  pages: '43'
+  designation_original: ГОСТ Р ИСО/МЭК 10165-7-2003

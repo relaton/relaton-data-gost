@@ -1,0 +1,48 @@
+---
+id: GOST-2124-87
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кислота хлорсульфоновая техническая. Технические условия
+  type: main
+docidentifier:
+- content: GOST 2124-87
+  type: GOST
+  primary: true
+docnumber: '2124'
+date:
+- type: published
+  from: '1987-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1987'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:2124:87
+  webpage: https://new-shop.ksm.kz/catalog/document/29596/
+  ics_code: 71.060.30
+  pages: '22'
+  designation_original: ГОСТ 2124-87

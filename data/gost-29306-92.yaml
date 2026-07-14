@@ -1,0 +1,49 @@
+---
+id: GOST-29306-92
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Шестигранные присоединительные части вставок для ручных и механизированных
+    отверток. Размеры
+  type: main
+docidentifier:
+- content: GOST 29306-92
+  type: GOST
+  primary: true
+docnumber: '29306'
+date:
+- type: published
+  from: '1992-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1992'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:29306:92
+  webpage: https://new-shop.ksm.kz/catalog/document/22782/
+  ics_code: 25.140.30
+  pages: '6'
+  designation_original: ГОСТ 29306-92

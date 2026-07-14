@@ -1,0 +1,49 @@
+---
+id: GOST-19465-74
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Покрытия полимерные защитные для улучшения радиационной обстановки. Термины
+    и определения
+  type: main
+docidentifier:
+- content: GOST 19465-74
+  type: GOST
+  primary: true
+docnumber: '19465'
+date:
+- type: published
+  from: '1974-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1974'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:19465:74
+  webpage: https://new-shop.ksm.kz/catalog/document/14983/
+  ics_code: 01.040.13
+  pages: '8'
+  designation_original: ГОСТ 19465-74

@@ -1,0 +1,49 @@
+---
+id: GOST-R-60601-2-7-2006
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 2-7. Частные требования безопасности
+    к рентгеновским питающим устройствам диагностических рентгеновских генераторов
+  type: main
+docidentifier:
+- content: GOST R 60601-2-7-2006
+  type: GOST
+  primary: true
+docnumber: 60601-2-7
+date:
+- type: published
+  from: '2006-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2006'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60601-2-7:2006
+  webpage: https://new-shop.ksm.kz/catalog/document/19095/
+  ics_code: '19.100'
+  pages: '39'
+  designation_original: ГОСТ Р МЭК 60601-2-7-2006

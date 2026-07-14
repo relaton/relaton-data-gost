@@ -1,0 +1,49 @@
+---
+id: GOST-16018-79
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Гайки для клеммных и закладных болтов рельсовых скреплений железнодорожного
+    пути. Конструкция и размеры. Технические требования
+  type: main
+docidentifier:
+- content: GOST 16018-79
+  type: GOST
+  primary: true
+docnumber: '16018'
+date:
+- type: published
+  from: '1979-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1979'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:16018:79
+  webpage: https://new-shop.ksm.kz/catalog/document/25969/
+  ics_code: '45.080'
+  pages: '8'
+  designation_original: ГОСТ 16018-79

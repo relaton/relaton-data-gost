@@ -1,0 +1,50 @@
+---
+id: GOST-778-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Воздухонагреватели газовые с принудительной конвекцией для обогрева помещений
+    бытового назначения с номинальной тепловой мощностью не более 70 кВт без вентилятора
+    для подачи воздуха в зону горения и(или) отвода отработанных газов. (EN 778:2009)
+  type: main
+docidentifier:
+- content: GOST 778-2015
+  type: GOST
+  primary: true
+docnumber: '778'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:778:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/67963/
+  ics_code: 97.100.20
+  pages: '136'
+  designation_original: ГОСТ EN 778-2015

@@ -1,0 +1,49 @@
+---
+id: GOST-8971-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа искусственная, пленочные материалы и обувной картон. Методы определения
+    гигроскопичности и влагоотдачи
+  type: main
+docidentifier:
+- content: GOST 8971-78
+  type: GOST
+  primary: true
+docnumber: '8971'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8971:78
+  webpage: https://new-shop.ksm.kz/catalog/document/26758/
+  ics_code: 59.140.30
+  pages: '7'
+  designation_original: ГОСТ 8971-78

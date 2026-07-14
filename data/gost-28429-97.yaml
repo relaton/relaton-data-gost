@@ -1,0 +1,49 @@
+---
+id: GOST-28429-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Единообразные предписания, касающиеся официального утверждения мототранспортных
+    средств в отношении торможения
+  type: main
+docidentifier:
+- content: GOST 28429-97
+  type: GOST
+  primary: true
+docnumber: '28429'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28429:97
+  webpage: https://new-shop.ksm.kz/catalog/document/39238/
+  ics_code: '43.140'
+  pages: '23'
+  designation_original: ГОСТ 28429-97

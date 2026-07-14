@@ -1,0 +1,50 @@
+---
+id: GOST-15158-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Бумага и картон с защитной обработкой для упаковывания продукции и изготовления
+    деталей технических изделий для районов с тропическим климатом. Общие технические
+    условия
+  type: main
+docidentifier:
+- content: GOST 15158-78
+  type: GOST
+  primary: true
+docnumber: '15158'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15158:78
+  webpage: https://new-shop.ksm.kz/catalog/document/26388/
+  ics_code: '55.040'
+  pages: '11'
+  designation_original: ГОСТ 15158-78

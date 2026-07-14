@@ -1,0 +1,49 @@
+---
+id: GOST-8317-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Упаковка, откупоривание которой недоступно детям. Требования и испытания
+    упаковки многоразового использования
+  type: main
+docidentifier:
+- content: GOST 8317-93
+  type: GOST
+  primary: true
+docnumber: '8317'
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:8317:93
+  webpage: https://new-shop.ksm.kz/catalog/document/26520/
+  ics_code: '55.020'
+  pages: '11'
+  designation_original: ГОСТ ИСО 8317-93

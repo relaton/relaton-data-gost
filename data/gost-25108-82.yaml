@@ -1,0 +1,49 @@
+---
+id: GOST-25108-82
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Блоки двухкассетных пресс-форм для изготовления резинотехнических изделий
+    на прессах с размерами греющих плит 400х400 мм. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 25108-82
+  type: GOST
+  primary: true
+docnumber: '25108'
+date:
+- type: published
+  from: '1982-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1982'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25108:82
+  webpage: https://new-shop.ksm.kz/catalog/document/34325/
+  ics_code: '83.200'
+  pages: '16'
+  designation_original: ГОСТ 25108-82

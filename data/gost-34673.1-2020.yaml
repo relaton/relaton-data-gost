@@ -1,0 +1,49 @@
+---
+id: GOST-34673.1-2020
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Тяговой подвижной состав железнодорожный. Часть 1. Методы контроля электротехнических
+    параметров
+  type: main
+docidentifier:
+- content: GOST 34673.1-2020
+  type: GOST
+  primary: true
+docnumber: '34673.1'
+date:
+- type: published
+  from: '2020-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2020'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34673.1:2020
+  webpage: https://new-shop.ksm.kz/catalog/document/73139/
+  ics_code: 45.060.10
+  pages: '42'
+  designation_original: ГОСТ 34673.1-2020

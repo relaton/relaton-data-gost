@@ -1,0 +1,49 @@
+---
+id: GOST-R-1951-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Представление и изложение словарных статей. Требования, рекомендации и
+    информация
+  type: main
+docidentifier:
+- content: GOST R 1951-2012
+  type: GOST
+  primary: true
+docnumber: '1951'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:1951:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58078/
+  ics_code: '01.020'
+  pages: '78'
+  designation_original: ГОСТ Р ИСО 1951-2012

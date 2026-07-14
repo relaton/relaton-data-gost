@@ -1,0 +1,49 @@
+---
+id: GOST-R-54893-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Вагоны пассажирские локомотивной тяги и моторвагонный подвижной состав.
+    Требования к лакокрасочным покрытиям и противокоррозионной защите
+  type: main
+docidentifier:
+- content: GOST R 54893-2012
+  type: GOST
+  primary: true
+docnumber: '54893'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54893:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/52118/
+  ics_code: 45.060.01
+  pages: '90'
+  designation_original: ГОСТ Р 54893-2012

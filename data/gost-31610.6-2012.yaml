@@ -1,0 +1,49 @@
+---
+id: GOST-31610.6-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электрооборудование для взрывоопасных газовых сред. Часть 6. Масляное заполнение
+    оболочки «о»
+  type: main
+docidentifier:
+- content: GOST 31610.6-2012
+  type: GOST
+  primary: true
+docnumber: '31610.6'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:31610.6:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/52814/
+  ics_code: 29.260.20
+  pages: '16'
+  designation_original: ГОСТ 31610.6-2012/IEC 60079-6:2007

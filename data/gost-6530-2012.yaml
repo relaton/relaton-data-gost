@@ -1,0 +1,49 @@
+---
+id: GOST-6530-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Система стандартов безопасности труда. Одежда специальная для защиты от
+    жидких химикатов. Метод определения сопротивления материалов проникновению жидкостей
+  type: main
+docidentifier:
+- content: GOST 6530-2012
+  type: GOST
+  primary: true
+docnumber: '6530'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6530:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/54312/
+  ics_code: 13.340.10
+  pages: '12'
+  designation_original: ГОСТ ISO 6530-2012

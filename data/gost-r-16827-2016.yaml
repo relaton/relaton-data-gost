@@ -1,0 +1,49 @@
+---
+id: GOST-R-16827-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Контроль неразрушающий. Контроль ультразвуковой. Определение характеристик
+    несплошностей
+  type: main
+docidentifier:
+- content: GOST R 16827-2016
+  type: GOST
+  primary: true
+docnumber: '16827'
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:16827:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/65294/
+  ics_code: '19.100'
+  pages: '42'
+  designation_original: ГОСТ Р ИСО 16827-2016

@@ -1,0 +1,50 @@
+---
+id: GOST-25.506-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Расчеты и испытания на прочность. Методы механических испытаний металлов.
+    Определение характеристик трещиностойкости (вязкости разрушения) при статическом
+    нагружении
+  type: main
+docidentifier:
+- content: GOST 25.506-85
+  type: GOST
+  primary: true
+docnumber: '25.506'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25.506:85
+  webpage: https://new-shop.ksm.kz/catalog/document/31834/
+  ics_code: 77.040.10
+  pages: '38'
+  designation_original: ГОСТ 25.506-85

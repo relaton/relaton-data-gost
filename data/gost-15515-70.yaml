@@ -1,0 +1,48 @@
+---
+id: GOST-15515-70
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Ленты никелевые электролизные. Технические условия
+  type: main
+docidentifier:
+- content: GOST 15515-70
+  type: GOST
+  primary: true
+docnumber: '15515'
+date:
+- type: published
+  from: '1970-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1970'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15515:70
+  webpage: https://new-shop.ksm.kz/catalog/document/32684/
+  ics_code: 77.150.40
+  pages: '15'
+  designation_original: ГОСТ 15515-70

@@ -1,0 +1,49 @@
+---
+id: GOST-499-2002
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Электроды покрытые металлические для ручной дуговой сварки нелегированных
+    и мелкозернистых сталей. Классификаций
+  type: main
+docidentifier:
+- content: GOST 499-2002
+  type: GOST
+  primary: true
+docnumber: '499'
+date:
+- type: published
+  from: '2002-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2002'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:499:2002
+  webpage: https://new-shop.ksm.kz/catalog/document/38624/
+  ics_code: 25.160.01
+  pages: '13'
+  designation_original: ГОСТ ЕН 499-2002

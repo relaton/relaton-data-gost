@@ -1,0 +1,49 @@
+---
+id: GOST-28814-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Микросхемы интегральные. Методы измерения электрических параметров схем
+    управления импульсными стабилизаторами напряжения
+  type: main
+docidentifier:
+- content: GOST 28814-90
+  type: GOST
+  primary: true
+docnumber: '28814'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28814:90
+  webpage: https://new-shop.ksm.kz/catalog/document/24631/
+  ics_code: '31.200'
+  pages: '6'
+  designation_original: ГОСТ 28814-90

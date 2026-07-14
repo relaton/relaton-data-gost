@@ -1,0 +1,49 @@
+---
+id: GOST-17196-77
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Коронки буровые для перфораторов и станков вращательно-ударного бурения.
+    Типы и основные размеры
+  type: main
+docidentifier:
+- content: GOST 17196-77
+  type: GOST
+  primary: true
+docnumber: '17196'
+date:
+- type: published
+  from: '1977-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1977'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:17196:77
+  webpage: https://new-shop.ksm.kz/catalog/document/30834/
+  ics_code: 73.100.30
+  pages: '7'
+  designation_original: ГОСТ 17196-77

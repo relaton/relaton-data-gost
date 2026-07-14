@@ -1,0 +1,50 @@
+---
+id: GOST-R-50657-94
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Совместимость радиоэлектронных средств электромагнитная. Устройства радиопередающие
+    всех категорий и назначений народнохозяйственного применения. Требования к допустимым
+    отклонениям частоты. Методы измерений и контроля
+  type: main
+docidentifier:
+- content: GOST R 50657-94
+  type: GOST
+  primary: true
+docnumber: '50657'
+date:
+- type: published
+  from: '1994-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1994'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50657:94
+  webpage: https://new-shop.ksm.kz/catalog/document/24927/
+  ics_code: '33.100'
+  pages: '26'
+  designation_original: ГОСТ Р 50657-94

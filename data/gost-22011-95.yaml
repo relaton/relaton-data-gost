@@ -1,0 +1,48 @@
+---
+id: GOST-22011-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лифты пассажирские и грузовые. Технические условия
+  type: main
+docidentifier:
+- content: GOST 22011-95
+  type: GOST
+  primary: true
+docnumber: '22011'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22011:95
+  webpage: https://new-shop.ksm.kz/catalog/document/35251/
+  ics_code: 91.140.90
+  pages: '28'
+  designation_original: ГОСТ 22011-95

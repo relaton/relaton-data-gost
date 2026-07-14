@@ -1,0 +1,49 @@
+---
+id: GOST-R-50848-96
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Требования при выращивании, откорме молодняка крупного рогатого скота на
+    мясо для выработки продуктов детского питания. Типовой технологический процесс
+  type: main
+docidentifier:
+- content: GOST R 50848-96
+  type: GOST
+  primary: true
+docnumber: '50848'
+date:
+- type: published
+  from: '1996-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1996'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50848:96
+  webpage: https://new-shop.ksm.kz/catalog/document/28252/
+  ics_code: 65.020.30
+  pages: '23'
+  designation_original: ГОСТ Р 50848-96

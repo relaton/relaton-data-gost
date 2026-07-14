@@ -1,0 +1,48 @@
+---
+id: GOST-25645.150-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лучи космические галактические. Модель изменения потоков частиц
+  type: main
+docidentifier:
+- content: GOST 25645.150-90
+  type: GOST
+  primary: true
+docnumber: '25645.150'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:25645.150:90
+  webpage: https://new-shop.ksm.kz/catalog/document/16267/
+  ics_code: '07.040'
+  pages: '11'
+  designation_original: ГОСТ 25645.150-90

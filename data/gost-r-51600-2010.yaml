@@ -1,0 +1,49 @@
+---
+id: GOST-R-51600-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Молоко и молочные продукты. Микробиологические методы определения наличия
+    антибиотиков
+  type: main
+docidentifier:
+- content: GOST R 51600-2010
+  type: GOST
+  primary: true
+docnumber: '51600'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51600:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/43156/
+  ics_code: 67.100.10
+  pages: '12'
+  designation_original: ГОСТ Р 51600-2010

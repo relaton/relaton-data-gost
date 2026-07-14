@@ -1,0 +1,50 @@
+---
+id: GOST-60331-11-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Испытания электрических кабелей в условиях воздействия пламени.  Сохранение
+    работоспособности.  Часть 11.  Испытательное оборудование.  Воздействие пламени
+    температурой не менее 750 °C
+  type: main
+docidentifier:
+- content: GOST 60331-11-2025
+  type: GOST
+  primary: true
+docnumber: 60331-11
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60331-11:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/76695/
+  ics_code: 29.060.20
+  pages: '16'
+  designation_original: ГОСТ IEC 60331-11-2025

@@ -1,0 +1,49 @@
+---
+id: GOST-6485-69
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Калибры для конической дюймовой резьбы с углом профиля 60 град. Типы. Основные
+    размеры и допуски
+  type: main
+docidentifier:
+- content: GOST 6485-69
+  type: GOST
+  primary: true
+docnumber: '6485'
+date:
+- type: published
+  from: '1969-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1969'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6485:69
+  webpage: https://new-shop.ksm.kz/catalog/document/18206/
+  ics_code: 17.040.30
+  pages: '9'
+  designation_original: ГОСТ 6485-69

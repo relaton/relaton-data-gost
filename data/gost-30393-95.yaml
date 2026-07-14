@@ -1,0 +1,49 @@
+---
+id: GOST-30393-95
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Инструменты хирургические. Скальпели со съемными лезвиями. Присоединительные
+    размеры
+  type: main
+docidentifier:
+- content: GOST 30393-95
+  type: GOST
+  primary: true
+docnumber: '30393'
+date:
+- type: published
+  from: '1995-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1995'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30393:95
+  webpage: https://new-shop.ksm.kz/catalog/document/16568/
+  ics_code: 11.040.30
+  pages: '1'
+  designation_original: ГОСТ 30393-95

@@ -1,0 +1,50 @@
+---
+id: GOST-30522-97
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Средства самообороны в аэрозольной упаковке и механические распылители.
+    Требования безопасности. Виды и методы контроля при сертификационных испытаниях
+    на безопасность
+  type: main
+docidentifier:
+- content: GOST 30522-97
+  type: GOST
+  primary: true
+docnumber: '30522'
+date:
+- type: published
+  from: '1997-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1997'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30522:97
+  webpage: https://new-shop.ksm.kz/catalog/document/39332/
+  ics_code: 13.340.20
+  pages: '13'
+  designation_original: ГОСТ 30522-97

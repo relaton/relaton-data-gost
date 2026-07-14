@@ -1,0 +1,50 @@
+---
+id: GOST-62395-1-2016
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы обогрева трубопроводов, работающие на электрическом сопротивлении,
+    для промышленного и коммерческого применения. Часть 1. Общие требования и требования
+    к испытаниям
+  type: main
+docidentifier:
+- content: GOST 62395-1-2016
+  type: GOST
+  primary: true
+docnumber: 62395-1
+date:
+- type: published
+  from: '2016-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2016'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:62395-1:2016
+  webpage: https://new-shop.ksm.kz/catalog/document/67682/
+  ics_code: 29.260.20
+  pages: '40'
+  designation_original: ГОСТ IEC 62395-1-2016

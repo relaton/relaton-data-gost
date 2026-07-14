@@ -1,0 +1,50 @@
+---
+id: GOST-R-54791-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Оборудование для газовой сварки, резки и родственных процессов. Редукторы
+    и расходомеры для газопроводов и газовых баллонов с давлением газа до 300 бар
+    (30 МПа)
+  type: main
+docidentifier:
+- content: GOST R 54791-2011
+  type: GOST
+  primary: true
+docnumber: '54791'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54791:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52106/
+  ics_code: 25.160.30
+  pages: '28'
+  designation_original: ГОСТ Р 54791-2011

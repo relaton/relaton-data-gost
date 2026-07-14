@@ -1,0 +1,48 @@
+---
+id: GOST-6331-78
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кислород жидкий технический и медицинский. Технические условия
+  type: main
+docidentifier:
+- content: GOST 6331-78
+  type: GOST
+  primary: true
+docnumber: '6331'
+date:
+- type: published
+  from: '1978-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1978'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6331:78
+  webpage: https://new-shop.ksm.kz/catalog/document/29799/
+  ics_code: 71.100.20
+  pages: '26'
+  designation_original: ГОСТ 6331-78

@@ -1,0 +1,49 @@
+---
+id: GOST-30546.1-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Общие требования к машинам, приборам и другим техническим изделиям и методы
+    расчета их сложных конструкций в части сейсмостойкости
+  type: main
+docidentifier:
+- content: GOST 30546.1-98
+  type: GOST
+  primary: true
+docnumber: '30546.1'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:30546.1:98
+  webpage: https://new-shop.ksm.kz/catalog/document/15470/
+  ics_code: '01.120'
+  pages: '58'
+  designation_original: ГОСТ 30546.1-98

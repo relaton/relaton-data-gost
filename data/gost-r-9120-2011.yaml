@@ -1,0 +1,49 @@
+---
+id: GOST-R-9120-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы менеджмента качества организаций авиационной, космической и оборонных
+    отраслей промышленности. Требования к дистрибьюторам продукции
+  type: main
+docidentifier:
+- content: GOST R 9120-2011
+  type: GOST
+  primary: true
+docnumber: '9120'
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9120:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/51395/
+  ics_code: 03.120.10
+  pages: '32'
+  designation_original: ГОСТ Р ЕН 9120-2011

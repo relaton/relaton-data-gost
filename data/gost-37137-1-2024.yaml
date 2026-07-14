@@ -1,0 +1,49 @@
+---
+id: GOST-37137-1-2024
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские. Оценка биологического действия рассасывающихся медицинских
+    изделий. Часть 1. Общие требования
+  type: main
+docidentifier:
+- content: GOST 37137-1-2024
+  type: GOST
+  primary: true
+docnumber: 37137-1
+date:
+- type: published
+  from: '2024-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2024'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:37137-1:2024
+  webpage: https://new-shop.ksm.kz/catalog/document/75923/
+  ics_code: '11.020'
+  pages: '19'
+  designation_original: ГОСТ ISO/TS 37137-1-2024

@@ -1,0 +1,50 @@
+---
+id: GOST-R-50345-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Аппаратура малогабаритная электрическая. Автоматические выключатели для
+    защиты от сверхтоков бытового и аналогичного назначения. Часть 1. Автоматические
+    выключатели для переменного тока
+  type: main
+docidentifier:
+- content: GOST R 50345-2010
+  type: GOST
+  primary: true
+docnumber: '50345'
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:50345:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/23728/
+  ics_code: 29.120.50
+  pages: '110'
+  designation_original: ГОСТ Р 50345-2010 (МЭК 60898-1:2003)

@@ -1,0 +1,48 @@
+---
+id: GOST-R-53434-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Принципы надлежащей лабораторной практики
+  type: main
+docidentifier:
+- content: GOST R 53434-2009
+  type: GOST
+  primary: true
+docnumber: '53434'
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:53434:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/42778/
+  ics_code: '19.020'
+  pages: '16'
+  designation_original: ГОСТ Р 53434-2009

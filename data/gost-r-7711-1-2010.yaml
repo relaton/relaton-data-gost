@@ -1,0 +1,49 @@
+---
+id: GOST-R-7711-1-2010
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Инструменты стоматологические вращающиеся. Инструменты алмазные. Часть
+    1. Требования, размеры, маркировка и упаковка
+  type: main
+docidentifier:
+- content: GOST R 7711-1-2010
+  type: GOST
+  primary: true
+docnumber: 7711-1
+date:
+- type: published
+  from: '2010-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2010'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:7711-1:2010
+  webpage: https://new-shop.ksm.kz/catalog/document/52027/
+  ics_code: 11.060.20
+  pages: '40'
+  designation_original: ГОСТ Р ИСО 7711-1-2010

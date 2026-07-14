@@ -1,0 +1,50 @@
+---
+id: GOST-27580-88
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Дуговая сварка алюминия и алюминиевых сплавов в инертных газах. Соединения
+    сварные под острыми и тупыми углами. Основные типы, конструктивные элементы и
+    размеры
+  type: main
+docidentifier:
+- content: GOST 27580-88
+  type: GOST
+  primary: true
+docnumber: '27580'
+date:
+- type: published
+  from: '1988-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1988'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:27580:88
+  webpage: https://new-shop.ksm.kz/catalog/document/22690/
+  ics_code: 25.160.40
+  pages: '38'
+  designation_original: ГОСТ 27580-88

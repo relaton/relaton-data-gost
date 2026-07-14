@@ -1,0 +1,50 @@
+---
+id: GOST-R-898-7-2009
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Механические свойства крепежных изделий из углеродистой и легированной
+    стали. Часть 7. Испытание на кручение и минимальные крутящие моменты для болтов
+    и винтов номинальных диаметров от 1 до 10 мм
+  type: main
+docidentifier:
+- content: GOST R 898-7-2009
+  type: GOST
+  primary: true
+docnumber: 898-7
+date:
+- type: published
+  from: '2009-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2009'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:898-7:2009
+  webpage: https://new-shop.ksm.kz/catalog/document/45229/
+  ics_code: 21.060.10
+  pages: '12'
+  designation_original: ГОСТ Р ИСО 898-7-2009

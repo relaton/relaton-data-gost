@@ -1,0 +1,49 @@
+---
+id: GOST-R-9066-2-93
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы обработки информации. Передача текста. Надежная передача. Часть
+    2. Спецификация протокола
+  type: main
+docidentifier:
+- content: GOST R 9066-2-93
+  type: GOST
+  primary: true
+docnumber: 9066-2
+date:
+- type: published
+  from: '1993-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1993'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:9066-2:93
+  webpage: https://new-shop.ksm.kz/catalog/document/25259/
+  ics_code: 35.240.20
+  pages: '88'
+  designation_original: ГОСТ Р ИСО/МЭК 9066-2-93

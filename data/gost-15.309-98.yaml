@@ -1,0 +1,49 @@
+---
+id: GOST-15.309-98
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Системы разработки и постановки продукции на производство. Испытания и
+    приемка выпускаемой продукции. Основные положения
+  type: main
+docidentifier:
+- content: GOST 15.309-98
+  type: GOST
+  primary: true
+docnumber: '15.309'
+date:
+- type: published
+  from: '1998-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1998'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:15.309:98
+  webpage: https://new-shop.ksm.kz/catalog/document/15990/
+  ics_code: 03.100.50
+  pages: '16'
+  designation_original: ГОСТ 15.309-98

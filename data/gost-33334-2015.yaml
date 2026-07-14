@@ -1,0 +1,49 @@
+---
+id: GOST-33334-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Добавки пищевые. Комплексонометрический метод определения массовой доли
+    основного вещества в пищевой добавке глюконат кальция Е578
+  type: main
+docidentifier:
+- content: GOST 33334-2015
+  type: GOST
+  primary: true
+docnumber: '33334'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:33334:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62663/
+  ics_code: 67.220.20
+  pages: '12'
+  designation_original: ГОСТ 33334-2015

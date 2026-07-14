@@ -1,0 +1,49 @@
+---
+id: GOST-61010-2-201-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: БЕЗОПАСНОСТЬ ЭЛЕКТРИЧЕСКИХ КОНТРОЛЬНО- ИЗМЕРИТЕЛЬНЫХ ПРИБОРОВ И ЛАБОРАТОРНОГО  ОБОРУДОВАНИЯ  Часть
+    2-201  ЧАСТНЫЕ ТРЕБОВАНИЯ К ПРИБОРАМ КОНТРОЛЯ
+  type: main
+docidentifier:
+- content: GOST 61010-2-201-2017
+  type: GOST
+  primary: true
+docnumber: 61010-2-201
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61010-2-201:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/70245/
+  ics_code: '13.110'
+  pages: '61'
+  designation_original: ГОСТ IEC 61010-2-201-2017

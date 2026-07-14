@@ -1,0 +1,49 @@
+---
+id: GOST-28723-90
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Расходомеры скоростные, электромагнитные и вихревые. Общие технические
+    требования и методы испытаний
+  type: main
+docidentifier:
+- content: GOST 28723-90
+  type: GOST
+  primary: true
+docnumber: '28723'
+date:
+- type: published
+  from: '1990-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1990'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:28723:90
+  webpage: https://new-shop.ksm.kz/catalog/document/18621/
+  ics_code: '17.120'
+  pages: '10'
+  designation_original: ГОСТ 28723-90

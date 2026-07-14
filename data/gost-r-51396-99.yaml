@@ -1,0 +1,49 @@
+---
+id: GOST-R-51396-99
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Проволока из специальных сплавов для соединительных силовых и вживляемых
+    элементов изделий для костей организма. Общие технические условия
+  type: main
+docidentifier:
+- content: GOST R 51396-99
+  type: GOST
+  primary: true
+docnumber: '51396'
+date:
+- type: published
+  from: '1999-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1999'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51396:99
+  webpage: https://new-shop.ksm.kz/catalog/document/16675/
+  ics_code: 77.140.20
+  pages: '7'
+  designation_original: ГОСТ Р 51396-99

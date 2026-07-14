@@ -1,0 +1,49 @@
+---
+id: GOST-32576.1-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Краны грузоподъемные. Средства доступа, ограждения и защиты. Часть 1. Общие
+    положения
+  type: main
+docidentifier:
+- content: GOST 32576.1-2015
+  type: GOST
+  primary: true
+docnumber: '32576.1'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32576.1:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/64705/
+  ics_code: 53.020.20
+  pages: '25'
+  designation_original: ГОСТ 32576.1-2015

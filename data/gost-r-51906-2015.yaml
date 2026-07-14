@@ -1,0 +1,49 @@
+---
+id: GOST-R-51906-2015
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Соединения резьбовые обсадных, насосно-компрессорных труб, труб для трубопроводов
+    и резьбовые калибры для них. Общие технические требования
+  type: main
+docidentifier:
+- content: GOST R 51906-2015
+  type: GOST
+  primary: true
+docnumber: '51906'
+date:
+- type: published
+  from: '2015-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2015'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:51906:2015
+  webpage: https://new-shop.ksm.kz/catalog/document/62888/
+  ics_code: 75.180.99
+  pages: '58'
+  designation_original: ГОСТ Р 51906-2015

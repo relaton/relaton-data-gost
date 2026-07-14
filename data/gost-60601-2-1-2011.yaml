@@ -1,0 +1,49 @@
+---
+id: GOST-60601-2-1-2011
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 2-1. Частные требования безопасности
+    к медицинским ускорителям электронов в диапазоне от 1 до 50 МэВ
+  type: main
+docidentifier:
+- content: GOST 60601-2-1-2011
+  type: GOST
+  primary: true
+docnumber: 60601-2-1
+date:
+- type: published
+  from: '2011-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2011'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:60601-2-1:2011
+  webpage: https://new-shop.ksm.kz/catalog/document/52245/
+  ics_code: 11.040.50
+  pages: '134'
+  designation_original: ГОСТ IEC 60601-2-1-2011

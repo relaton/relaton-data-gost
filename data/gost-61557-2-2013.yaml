@@ -1,0 +1,50 @@
+---
+id: GOST-61557-2-2013
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Сети электрические распределительные низковольтные напряжением до 1000
+    В переменного тока и 1500 В постоянного тока. Электробезопасность. Аппаратура
+    для испытаний, измерений или контроля средств защиты. Часть 2. Сопротивление изоляции
+  type: main
+docidentifier:
+- content: GOST 61557-2-2013
+  type: GOST
+  primary: true
+docnumber: 61557-2
+date:
+- type: published
+  from: '2013-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2013'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:61557-2:2013
+  webpage: https://new-shop.ksm.kz/catalog/document/57815/
+  ics_code: 17.220.20
+  pages: '12'
+  designation_original: ГОСТ IEC 61557-2-2013

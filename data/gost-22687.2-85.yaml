@@ -1,0 +1,49 @@
+---
+id: GOST-22687.2-85
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Стойки цилиндрические железобетонные центрифугированные для опор высоковольтных
+    линий электропередачи. Конструкция и размеры
+  type: main
+docidentifier:
+- content: GOST 22687.2-85
+  type: GOST
+  primary: true
+docnumber: '22687.2'
+date:
+- type: published
+  from: '1985-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1985'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:22687.2:85
+  webpage: https://new-shop.ksm.kz/catalog/document/35261/
+  ics_code: 91.080.40
+  pages: '39'
+  designation_original: ГОСТ 22687.2-85

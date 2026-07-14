@@ -1,0 +1,48 @@
+---
+id: GOST-938.7-68
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кожа. Метод определения содержания азота
+  type: main
+docidentifier:
+- content: GOST 938.7-68
+  type: GOST
+  primary: true
+docnumber: '938.7'
+date:
+- type: published
+  from: '1968-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1968'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:938.7:68
+  webpage: https://new-shop.ksm.kz/catalog/document/26584/
+  ics_code: 59.140.30
+  pages: '7'
+  designation_original: ГОСТ 938.7-68

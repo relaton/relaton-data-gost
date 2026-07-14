@@ -1,0 +1,48 @@
+---
+id: GOST-32594-2025
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Лесоматериалы круглые. Методы определения объема
+  type: main
+docidentifier:
+- content: GOST 32594-2025
+  type: GOST
+  primary: true
+docnumber: '32594'
+date:
+- type: published
+  from: '2025-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: adopted-pending
+copyright:
+- from: '2025'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:32594:2025
+  webpage: https://new-shop.ksm.kz/catalog/document/77064/
+  ics_code: '79.040'
+  pages: '38'
+  designation_original: ГОСТ 32594-2025

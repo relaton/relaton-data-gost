@@ -1,0 +1,49 @@
+---
+id: GOST-R-60601-2-43-2008
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Изделия медицинские электрические. Часть 2-43. Частные требования безопасности
+    к рентгеновским аппаратам для интервенционных процедур
+  type: main
+docidentifier:
+- content: GOST R 60601-2-43-2008
+  type: GOST
+  primary: true
+docnumber: 60601-2-43
+date:
+- type: published
+  from: '2008-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2008'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:60601-2-43:2008
+  webpage: https://new-shop.ksm.kz/catalog/document/41096/
+  ics_code: '11.040'
+  pages: '32'
+  designation_original: ГОСТ Р МЭК 60601-2-43-2008

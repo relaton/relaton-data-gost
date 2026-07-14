@@ -1,0 +1,50 @@
+---
+id: GOST-R-13617-4-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Станции топливозаправочные. Часть 4. Требования безопасности к конструкции
+    и рабочим характеристикам поворотных муфт, применяемых в дозировочных насосах
+    и топливораздаточных устройствах
+  type: main
+docidentifier:
+- content: GOST R 13617-4-2012
+  type: GOST
+  primary: true
+docnumber: 13617-4
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:13617-4:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/58218/
+  ics_code: 29.260.20
+  pages: '16'
+  designation_original: ГОСТ Р ЕН 13617-4-2012

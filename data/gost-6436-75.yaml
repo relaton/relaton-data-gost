@@ -1,0 +1,49 @@
+---
+id: GOST-6436-75
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Кабели для сигнализации и блокировки с полиэтиленовой изоляцией в пластмассовой
+    оболочке. Технические условия
+  type: main
+docidentifier:
+- content: GOST 6436-75
+  type: GOST
+  primary: true
+docnumber: '6436'
+date:
+- type: published
+  from: '1975-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1975'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:6436:75
+  webpage: https://new-shop.ksm.kz/catalog/document/42450/
+  ics_code: 29.060.20
+  pages: '19'
+  designation_original: ГОСТ 6436-75

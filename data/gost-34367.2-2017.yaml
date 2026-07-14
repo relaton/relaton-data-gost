@@ -1,0 +1,49 @@
+---
+id: GOST-34367.2-2017
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Композиты полимерные. Сбор и представление сопоставимых численных данных
+    о свойствах композитов, армированных непрерывными волокнами
+  type: main
+docidentifier:
+- content: GOST 34367.2-2017
+  type: GOST
+  primary: true
+docnumber: '34367.2'
+date:
+- type: published
+  from: '2017-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2017'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:34367.2:2017
+  webpage: https://new-shop.ksm.kz/catalog/document/68566/
+  ics_code: '83.120'
+  pages: '41'
+  designation_original: ГОСТ 34367.2-2017 (ISO 10350-2:2011)

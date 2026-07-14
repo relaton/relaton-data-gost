@@ -1,0 +1,48 @@
+---
+id: GOST-R-54917-2012
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Цепи роликовые длиннозвенные и звездочки для приводов и конвейеров
+  type: main
+docidentifier:
+- content: GOST R 54917-2012
+  type: GOST
+  primary: true
+docnumber: '54917'
+date:
+- type: published
+  from: '2012-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '2012'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: national
+  flavor: gost
+  urn: urn:gost:std:r:54917:2012
+  webpage: https://new-shop.ksm.kz/catalog/document/52134/
+  ics_code: 21.220.30
+  pages: '28'
+  designation_original: ГОСТ Р 54917-2012 (ИСО 1275:2006)

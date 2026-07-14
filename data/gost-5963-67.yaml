@@ -1,0 +1,48 @@
+---
+id: GOST-5963-67
+schema_version: v1.5.6
+type: standard
+title:
+- language: rus
+  content: Спирт этиловый питьевой 95 %-ный. Технические условия
+  type: main
+docidentifier:
+- content: GOST 5963-67
+  type: GOST
+  primary: true
+docnumber: '5963'
+date:
+- type: published
+  from: '1967-01-01'
+contributor:
+- role:
+  - type: publisher
+  organization:
+    name:
+    - content: Federal Agency on Technical Regulating and Metrology
+    abbreviation:
+      content: GOST
+language:
+- rus
+script:
+- Cyrl
+status:
+  stage:
+    content: active
+copyright:
+- from: '1967'
+  owner:
+  - organization:
+      name:
+      - content: Federal Agency on Technical Regulating and Metrology
+      abbreviation:
+        content: GOST
+ext:
+  doctype:
+    content: interstate
+  flavor: gost
+  urn: urn:gost:std:5963:67
+  webpage: https://new-shop.ksm.kz/catalog/document/43213/
+  ics_code: 67.160.10
+  pages: '6'
+  designation_original: ГОСТ 5963-67
