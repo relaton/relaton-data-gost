@@ -16,10 +16,10 @@ gem "relaton",
 
 # pubid v2 (with GOST support) parses primary docids into structured
 # identifiers for the pubid_class-based index-v2.yaml. Pinned to the
-# feat/gost-flavor branch in metanorma/pubid#108 until that PR merges.
+# rt-new-lutaml-model branch (where metanorma/pubid#108 merged).
 gem "pubid",
     git: "https://github.com/metanorma/pubid.git",
-    branch: "feat/gost-flavor"
+    branch: "rt-new-lutaml-model"
 
 gem "thor",              "~> 1.3"
 gem "nokogiri"
