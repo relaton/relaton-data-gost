@@ -4,7 +4,9 @@ Gemfile.lock
 .bundle/
 .omo/
 tmp/
-sources/
+# Anchored: the cloned-source cache is the one at the repo root. Unanchored,
+# this pattern also matched lib/gost_fetcher/sources/, which is library code.
+/sources/
 pdfs/
 TODO.impl/
 spec/examples.txt

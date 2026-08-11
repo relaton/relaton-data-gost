@@ -1,0 +1,53 @@
+name: Deploy
+
+on:
+  push:
+    # Include v2: many relaton-data-* repos moved their default branch to v2.
+    # This one is still on main; the reusable data-deploy.yml gates publication
+    # on the repo's actual default branch, so listing all three is safe.
+    branches: [ master, main, v2 ]
+  schedule:
+  - cron: '0 15 * * *'   # an hour after crawler.yml's 14:00 UTC run
+  workflow_dispatch:
+
+# Neither `pull_request:` nor `tags: [ v* ]`, which the sibling callers carry:
+# data/ holds tens of thousands of documents, and the reusable workflow's
+# deploy job runs only when the ref is the repo's default *branch*. A PR or a
+# release tag would therefore pay for the whole build — checkout of relaton,
+# npm ci + frontend compile, a full `relaton index` over data/ — and then skip
+# publication unconditionally.
+
+# Pages allows one in-flight deployment at a time. crawler.yml's 14:00 UTC run
+# pushes to main (firing this workflow), the 15:00 cron follows an hour later,
+# and workflow_dispatch can land at any moment; without a group, two overlapping
+# runs make one fail with "another deployment is currently in progress".
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  # No `title:` input below — the shared workflow derives "<FLAVOR> Index" from
+  # the repo name, giving "GOST Index", which is what relaton/support's
+  # data-index config sets. Only pass `title:` if that derivation is ever wrong.
+  deploy:
+    uses: relaton/support/.github/workflows/data-deploy.yml@main
+    with:
+      # TEMPORARY PIN — remove this line once relaton-cli ships `index` as a gem.
+      #
+      # The shared workflow builds the Pages index with `relaton index`
+      # (relaton/relaton#83, relaton/support#58) and defaults to `source: gem`,
+      # i.e. `gem install relaton-cli`. No published relaton-cli has the `index`
+      # command yet: the latest stable is 2.1.2, and even the 3.0.0.pre.alpha.1
+      # prerelease predates it. The default mode therefore fails with
+      # `Could not find command "index"`.
+      #
+      # `source: git` instead builds relaton + relaton-cli from a GitHub
+      # checkout (and compiles the Vue frontend with Node). We pass no
+      # `relaton-repo`/`relaton-ref`, so it uses the shared workflow's defaults,
+      # relaton/relaton@main — note the daily cron then tracks a moving upstream.
+      source: git
+      # Branding from relaton/support's data-index/generated/gost_config.yml
+      # (relaton#96 added --favicon/--description; relaton/support#59 forwards
+      # them as workflow inputs).
+      favicon: "https://www.relaton.org/favicon.ico"
+      description: "Welcome to the GOST standards index site!"

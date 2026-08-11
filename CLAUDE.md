@@ -51,7 +51,9 @@ hash with the keys accepted by `GostFetcher::SourceEntry.new`.
 
 ```
 data/                     # YAML per GOST standard (e.g. gost-r-34.12-2015.yaml)
-Gemfile                   # psych pin + relaton + pubid (feat branches)
+Gemfile                   # psych pin + relaton + pubid (git main)
+.github/workflows/
+  deploy.yml              # GitHub Pages index build (relaton/support caller)
 crawler.rb                # entry point → GostFetcher::Indexer.build
 check_data.rb             # round-trip validator, exit 1 on mismatch
 exe/gost-fetch            # binstub ($LOAD_PATH + require "gost_fetcher")
@@ -72,7 +74,8 @@ lib/gost_fetcher/
   indexer.rb              # GostFetcher::Indexer.build (clean-rebuild v1 + v2)
   scrape.rb               # Thor subclass (fetch + index tasks)
 spec/gost_fetcher/        # rspec specs (no doubles — real instances)
-sources/                  # gitignored — future cloned-source cache
+spec/deploy_workflow_spec.rb  # guards the deploy.yml caller contract
+sources/                  # gitignored (anchored /sources/) — cloned-source cache
 pdfs/                     # gitignored PDF cache
 pdfs/ocr-cache/           # gitignored OCR markdown cache
 index-v1.yaml             # generated, committed (flat string docid index)
@@ -107,12 +110,12 @@ source. Each entry knows how to build its own Docid via `#to_docid`
 | Repo | Path | Branch base | Adds |
 |------|------|-------------|------|
 | `relaton-data-gost` (here) | `src/relaton/relaton-data-gost` | `main` | Scraper, `data/*.yaml`, indexes |
-| `relaton` (unified gem) | `src/relaton/relaton` | `feat/gost-flavor` PR [relaton/relaton#57](https://github.com/relaton/relaton/pull/57) | `lib/relaton/gost/*` inside the unified gem |
-| `pubid` | `src/mn/pubid` | `feat/gost-flavor` PR [metanorma/pubid#108](https://github.com/metanorma/pubid/pull/108) | `lib/pubid/gost/*` (Standard identifier) |
+| `relaton` (unified gem) | `src/relaton/relaton` | `main` (merged via PR [relaton/relaton#57](https://github.com/relaton/relaton/pull/57)) | `lib/relaton/gost/*` inside the unified gem |
+| `pubid` | `src/mn/pubid` | `main` (merged via PR [metanorma/pubid#108](https://github.com/metanorma/pubid/pull/108)) | `lib/pubid/gost/*` (Standard identifier) |
 
-Until both PRs merge, this repo's `Gemfile` pins both via
-`git: ... branch:` against the feature branches. Flip both back to
-`main` once they merge.
+Both flavor PRs have merged, so the `Gemfile` tracks `main` for
+`relaton` and `pubid`. Neither feature branch exists any more — a stale
+`branch:` pin makes `bundle install` fail outright.
 
 ## Commands
 
@@ -141,23 +144,51 @@ source. Exit 1 on any byte mismatch. GOST `ext` fields round-trip
 natively because they're typed on `Relaton::Gost::Ext` — **no merge
 hack**.
 
+## GitHub Pages
+
+`.github/workflows/deploy.yml` calls the shared reusable workflow
+`relaton/support/.github/workflows/data-deploy.yml@main`, which runs
+`relaton index` over `data/` and publishes a self-contained,
+crawler-indexable site to Pages (relaton/relaton#83). There is no
+Jekyll, no `_config.yml`, no `Gemfile.deploy`.
+
+- `source: git` is a **temporary pin** — no released relaton-cli ships
+  the `index` command yet, so the default `source: gem` would fail.
+  Drop the input once one does.
+- Branding (`favicon`, `description`) came from
+  `relaton/support/data-index/generated/gost_config.yml`. The page
+  title is derived from the repo name (`GOST Index`), so no `title:`.
+- `relaton index` reads `data/` directly and never touches
+  `index-v1.yaml` / `index-v2.yaml` — **keep those anyway**, relaton
+  fetchers and other consumers still read them.
+- Pages must be enabled once per repo: **Settings → Pages → Source:
+  GitHub Actions**.
+- Triggers deviate from the sibling callers on purpose: no
+  `pull_request:` and no `tags: [ v* ]`, because the shared workflow
+  publishes only when the ref is the default *branch* — either trigger
+  would pay for the full build and then skip the deploy. A
+  `concurrency: pages` group serialises the cron, the crawler's push
+  and manual dispatches, which Pages would otherwise reject.
+
+`spec/deploy_workflow_spec.rb` parses the workflow and pins that
+contract (shared-workflow ref, declared input names, triggers).
+
 ## Gemfile (template)
 
 ```ruby
 gem "psych", "~> 5.2.6"
 gem "relaton", git: "https://github.com/relaton/relaton.git", branch: "main"
 gem "pubid",   git: "https://github.com/metanorma/pubid.git",
-               branch: "rt-new-lutaml-model"
+               branch: "main"
 gem "thor", "~> 1.3"
 gem "nokogiri"
 gem "net-http-persistent"
 gem "activesupport", require: false
 ```
 
-While the `Relaton::Gost` flavor PR (relaton/relaton#57) and the GOST
-`pubid` flavor (metanorma/pubid#108) are still in flight, the actual
-Gemfile uses `branch: "feat/gost-flavor"`. HTTPS git sources so the
-GH Action can clone anonymously once both merge.
+Both flavor PRs (relaton/relaton#57, metanorma/pubid#108) have merged,
+so both pins track `main`. HTTPS git sources so the GH Action can
+clone anonymously.
 
 ## Conventions
 
