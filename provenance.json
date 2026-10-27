@@ -1,0 +1,9 @@
+{
+  "repository": "relaton/relaton-data-gost",
+  "workflow": "Crawler",
+  "run_id": "40567051658",
+  "run_attempt": "1",
+  "source_revision": "870bf342f66f5c4af46ffe12538a04a5ab261873",
+  "crawler": "bundle exec ruby crawler.rb",
+  "crawled_at": "2026-10-27T19:15:42Z"
+}
