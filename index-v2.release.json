@@ -1,11 +1,11 @@
 {
   "version": 1,
   "index": "index-v2",
-  "sha256": "07ef72fffc8135e1d840f940e240503b4e94f04ebf3a8edc8433dd9dccbd241e",
-  "bytes": 400,
-  "count": 13,
-  "generated": "2026-10-27T19:16:10Z",
-  "source_revision": "870bf342f66f5c4af46ffe12538a04a5ab261873",
-  "run_id": "40567051658",
+  "sha256": "c1bede1c12a10b8ad5ec6204c16ec4389dc3d0c4ff007b745183f0949aa2902b",
+  "bytes": 291157,
+  "count": 37508,
+  "generated": "2026-10-28T19:22:05Z",
+  "source_revision": "f2d0b5b6209da01c03d41651e14f46a9b9ed91f3",
+  "run_id": "40753201117",
   "repository": "relaton/relaton-data-gost"
 }
